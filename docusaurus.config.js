@@ -29,8 +29,7 @@ const config = {
         docs: {
           routeBasePath: "/",
           sidebarPath: "./sidebars.js",
-          editUrl:
-            "https://github.com/jameslawler/notes/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/jameslawler/notes/tree/master/",
         },
         blog: false,
         theme: {
