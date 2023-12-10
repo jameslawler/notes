@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Demonstrative Pronouns
+# Demonstrative Pronouns (this, that, those ...)
 
 These pronouns are used to identify a particular person / object relative to the speaker, listener, or others. In English it is like _this house_, _that car_, etc.
 

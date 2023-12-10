@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Reflexive Verbs
+# Reflexive Verbs (myself, yourself, ...)
 
 Reflexive verbs are used when the verb is acting on itself. In English this would done with the words _myself_, _yourself_, _himself_, _ourselves_, and _themselves_.
 
