@@ -24,7 +24,7 @@ Use this style of talking / writing at the start of learning the language when y
 | nós             | estamos     |
 | eles/elas/vocês | estão       |
 
-**Examples**
+## Examples
 
 - eu estou a comer pizza = _I am eating pizza_
 - tu estás a beber cola = _You are drinking cola_
