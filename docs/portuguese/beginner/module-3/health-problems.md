@@ -28,3 +28,5 @@ Questions and responses about health issues.
 | Estou com febre         | I have a fever        |
 | Estou constipado        | I have a cold         |
 |                         |                       |
+
+## Verb doer
