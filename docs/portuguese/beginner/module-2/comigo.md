@@ -8,15 +8,15 @@ sidebar_position: 3
 
 ## Contractions
 
-| Pronoun   | Contraction         |
-| --------- | ------------------- |
-| eu        | comigo              |
-| tu        | contigo             |
-| ele/ela   | com ele / com ela   |
-| você      | consigo             |
-| nós       | connosco            |
-| eles/elas | com eles / com elas |
-| vocês     | convosco            |
+| Pronoun      | Contraction         |
+| ------------ | ------------------- |
+| eu           | comigo              |
+| tu           | contigo             |
+| ele/ela/você | com ele / com ela   |
+| você         | consigo             |
+| nós          | connosco            |
+| eles/elas    | com eles / com elas |
+| vocês        | convosco            |
 
 ## Examples
 
