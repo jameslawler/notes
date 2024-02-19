@@ -6,6 +6,18 @@ sidebar_position: 10
 
 The Portuguese verb "dizer" translates to "to say" or "to tell" in English.
 
+## Conjugations
+
+|                 | Past       | Present | Future    |
+| --------------- | ---------- | ------- | --------- |
+| eu              | _disse_    | _digo_  | _direi_   |
+| tu              | _disseste_ | dizes   | _dirás_   |
+| ele/ela/você    | _disse_    | _diz_   | _dirá_    |
+| nós             | _dissemos_ | dizemos | _diremos_ |
+| eles/elas/vocês | _disseram_ | dizem   | _dirão_   |
+
+## Daily Usages
+
 1. Expressing Speech:
 
 Use "dizer" when you want to talk about speaking words out loud.
@@ -25,26 +37,6 @@ Example: "Nós dizemos que vai chover amanhã." (We say it's going to rain tomor
 
 It's used to express thoughts, beliefs, or making statements.
 Example: "Ele diz que acredita no trabalho árduo." (He says he believes in hard work.)
-
-## Remember
-
-"Dizer" is a fundamental verb for expressing spoken words, reporting speech, giving information, and conveying thoughts verbally.
-
-## Examples
-
-"Eles dizem que o filme é ótimo." (They say the movie is great.)
-"O professor disse que a prova será difícil." (The teacher said the test will be difficult.)
-"Ela diz sempre a verdade." (She always says the truth.)
-
-## Conjugations
-
-|                 | Past       | Present | Future    |
-| --------------- | ---------- | ------- | --------- |
-| eu              | _disse_    | _digo_  | _direi_   |
-| tu              | _disseste_ | dizes   | _dirás_   |
-| ele/ela/você    | _disse_    | _diz_   | _dirá_    |
-| nós             | _dissemos_ | dizemos | _diremos_ |
-| eles/elas/vocês | _disseram_ | dizem   | _dirão_   |
 
 ## Exercises
 

@@ -6,6 +6,18 @@ sidebar_position: 6
 
 The Portuguese verb "vir" means "to come" in English.
 
+## Conjugations
+
+|                 | Past     | Present | Future  |
+| --------------- | -------- | ------- | ------- |
+| eu              | _vim_    | _venho_ | virei   |
+| tu              | _vieste_ | _vens_  | virás   |
+| ele/ela/você    | _veio_   | _vem_   | virá    |
+| nós             | _viemos_ | _vimos_ | viremos |
+| eles/elas/vocês | _vieram_ | _vêm_   | virão   |
+
+# Daily Usages
+
 1. Movement Toward the Speaker:
 
 Use "vir" when talking about someone or something coming toward the speaker.
@@ -23,27 +35,6 @@ Example: "Essa receita vem da minha avó." (This recipe comes from my grandmothe
 Use "vir" to indicate future plans or events, similar to "ir" (to go).
 Example: "Eles vêm jantar conosco amanhã." (They are coming to have dinner with us tomorrow.)
 Example: "O concerto vem sendo anunciado há semanas." (The concert has been announced for weeks.)
-
-## Remember
-
-"Vir" is used to describe the action of coming toward the speaker or to express origin, birthplace, and future plans.
-It is often used in combination with prepositions to indicate direction.
-
-## Examples
-
-"Ele vem para a festa connosco." (He is coming to the party with us.)
-"A inspiração para este projeto veio de uma viagem." (The inspiration for this project came from a trip.)
-"Eles vêm para a conferência na próxima semana." (They are coming to the conference next week.)
-
-## Conjugations
-
-|                 | Past     | Present | Future  |
-| --------------- | -------- | ------- | ------- |
-| eu              | _vim_    | _venho_ | virei   |
-| tu              | _vieste_ | _vens_  | virás   |
-| ele/ela/você    | _veio_   | _vem_   | virá    |
-| nós             | _viemos_ | _vimos_ | viremos |
-| eles/elas/vocês | _vieram_ | _vêm_   | virão   |
 
 ## Exercises
 

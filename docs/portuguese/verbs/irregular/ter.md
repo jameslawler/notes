@@ -6,6 +6,18 @@ sidebar_position: 3
 
 The Portuguese verb "ter" means "to have" in English.
 
+## Conjugations
+
+|                 | Past      | Present | Future  |
+| --------------- | --------- | ------- | ------- |
+| eu              | _tive_    | _tenho_ | terei   |
+| tu              | _tiveste_ | _tens_  | terás   |
+| ele/ela/você    | _teve_    | _tem_   | terá    |
+| nós             | _tivemos_ | _temos_ | teremos |
+| eles/elas/vocês | _tiveram_ | _têm_   | terão   |
+
+## Daily Usages
+
 1. Possession:
 
 Use "ter" to express ownership or possession of something.
@@ -29,22 +41,6 @@ Example: "A menina tem seis anos." (The girl is six years old.)
 Use "ter" in some expressions of time.
 Example: "Nós temos tempo." (We have time.)
 Example: "Eles têm uma reunião às 3 da tarde." (They have a meeting at 3 PM.)
-
-## Examples
-
-"Eu tenho um gato." (I have a cat.)
-"Nós temos uma casa nova." (We have a new house.)
-"Ela tem dois irmãos mais velhos." (She has two older brothers.)
-
-## Conjugations
-
-|                 | Past      | Present | Future  |
-| --------------- | --------- | ------- | ------- |
-| eu              | _tive_    | _tenho_ | terei   |
-| tu              | _tiveste_ | _tens_  | terás   |
-| ele/ela/você    | _teve_    | _tem_   | terá    |
-| nós             | _tivemos_ | _temos_ | teremos |
-| eles/elas/vocês | _tiveram_ | _têm_   | terão   |
 
 ## Exercises
 

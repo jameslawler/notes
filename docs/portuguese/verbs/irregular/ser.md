@@ -6,6 +6,18 @@ sidebar_position: 1
 
 The Portuguese verb "ser" means "to be" in English. It is one of the two main verbs used to express existence, identity, or characteristics.
 
+## Conjugations
+
+|                 | Past    | Present | Future  |
+| --------------- | ------- | ------- | ------- |
+| eu              | _fui_   | _sou_   | serei   |
+| tu              | _foste_ | _és_    | serás   |
+| ele/ela/você    | _foi_   | _é_     | será    |
+| nós             | _fomos_ | _somos_ | seremos |
+| eles/elas/vocês | _foram_ | _são_   | serão   |
+
+## Daily Usages
+
 1. Identity and Characteristics:
 
 Use "ser" to talk about who someone is or the essential qualities of something.
@@ -35,16 +47,6 @@ Example: "O meu aniversário é em julho." (My birthday is in July.)
 Use "ser" to describe inherent characteristics of objects.
 Example: "O carro é vermelho." (The car is red.)
 Example: "A casa é grande." (The house is big.)
-
-## Conjugations
-
-|                 | Past    | Present | Future  |
-| --------------- | ------- | ------- | ------- |
-| eu              | _fui_   | _sou_   | serei   |
-| tu              | _foste_ | _és_    | serás   |
-| ele/ela/você    | _foi_   | _é_     | será    |
-| nós             | _fomos_ | _somos_ | seremos |
-| eles/elas/vocês | _foram_ | _são_   | serão   |
 
 ## Exercises
 

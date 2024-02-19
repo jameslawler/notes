@@ -6,6 +6,18 @@ sidebar_position: 8
 
 The Portuguese verb "querer" translates to "to want" or "to wish" in English.
 
+## Conjugations
+
+|                 | Past       | Present  | Future     |
+| --------------- | ---------- | -------- | ---------- |
+| eu              | _quis_     | quero    | quererei   |
+| tu              | _quiseste_ | queres   | quererás   |
+| ele/ela/você    | _quis_     | _quer_   | quererá    |
+| nós             | _quisemos_ | queremos | quereremos |
+| eles/elas/vocês | _quiseram_ | querem   | quererão   |
+
+## Daily Usages
+
 1. Expressing Desires:
 
 Use "querer" when expressing what you want or desire.
@@ -29,27 +41,6 @@ Example: "Eles querem começar um negócio próprio." (They want to start their 
 Use "querer" to express conditional wishes or hypothetical situations.
 Example: "Eu quereria mais tempo para relaxar." (I would want more time to relax.)
 Example: "Ela queria que todos estivessem presentes." (She would want everyone to be present.)
-
-## Remember
-
-"Querer" is a versatile verb used to express personal desires, make requests, indicate intentions, and convey conditional wishes.
-It is often used in everyday situations to express what one wants or wishes for.
-
-## Examples
-
-"Eu quero um livro novo." (I want a new book.)
-"Eles querem jantar fora hoje." (They want to have dinner out today.)
-"Você queria mais informações sobre o curso." (You would want more information about the course.)
-
-## Conjugations
-
-|                 | Past       | Present  | Future     |
-| --------------- | ---------- | -------- | ---------- |
-| eu              | _quis_     | quero    | quererei   |
-| tu              | _quiseste_ | queres   | quererás   |
-| ele/ela/você    | _quis_     | _quer_   | quererá    |
-| nós             | _quisemos_ | queremos | quereremos |
-| eles/elas/vocês | _quiseram_ | querem   | quererão   |
 
 ## Exercises
 

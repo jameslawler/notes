@@ -6,6 +6,18 @@ sidebar_position: 14
 
 The Portuguese verb "sair" translates to "to go out" or "to leave" in English.
 
+## Conjugations
+
+|                 | Past       | Present | Future    |
+| --------------- | ---------- | ------- | --------- |
+| eu              | _soube_    | _sei_   | saberei   |
+| tu              | _soubeste_ | sabes   | saberás   |
+| ele/ela/você    | _soube_    | sabe    | saberá    |
+| nós             | _soubemos_ | sabemos | saberemos |
+| eles/elas/vocês | _souberam_ | sabem   | saberão   |
+
+## Daily Usages
+
 1. Leaving a Place:
 
 Use "sair" when you want to talk about leaving or exiting from a specific place.
@@ -25,26 +37,6 @@ Example: "Ela vai sair de casa para ir à escola." (She's going to leave home to
 
 It can indicate an action that results in someone or something leaving.
 Example: "A chuva fez o pássaro sair do ninho." (The rain made the bird leave the nest.)
-
-## Remember
-
-"Sair" is used to express the action of leaving or going out from a specific place, whether it's for leisure, socializing, or departing from a location.
-
-## Examples
-
-"Eles saíram para jantar fora ontem à noite." (They went out for dinner last night.)
-"Eu saio para fazer exercício todas as manhãs." (I go out to exercise every morning.)
-"Ela saiu da sala sem dizer uma palavra." (She left the room without saying a word.)
-
-## Conjugations
-
-|                 | Past   | Present  | Future   |
-| --------------- | ------ | -------- | -------- |
-| eu              | saí    | _saio_   | sairei   |
-| tu              | saíste | _sais_   | sairás   |
-| ele/ela         | saiu   | _sai_    | sairá    |
-| nós             | saímos | _saímos_ | sairemos |
-| eles/elas/vocês | saíram | _saem_   | sairão   |
 
 ## Exercises
 

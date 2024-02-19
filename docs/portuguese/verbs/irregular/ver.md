@@ -6,6 +6,18 @@ sidebar_position: 16
 
 The Portuguese verb "ver" translates to "to see" or "to watch" in English.
 
+## Conjugations
+
+|                 | Past  | Present | Future  |
+| --------------- | ----- | ------- | ------- |
+| Eu              | vi    | _vejo_  | verei   |
+| Tu              | viste | _vês_   | verás   |
+| Ele/Ela         | viu   | _vê_    | verá    |
+| Nós             | vimos | _vemos_ | veremos |
+| Eles/Elas/Vocês | viram | _veem_  | verão   |
+
+## Daily Usages
+
 1. Perception with Eyes:
 
 Use "ver" when you want to talk about the action of perceiving something with your eyes.
@@ -25,26 +37,6 @@ Example: "Ele não consegue ver a diferença entre os dois quadros." (He can't s
 
 It can indicate understanding or realizing something, often figuratively.
 Example: "Eu finalmente consigo ver o que você está tentando dizer." (I finally can see what you're trying to say.)
-
-## Remember
-
-"Ver" is used to describe the act of seeing, watching, observing, noticing, understanding, or realizing something, often through visual perception.
-
-## Examples
-
-"Ela gosta de ver as estrelas à noite." (She likes to see the stars at night.)
-"Nós vamos ver o jogo de futebol no estádio." (We're going to watch the soccer game at the stadium.)
-"Eu não consigo ver nada no escuro." (I can't see anything in the dark.)
-
-## Conjugations
-
-|                 | Past  | Present | Future  |
-| --------------- | ----- | ------- | ------- |
-| Eu              | vi    | _vejo_  | verei   |
-| Tu              | viste | _vês_   | verás   |
-| Ele/Ela         | viu   | _vê_    | verá    |
-| Nós             | vimos | _vemos_ | veremos |
-| Eles/Elas/Vocês | viram | _veem_  | verão   |
 
 ## Exercises
 

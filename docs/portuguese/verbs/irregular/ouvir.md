@@ -6,6 +6,18 @@ sidebar_position: 12
 
 The Portuguese verb "ouvir" translates to "to hear" or "to listen" in English.
 
+## Conjugations
+
+|                 | Past    | Present | Future    |
+| --------------- | ------- | ------- | --------- |
+| eu              | ouvi    | _ouço_  | ouvirei   |
+| tu              | ouviste | ouves   | ouvirás   |
+| ele/ela/você    | ouviu   | ouve    | ouvirá    |
+| nós             | ouvimos | ouvimos | ouviremos |
+| eles/elas/vocês | ouviram | ouvem   | ouvirão   |
+
+## Daily Usages
+
 1. Sensory Perception:
 
 Use "ouvir" when you want to talk about perceiving sounds through your ears.
@@ -26,26 +38,6 @@ Example: "Eu gosto de ouvir atentamente as palestras." (I like to listen attenti
 
 In the context of music, "ouvir" specifically means to listen to music.
 Example: "Eles adoram ouvir bandas novas." (They love to listen to new bands.)
-
-## Remember
-
-"Ouvir" is used in various contexts, from simple hearing to actively listening, and especially in the context of enjoying music.
-
-## Examples
-
-"Você pode ouvir o barulho do mar?" (Can you hear the sound of the sea?)
-"Nós gostamos de ouvir podcasts durante a viagem." (We like to listen to podcasts during the trip.)
-"Ela não quer ouvir desculpas." (She doesn't want to hear apologies.)
-
-## Conjugations
-
-|                 | Past    | Present | Future    |
-| --------------- | ------- | ------- | --------- |
-| eu              | ouvi    | _ouço_  | ouvirei   |
-| tu              | ouviste | ouves   | ouvirás   |
-| ele/ela/você    | ouviu   | ouve    | ouvirá    |
-| nós             | ouvimos | ouvimos | ouviremos |
-| eles/elas/vocês | ouviram | ouvem   | ouvirão   |
 
 ## Exercises
 
