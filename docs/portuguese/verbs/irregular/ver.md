@@ -10,11 +10,11 @@ The Portuguese verb "ver" translates to "to see" or "to watch" in English.
 
 |                 | Past  | Present | Future  |
 | --------------- | ----- | ------- | ------- |
-| Eu              | vi    | _vejo_  | verei   |
-| Tu              | viste | _vês_   | verás   |
-| Ele/Ela         | viu   | _vê_    | verá    |
-| Nós             | vimos | _vemos_ | veremos |
-| Eles/Elas/Vocês | viram | _veem_  | verão   |
+| eu              | vi    | _vejo_  | verei   |
+| tu              | viste | _vês_   | verás   |
+| ele/ela/você    | viu   | _vê_    | verá    |
+| nós             | vimos | _vemos_ | veremos |
+| eles/elas/vocês | viram | _veem_  | verão   |
 
 ## Daily Usages
 
