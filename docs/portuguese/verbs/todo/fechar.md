@@ -13,7 +13,7 @@ The Portuguese verb "fechar" translates to "to close" in English.
 | eu              | fechei   | fecho    | fecharei   |
 | tu              | fechaste | fechas   | fecharás   |
 | ele/ela/você    | fechou   | fecha    | fechará    |
-| nós             | fechamos | fechamos | fecharemos |
+| nós             | fechámos | fechamos | fecharemos |
 | eles/elas/vocês | fecharam | fecham   | fecharão   |
 
 ## Daily Usages

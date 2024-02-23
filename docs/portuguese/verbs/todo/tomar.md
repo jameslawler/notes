@@ -13,7 +13,7 @@ The Portuguese verb "tomar" can mean "to take," "to have," or "to drink" dependi
 | eu              | tomei   | tomo    | tomarei   |
 | tu              | tomaste | tomas   | tomarás   |
 | ele/ela/você    | tomou   | toma    | tomará    |
-| nós             | tomamos | tomamos | tomaremos |
+| nós             | tomámos | tomamos | tomaremos |
 | eles/elas/vocês | tomaram | tomam   | tomarão   |
 
 ## Daily Usages

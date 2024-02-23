@@ -13,7 +13,7 @@ The Portuguese verb "deixar" translates to "to let" or "to allow" in English.
 | eu              | deixei   | deixo    | deixarei   |
 | tu              | deixaste | deixas   | deixarás   |
 | ele/ela/você    | deixou   | deixa    | deixará    |
-| nós             | deixamos | deixamos | deixaremos |
+| nós             | deixámos | deixamos | deixaremos |
 | eles/elas/vocês | deixaram | deixam   | deixarão   |
 
 ## Daily Usages

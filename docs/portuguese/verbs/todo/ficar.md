@@ -13,7 +13,7 @@ The Portuguese verb "ficar" means "to stay" or "to remain" in English.
 | eu              | fiquei  | fico    | ficarei   |
 | tu              | ficaste | ficas   | ficarás   |
 | ele/ela/você    | ficou   | fica    | ficará    |
-| nós             | ficamos | ficamos | ficaremos |
+| nós             | ficámos | ficamos | ficaremos |
 | eles/elas/vocês | ficaram | ficam   | ficarão   |
 
 ## Daily Usages

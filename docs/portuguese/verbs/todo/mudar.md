@@ -13,7 +13,7 @@ The Portuguese verb "mudar" means "to change" or "to move" in English.
 | eu              | mudei   | mudo    | mudarei   |
 | tu              | mudaste | mudas   | mudarás   |
 | ele/ela/você    | mudou   | muda    | mudará    |
-| nós             | mudamos | mudamos | mudaremos |
+| nós             | mudámos | mudamos | mudaremos |
 | eles/elas/vocês | mudaram | mudam   | mudarão   |
 
 ## Daily Usages

@@ -13,7 +13,7 @@ The Portuguese verb "levar" means "to take" or "to bring" in English.
 | eu              | levei   | levo    | levarei   |
 | tu              | levaste | levas   | levarás   |
 | ele/ela/você    | levou   | leva    | levará    |
-| nós             | levamos | levamos | levaremos |
+| nós             | levámos | levamos | levaremos |
 | eles/elas/vocês | levaram | levam   | levarão   |
 
 ## Daily Usages

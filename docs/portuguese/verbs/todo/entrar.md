@@ -13,7 +13,7 @@ The Portuguese verb "entrar" means "to enter" or "to come in" in English.
 | eu              | entrei   | entro    | entrarei   |
 | tu              | entraste | entras   | entrarás   |
 | ele/ela/você    | entrou   | entra    | entrará    |
-| nós             | entramos | entramos | entraremos |
+| nós             | entrámos | entramos | entraremos |
 | eles/elas/vocês | entraram | entram   | entrarão   |
 
 ## Daily Usages

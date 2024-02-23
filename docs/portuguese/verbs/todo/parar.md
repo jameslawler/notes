@@ -13,7 +13,7 @@ The Portuguese verb "parar" means "to stop" in English.
 | eu              | parei   | paro    | pararei   |
 | tu              | paraste | paras   | pararás   |
 | ele/ela/você    | parou   | para    | parará    |
-| nós             | paramos | paramos | pararemos |
+| nós             | parámos | paramos | pararemos |
 | eles/elas/vocês | pararam | param   | pararão   |
 
 ## Daily Usages

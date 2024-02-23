@@ -13,7 +13,7 @@ The Portuguese verb "falar" means "to speak" or "to talk" in English.
 | eu              | falei   | falo    | falarei   |
 | tu              | falaste | falas   | falarás   |
 | ele/ela/você    | falou   | fala    | falará    |
-| nós             | falamos | falamos | falaremos |
+| nós             | falámos | falamos | falaremos |
 | eles/elas/vocês | falaram | falam   | falarão   |
 
 ## Daily Usages

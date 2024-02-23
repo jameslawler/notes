@@ -13,7 +13,7 @@ The Portuguese verb "achar" translates to "to find" or "to think" in English.
 | eu              | achei   | acho    | acharei   |
 | tu              | achaste | achas   | acharás   |
 | ele/ela/você    | achou   | acha    | achará    |
-| nós             | achamos | achamos | acharemos |
+| nós             | achámos | achamos | acharemos |
 | eles/elas/vocês | acharam | acham   | acharão   |
 
 ## Daily Usages

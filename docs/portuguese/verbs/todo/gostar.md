@@ -13,7 +13,7 @@ The Portuguese verb "gostar" means "to like" in English.
 | eu              | gostei   | gosto    | gostarei   |
 | tu              | gostaste | gostas   | gostarás   |
 | ele/ela/você    | gostou   | gosta    | gostará    |
-| nós             | gostamos | gostamos | gostaremos |
+| nós             | gostámos | gostamos | gostaremos |
 | eles/elas/vocês | gostaram | gostam   | gostarão   |
 
 ## Daily Usages

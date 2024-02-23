@@ -10,7 +10,7 @@ The Portuguese verb "haver" means "to have" or "to exist" in English.
 
 |                 | Past     | Present | Future    |
 | --------------- | -------- | ------- | --------- |
-| eu              | houve    | há      | haverá    |
+| eu              | houve    | há      | haverei   |
 | tu              | houveste | há      | haverás   |
 | ele/ela/você    | houve    | há      | haverá    |
 | nós             | houvemos | há      | haveremos |

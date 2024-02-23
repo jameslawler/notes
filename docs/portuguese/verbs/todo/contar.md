@@ -13,7 +13,7 @@ The Portuguese verb "contar" means "to count" or "to tell" in English.
 | eu              | contei   | conto    | contarei   |
 | tu              | contaste | contas   | contarás   |
 | ele/ela/você    | contou   | conta    | contará    |
-| nós             | contamos | contamos | contaremos |
+| nós             | contámos | contamos | contaremos |
 | eles/elas/vocês | contaram | contam   | contarão   |
 
 ## Daily Usages

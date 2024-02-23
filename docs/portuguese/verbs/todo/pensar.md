@@ -13,7 +13,7 @@ The Portuguese verb "pensar" means "to think" or "to consider" in English.
 | eu              | pensei   | penso    | pensarei   |
 | tu              | pensaste | pensas   | pensarás   |
 | ele/ela/você    | pensou   | pensa    | pensará    |
-| nós             | pensamos | pensamos | pensaremos |
+| nós             | pensámos | pensamos | pensaremos |
 | eles/elas/vocês | pensaram | pensam   | pensarão   |
 
 ## Daily Usages

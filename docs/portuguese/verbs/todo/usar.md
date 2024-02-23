@@ -13,7 +13,7 @@ The Portuguese verb "usar" means "to use" in English.
 | eu              | usei   | uso     | usarei   |
 | tu              | usaste | usas    | usarás   |
 | ele/ela/você    | usou   | usa     | usará    |
-| nós             | usamos | usamos  | usaremos |
+| nós             | usámos | usamos  | usaremos |
 | eles/elas/vocês | usaram | usam    | usarão   |
 
 ## Daily Usages

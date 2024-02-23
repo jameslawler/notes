@@ -13,7 +13,7 @@ The Portuguese verb "andar" translates to "to walk" or "to go" in English.
 | eu              | andei   | ando    | andarei   |
 | tu              | andaste | andas   | andarás   |
 | ele/ela/você    | andou   | anda    | andará    |
-| nós             | andamos | andamos | andaremos |
+| nós             | andámos | andamos | andaremos |
 | eles/elas/vocês | andaram | andam   | andarão   |
 
 ## Daily Usages

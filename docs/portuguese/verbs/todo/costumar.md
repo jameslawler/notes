@@ -8,13 +8,13 @@ The Portuguese verb "costumar" translates to "to usually" or "to be accustomed t
 
 ## Conjugations
 
-|                 | Past         | Present    | Future       |
-| --------------- | ------------ | ---------- | ------------ |
-| eu              | costumava    | costumo    | costumarei   |
-| tu              | costumavas   | costumas   | costumarás   |
-| ele/ela/você    | costumava    | costuma    | costumará    |
-| nós             | costumávamos | costumamos | costumaremos |
-| eles/elas/vocês | costumavam   | costumam   | costumarão   |
+|                 | Past       | Present    | Future       |
+| --------------- | ---------- | ---------- | ------------ |
+| eu              | costumei   | costumo    | costumarei   |
+| tu              | costumaste | costumas   | costumarás   |
+| ele/ela/você    | costumou   | costuma    | costumará    |
+| nós             | costumámos | costumamos | costumaremos |
+| eles/elas/vocês | costumaram | costumam   | costumarão   |
 
 ## Daily Usages
 

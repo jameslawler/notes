@@ -8,13 +8,13 @@ The Portuguese verb "dever" means "to owe" or "to must" in English.
 
 ## Conjugations
 
-|                 | Past     | Present | Future    |
-| --------------- | -------- | ------- | --------- |
-| eu              | devia    | devo    | deverei   |
-| tu              | devias   | deves   | deverás   |
-| ele/ela/você    | devia    | deve    | deverá    |
-| nós             | devíamos | devemos | deveremos |
-| eles/elas/vocês | deviam   | devem   | deverão   |
+|                 | Past    | Present | Future    |
+| --------------- | ------- | ------- | --------- |
+| eu              | devi    | devo    | deverei   |
+| tu              | deveste | deves   | deverás   |
+| ele/ela/você    | deveu   | deve    | deverá    |
+| nós             | devemos | devemos | deveremos |
+| eles/elas/vocês | deveram | devem   | deverão   |
 
 ## Daily Usages
 

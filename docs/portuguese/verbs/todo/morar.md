@@ -13,7 +13,7 @@ The Portuguese verb "morar" translates to "to live" or "to reside" in English.
 | eu              | morei   | moro    | morarei   |
 | tu              | moraste | moras   | morarás   |
 | ele/ela/você    | morou   | mora    | morará    |
-| nós             | moramos | moramos | moraremos |
+| nós             | morámos | moramos | moraremos |
 | eles/elas/vocês | moraram | moram   | morarão   |
 
 ## Daily Usages

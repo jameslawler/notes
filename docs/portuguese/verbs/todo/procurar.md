@@ -15,7 +15,7 @@ The Portuguese verb
 | eu              | procurei   | procuro    | procurarei   |
 | tu              | procuraste | procuras   | procurarás   |
 | ele/ela/você    | procurou   | procura    | procurará    |
-| nós             | procuramos | procuramos | procuraremos |
+| nós             | procurámos | procuramos | procuraremos |
 | eles/elas/vocês | procuraram | procuram   | procurarão   |
 
 ## Daily Usages

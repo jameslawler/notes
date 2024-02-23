@@ -13,7 +13,7 @@ The Portuguese verb "começar" translates to "to start" or "to begin" in English
 | eu              | comecei   | começo    | começarei   |
 | tu              | começaste | começas   | começarás   |
 | ele/ela/você    | começou   | começa    | começará    |
-| nós             | começamos | começamos | começaremos |
+| nós             | começámos | começamos | começaremos |
 | eles/elas/vocês | começaram | começam   | começarão   |
 
 ## Daily Usages

@@ -13,7 +13,7 @@ The Portuguese verb "passar" can mean "to pass," "to spend," or "to go by" depen
 | eu              | passei   | passo    | passarei   |
 | tu              | passaste | passas   | passarás   |
 | ele/ela/você    | passou   | passa    | passará    |
-| nós             | passamos | passamos | passaremos |
+| nós             | passámos | passamos | passaremos |
 | eles/elas/vocês | passaram | passam   | passarão   |
 
 ## Daily Usages

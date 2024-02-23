@@ -13,7 +13,7 @@ The Portuguese verb "olhar" translates to "to look" or "to watch" in English.
 | eu              | olhei   | olho    | olharei   |
 | tu              | olhaste | olhas   | olharás   |
 | ele/ela/você    | olhou   | olha    | olhará    |
-| nós             | olhamos | olhamos | olharemos |
+| nós             | olhámos | olhamos | olharemos |
 | eles/elas/vocês | olharam | olham   | olharão   |
 
 ## Daily Usages

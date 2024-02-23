@@ -13,7 +13,7 @@ The Portuguese verb "acabar" translates to "to finish" or "to end" in English.
 | eu              | acabei   | acabo    | acabarei   |
 | tu              | acabaste | acabas   | acabarás   |
 | ele/ela/você    | acabou   | acaba    | acabará    |
-| nós             | acabamos | acabamos | acabaremos |
+| nós             | acabámos | acabamos | acabaremos |
 | eles/elas/vocês | acabaram | acabam   | acabarão   |
 
 ## Daily Usages

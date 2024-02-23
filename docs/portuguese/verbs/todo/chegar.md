@@ -13,7 +13,7 @@ The Portuguese verb "chegar" translates to "to arrive" or "to come" in English.
 | eu              | cheguei  | chego    | chegarei   |
 | tu              | chegaste | chegas   | chegarás   |
 | ele/ela/você    | chegou   | chega    | chegará    |
-| nós             | chegamos | chegamos | chegaremos |
+| nós             | chegámos | chegamos | chegaremos |
 | eles/elas/vocês | chegaram | chegam   | chegarão   |
 
 ## Daily Usages
