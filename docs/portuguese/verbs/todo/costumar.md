@@ -20,28 +20,13 @@ The Portuguese verb "costumar" translates to "to usually" or "to be accustomed t
 
 1. Expressing Habit:
 
-   - Portuguese: "Eu costumava ler todos os dias antes de dormir."
-   - English: "I used to read every day before sleeping."
+   - Portuguese: Expressar hábitos - ex: Eu costumava ler todos os dias antes de dormir.
+   - English: Express habits - e.g: I used to read every day before sleeping.
 
-2. Describing Custom:
+2. Talking about Routine:
 
-   - Portuguese: "Tu costumas acordar cedo nos fins de semana?"
-   - English: "Do you usually wake up early on weekends?"
-
-3. Talking about Routine:
-
-   - Portuguese: "Ele/ela/você costuma ir ao ginásio depois do trabalho."
-   - English: "He/she/you usually go to the gym after work."
-
-4. Habitual Action:
-
-   - Portuguese: "Nós costumamos jantar em família aos domingos."
-   - English: "We usually have dinner with family on Sundays."
-
-5. Predicting Future Behavior:
-
-   - Portuguese: "Eles/elas/vocês costumarão viajar nas férias."
-   - English: "They/you will usually travel on vacation."
+   - Portuguese: Falar sobre rotina - ex: El costuma ir ao ginásio depois do trabalho.
+   - English: Talk about routines - e.g: He usually goes to the gym after work.
 
 ## Exercises
 
@@ -49,4 +34,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Descreva a sua rotina diária. Describe your daily routine.
+2. Qual é um hábito incomum que você tem? What is an unusual habit you have?
+3. Qual é o hábito que você deseja iniciar no ano novo? What is a habit you want to start in the new year?

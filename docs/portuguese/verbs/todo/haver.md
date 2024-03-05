@@ -20,28 +20,18 @@ The Portuguese verb "haver" means "to have" or "to exist" in English.
 
 1. Expressing Existence:
 
-   - Portuguese: "Houve muitas pessoas na festa."
-   - English: "There were many people at the party."
+   - Portuguese: Expressar existência - ex: Houve muitas pessoas na festa.
+   - English: Express existence - e.g: There were many people at the party.
 
 2. Referring to Time:
 
-   - Portuguese: "Há muito tempo que não nos vemos."
-   - English: "It has been a long time since we last saw each other."
+   - Portuguese: Referir-se ao tempo - ex: Há muito tempo que não nos vemos.
+   - English: Refer to time - e.g: It has been a long time since we last saw each other.
 
-3. Indicating the Existence of Something:
+3. Talking about Past Events:
 
-   - Portuguese: "Haverá uma reunião importante amanhã."
-   - English: "There will be an important meeting tomorrow."
-
-4. Using as an Auxiliary Verb:
-
-   - Portuguese: "Nós houvemos que cancelar o evento."
-   - English: "We had to cancel the event."
-
-5. Talking about Past Events:
-
-   - Portuguese: "Eles/elas/vocês houveram muitos desafios na viagem."
-   - English: "They/you had many challenges during the trip."
+   - Portuguese: falar sobre eventos passados - ex: Eles houveram muitos desafios na viagem.
+   - English: Talk about past events - e.g: They had many challenges during the trip.
 
 ## Exercises
 
@@ -49,4 +39,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Há quanto tempo você mora na sua casa atual? How long have you live at your current house?
+2. Quando será sua próxima reunião importante? When is your next important meeting?
+3. O que aconteceu ontem? What happened yesterday?

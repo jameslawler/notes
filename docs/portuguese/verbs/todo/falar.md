@@ -20,28 +20,13 @@ The Portuguese verb "falar" means "to speak" or "to talk" in English.
 
 1. Speaking a Language:
 
-   - Portuguese: "Eu falo português fluentemente."
-   - English: "I speak Portuguese fluently."
+   - Portuguese: Falar uma língua - ex: Eu falo português fluentemente.
+   - English: Speak a language - e.g: I speak Portuguese fluently.
 
-2. Talking on the Phone:
+2. Conversing with Others:
 
-   - Portuguese: "Tu falas com tua mãe todos os dias?"
-   - English: "Do you talk to your mom every day?"
-
-3. Addressing Someone:
-
-   - Portuguese: "Ele/ela/você fala com o professor sobre o projeto."
-   - English: "He/she/you speak to the teacher about the project."
-
-4. Conversing with Others:
-
-   - Portuguese: "Nós falamos sobre o tempo durante o almoço."
-   - English: "We talk about the weather during lunch."
-
-5. Making a Speech:
-
-   - Portuguese: "Eles/elas/vocês falam sobre o tema da conferência."
-   - English: "They/you speak about the conference topic."
+   - Portuguese: Conversar com outras pessoas - ex: Nós falamos sobre o tempo durante o almoço.
+   - English: Converse with others - e.g: We talk about the weather during lunch.
 
 ## Exercises
 
@@ -49,4 +34,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Que línguas você já fala? Which languages can you already speak?
+2. Quais línguas você gostaria de falar no futuro? What languages would you like to speak in the future?
+3. Com quem você mais conversou durante a escola? Who did you talk with most during school?

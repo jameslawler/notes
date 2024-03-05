@@ -20,28 +20,18 @@ The Portuguese verb "entrar" means "to enter" or "to come in" in English.
 
 1. Entering a Room or Building:
 
-   - Portuguese: "Eu entrei na sala e cumprimentei a todos."
-   - English: "I entered the room and greeted everyone."
+   - Portuguese: Entrar em uma sala ou prédio - ex: Eu entrei na sala e cumprimentei a todos.
+   - English: Enter a room or building - e.g: I entered the room and greeted everyone.
 
-2. Coming Inside:
+2. Beginning to Participate:
 
-   - Portuguese: "Tu entras na casa sem fazer barulho."
-   - English: "You come inside the house quietly."
+   - Portuguese: Começar a participar - ex: Nós entramos na discussão sobre o projeto.
+   - English: Begin to participate - e.g: We entered into the discussion about the project.
 
-3. Accessing a Space:
+3. Joining an Organization:
 
-   - Portuguese: "Ele/ela/você entra no escritório pela porta da frente."
-   - English: "He/she/you enter the office through the front door."
-
-4. Beginning to Participate:
-
-   - Portuguese: "Nós entramos na discussão sobre o projeto."
-   - English: "We entered into the discussion about the project."
-
-5. Joining an Organization:
-
-   - Portuguese: "Eles/elas/vocês entraram na empresa no ano passado."
-   - English: "They/you entered the company last year."
+   - Portuguese: ingressar em uma organização - ex: Eles entraram na empresa no ano passado.
+   - English: Join an organiztation - e.g: They entered the company last year.
 
 ## Exercises
 
@@ -49,4 +39,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. A quais clubes você pertencia na escola? Which clubs did you belong to in school?
+2. Descreva como você participou de um projeto. Describe how you participated in a project.
+3. Quais cômodos você usa todos os dias em casa? Which rooms do you use everyday at home?

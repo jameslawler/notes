@@ -20,28 +20,18 @@ The Portuguese verb "acabar" translates to "to finish" or "to end" in English.
 
 1. Finishing a Task:
 
-   - Portuguese: "Eu acabo o trabalho antes do almoço."
-   - English: "I finish the work before lunch."
+   - Portuguese: Acabar uma tarefa - ex: Eu acabo o trabalho antes do almoço.
+   - English: Finish a task - e.g: I finish the work before lunch.
 
-2. Ending a Conversation:
+2. Closing an Event or Ceremony:
 
-   - Portuguese: "Tu acabas a conversa de repente."
-   - English: "You end the conversation suddenly."
+   - Portuguese: Acabar um evento ou cerimónia - ex: Vocês acabam a festa com um brinde.
+   - English: Close an event or ceremony - e.g: They finish the party with a toast.
 
-3. Completing a Project:
+3. Ending a Conversation:
 
-   - Portuguese: "Ele/ela/você acaba o projeto esta semana."
-   - English: "He/she/you finish the project this week."
-
-4. Concluding a Book:
-
-   - Portuguese: "Nós acabamos o livro ontem à noite."
-   - English: "We finished the book last night."
-
-5. Closing an Event:
-
-   - Portuguese: "Eles/elas/vocês acabam a festa com um brinde."
-   - English: "They/you finish the party with a toast."
+   - Portuguese: Acabar uma conversa - ex: Tu acabas a conversa de repente.
+   - English: End a conversation - e.g: You end the conversation suddenly.
 
 ## Exercises
 
@@ -49,4 +39,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Quais as tarefas acaba todos os dias? Which tasks do you finish everyday?
+2. Como prefere acabar o seu dia? How do you like to finish your day?
+3. Quando acaba o seu trabalho? When do you finish work?

@@ -20,28 +20,13 @@ The Portuguese verb "ficar" means "to stay" or "to remain" in English.
 
 1. Staying in a Place:
 
-   - Portuguese: "Eu fiquei em casa durante o fim de semana."
-   - English: "I stayed at home during the weekend."
+   - Portuguese: ficar num lugar - ex: Eu fiquei em casa durante o fim de semana.
+   - English: Stay in a place - e.g: I stayed at home during the weekend.
 
-2. Remaining in a Position:
+2. Keeping an Item:
 
-   - Portuguese: "Tu ficas na primeira fila durante a aula?"
-   - English: "Do you stay in the first row during class?"
-
-3. Keeping an Item:
-
-   - Portuguese: "Ele/ela/você fica com o livro após a leitura."
-   - English: "He/she/you keep the book after reading."
-
-4. Residing in a Location:
-
-   - Portuguese: "Nós ficamos em um hotel durante as férias."
-   - English: "We stay at a hotel during vacations."
-
-5. Holding a Temporary State:
-
-   - Portuguese: "Eles/elas/vocês ficarão cansados após o treino."
-   - English: "They/you will get tired after the workout."
+   - Portuguese: Manter um item - ex: Ela fica com o livro após a leitura.
+   - English: Keep an item - e.g: She keeps the book after reading.
 
 ## Exercises
 
@@ -49,4 +34,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Onde você fica seus talheres? Where do you keep your cutlery?
+2. Que presente você recebeu de surpresa? What gift did you receive as a surprise?
+3. Onde você ficará nas próximas férias? Where will you stay in a future holiday?

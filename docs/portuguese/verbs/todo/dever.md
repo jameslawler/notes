@@ -20,28 +20,18 @@ The Portuguese verb "dever" means "to owe" or "to must" in English.
 
 1. Owing Something:
 
-   - Portuguese: "Eu devia dinheiro ao banco."
-   - English: "I owed money to the bank."
+   - Portuguese: Dever alguma coisa - ex: Eu devi dinheiro ao banco.
+   - English: Owe something - e.g: I owed money to the bank.
 
 2. Having a Moral or Legal Obligation:
 
-   - Portuguese: "Tu deves respeitar as regras do jogo."
-   - English: "You must respect the rules of the game."
+   - Portuguese: Ter uma obrigação moral ou legal - ex: Tu deves respeitar as regras do jogo.
+   - English: Have moral or legal obligation - e.g: You must respect the rules of the game.
 
 3. Being Expected to Do Something:
 
-   - Portuguese: "Ele/ela/você deve estudar para a prova."
-   - English: "He/she/you should study for the test."
-
-4. Owning a Debt:
-
-   - Portuguese: "Nós devemos pagar a conta até o final do mês."
-   - English: "We must pay the bill by the end of the month."
-
-5. Feeling Indebted:
-
-   - Portuguese: "Eles/elas/vocês deviam uma explicação aos clientes."
-   - English: "They/you owed an explanation to the customers."
+   - Portuguese: Espera-se que faça algo - ex: Ela deve estudar para a prova.
+   - English: Expected to do something - e.g: She should study for the test.
 
 ## Exercises
 
@@ -49,4 +39,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Tem alguma dívida? Do you have any debts?
+2. Descreva as regras de um jogo de tabuleiro. Describe the rules of a boardgame.
+3. O que você deve fazer antes de dormir? What should you do before going to bed?

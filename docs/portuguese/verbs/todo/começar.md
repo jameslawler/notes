@@ -20,28 +20,13 @@ The Portuguese verb "começar" translates to "to start" or "to begin" in English
 
 1. Starting a Task:
 
-   - Portuguese: "Eu comecei a estudar para o exame."
-   - English: "I started studying for the exam."
+   - Portuguese: Iniciar uma tarefa - ex: Eu comecei a estudar para o exame.
+   - English: Start a task - e.g: I started studying for the exam.
 
-2. Initiating an Activity:
+2. Beginning a Journey:
 
-   - Portuguese: "Tu começas o projeto hoje mesmo."
-   - English: "You start the project right away."
-
-3. Commencing an Event:
-
-   - Portuguese: "Ele/ela/você começa a festa com um discurso."
-   - English: "He/she/you start the party with a speech."
-
-4. Launching a Program:
-
-   - Portuguese: "Nós começamos o programa de treinamento esta semana."
-   - English: "We start the training program this week."
-
-5. Beginning a Journey:
-
-   - Portuguese: "Eles/elas/vocês começaram a viagem ao amanhecer."
-   - English: "They/you began the journey at dawn."
+   - Portuguese: Começar uma jornada - ex: Eles começaram a viagem ao amanhecer.
+   - English: Begin a journey - e.g: They began the journey at dawn.
 
 ## Exercises
 
@@ -49,4 +34,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Como começa o dia? How do you start your day?
+2. Como você se prepara para um teste? How do you prepare for a test?
+3. Descreva a sua viagem de casa até ao supermercado local. Describe your journey from home to the local supermarket.

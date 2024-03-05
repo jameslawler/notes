@@ -20,28 +20,13 @@ The Portuguese verb "conseguir" translates to "to achieve" or "to manage" in Eng
 
 1. Achieving a Goal:
 
-   - Portuguese: "Eu consegui terminar o projeto a tempo."
-   - English: "I managed to finish the project on time."
+   - Portuguese: Alcançar um objetivo - ex: Eu consegui terminar o projeto a tempo.
+   - English: Achieve a goal - e.g: I managed to finish the project on time.
 
 2. Managing to Do Something:
 
-   - Portuguese: "Tu consegues resolver esse problema facilmente."
-   - English: "You can easily solve that problem."
-
-3. Succeeding in an Endeavor:
-
-   - Portuguese: "Ele/ela/você consegue encontrar uma solução."
-   - English: "He/she/you manage to find a solution."
-
-4. Accomplishing a Task:
-
-   - Portuguese: "Nós conseguimos convencer o cliente."
-   - English: "We managed to convince the client."
-
-5. Obtaining an Outcome:
-
-   - Portuguese: "Eles/elas/vocês conseguiram alcançar o objetivo."
-   - English: "They/you managed to achieve the goal."
+   - Portuguese: Conseguir fazer algo - ex: Tu consegues resolver esse problema facilmente.
+   - English: Manage to do something - e.g: You can easily solve that problem.
 
 ## Exercises
 
@@ -49,4 +34,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Descreva uma meta difícil que você alcançou. Describe a difficult goal you achieved.
+2. Que pequenas coisas você fez hoje antes do almoço? What small things did you do today before lunch?
+3. O que você tentará fazer amanhã? What will you try do tomorrow?

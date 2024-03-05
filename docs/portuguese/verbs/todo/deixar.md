@@ -18,30 +18,15 @@ The Portuguese verb "deixar" translates to "to let" or "to allow" in English.
 
 ## Daily Usages
 
-1. Allowing Someone to Do Something:
+1. Granting Permission:
 
-   - Portuguese: "Eu deixei meu irmão ir ao cinema."
-   - English: "I let my brother go to the movies."
+   - Portuguese: Conceder autorização - ex: Ela deixou os alunos saírem mais cedo.
+   - English: Grant permission - e.g: She allowed the students to leave early."
 
-2. Permitting an Action:
+2. Leaving Behind:
 
-   - Portuguese: "Tu deixas o cachorro subir no sofá?"
-   - English: "Do you let the dog get on the couch?"
-
-3. Granting Permission:
-
-   - Portuguese: "Ele/ela/você deixa os alunos saírem mais cedo."
-   - English: "He/she/you let the students leave early."
-
-4. Leaving Behind:
-
-   - Portuguese: "Nós deixamos a chave dentro de casa."
-   - English: "We left the key inside the house."
-
-5. Abandoning:
-
-   - Portuguese: "Eles/elas/vocês deixaram o projeto no meio do caminho."
-   - English: "They/you left the project halfway through."
+   - Portuguese: Deixar para trás - ex: Nós deixámos a chave dentro de casa.
+   - English: Leave behind - e.g: We left the key inside the house.
 
 ## Exercises
 
@@ -49,4 +34,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. O que seus pais não permitiram que você fizesse quando era criança? What did your parent not allow you to do when you were a child?
+2. O que você só pode fazer quando adulto? What are you only allowed to do as an adult?
+3. Descreva uma situação em que você esqueceu algo. Describe a situation when you forgot something.

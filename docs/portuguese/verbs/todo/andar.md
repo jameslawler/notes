@@ -20,28 +20,13 @@ The Portuguese verb "andar" translates to "to walk" or "to go" in English.
 
 1. Walking:
 
-   - Portuguese: "Eu andei pelo parque ontem."
-   - English: "I walked in the park yesterday."
+   - Portuguese: Caminhar - ex: Eu ando de um lado para o outro.
+   - English: Walking - e.g: I walk back and forth.
 
 2. Going or Traveling:
 
-   - Portuguese: "Tu andas muito de avião."
-   - English: "You travel a lot by plane."
-
-3. Moving About:
-
-   - Portuguese: "Ele/ela/você anda de um lado para o outro."
-   - English: "He/she/you walk back and forth."
-
-4. Operating or Functioning:
-
-   - Portuguese: "Nós andamos de carro para o trabalho."
-   - English: "We go to work by car."
-
-5. Progressing or Developing:
-
-   - Portuguese: "Eles/elas/vocês andaram muito no projeto."
-   - English: "They/you made a lot of progress on the project."
+   - Portuguese: Viagar - ex: Tu andas muito de carro.
+   - English: Traveling - e.g: You travel a lot by car.
 
 ## Exercises
 
@@ -49,4 +34,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Onde prefere andar a pé? Where do you like to walk?
+2. Qual é o meio de transporte que usa? Which mode of transport do you use?
+3. Para onde vai na próxima féria? Where will you go for your next holiday?

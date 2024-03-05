@@ -18,30 +18,10 @@ The Portuguese verb "beber" translates to "to drink" in English.
 
 ## Daily Usages
 
-1. Drinking Water:
+1. Drinking a Beverage:
 
-   - Portuguese: "Eu bebi um copo de água."
-   - English: "I drank a glass of water."
-
-2. Having a Beverage:
-
-   - Portuguese: "Tu bebes café todas as manhãs."
-   - English: "You drink coffee every morning."
-
-3. Consuming Alcohol:
-
-   - Portuguese: "Ele/ela/você bebe vinho ao jantar."
-   - English: "He/she/you drink wine at dinner."
-
-4. Enjoying a Drink:
-
-   - Portuguese: "Nós bebemos refrigerante na festa."
-   - English: "We drink soda at the party."
-
-5. Taking a Sip:
-
-   - Portuguese: "Eles/elas/vocês beberam chá quente para se aquecer."
-   - English: "They/you drank hot tea to warm up."
+   - Portuguese: Beber uma bebida - ex: Eu bebi um copo de água.
+   - English: Drink a beverage - e.g: I drank a glass of water.
 
 ## Exercises
 
@@ -49,4 +29,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Qual é a sua bebida preferida? What is your favourite drink?
+2. Com que frequência bebe água? How often do you drink water?
+3. Descreva quais bebidas são saudáveis e não saudáveis. Describe which drinks are healthy and unhealthy.

@@ -18,30 +18,10 @@ The Portuguese verb "cheirar" means "to smell" in English.
 
 ## Daily Usages
 
-1. Smelling a Scent:
+1. Detecting an Odor / Scent:
 
-   - Portuguese: "Eu cheirei as flores no jardim."
-   - English: "I smelled the flowers in the garden."
-
-2. Detecting an Odor:
-
-   - Portuguese: "Tu cheiras a comida deliciosa."
-   - English: "You smell the delicious food."
-
-3. Noticing a Fragrance:
-
-   - Portuguese: "Ele/ela/você cheira o perfume no ar."
-   - English: "He/she/you smell the perfume in the air."
-
-4. Scenting Something:
-
-   - Portuguese: "Nós cheiramos o aroma do café pela manhã."
-   - English: "We smell the scent of coffee in the morning."
-
-5. Sniffing Out:
-
-   - Portuguese: "Eles/elas/vocês cheiraram o ar em busca de pistas."
-   - English: "They/you sniffed the air for clues."
+   - Portuguese: Detectar um odor/cheiro - ex: A comida cheira bem.
+   - English: Detect an odor/smell - e.g: The food smells good.
 
 ## Exercises
 
@@ -49,4 +29,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Descreva os cheiros de algo que comeu hoje. Describe the smells of something you ate today.
+2. Quais são suas flores favoritas? What are your favourite flowers?
+3. Descreva o cheiro da chuva? Describe the smell of rain?s

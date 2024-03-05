@@ -18,30 +18,10 @@ The Portuguese verb "gostar" means "to like" in English.
 
 ## Daily Usages
 
-1. Expressing Preferences:
+1. Stating Likes:
 
-   - Portuguese: "Eu gostei do filme que vi ontem."
-   - English: "I liked the movie I watched yesterday."
-
-2. Stating Likes:
-
-   - Portuguese: "Tu gostas de música clássica?"
-   - English: "Do you like classical music?"
-
-3. Talking about Preferences:
-
-   - Portuguese: "Ele/ela/você gosta de ler antes de dormir."
-   - English: "He/she/you like to read before sleeping."
-
-4. Sharing Preferences:
-
-   - Portuguese: "Nós gostamos de comer em restaurantes diferentes."
-   - English: "We like to eat at different restaurants."
-
-5. Expressing Future Likes:
-
-   - Portuguese: "Eles/elas/vocês gostarão da viagem à praia."
-   - English: "They/you will like the trip to the beach."
+   - Portuguese: compartilhe o que você gosta - ex: Tu gostas de música clássica?
+   - English: Share what you like - e.g: Do you like classical music?
 
 ## Exercises
 
@@ -49,4 +29,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. De quais alimentos você gosta? What foods do you like?
+2. Onde você gosta de ir nas férias? Where do you like to go on holiday?
+3. Quais são seus hobbies? What are your hobbies?

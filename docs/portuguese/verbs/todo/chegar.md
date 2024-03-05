@@ -18,30 +18,20 @@ The Portuguese verb "chegar" translates to "to arrive" or "to come" in English.
 
 ## Daily Usages
 
-1. Arriving at a Destination:
+1. Arriving at a location:
 
-   - Portuguese: "Eu cheguei ao aeroporto às 10 horas."
-   - English: "I arrived at the airport at 10 o'clock."
+   - Portuguese: Chegue em um local - ex: Eu cheguei ao aeroporto às 10 horas.
+   - English: Arrive at a location - e.g: I arrived at the airport at 10 o'clock.
 
-2. Coming to Visit:
+2. Reaching a Goal:
 
-   - Portuguese: "Tu chegas à minha casa mais tarde."
-   - English: "You come to my house later."
+   - Portuguese: Alcançar um objetivo - ex: Ele chegou aos seus objectivos.
+   - English: Reach a goal - e.g: He reached his objectives.
 
-3. Reaching a Goal:
+3. Coming Into Existence:
 
-   - Portuguese: "Ele/ela/você chega ao topo da montanha."
-   - English: "He/she/you reach the top of the mountain."
-
-4. Showing Up:
-
-   - Portuguese: "Nós chegamos cedo à reunião."
-   - English: "We arrive early at the meeting."
-
-5. Coming Into Existence:
-
-   - Portuguese: "Eles/elas/vocês chegam com uma nova ideia."
-   - English: "They/you come up with a new idea."
+   - Portuguese: Vindo à existência - ex: Vocês chegam com uma nova ideia.
+   - English: Come into existence - e.g: They come up with a new idea.
 
 ## Exercises
 
@@ -49,4 +39,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Descreva sua agenda do dia. Describe your schedule for the day.
+2. Como você alcançará seu objetivo de aprender português? How will you reach your goal of learning portuguese?
+3. Descreva uma situação em que chegou atrasado. Describe a situation where you arrived late.

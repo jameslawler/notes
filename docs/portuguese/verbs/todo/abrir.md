@@ -18,30 +18,20 @@ The Portuguese verb "abrir" means "to open" in English.
 
 ## Daily Usages
 
-1. Opening a Door or Window:
+1. Open an object
 
-Portuguese: "Eu abro a janela todas as manhãs."
-English: "I open the window every morning."
+   - Portuguese: Abrir um objeto - ex: Eu abro a janela todas as manhãs.
+   - English: Open an object - eg: I open the window every morning.
 
-2. Opening a Package or Gift:
+2. Open an event / ceremony
 
-Portuguese: "Tu abres o presente com cuidado."
-English: "You open the gift carefully."
+   - Portuguese: Abrir um evento ou cerimónia - ex: Nós abrimos a festa com uma dança.
+   - English: Open an event or ceremony - e.g: We open the party with a dance.
 
-3. Starting or Launching Something:
+3. Open an account
 
-Portuguese: "Ele/ela/você abre uma nova loja este mês."
-English: "He/she/you open a new store this month."
-
-4. Opening an Event or Ceremony:
-
-Portuguese: "Nós abrimos a festa com uma dança."
-English: "We open the party with a dance."
-
-5. Opening an Account or Document:
-
-Portuguese: "Eles/elas/vocês abrem uma conta bancária."
-English: "They/you open a bank account."
+   - Portuguese: Abrir uma conta - ex: Ele abriu uma conta bancaria ontem.
+   - English: Open an account - e.g: He opened a bank account yesterday.
 
 ## Exercises
 
@@ -49,4 +39,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Quais alimentos abriu hoje? What food items did you open today?
+2. Abriu algum e-mail ou arquivo hoje? Did you open any emails or files today?
+3. Descreva um momento em que você se abriu emocionalmente. Describe a time when you opened up emotionally.

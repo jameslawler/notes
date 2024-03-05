@@ -20,8 +20,8 @@ The Portuguese verb "achar" translates to "to find" or "to think" in English.
 
 1. Finding an Item:
 
-   - Portuguese: "Eu acho as chaves no bolso."
-   - English: "I find the keys in my pocket."
+   - Portuguese: Achar um objeto - ex: Eu achei as chaves no meu bolso.
+   - English: Find an object - e.g: I found the keys in my pocket.
 
 2. Thinking or Believing:
 
@@ -30,18 +30,8 @@ The Portuguese verb "achar" translates to "to find" or "to think" in English.
 
 3. Discovering a Solution:
 
-   - Portuguese: "Ele/ela/você acha uma maneira de resolver o problema."
-   - English: "He/she/you find a way to solve the problem."
-
-4. Opinion or Feeling:
-
-   - Portuguese: "Nós achamos que é uma boa ideia."
-   - English: "We think it's a good idea."
-
-5. Concluding or Guessing:
-
-   - Portuguese: "Eles/elas/vocês acharam que o filme foi emocionante."
-   - English: "They/you thought the movie was exciting."
+   - Portuguese: Descobrir uma solução - ex: Ela achou uma maneira de resolver o problema.
+   - English: Discover a solution - e.g: She found a way to solve the problem.
 
 ## Exercises
 
@@ -49,4 +39,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Descreva uma situação em que perdeu e achou as chaves. Describe a time when you lost and found your keys.
+2. O que acha importante para aprender português? What do you think is important to learn Portuguese?
+3. O que acha de Portugal? What do you think of Portugal?
