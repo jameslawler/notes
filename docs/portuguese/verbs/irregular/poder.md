@@ -18,23 +18,20 @@ The Portuguese verb "poder" means "to be able to" or "can" in English.
 
 ## Daily Usages
 
-1. Ability or Capability:
+1. Capability:
 
-Use "poder" to express the ability or capability to do something.
-Example: "Eu posso falar várias línguas." (I can speak various languages.)
-Example: "Ele pode nadar muito bem." (He is able to swim very well.)
+   - Portuguese: Capacidade - ex: Eu posso falar várias línguas.
+   - English: Capability - e.g: I can speak various languages.
 
 2. Permission:
 
-Use "poder" to express permission or the freedom to do something.
-Example: "Você pode entrar." (You can come in.)
-Example: "Nós podemos usar o computador." (We can use the computer.)
+   - Portuguese: Permissão - ex: Você pode entrar.
+   - English: Permission - e.g: You can come in.
 
-3. Possibility or Likelihood:
+3. Possibility:
 
-Use "poder" to express the possibility or likelihood of something happening.
-Example: "Pode chover mais tarde." (It may rain later.)
-Example: "Ela pode chegar atrasada." (She might arrive late.)
+   - Portuguese: Possibility - ex: Ela pode chegar atrasada.
+   - English: Possibilidade - e.g: She might arrive late.
 
 ## Exercises
 
@@ -42,4 +39,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Quando você aprendeu a nadar? When did you learn to swim?
+2. O que você não podia fazer na escola? What were you not allowed to do at school?
+3. Você acha que vai chover amanhã? Do you think it will rain tomorrow?

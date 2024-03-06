@@ -20,27 +20,13 @@ The Portuguese verb "fazer" means "to do" or "to make" in English.
 
 1. Activities and Actions:
 
-Use "fazer" to express activities or actions in a broad sense.
-Example: "Eu faço exercícios todos os dias." (I do exercises every day.)
-Example: "Eles fazem o jantar juntos." (They make dinner together.)
+   - Portuguese: Atividades e ações - ex: Eu faço exercícios todos os dias.
+   - English: Activities and actions - e.g: I do exercises every day.
 
-2. Weather:
+2. Creating or Producing:
 
-Use "fazer" to talk about weather conditions.
-Example: "Hoje faz sol." (Today is sunny.)
-Example: "No inverno, faz frio." (In winter, it is cold.)
-
-3. Creating or Producing:
-
-Use "fazer" when referring to creating or producing something.
-Example: "Ela faz bolos deliciosos." (She makes delicious cakes.)
-Example: "Nós fazemos arte com papel." (We make art with paper.)
-
-4. Age:
-
-Use "fazer" to express someone's age.
-Example: "Ele faz 30 anos este ano." (He turns 30 this year.)
-Example: "A criança faz cinco anos amanhã." (The child turns five tomorrow.)
+   - Portuguese: Criar ou produzir - ex: Ela faz bolos deliciosos.
+   - English: Create or produce - e.g: She makes delicious cakes.
 
 ## Exercises
 
@@ -48,4 +34,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. O que você gosta de fazer com seus amigos? What do you like to do with your friends?
+2. O que você criou com as mãos? What have you created with your hands?
+3. Descreva o clima no verão. Describe the weather in summer.

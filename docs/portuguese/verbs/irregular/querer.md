@@ -20,27 +20,13 @@ The Portuguese verb "querer" translates to "to want" or "to wish" in English.
 
 1. Expressing Desires:
 
-Use "querer" when expressing what you want or desire.
-Example: "Eu quero um café." (I want a coffee.)
-Example: "Ela quer viajar pelo mundo." (She wants to travel the world.)
+   - Portuguese: Expressar desejos - ex: Ela quer viajar pelo mundo.
+   - English: Express desires - e.g: She wants to travel the world.
 
-2. Making Requests:
+2. Requests:
 
-Use "querer" to make polite requests or ask for something.
-Example: "Você quer por favor passar o sal?" (Would you please pass the salt?)
-Example: "Nós queremos ajuda com isso." (We want help with this.)
-
-3. Expressing Intentions:
-
-Use "querer" to express intentions or plans for the future.
-Example: "Eu quero aprender a tocar guitarra." (I want to learn how to play the guitar.)
-Example: "Eles querem começar um negócio próprio." (They want to start their own business.)
-
-4. Conditional Wishes:
-
-Use "querer" to express conditional wishes or hypothetical situations.
-Example: "Eu quereria mais tempo para relaxar." (I would want more time to relax.)
-Example: "Ela queria que todos estivessem presentes." (She would want everyone to be present.)
+   - Portuguese: Pedidos - ex: Você quer por favor passar o sal?
+   - English: Requests - e.g: Would you please pass the salt?
 
 ## Exercises
 
@@ -48,4 +34,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. O que você gostaria se fosse rico? What would you want if you were rich?
+2. O que você mais queria no Natal quando criança? What did you want the most for Christmas as a child?
+3. O que você quis almoçar hoje? What did you want for lunch today?

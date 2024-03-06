@@ -20,24 +20,8 @@ The Portuguese verb "ler" translates to "to read" in English.
 
 1. Reading Texts:
 
-Use "ler" when you want to talk about the action of reading written or printed material.
-Example: "Eu gosto de ler livros." (I like to read books.)
-
-2. Understanding Written Words:
-
-"Ler" is used to express the activity of understanding and comprehending written words.
-Example: "Ela lê jornais todos os dias." (She reads newspapers every day.)
-
-3. Different Types of Texts:
-
-"Ler" can refer to reading various types of texts, including books, articles, newspapers, etc.
-Example: "Eles leem revistas de moda." (They read fashion magazines.)
-
-4. Educational and Recreational:
-
-"Ler" is used both in educational contexts and for recreational purposes.
-Example: "Os estudantes leem para aprender." (Students read to learn.)
-Example: "Nós lemos romances nas férias." (We read novels during the holidays.)
+   - Portuguese: Leia textos - ex: Ela lê jornais todos os dias.
+   - English: Read texts - e.g: She reads newspapers every day.
 
 ## Exercises
 
@@ -45,4 +29,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. O que você lê todos os dias? What do you read everyday?
+2. Que línguas você consegue ler? What languages can you read?
+3. Com que frequência você lê romances? How often do you read novels?

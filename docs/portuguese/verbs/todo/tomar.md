@@ -18,30 +18,21 @@ The Portuguese verb "tomar" can mean "to take," "to have," or "to drink" dependi
 
 ## Daily Usages
 
-1. Taking Medicine:
+1. Having a Drink / meal:
 
-   - Portuguese: "Eu tomei o remédio conforme as instruções."
-   - English: "I took the medicine as instructed."
+   - Portuguese: Tomar uma bebida/refeição - ex: Tu tomas café todas as manhãs?
+   - English: Have a drink / meal - e.g: Do you have coffee every morning?
+     To
 
-2. Having a Drink:
+2. Taking Action:
 
-   - Portuguese: "Tu tomas café todas as manhãs?"
-   - English: "Do you have coffee every morning?"
+   - Portuguese: mar medidas - ex: Nós tomamos uma decisão importante.
+   - English: Take action - e.g: We made an important decision.
 
-3. Drinking a Beverage:
+3. Taking Medicine:
 
-   - Portuguese: "Ele/ela/você toma água durante o dia."
-   - English: "He/she/you drink water throughout the day."
-
-4. Taking Action:
-
-   - Portuguese: "Nós tomamos uma decisão importante."
-   - English: "We made an important decision."
-
-5. Consuming Food or Drink:
-
-   - Portuguese: "Eles/elas/vocês tomaram chá gelado no almoço."
-   - English: "They/you had iced tea for lunch."
+   - Portuguese: Tomar medicamento - ex: Eu tomei o remédio conforme as instruções.
+   - English: Take medicine - e.g: I took the medicine as instructed.
 
 ## Exercises
 
@@ -49,4 +40,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Liste as bebidas que você normalmente ingere em cada refeição. List the drinks you typically have with each meal.
+2. Descreva os medicamentos que lhe foram administrados na última vez que esteve doente. Describe the medicines you were given the last time you were sick.
+3. Qual foi uma decisão importante que você tomou recentemente? What was an important decision you made recently?

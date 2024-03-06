@@ -20,33 +20,18 @@ The Portuguese verb "estar" means "to be" in English, but it is used in differen
 
 1. Temporary States:
 
-Use "estar" to talk about temporary states, conditions, or feelings.
-Example: "Eu estou cansado." (I am tired.)
-Example: "Ela está feliz hoje." (She is happy today.)
+   - Portuguese: Estados temporários - ex: Eu estou cansado.
+   - English: Temporary states - e.g: I am tired.
 
 2. Location:
 
-Use "estar" to indicate the location of people, objects, or places.
-Example: "O livro está na mesa." (The book is on the table.)
-Example: "Nós estamos em casa." (We are at home.)
+   - Portuguese: Localização - ex: O livro está na mesa.
+   - English: Location - e.g: The book is on the table.
 
-3. Progressive Actions:
+3. Weather Conditions:
 
-Use "estar" to express ongoing actions in the present.
-Example: "Eles estão estudando agora." (They are studying now.)
-Example: "Eu estou comendo." (I am eating.)
-
-4. Weather Conditions:
-
-Use "estar" to talk about current weather conditions.
-Example: "Hoje está calor." (Today is hot.)
-Example: "Está a chover." (It is raining.)
-
-5. Emotional States:
-
-Use "estar" to describe emotional or mental states.
-Example: "Ela está preocupada." (She is worried.)
-Example: "Eu estou contente." (I am happy.)
+   - Portuguese: Condições do tempo - ex: Hoje está calor.
+   - English: Weather conditions - e.g: Today is hot.
 
 ## Exercises
 
@@ -54,4 +39,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Como você está se sentindo hoje? How are you feeling today?
+2. Qual será o tempo amanhã? What is the weather meant to be tomorrow?
+3. Onde você está agora? Where are you right now?

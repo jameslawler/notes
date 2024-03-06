@@ -18,30 +18,10 @@ The Portuguese verb "morar" translates to "to live" or "to reside" in English.
 
 ## Daily Usages
 
-1. Describing a Previous Residence:
+1. Indicating Residence:
 
-   - Portuguese: "Eu morei em Paris por dois anos."
-   - English: "I lived in Paris for two years."
-
-2. Indicating Current Residence:
-
-   - Portuguese: "Tu moras em Lisboa atualmente?"
-   - English: "Do you live in Lisbon currently?"
-
-3. Talking about Future Residence:
-
-   - Portuguese: "Ele/ela/você morará em uma casa nova em breve."
-   - English: "He/she/you will live in a new house soon."
-
-4. Referring to Shared Residence:
-
-   - Portuguese: "Nós moramos juntos desde o ano passado."
-   - English: "We have been living together since last year."
-
-5. Discussing Habitation Plans:
-
-   - Portuguese: "Eles/elas/vocês morarão perto do trabalho para facilitar o deslocamento."
-   - English: "They/you will live close to work to ease the commute."
+   - Portuguese: Indicar residência - ex: Tu moras em Lisboa atualmente?
+   - English: Indicate residence - e.g: Do you live in Lisbon currently?
 
 ## Exercises
 
@@ -49,4 +29,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Onde você mora atualmente? Where do you live currently?
+2. Onde você morou no passado? Where did you live in the past?
+3. Onde você gostaria de morar se tivesse muito dinheiro? Where would you like to live if you have lots of money?

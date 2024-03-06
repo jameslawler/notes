@@ -18,30 +18,15 @@ The Portuguese verb "dar" translates to "to give" in English.
 
 ## Daily Usages
 
-1. Giving or Offering:
+1. Giving or Offering an object
 
-Use "dar" when you want to talk about giving something to someone or offering it.
-Example: "Eu dou um presente para a minha amiga." (I give a gift to my friend.)
+   - Portuguese: Dar ou oferecer um objeto - ex: Eu dou um presente para a minha amiga.
+   - English: Give or offer an object - e.g: I give a gift to my friend.
 
-2. Providing or Granting:
+2. Occurrence or outcome:
 
-It's also used to express providing or granting something.
-Example: "O professor dá conselhos aos alunos." (The teacher gives advice to the students.)
-
-3. Occurrence or Happening:
-
-"Dar" can be used to describe an occurrence or an event happening.
-Example: "A festa deu muito certo." (The party went very well.)
-
-4. Result or Outcome:
-
-It's used to express a result or outcome of an action.
-Example: "O estudo deu bons resultados." (The study yielded good results.)
-
-5. Expressing Time:
-
-In colloquial language, "dar" is used to express time.
-Example: "Que horas dá?" (What time does it give? - meaning, "What time is it?")
+   - Portuguese: Ocorrência ou resultado - ex: A festa deu muito certo.
+   - English: Occurence or outcome - e.g: The party went very well.
 
 ## Exercises
 
@@ -49,4 +34,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Qual o melhor presente que você deu a alguém? What is the best gift you have given to someone?
+2. Descreva um evento que deu muito mal. Describe an event that went really bad.
+3. Como você se saiu na última prova de português? How did you do on your last Portuguese test?

@@ -18,25 +18,15 @@ The Portuguese verb "dizer" translates to "to say" or "to tell" in English.
 
 ## Daily Usages
 
-1. Expressing Speech:
+1. Speech:
 
-Use "dizer" when you want to talk about speaking words out loud.
-Example: "Eu digo 'olá' todas as manhãs." (I say 'hello' every morning.)
+   - Portuguese: Falar - ex: Ela disse que a reunião é às 2 da tarde.
+   - English: Speech - e.g: She said the meeting is at 2 PM.
 
-2. Reporting Speech:
+2. Expressing Thoughts:
 
-It's also used to report or convey what someone else has said.
-Example: "Ela disse que a reunião é às 2 da tarde." (She said the meeting is at 2 PM.)
-
-3. Giving Information:
-
-Use "dizer" to give information or express something verbally.
-Example: "Nós dizemos que vai chover amanhã." (We say it's going to rain tomorrow.)
-
-4. Expressing Thoughts:
-
-It's used to express thoughts, beliefs, or making statements.
-Example: "Ele diz que acredita no trabalho árduo." (He says he believes in hard work.)
+   - Portuguese: Expressar pensamentos - ex: Ele diz que acredita no trabalho árduo.
+   - English: Express thoughts - e.g: He says he believes in hard work.
 
 ## Exercises
 
@@ -44,4 +34,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Escreva um diálogo de conto curto com duas pessoas conversando. Write a short story dialog with two people talking to each other.
+2. O que você costuma dizer antes de fazer uma refeição? What do you typically say before eating a meal?
+3. O que você diria a alguém sobre seu livro favorito? What would you tell someone about your favourite book?

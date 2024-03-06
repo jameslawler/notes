@@ -48,4 +48,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Describe your family tree.
+2. What is the most expensive thing you own?
+3. What do you always have with you?

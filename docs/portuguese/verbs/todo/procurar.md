@@ -22,28 +22,13 @@ The Portuguese verb
 
 1. Searching for Something:
 
-   - Portuguese: "Eu procurei as chaves por toda a casa."
-   - English: "I searched for the keys all over the house."
+   - Portuguese: Procurar algo - ex: Eu procurei as chaves por toda a casa.
+   - English: Search for something - e.g: I searched for the keys all over the house.
 
-2. Looking for Information:
+2. Look for a Solution:
 
-   - Portuguese: "Tu procuras por respostas na internet."
-   - English: "You look for answers on the internet."
-
-3. Seeking Help or Assistance:
-
-   - Portuguese: "Ele/ela/você procura por um médico para o tratamento."
-   - English: "He/she/you look for a doctor for the treatment."
-
-4. Trying to Find a Solution:
-
-   - Portuguese: "Nós procuramos uma solução para o problema há dias."
-   - English: "We have been looking for a solution to the problem for days."
-
-5. Seeking Opportunities:
-
-   - Portuguese: "Eles/elas/vocês procurarão por novas oportunidades de emprego."
-   - English: "They/you will search for new job opportunities."
+   - Portuguese: Procurar uma solução - ex: Nós procuramos uma solução para o problema há dias.
+   - English: Look for a solution - We have been looking for a solution to the problem for days.
 
 ## Exercises
 
@@ -51,4 +36,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Descreva a ocasião em que você perdeu algo importante. Describe the time you lost something important.
+2. Que recursos você usa para resolver um problema difícil? What resources do you use to solve a hard problem?
+3. Como você conheceu este livro? How did you find out about this book?

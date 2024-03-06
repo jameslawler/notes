@@ -48,4 +48,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. What special skills do you have?
+2. What big news did you find out recently?
+3. Would you want to know the future?

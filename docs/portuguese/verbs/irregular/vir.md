@@ -42,4 +42,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Where do you come from?
+2. Where are you going tomorrow?
+3. Where did your favourite recipe come from?

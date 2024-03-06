@@ -18,30 +18,15 @@ The Portuguese verb "usar" means "to use" in English.
 
 ## Daily Usages
 
-1. Using a Tool:
+1. Using a product:
 
-   - Portuguese: "Eu usei o martelo para consertar a prateleira."
-   - English: "I used the hammer to fix the shelf."
+   - Portuguese: Usar um produto - ex: Eu usei o martelo para consertar a prateleira.
+   - English: Use a product - e.g: I used the hammer to fix the shelf.
 
-2. Utilizing Technology:
+2. Wear of Clothing:
 
-   - Portuguese: "Tu usas o computador para trabalhar?"
-   - English: "Do you use the computer for work?"
-
-3. Applying Products:
-
-   - Portuguese: "Ele/ela/você usa creme hidratante diariamente."
-   - English: "He/she/you use moisturizer daily."
-
-4. Making Wear of Clothing:
-
-   - Portuguese: "Nós usamos casacos no inverno."
-   - English: "We wear coats in the winter."
-
-5. Employing Methods:
-
-   - Portuguese: "Eles/elas/vocês usarão novas estratégias no próximo projeto."
-   - English: "They/you will use new strategies in the next project."
+   - Portuguese: Usar roupas - ex: Nós usamos casacos no inverno.
+   - English: Wear clothes - e.g: We wear coats in the winter.
 
 ## Exercises
 
@@ -49,4 +34,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Que tecnologia você usa todos os dias? What technology do you use everyday?
+2. Quais produtos você usa na pele? What products do you use on your skin?
+3. Que roupa você usa em um dia chuvoso? What clothes do you wear on a rainy day?

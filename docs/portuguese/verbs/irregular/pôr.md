@@ -20,23 +20,13 @@ The Portuguese verb "pôr" translates to "to put" or "to place" in English.
 
 1. Placing Objects:
 
-Use "pôr" when you want to talk about placing or putting objects or things in a specific location.
-Example: "Eu vou pôr as chaves em cima da mesa." (I'm going to put the keys on the table.)
+   - Portuguese: Colocar objetos - ex: Eu vou pôr as chaves em cima da mesa.
+   - English: Place objects - e.g: I'm going to put the keys on the table.
 
-2. Setting or Positioning:
+2. Applying or Administering:
 
-It's used to describe setting or positioning something in a particular way or location.
-Example: "Ela põe as cadeiras em círculo para a reunião." (She puts the chairs in a circle for the meeting.)
-
-3. Applying or Administering:
-
-"Pôr" can also refer to applying or administering something.
-Example: "O médico pôs uma injeção no braço do paciente." (The doctor administered a shot in the patient's arm.)
-
-4. Planting or Sowing:
-
-It's used in contexts related to planting or sowing seeds or crops.
-Example: "Eles vão pôr as sementes na terra hoje." (They're going to plant the seeds in the ground today.)
+   - Portuguese: Aplicar ou administrar - ex: O médico pôs uma injeção no braço do paciente.
+   - English: Apply or administer - e.g: The doctor administered a shot in the patient's arm.
 
 ## Exercises
 
@@ -44,4 +34,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Onde você colocou este livro hoje? Where did you put this book today?
+2. Você tem um jardim do qual cuida? Do you have a garden that you look after?
+3. Descreva como você arrumou tudo no seu quarto. Describe how you arranged everything in your bedroom?

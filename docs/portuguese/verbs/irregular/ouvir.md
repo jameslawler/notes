@@ -18,26 +18,15 @@ The Portuguese verb "ouvir" translates to "to hear" or "to listen" in English.
 
 ## Daily Usages
 
-1. Sensory Perception:
+1. Hearing sounds:
 
-Use "ouvir" when you want to talk about perceiving sounds through your ears.
-Example: "Eu gosto de ouvir música." (I like to listen to music.)
+   - Portuguese: Ouvir sons - ex: Eu posso ouvir a chuva lá fora.
+   - English: Hear sounds - e.g: I can hear the rain outside.
 
-2. Paying Attention:
+2. Listenting to sounds:
 
-It's also used when you actively pay attention to sounds or engage in listening.
-Example: "Ela gosta de ouvir o que as pessoas têm a dizer." (She likes to listen to what people have to say.)
-
-3. Hearing vs. Listening:
-
-"Ouvir" can convey both the act of simply hearing sounds and actively listening to them.
-Example: "Eu posso ouvir a chuva lá fora." (I can hear the rain outside.)
-Example: "Eu gosto de ouvir atentamente as palestras." (I like to listen attentively to the lectures.)
-
-4. Musical Context:
-
-In the context of music, "ouvir" specifically means to listen to music.
-Example: "Eles adoram ouvir bandas novas." (They love to listen to new bands.)
+   - Portuguese: Escutar sons - ex: Eu gosto de ouvir com atenção na escola.
+   - English: Listen to sounds - e.g: I like to listen attentively at school.
 
 ## Exercises
 
@@ -45,4 +34,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Que música você ouve? What music do you listen to?
+2. Você tem boa audição? Do you have good hearing?
+3. Você era um bom ouvinte na escola? Were you a good listener at school?

@@ -21,7 +21,7 @@ The Portuguese verb "deixar" translates to "to let" or "to allow" in English.
 1. Granting Permission:
 
    - Portuguese: Conceder autorização - ex: Ela deixou os alunos saírem mais cedo.
-   - English: Grant permission - e.g: She allowed the students to leave early."
+   - English: Grant permission - e.g: She allowed the students to leave early.
 
 2. Leaving Behind:
 

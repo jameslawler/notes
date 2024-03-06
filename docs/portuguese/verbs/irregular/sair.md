@@ -44,4 +44,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. When do you leave home every morning?
+2. Describe the emergency exit sign.
+3. What do you like to do when you go out?

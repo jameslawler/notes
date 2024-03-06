@@ -54,4 +54,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Describe yourself (name, nationality, occupation).
+2. When were the major dates of your life.
+3. Describe your house.

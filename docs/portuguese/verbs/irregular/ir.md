@@ -20,21 +20,13 @@ The Portuguese verb "ir" means "to go" in English.
 
 1. Movement:
 
-Use "ir" to express the action of moving or traveling from one place to another.
-Example: "Eu vou para a escola de manhã." (I go to school in the morning.)
-Example: "Eles vão viajar no próximo mês." (They are going to travel next month.)
+   - Portuguese: Movimento - ex: Eu vou para a escola de manhã.
+   - English: Movement - e.g: I go to school in the morning.
 
 2. Future Intentions:
 
-Use "ir" to indicate future plans or intentions.
-Example: "Nós vamos assistir a um concerto amanhã." (We are going to attend a concert tomorrow.)
-Example: "Ele vai estudar no exterior no próximo ano." (He is going to study abroad next year.)
-
-3. Expressing How Things Are Going:
-
-Use "ir" in expressions like "como vai?" to ask how someone is doing.
-Example: "Oi, como vai?" (Hi, how are you?)
-Example: "Tudo vai bem, obrigado!" (Everything is going well, thank you!)
+   - Portuguese: Intenções futuras - ex: Nós vamos assistir a um concerto amanhã.
+   - English: Future intentions - e.g: We are going to attend a concert tomorrow.
 
 ## Exercises
 
@@ -42,4 +34,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Descreva como ir de sua casa até o correio. Describe how to get from your house to the post office.
+2. Quais são seus planos para o próximo ano? What are your plans for next year?
+3. Aonde você foi hoje? Where did you go today?

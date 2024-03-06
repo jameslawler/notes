@@ -20,28 +20,13 @@ The Portuguese verb "passar" can mean "to pass," "to spend," or "to go by" depen
 
 1. Passing Through:
 
-   - Portuguese: "Eu passei pela rua sem olhar para trás."
-   - English: "I passed through the street without looking back."
+   - Portuguese: Atravessar - ex: Eu passei pela rua sem olhar para trás.
+   - English: Pass through - e.g: I passed through the street without looking back.
 
 2. Spending Time:
 
-   - Portuguese: "Tu passas muito tempo estudando."
-   - English: "You spend a lot of time studying."
-
-3. Going By:
-
-   - Portuguese: "Ele/ela/você passa pelo parque todos os dias."
-   - English: "He/she/you go by the park every day."
-
-4. Passing Over:
-
-   - Portuguese: "Nós passamos por muitos desafios até alcançarmos o sucesso."
-   - English: "We go through many challenges until we achieve success."
-
-5. Transitioning:
-
-   - Portuguese: "Eles/elas/vocês passarão para a próxima fase do projeto em breve."
-   - English: "They/you will move on to the next phase of the project soon."
+   - Portuguese: Passar tempo - ex: Tu passas muito tempo estudando.
+   - English: Spend time - e.g: You spend a lot of time studying.
 
 ## Exercises
 
@@ -49,4 +34,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Dê instruções sobre como você vai de casa até uma loja local. Give directions for how you go from home to a local shop.
+2. O que você gosta de passar seu tempo fazendo? What do you enjoy spending your time doing?
+3. Quando foi a última vez que você passou por um parque? When was the last time you went through a park?

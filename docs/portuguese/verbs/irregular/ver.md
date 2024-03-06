@@ -44,4 +44,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. What is your favourite show to watch?
+2. Do you watch any sports?
+3. How often do you watch movies in the cinema?

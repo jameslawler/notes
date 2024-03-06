@@ -20,28 +20,18 @@ The Portuguese verb "pensar" means "to think" or "to consider" in English.
 
 1. Thinking about Something:
 
-   - Portuguese: "Eu pensei sobre o que fazer durante horas."
-   - English: "I thought about what to do for hours."
+   - Portuguese: Pensar sobre alguma coisa - ex: Eu pensei sobre o que fazer durante horas.
+   - English: Think about something - e.g: I thought about what to do for hours.
 
 2. Considering Options:
 
-   - Portuguese: "Tu pensas em aceitar o convite?"
-   - English: "Do you think about accepting the invitation?"
+   - Portuguese: Considerar opções - ex: Tu pensas em aceitar o convite?
+   - English: Consider options - e.g: Do you think about accepting the invitation?
 
-3. Reflecting on Ideas:
+3. Planning Future Actions:
 
-   - Portuguese: "Ele/ela/você pensa muito antes de tomar decisões importantes."
-   - English: "He/she/you think a lot before making important decisions."
-
-4. Planning Future Actions:
-
-   - Portuguese: "Nós pensamos em viajar para o exterior no próximo ano."
-   - English: "We plan to travel abroad next year."
-
-5. Imagining Scenarios:
-
-   - Portuguese: "Eles/elas/vocês pensarão sobre as possibilidades antes de agir."
-   - English: "They/you will think about the possibilities before acting."
+   - Portuguese: Planear ações futuras - ex: Nós pensamos em viajar para o exterior no próximo ano.
+   - English: Plan future actions - e.g: We plan to travel abroad next year.
 
 ## Exercises
 
@@ -49,4 +39,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Como você decide se vai comprar um item caro? How do you decide if you will buy an expensive item?
+2. Quais as opções você considera para estudar português? Which options do you consider for studying Portuguese?
+3. Quais são os seus principais planos para o próximo ano? What are your major plans for next year?

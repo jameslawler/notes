@@ -21,7 +21,7 @@ The Portuguese verb "abrir" means "to open" in English.
 1. Open an object
 
    - Portuguese: Abrir um objeto - ex: Eu abro a janela todas as manhãs.
-   - English: Open an object - eg: I open the window every morning.
+   - English: Open an object - e.g: I open the window every morning.
 
 2. Open an event / ceremony
 

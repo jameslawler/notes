@@ -18,30 +18,20 @@ The Portuguese verb "viver" means "to live" in English.
 
 ## Daily Usages
 
-1. Living Life:
+1. Residing in a Place:
 
-   - Portuguese: "Eu vivi muitas aventuras quando era jovem."
-   - English: "I lived many adventures when I was young."
+   - Portuguese: Residir em um lugar - ex: Ela vive em Lisboa há muitos anos.
+   - English: Reside in a place - e.g: She lives in Lisbon for many years.
 
-2. Being Alive:
+2. Living Life:
 
-   - Portuguese: "Tu vives cada dia como se fosse o último."
-   - English: "You live each day as if it were the last."
+   - Portuguese: Viver a vida - ex: Eu vivi muitas aventuras quando era jovem.
+   - English: Live life - e.g: I lived many adventures when I was young.
 
-3. Residing in a Place:
+3. Being Alive:
 
-   - Portuguese: "Ele/ela/você vive em Lisboa há muitos anos."
-   - English: "He/she/you live in Lisbon for many years."
-
-4. Experiencing Existence:
-
-   - Portuguese: "Nós vivemos momentos de felicidade e tristeza."
-   - English: "We experience moments of happiness and sadness."
-
-5. Sustaining Life:
-
-   - Portuguese: "Eles/elas/vocês viverão uma vida plena e feliz."
-   - English: "They/you will live a full and happy life."
+   - Portuguese: Estar vivo - ex: Tu vives cada dia como se fosse o último.
+   - English: Being alive - e.g: You live each day as if it were the last.
 
 ## Exercises
 
@@ -49,4 +39,6 @@ abc
 
 ## Writing Prompts
 
-abc
+1. Liste todos os lugares onde você morou. List all the places you have lived.
+2. Onde você gostaria de morar no futuro? Where would you like to live in the future?
+3. Que atividades você faz para se sentir vivo? What activities do you do to feel alive?
