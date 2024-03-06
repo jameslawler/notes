@@ -18,25 +18,20 @@ The Portuguese verb "ver" translates to "to see" or "to watch" in English.
 
 ## Daily Usages
 
-1. Perception with Eyes:
+1. Watching Visual Content:
 
-Use "ver" when you want to talk about the action of perceiving something with your eyes.
-Example: "Eu gosto de ver o pôr do sol." (I like to watch the sunset.)
+   - Portuguese: Assistindo conteúdo visual - ex: Nós vamos ver um filme no cinema.
+   - English: Watching visual content - e.g: We're going to watch a movie at the cinema.
 
-2. Watching Visual Content:
+2. Observing or Noticing:
 
-It's used to describe the action of watching visual content, such as movies, TV shows, or videos.
-Example: "Nós vamos ver um filme no cinema." (We're going to watch a movie at the cinema.)
+   - Portuguese: Observar ou notar - ex: Ele não consegue ver a diferença entre os dois quadros.
+   - English: Observe or notice - e.g: He can't see the difference between the two paintings.
 
-3. Observing or Noticing:
+3. Understanding or Realizing:
 
-"Ver" can also refer to the act of observing or noticing something.
-Example: "Ele não consegue ver a diferença entre os dois quadros." (He can't see the difference between the two paintings.)
-
-4. Understanding or Realizing:
-
-It can indicate understanding or realizing something, often figuratively.
-Example: "Eu finalmente consigo ver o que você está tentando dizer." (I finally can see what you're trying to say.)
+   - Portuguese: Compreender ou perceber - ex: Eu finalmente consigo ver o que você está tentando dizer.
+   - English: Understanding or realizing - e.g: I finally can see what you're trying to say.
 
 ## Exercises
 
@@ -44,6 +39,6 @@ abc
 
 ## Writing Prompts
 
-1. What is your favourite show to watch?
-2. Do you watch any sports?
-3. How often do you watch movies in the cinema?
+1. Qual é o seu programa de TV favorito? What is your favourite TV show?
+2. Você assiste algum esporte? Do you watch any sports?
+3. Com que frequência você assiste filmes no cinema? How often do you watch movies in the cinema?

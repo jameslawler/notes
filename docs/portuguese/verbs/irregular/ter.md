@@ -20,27 +20,18 @@ The Portuguese verb "ter" means "to have" in English.
 
 1. Possession:
 
-Use "ter" to express ownership or possession of something.
-Example: "Eu tenho um carro." (I have a car.)
-Example: "Eles têm muitos livros." (They have many books.)
+   - Portuguese: Possessão - ex: Eles têm muitos livros.
+   - English: Possession - e.g: They have many books.
 
 2. Relationships and Family:
 
-Use "ter" when talking about relationships or family ties.
-Example: "Eu tenho três irmãos." (I have three brothers.)
-Example: "Ela tem um marido e dois filhos." (She has a husband and two sons.)
+   - Portuguese: Relações e família - ex: Ela tem um marido e dois filhos.
+   - English: Relationships and family - e.g: She has a husband and two sons.
 
 3. Age:
 
-Use "ter" to express age.
-Example: "Ele tem 25 anos." (He is 25 years old.)
-Example: "A menina tem seis anos." (The girl is six years old.)
-
-4. Expressions of Time:
-
-Use "ter" in some expressions of time.
-Example: "Nós temos tempo." (We have time.)
-Example: "Eles têm uma reunião às 3 da tarde." (They have a meeting at 3 PM.)
+   - Portuguese: Idade - ex: Ele tem 25 anos.
+   - English: Age - e.g: He is 25 years old.
 
 ## Exercises
 
@@ -48,6 +39,6 @@ abc
 
 ## Writing Prompts
 
-1. Describe your family tree.
-2. What is the most expensive thing you own?
-3. What do you always have with you?
+1. Descreva sua árvore genealógica. Describe your family tree.
+2. Qual é a coisa mais cara que você possui? What is the most expensive thing you own?
+3. O que você sempre leva com você? What do you always have with you?

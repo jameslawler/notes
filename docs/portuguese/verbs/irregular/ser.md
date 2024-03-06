@@ -20,33 +20,18 @@ The Portuguese verb "ser" means "to be" in English. It is one of the two main ve
 
 1. Identity and Characteristics:
 
-Use "ser" to talk about who someone is or the essential qualities of something.
-Example: "Eu sou estudante." (I am a student.)
-Example: "Ele é inteligente." (He is intelligent.)
+   - Portuguese: Identidade e características - ex: Ele é inteligente.
+   - English: Identity and characteristics - e.g: He is intelligent.
 
 2. Nationality and Origin:
 
-Use "ser" when talking about someone's nationality or place of origin.
-Example: "Ela é portuguesa." (She is Portuguese.)
-Example: "Nós somos de Lisboa." (We are from Lisbon.)
+   - Portuguese: Nacionalidade e origem - ex: Ela é portuguesa.
+   - English: Nationality and origin - e.g: She is Portuguese.
 
-3. Occupations:
+3. Characteristics of Objects:
 
-Use "ser" to talk about someone's profession or occupation.
-Example: "Ele é médico." (He is a doctor.)
-Example: "Eles são professores." (They are teachers.)
-
-4. Time and Dates:
-
-Use "ser" to express the time, days of the week, and specific dates.
-Example: "Hoje é segunda-feira." (Today is Monday.)
-Example: "O meu aniversário é em julho." (My birthday is in July.)
-
-5. Characteristics of Objects:
-
-Use "ser" to describe inherent characteristics of objects.
-Example: "O carro é vermelho." (The car is red.)
-Example: "A casa é grande." (The house is big.)
+   - Portuguese: Características dos objetos - ex: O carro é vermelho.
+   - English: Characteristics of objects - e.g: The car is red.
 
 ## Exercises
 
@@ -54,6 +39,6 @@ abc
 
 ## Writing Prompts
 
-1. Describe yourself (name, nationality, occupation).
-2. When were the major dates of your life.
-3. Describe your house.
+1. Descreva-se (nome, nacionalidade, profissão). Describe yourself (name, nationality, occupation).
+2. Quando foram as datas mais importantes da sua vida? When were the most important dates in your life?
+3. Descreva sua casa. Describe your house.

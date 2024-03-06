@@ -20,21 +20,18 @@ The Portuguese verb "vir" means "to come" in English.
 
 1. Movement Toward the Speaker:
 
-Use "vir" when talking about someone or something coming toward the speaker.
-Example: "Ela vem visitar-nos neste fim de semana." (She is coming to visit us this weekend.)
-Example: "Os amigos vêm para a festa." (The friends are coming to the party.)
+   - Portuguese: Movimento para - ex: Os amigos vêm para a festa.
+   - English: Movement to - e.g: The friends are coming to the party.
 
 2. Origin or Birthplace:
 
-Use "vir" to express where someone or something comes from or originated.
-Example: "Ela vem do Brasil." (She comes from Brazil.)
-Example: "Essa receita vem da minha avó." (This recipe comes from my grandmother.)
+   - Portuguese: Origem ou local de nascimento - ex: Ela vem do Brasil.
+   - English: Origin or birthplace - e.g: She comes from Brazil.
 
-3. Future Plans or Events:
+3. Future Plans:
 
-Use "vir" to indicate future plans or events, similar to "ir" (to go).
-Example: "Eles vêm jantar conosco amanhã." (They are coming to have dinner with us tomorrow.)
-Example: "O concerto vem sendo anunciado há semanas." (The concert has been announced for weeks.)
+   - Portuguese: Planos futuros - ex: Eles vêm jantar conosco amanhã.
+   - English: Future plans - e.g: They are coming to have dinner with us tomorrow.
 
 ## Exercises
 
@@ -42,6 +39,6 @@ abc
 
 ## Writing Prompts
 
-1. Where do you come from?
-2. Where are you going tomorrow?
-3. Where did your favourite recipe come from?
+1. De onde você vem? Where do you come from?
+2. Aonde você vai amanhã? Where are you going tomorrow?
+3. De onde vem sua celebridade favorita? Where does your favourite celebrity come from?

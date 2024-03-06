@@ -20,23 +20,13 @@ The Portuguese verb "sair" translates to "to go out" or "to leave" in English.
 
 1. Leaving a Place:
 
-Use "sair" when you want to talk about leaving or exiting from a specific place.
-Example: "Eu vou sair do trabalho às cinco horas." (I'm going to leave work at five o'clock.)
+   - Portuguese: Deixar um lugar - ex: Eu vou sair do trabalho às cinco horas.
+   - English: Leave a place - e.g: I'm going to leave work at five o'clock.
 
-2. Going Out for Leisure:
+2. Going Out:
 
-It's used to express going out for leisure, entertainment, or socializing.
-Example: "Eles gostam de sair com os amigos aos fins de semana." (They like to go out with friends on weekends.)
-
-3. Exiting or Departing:
-
-"Sair" can also refer to departing from a location or setting.
-Example: "Ela vai sair de casa para ir à escola." (She's going to leave home to go to school.)
-
-4. Resulting in a Departure:
-
-It can indicate an action that results in someone or something leaving.
-Example: "A chuva fez o pássaro sair do ninho." (The rain made the bird leave the nest.)
+   - Portuguese: Sair - ex: Vamos sair!
+   - English: Going out - e.g: Let's go out!
 
 ## Exercises
 
@@ -44,6 +34,6 @@ abc
 
 ## Writing Prompts
 
-1. When do you leave home every morning?
-2. Describe the emergency exit sign.
-3. What do you like to do when you go out?
+1. Quando você sai de casa todas as manhãs? When do you leave home every morning?
+2. Descreva um horário em que você se atrasou para sair pela manhã. Describe a time when you were late to leave in the morning.
+3. Onde você gosta de sair no seu tempo livre? Where do you like to go out in your free time?
