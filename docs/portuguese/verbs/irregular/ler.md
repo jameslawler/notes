@@ -29,6 +29,6 @@ abc
 
 ## Writing Prompts
 
-1. O que você lê todos os dias? What do you read everyday?
-2. Que línguas você consegue ler? What languages can you read?
-3. Com que frequência você lê romances? How often do you read novels?
+1. O que lê todos os dias? What do you read everyday?
+2. Em que línguas consegue ler? What languages can you read?
+3. Com que frequência lê romances? How often do you read novels?

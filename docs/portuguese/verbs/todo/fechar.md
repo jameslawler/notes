@@ -36,4 +36,4 @@ abc
 
 1. O que você fecha antes de sair de casa? What do you close before leaving the house?
 2. Quando o supermercado fecha hoje? When does the supermarket close today?
-3. Qual empresa fecha muito cedo? Which business closes too early?
+3. Que empresa fecha muito cedo? Which business closes too early?

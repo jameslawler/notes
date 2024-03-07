@@ -25,7 +25,7 @@ The Portuguese verb "costumar" translates to "to usually" or "to be accustomed t
 
 2. Talking about Routine:
 
-   - Portuguese: Falar sobre rotina - ex: El costuma ir ao ginásio depois do trabalho.
+   - Portuguese: Falar sobre rotina - ex: Ele costuma ir ao ginásio depois do trabalho.
    - English: Talk about routines - e.g: He usually goes to the gym after work.
 
 ## Exercises
@@ -36,4 +36,4 @@ abc
 
 1. Descreva a sua rotina diária. Describe your daily routine.
 2. Qual é um hábito incomum que você tem? What is an unusual habit you have?
-3. Qual é o hábito que você deseja iniciar no ano novo? What is a habit you want to start in the new year?
+3. Qual é o hábito que você desejaria iniciar no ano novo? What is a habit you want to start in the new year?

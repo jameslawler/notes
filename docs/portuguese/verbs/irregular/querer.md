@@ -25,8 +25,8 @@ The Portuguese verb "querer" translates to "to want" or "to wish" in English.
 
 2. Requests:
 
-   - Portuguese: Pedidos - ex: Você quer por favor passar o sal?
-   - English: Requests - e.g: Would you please pass the salt?
+   - Portuguese: Pedidos - ex: Você quer me passar o sal, por favor?
+   - English: Requests - e.g: Would you please pass me the salt?
 
 ## Exercises
 
@@ -34,6 +34,6 @@ abc
 
 ## Writing Prompts
 
-1. O que você gostaria se fosse rico? What would you want if you were rich?
+1. O que você gostaria de comprar se fosse rico? What would you want to buy if you were rich?
 2. O que você mais queria no Natal quando criança? What did you want the most for Christmas as a child?
 3. O que você quis almoçar hoje? What did you want for lunch today?

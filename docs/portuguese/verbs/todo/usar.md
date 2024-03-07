@@ -35,5 +35,5 @@ abc
 ## Writing Prompts
 
 1. Que tecnologia você usa todos os dias? What technology do you use everyday?
-2. Quais produtos você usa na pele? What products do you use on your skin?
-3. Que roupa você usa em um dia chuvoso? What clothes do you wear on a rainy day?
+2. Quais os produtos para a pele você usa? What products do you use on your skin?
+3. Que roupa você usa num dia chuvoso? What clothes do you wear on a rainy day?

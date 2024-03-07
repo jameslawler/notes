@@ -36,4 +36,4 @@ abc
 
 1. Onde prefere andar a pé? Where do you like to walk?
 2. Qual é o meio de transporte que usa? Which mode of transport do you use?
-3. Para onde vai na próxima féria? Where will you go for your next holiday?
+3. Para onde vai nas próximas férias? Where will you go for your next holiday?

@@ -34,6 +34,6 @@ abc
 
 ## Writing Prompts
 
-1. Que música você ouve? What music do you listen to?
-2. Você tem boa audição? Do you have good hearing?
-3. Você era um bom ouvinte na escola? Were you a good listener at school?
+1. Que música ouve? What music do you listen to?
+2. Tem boa audição? Do you have good hearing?
+3. Era um bom ouvinte na escola? Were you a good listener at school?

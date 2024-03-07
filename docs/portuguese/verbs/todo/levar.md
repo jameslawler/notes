@@ -20,12 +20,12 @@ The Portuguese verb "levar" means "to take" or "to bring" in English.
 
 1. Bringing Something:
 
-   - Portuguese: Levar alguma coise - ex: Tu levas lanches para o piquenique?
+   - Portuguese: Levar alguma coise - ex: Tu levas o lanche para o piquenique?
    - English: Bring something - e.g: Will you bring snacks for the picnic?
 
 2. Transporting People:
 
-   - Portuguese: Transportar pessoas - ex: Nós levamos nossos filhos para a escola de manhã.
+   - Portuguese: Transportar pessoas - ex: Nós levamos os nossos filhos para a escola de manhã.
    - English: Transport people - e.g: We take our children to school in the morning.
 
 3. Conveying Information:
@@ -39,6 +39,6 @@ abc
 
 ## Writing Prompts
 
-1. O que você levou na festa de aniversário de um amigo? What did you bring to a friend's birthday party?
+1. O que você levou à festa de aniversário de um amigo? What did you bring to a friend's birthday party?
 2. O que você levará para o próximo exame de português? What will you bring to your next Portuguese exam?
 3. Como você vai para a aula de português? How do you go to Portuguese class?

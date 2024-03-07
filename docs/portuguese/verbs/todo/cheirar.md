@@ -29,6 +29,6 @@ abc
 
 ## Writing Prompts
 
-1. Descreva os cheiros de algo que comeu hoje. Describe the smells of something you ate today.
-2. Quais são suas flores favoritas? What are your favourite flowers?
+1. Descreva o cheiro de algo que comeu hoje. Describe the smell of something you ate today.
+2. Quais são as suas flores favoritas? What are your favourite flowers?
 3. Descreva o cheiro da chuva? Describe the smell of rain?s

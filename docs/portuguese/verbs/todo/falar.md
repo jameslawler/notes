@@ -35,5 +35,5 @@ abc
 ## Writing Prompts
 
 1. Que línguas você já fala? Which languages can you already speak?
-2. Quais línguas você gostaria de falar no futuro? What languages would you like to speak in the future?
+2. Quais as línguas que você gostaria de falar no futuro? What languages would you like to speak in the future?
 3. Com quem você mais conversou durante a escola? Who did you talk with most during school?

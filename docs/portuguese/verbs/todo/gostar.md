@@ -29,6 +29,6 @@ abc
 
 ## Writing Prompts
 
-1. De quais alimentos você gosta? What foods do you like?
+1. Que alimentos você gosta? What foods do you like?
 2. Onde você gosta de ir nas férias? Where do you like to go on holiday?
-3. Quais são seus hobbies? What are your hobbies?
+3. Quais são as suas atividades nos tempos livres? What are your hobbies?

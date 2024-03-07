@@ -20,12 +20,12 @@ The Portuguese verb "olhar" translates to "to look" or "to watch" in English.
 
 1. Getting attention:
 
-   - Portuguese: Chamar a atenção - ex: Olha!
-   - English: Get attention - e.g: Look!
+   - Portuguese: Chamar a atenção - ex: Olha! O que achas do meu novo corte de cabelo?
+   - English: Get attention - e.g: Look! What do you think of my  new hair cut?
 
 2. Observing or Watching:
 
-   - Portuguese: Observar ou assistir - ex: Eu olhei as estrelas no céu durante a noite.
+   - Portuguese: Observar ou assistir - ex: Eu olhei para as estrelas no céu durante a noite.
    - English: Observe or watch - e.g: I looked at the stars in the sky during the night.
 
 ## Exercises

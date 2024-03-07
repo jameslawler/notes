@@ -30,7 +30,7 @@ The Portuguese verb "vir" means "to come" in English.
 
 3. Future Plans:
 
-   - Portuguese: Planos futuros - ex: Eles vêm jantar conosco amanhã.
+   - Portuguese: Planos futuros - ex: Eles vêm jantar connosco amanhã.
    - English: Future plans - e.g: They are coming to have dinner with us tomorrow.
 
 ## Exercises
@@ -41,4 +41,4 @@ abc
 
 1. De onde você vem? Where do you come from?
 2. Aonde você vai amanhã? Where are you going tomorrow?
-3. De onde vem sua celebridade favorita? Where does your favourite celebrity come from?
+3. De onde vem a sua celebridade favorita? Where does your favourite celebrity come from?

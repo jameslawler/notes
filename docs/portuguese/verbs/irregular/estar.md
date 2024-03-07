@@ -39,6 +39,6 @@ abc
 
 ## Writing Prompts
 
-1. Como você está se sentindo hoje? How are you feeling today?
+1. Como se está a sentir hoje? How are you feeling today?
 2. Qual será o tempo amanhã? What is the weather meant to be tomorrow?
 3. Onde você está agora? Where are you right now?

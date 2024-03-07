@@ -20,7 +20,7 @@ The Portuguese verb "ver" translates to "to see" or "to watch" in English.
 
 1. Watching Visual Content:
 
-   - Portuguese: Assistindo conteúdo visual - ex: Nós vamos ver um filme no cinema.
+   - Portuguese: Assistir a conteúdo visual - ex: Nós vamos ver um filme ao cinema.
    - English: Watching visual content - e.g: We're going to watch a movie at the cinema.
 
 2. Observing or Noticing:
@@ -30,7 +30,7 @@ The Portuguese verb "ver" translates to "to see" or "to watch" in English.
 
 3. Understanding or Realizing:
 
-   - Portuguese: Compreender ou perceber - ex: Eu finalmente consigo ver o que você está tentando dizer.
+   - Portuguese: Compreender ou perceber - ex: Eu finalmente consigo ver o que você está a tentar dizer.
    - English: Understanding or realizing - e.g: I finally can see what you're trying to say.
 
 ## Exercises
@@ -40,5 +40,5 @@ abc
 ## Writing Prompts
 
 1. Qual é o seu programa de TV favorito? What is your favourite TV show?
-2. Você assiste algum esporte? Do you watch any sports?
-3. Com que frequência você assiste filmes no cinema? How often do you watch movies in the cinema?
+2. Você assiste a algum desporto? Do you watch any sports?
+3. Com que frequência você assiste a filmes no cinema? How often do you watch movies in the cinema?

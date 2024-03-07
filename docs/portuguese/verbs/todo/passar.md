@@ -25,7 +25,7 @@ The Portuguese verb "passar" can mean "to pass," "to spend," or "to go by" depen
 
 2. Spending Time:
 
-   - Portuguese: Passar tempo - ex: Tu passas muito tempo estudando.
+   - Portuguese: Passar tempo - ex: Tu passas muito tempo a estudar.
    - English: Spend time - e.g: You spend a lot of time studying.
 
 ## Exercises
@@ -34,6 +34,6 @@ abc
 
 ## Writing Prompts
 
-1. Dê instruções sobre como você vai de casa até uma loja local. Give directions for how you go from home to a local shop.
-2. O que você gosta de passar seu tempo fazendo? What do you enjoy spending your time doing?
+1. Dê instruções sobre como você vai de casa até uma loja perto de sua casa. Give directions for how you go from home to a local shop.
+2. O que você gosta de passar o seu tempo? What do you enjoy spending your time doing?
 3. Quando foi a última vez que você passou por um parque? When was the last time you went through a park?

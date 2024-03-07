@@ -30,7 +30,7 @@ The Portuguese verb "dever" means "to owe" or "to must" in English.
 
 3. Being Expected to Do Something:
 
-   - Portuguese: Espera-se que faça algo - ex: Ela deve estudar para a prova.
+   - Portuguese: Espera-se que faça algo - ex: Ela deve estudar para o exame.
    - English: Expected to do something - e.g: She should study for the test.
 
 ## Exercises

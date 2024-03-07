@@ -40,5 +40,5 @@ abc
 ## Writing Prompts
 
 1. Descreva-se (nome, nacionalidade, profissão). Describe yourself (name, nationality, occupation).
-2. Quando foram as datas mais importantes da sua vida? When were the most important dates in your life?
+2. Quais foram as datas mais importantes da sua vida? Which were the most important dates in your life?
 3. Descreva sua casa. Describe your house.

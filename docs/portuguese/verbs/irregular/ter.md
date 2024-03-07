@@ -41,4 +41,4 @@ abc
 
 1. Descreva sua árvore genealógica. Describe your family tree.
 2. Qual é a coisa mais cara que você possui? What is the most expensive thing you own?
-3. O que você sempre leva com você? What do you always have with you?
+3. O que você sempre leva consigo? What do you always have with you?

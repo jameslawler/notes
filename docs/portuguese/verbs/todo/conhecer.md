@@ -40,5 +40,5 @@ abc
 ## Writing Prompts
 
 1. Com quem você se encontrou ontem? Who did you meet with yesterday?
-2. Como você conheceu seu melhor amigo? How did you meet your best friend?
-3. Sobre quais assuntos você deseja aprender mais? Which subjects do you want to learn more about?
+2. Como você conheceu o seu melhor amigo? How did you meet your best friend?
+3. Sobre quais assuntos você mais quer aprender? Which subjects do you want to learn more about?

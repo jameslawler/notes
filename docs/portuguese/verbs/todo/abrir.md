@@ -25,7 +25,7 @@ The Portuguese verb "abrir" means "to open" in English.
 
 2. Open an event / ceremony
 
-   - Portuguese: Abrir um evento ou cerimónia - ex: Nós abrimos a festa com uma dança.
+   - Portuguese: Abrir um evento ou uma cerimónia - ex: Nós abrimos a festa com uma dança.
    - English: Open an event or ceremony - e.g: We open the party with a dance.
 
 3. Open an account
@@ -39,6 +39,6 @@ abc
 
 ## Writing Prompts
 
-1. Quais alimentos abriu hoje? What food items did you open today?
-2. Abriu algum e-mail ou arquivo hoje? Did you open any emails or files today?
+1. Quais os alimentos que abriu hoje? What food items did you open today?
+2. Abriu algum e-mail ou arquivo ontem? Did you open any emails or files today?
 3. Descreva um momento em que você se abriu emocionalmente. Describe a time when you opened up emotionally.

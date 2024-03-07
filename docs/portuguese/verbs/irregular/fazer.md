@@ -34,6 +34,6 @@ abc
 
 ## Writing Prompts
 
-1. O que você gosta de fazer com seus amigos? What do you like to do with your friends?
-2. O que você criou com as mãos? What have you created with your hands?
+1. O que gosta de fazer com seus amigos? What do you like to do with your friends?
+2. O que criou manualmente? What have you created with your hands?
 3. Descreva o clima no verão. Describe the weather in summer.

@@ -28,11 +28,6 @@ The Portuguese verb "haver" means "to have" or "to exist" in English.
    - Portuguese: Referir-se ao tempo - ex: Há muito tempo que não nos vemos.
    - English: Refer to time - e.g: It has been a long time since we last saw each other.
 
-3. Talking about Past Events:
-
-   - Portuguese: falar sobre eventos passados - ex: Eles houveram muitos desafios na viagem.
-   - English: Talk about past events - e.g: They had many challenges during the trip.
-
 ## Exercises
 
 abc
@@ -40,5 +35,5 @@ abc
 ## Writing Prompts
 
 1. Há quanto tempo você mora na sua casa atual? How long have you live at your current house?
-2. Quando será sua próxima reunião importante? When is your next important meeting?
+2. Quando será a sua próxima reunião importante? When is your next important meeting?
 3. O que aconteceu ontem? What happened yesterday?

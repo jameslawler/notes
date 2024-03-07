@@ -35,5 +35,5 @@ abc
 ## Writing Prompts
 
 1. Quando você sai de casa todas as manhãs? When do you leave home every morning?
-2. Descreva um horário em que você se atrasou para sair pela manhã. Describe a time when you were late to leave in the morning.
+2. Descreva uma vez em que você se atrasou para sair de manhã. Describe a time when you were late to leave in the morning.
 3. Onde você gosta de sair no seu tempo livre? Where do you like to go out in your free time?

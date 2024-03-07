@@ -42,4 +42,4 @@ abc
 
 1. Liste as bebidas que você normalmente ingere em cada refeição. List the drinks you typically have with each meal.
 2. Descreva os medicamentos que lhe foram administrados na última vez que esteve doente. Describe the medicines you were given the last time you were sick.
-3. Qual foi uma decisão importante que você tomou recentemente? What was an important decision you made recently?
+3. Que decisão importante você tomou recentemente? What was an important decision you made recently?

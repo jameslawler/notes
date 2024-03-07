@@ -31,4 +31,4 @@ abc
 
 1. Qual é a sua bebida preferida? What is your favourite drink?
 2. Com que frequência bebe água? How often do you drink water?
-3. Descreva quais bebidas são saudáveis e não saudáveis. Describe which drinks are healthy and unhealthy.
+3. Descreva quais as bebidas que são saudáveis e não são saudáveis. Describe which drinks are healthy and unhealthy.

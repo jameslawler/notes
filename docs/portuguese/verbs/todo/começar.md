@@ -36,4 +36,4 @@ abc
 
 1. Como começa o dia? How do you start your day?
 2. Como você se prepara para um teste? How do you prepare for a test?
-3. Descreva a sua viagem de casa até ao supermercado local. Describe your journey from home to the local supermarket.
+3. Descreva a sua viagem de casa até ao supermercado. Describe your journey from home to the supermarket.

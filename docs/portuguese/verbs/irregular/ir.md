@@ -34,6 +34,6 @@ abc
 
 ## Writing Prompts
 
-1. Descreva como ir de sua casa até o correio. Describe how to get from your house to the post office.
+1. Descreva como ir de sua casa até aos correios. Describe how to get from your house to the post office.
 2. Quais são seus planos para o próximo ano? What are your plans for next year?
 3. Aonde você foi hoje? Where did you go today?

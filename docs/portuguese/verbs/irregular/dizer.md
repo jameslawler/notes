@@ -20,7 +20,7 @@ The Portuguese verb "dizer" translates to "to say" or "to tell" in English.
 
 1. Speech:
 
-   - Portuguese: Falar - ex: Ela disse que a reunião é às 2 da tarde.
+   - Portuguese: Falar - ex: Ela disse que a reunião é às 2h da tarde.
    - English: Speech - e.g: She said the meeting is at 2 PM.
 
 2. Expressing Thoughts:
@@ -34,6 +34,6 @@ abc
 
 ## Writing Prompts
 
-1. Escreva um diálogo de conto curto com duas pessoas conversando. Write a short story dialog with two people talking to each other.
+1. Escreva um diálogo de conto curto com duas pessoas a conversar. Write a short story dialog with two people talking to each other.
 2. O que você costuma dizer antes de fazer uma refeição? What do you typically say before eating a meal?
 3. O que você diria a alguém sobre seu livro favorito? What would you tell someone about your favourite book?

@@ -30,8 +30,8 @@ The Portuguese verb "acabar" translates to "to finish" or "to end" in English.
 
 3. Ending a Conversation:
 
-   - Portuguese: Acabar uma conversa - ex: Tu acabas a conversa de repente.
-   - English: End a conversation - e.g: You end the conversation suddenly.
+   - Portuguese: Acabar uma conversa - ex: Tu acabaste a conversa de repente.
+   - English: End a conversation - e.g: You ended the conversation suddenly.
 
 ## Exercises
 
@@ -39,6 +39,6 @@ abc
 
 ## Writing Prompts
 
-1. Quais as tarefas acaba todos os dias? Which tasks do you finish everyday?
+1. Quais as tarefas que acaba todos os dias? Which tasks do you finish everyday?
 2. Como prefere acabar o seu dia? How do you like to finish your day?
 3. Quando acaba o seu trabalho? When do you finish work?

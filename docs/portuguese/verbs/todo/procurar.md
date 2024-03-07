@@ -27,7 +27,7 @@ The Portuguese verb
 
 2. Look for a Solution:
 
-   - Portuguese: Procurar uma solução - ex: Nós procuramos uma solução para o problema há dias.
+   - Portuguese: Procurar uma solução - ex:Há dias que nós procuramos uma solução para o problema .
    - English: Look for a solution - We have been looking for a solution to the problem for days.
 
 ## Exercises
