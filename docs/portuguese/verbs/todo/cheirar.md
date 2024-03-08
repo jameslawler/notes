@@ -31,4 +31,4 @@ abc
 
 1. Descreva o cheiro de algo que comeu hoje. Describe the smell of something you ate today.
 2. Quais são as suas flores favoritas? What are your favourite flowers?
-3. Descreva o cheiro da chuva? Describe the smell of rain?s
+3. Descreva o cheiro da chuva? Describe the smell of rain?

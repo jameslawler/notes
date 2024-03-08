@@ -20,8 +20,8 @@ The Portuguese verb "mudar" means "to change" or "to move" in English.
 
 1. Changing a Habit or Behavior:
 
-   - Portuguese: Alterar um hábito ou comportamento - ex: Eu mudei a minha dieta para uma alimentação mais saudável.
-   - English: Change a habit or behaviour - e.g: I changed my diet to a healthier one.
+   - Portuguese: Alterar um hábito - ex: Eu mudei a minha dieta.
+   - English: Change a habit - e.g: I changed my diet.
 
 2. Moving to a New Place:
 

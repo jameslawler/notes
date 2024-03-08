@@ -18,25 +18,20 @@ The Portuguese verb "partir" means "to leave" or "to depart" in English.
 
 ## Daily Usages
 
-1. Leaving a Place:
-
-   - Portuguese: Sair de um lugar - ex: Eu parti de casa cedo para apanhar o autocarro.
-   - English: Leave a place - e.g: I left home early to catch the bus.
-
-2. Starting a Journey:
+1. Starting a Journey:
 
    - Portuguese: Começar uma jornada - ex: Ele parte para a Europa na próxima semana.
    - English: Start a journey - e.g: He leaves for Europe next week.
 
-3. Breaking something:
+2. Breaking something:
 
-   - Portuguese: partir um objeto - ex: Tu partiste a mesa.
-   - English: to break an object - e.g: You broke the table.
+   - Portuguese: Partir um objeto - ex: Tu partiste a mesa.
+   - English: Break an object - e.g: You broke the table.
 
-4. Dividing
+3. Dividing
 
-   - Portuguese: dividir comida - ex: Eu dividi o bolo a meio.
-   - English: divide food - e.g: I divided the cake in half.
+   - Portuguese: Dividir comida - ex: Eu parti o bolo a meio.
+   - English: Divide food - e.g: I divided the cake in half.
 
 ## Exercises
 

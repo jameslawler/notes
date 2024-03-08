@@ -34,6 +34,6 @@ abc
 
 ## Writing Prompts
 
-1. Há quanto tempo você mora na sua casa atual? How long have you live at your current house?
+1. Há quanto tempo você mora na sua casa atual? How long have you lived at your current house?
 2. Quando será a sua próxima reunião importante? When is your next important meeting?
 3. O que aconteceu ontem? What happened yesterday?

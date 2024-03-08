@@ -30,7 +30,7 @@ The Portuguese verb "levar" means "to take" or "to bring" in English.
 
 3. Conveying Information:
 
-   - Portuguese: transmitir informações - ex: Vocês levarão as notícias ao chefe imediatamente.
+   - Portuguese: Transmitir informações - ex: Vocês levarão as notícias ao chefe imediatamente.
    - English: Convey information - e.g: You will bring the news to the boss immediately.
 
 ## Exercises

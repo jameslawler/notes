@@ -20,7 +20,7 @@ The Portuguese verb "ficar" means "to stay" or "to remain" in English.
 
 1. Staying in a Place:
 
-   - Portuguese: ficar num lugar - ex: Eu fiquei em casa durante o fim de semana.
+   - Portuguese: Ficar num lugar - ex: Eu fiquei em casa durante o fim de semana.
    - English: Stay in a place - e.g: I stayed at home during the weekend.
 
 2. Keeping an Item:
@@ -28,10 +28,11 @@ The Portuguese verb "ficar" means "to stay" or "to remain" in English.
    - Portuguese: Manter um objeto - ex: Ela ficou com o livro após a leitura.
    - English: Keep an item - e.g: She kept the book after reading it.
 
-3. Location 
+3. Location
 
-- Portuguese: onde se localiza - ex: Onde fica o hospital?
-   - English: where something is - e.g: Where is the hospital?
+   - Portuguese: Onde se localiza - ex: Onde fica o hospital?
+   - English: Where something is - e.g: Where is the hospital?
+
 ## Exercises
 
 abc

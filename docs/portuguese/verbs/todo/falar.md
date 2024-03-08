@@ -25,8 +25,8 @@ The Portuguese verb "falar" means "to speak" or "to talk" in English.
 
 2. Conversing with Others:
 
-   - Portuguese: Conversar com outras pessoas - ex: Nós falamos sobre o tempo durante o almoço.
-   - English: Converse with others - e.g: We talk about the weather during lunch.
+   - Portuguese: Conversar com outras pessoas - ex: Nós falamos sobre o tempo.
+   - English: Converse with others - e.g: We talk about the weather.
 
 ## Exercises
 

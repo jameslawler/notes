@@ -30,8 +30,8 @@ The Portuguese verb "contar" means "to count" or "to tell" in English.
 
 3. Telling Stories
 
-- Portuguese: Contar histórias - ex: Eles contaram uma história de terror.
-- English: Tell stories - e.g: They told a scary story.
+   - Portuguese: Contar histórias - ex: Eles contaram uma história de terror.
+   - English: Tell stories - e.g: They told a scary story.
 
 ## Exercises
 
@@ -39,6 +39,6 @@ abc
 
 ## Writing Prompts
 
-1. Há alguma coisa que você conte todos os dias? what are some things you count everyday?
+1. Há alguma coisa que você conte todos os dias? What are some things you count everyday?
 2. Descreva um momento em que compartilhou boas notícias. Describe a time when you shared good news.
 3. Como partilha notícias com seus amigos? How do you share news with your friends?

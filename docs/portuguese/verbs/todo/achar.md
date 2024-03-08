@@ -25,8 +25,8 @@ The Portuguese verb "achar" translates to "to find" or "to think" in English.
 
 2. Thinking or Believing:
 
-   - Portuguese: "Tu achas que ele está certo?"
-   - English: "Do you think he is right?"
+   - Portuguese: Pensar ou acreditar - ex: Tu achas que ele está certo?
+   - English: Think or believe - e.g: Do you think he is right?
 
 3. Discovering a Solution:
 

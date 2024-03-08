@@ -30,7 +30,7 @@ The Portuguese verb "entrar" means "to enter" or "to come in" in English.
 
 3. Joining an Organization:
 
-   - Portuguese: ingressar numa organização - ex: Eles entraram na empresa no ano passado.
+   - Portuguese: Ingressar numa organização - ex: Eles entraram na empresa no ano passado.
    - English: Join an organiztation - e.g: They entered the company last year.
 
 ## Exercises

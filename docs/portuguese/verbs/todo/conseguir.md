@@ -35,5 +35,5 @@ abc
 ## Writing Prompts
 
 1. Descreva uma meta difícil que você alcançou. Describe a difficult goal you achieved.
-2. O que fez hoje antes do almoço? What small things did you do today before lunch?
+2. O que fez hoje antes do almoço? What things did you do today before lunch?
 3. O que você tentará fazer amanhã? What will you try do tomorrow?

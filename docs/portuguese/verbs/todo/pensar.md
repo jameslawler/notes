@@ -30,8 +30,8 @@ The Portuguese verb "pensar" means "to think" or "to consider" in English.
 
 3. Planning Future Actions:
 
-   - Portuguese: Planear ações futuras - ex: Nós pensamos viajar para o estrangeiro no próximo ano.
-   - English: Plan future actions - e.g: We plan to travel abroad next year.
+   - Portuguese: Planear ações futuras - ex: Nós pensamos viajar para o estrangeiro.
+   - English: Plan future actions - e.g: We plan to travel abroad.
 
 ## Exercises
 

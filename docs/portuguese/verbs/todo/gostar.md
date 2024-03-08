@@ -20,8 +20,8 @@ The Portuguese verb "gostar" means "to like" in English.
 
 1. Stating Likes:
 
-   - Portuguese: compartilhe o que você gosta - ex: Tu gostas de música clássica?
-   - English: Share what you like - e.g: Do you like classical music?
+   - Portuguese: Compartilhe o que você gosta - ex: Eu gosto de música clássica.
+   - English: Share what you like - e.g: I like classical music.
 
 ## Exercises
 
