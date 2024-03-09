@@ -8,13 +8,13 @@ The Portuguese verb "sair" translates to "to go out" or "to leave" in English.
 
 ## Conjugations
 
-|                 | Past       | Present | Future    |
-| --------------- | ---------- | ------- | --------- |
-| eu              | _soube_    | _sei_   | saberei   |
-| tu              | _soubeste_ | sabes   | saberás   |
-| ele/ela/você    | _soube_    | sabe    | saberá    |
-| nós             | _soubemos_ | sabemos | saberemos |
-| eles/elas/vocês | _souberam_ | sabem   | saberão   |
+|                 | Past     | Present  | Future   |
+| --------------- | -------- | -------- | -------- |
+| eu              | _saí_    | _saio_   | sairei   |
+| tu              | _saíste_ | _sais_   | sairás   |
+| ele/ela/você    | saiu     | _sai_    | sairá    |
+| nós             | _saímos_ | _saímos_ | sairemos |
+| eles/elas/vocês | _saíram_ | _saem_   | sairão   |
 
 ## Daily Usages
 

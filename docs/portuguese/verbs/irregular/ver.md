@@ -30,8 +30,8 @@ The Portuguese verb "ver" translates to "to see" or "to watch" in English.
 
 3. Understanding or Realizing:
 
-   - Portuguese: Compreender ou perceber - ex: Eu finalmente consigo ver o que você está a tentar dizer.
-   - English: Understanding or realizing - e.g: I finally can see what you're trying to say.
+   - Portuguese: Compreender - ex: Eu finalmente consigo ver o que você está a tentar dizer.
+   - English: Understanding - e.g: I finally can see what you're trying to say.
 
 ## Exercises
 

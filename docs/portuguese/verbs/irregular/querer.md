@@ -36,4 +36,4 @@ abc
 
 1. O que você gostaria de comprar se fosse rico? What would you want to buy if you were rich?
 2. O que você mais queria no Natal quando criança? What did you want the most for Christmas as a child?
-3. O que você quis almoçar hoje? What did you want for lunch today?
+3. O que você quer para o almoço amanhã? What do you want for lunch tomorrow?
