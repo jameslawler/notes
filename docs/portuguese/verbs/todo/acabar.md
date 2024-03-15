@@ -35,7 +35,21 @@ The Portuguese verb "acabar" translates to "to finish" or "to end" in English.
 
 ## Exercises
 
-abc
+Order the words
+
+o livro / tu / de / ler / te emprestei? / que / acabas
+para / ela acaba / de sair / encontrar / os amigos
+de / ao filme / assistir / no cinema / nós acabamos
+eu / de / para / estudar / matemática / o / de/ exame/ acabei
+o jantar / de / eles / acabaram / fazer
+
+Use correct verb conjugation
+
+O Pedro e a Ana (acabar) o trabalho tarde todas as noites.
+Eu (acabar) por não entender a aula de história.
+Tu ainda não (acabar) de fazer as tuas tarefas domésticas?
+Ele (acabar) de chegar da viagem.
+O filme (acabar) cedo.
 
 ## Writing Prompts
 

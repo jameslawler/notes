@@ -25,7 +25,21 @@ The Portuguese verb "beber" translates to "to drink" in English.
 
 ## Exercises
 
-abc
+Use correct verb conjugation
+
+1. Eu (beber) água todos os dias para me manter hidratado.
+2. Tu (beber) sumo de laranja ao pequeno-almoço.
+3. Ela (beber) café todas as manhãs para despertar.
+4. Nós (beber) chá quente nos dias frios de inverno.
+5. Eles (beber) água fresca quando estão com sede.
+
+Order the words in a sentence
+
+1. o jantar / elas / durante / vinho / bebem / tinto
+2. refrigerante / eu / não / porque / bebo / é / saúde /prejudicial / para / a
+3. porque / de / tu / bebes / álcool / és / menor / idade /não
+4. não / bebe / intolerante / à / lactose / ele / leite / porque / é
+5. dormir / para / nós / bebemos / café / à / noite / para / evitar / dificuldades / não
 
 ## Writing Prompts
 
