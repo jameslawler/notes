@@ -45,11 +45,11 @@ e. estranhos / para / nós / abrimos / não / a porta -> nós não abrimos a por
 
 Use correct verb conjugation
 
-Nós (abrir) a porta do carro e saímos. -> abrimos
-Tu (abrir) a janela de manhã. -> abres
-Eu (abrir) a loja amanhã cedo. -> abrirei
-Ela (abrir) o livro para estudar. -> abre
-Eles (abrir) a janela para arejar o quarto. -> abriram
+Nós (abrimos) a porta do carro e saímos.
+Tu (abres) a janela de manhã.
+Eu (abrirei) a loja amanhã cedo.
+Ela (abre) o livro para estudar.
+Eles (abriram) a janela para arejar o quarto.
 
 ## Writing Prompts
 

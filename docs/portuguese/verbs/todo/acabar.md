@@ -37,11 +37,11 @@ The Portuguese verb "acabar" translates to "to finish" or "to end" in English.
 
 Order the words
 
-o livro / tu / de / ler / te emprestei? / que / acabas
-para / ela acaba / de sair / encontrar / os amigos
-de / ao filme / assistir / no cinema / nós acabamos
-eu / de / para / estudar / matemática / o / de/ exame/ acabei
-o jantar / de / eles / acabaram / fazer
+o livro / tu / de / ler / te emprestei? / que / acabas -> tu acabas der ler o livro que te emprestei?
+para / ela acaba / de sair / encontrar / os amigos -> ela acaba
+de / ao filme / assistir / no cinema / nós acabamos -> nós acabamos
+eu / de / para / estudar / matemática / o / de / exame / acabei ->
+o jantar / de / eles / acabaram / fazer -> eles acabaram de fazer o jantar
 
 Use correct verb conjugation
 

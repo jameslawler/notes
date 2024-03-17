@@ -12,7 +12,7 @@ Below are the instructions for conjugating a regular verb in the different tense
 | --------------- | ----- | ----- | ----- |
 | eu              | -ei   | -i    | -i    |
 | tu              | -aste | -este | -iste |
-| ele/ela/você    | -ou   | -iu   | -iu   |
+| ele/ela/você    | -ou   | -eu   | -iu   |
 | nós             | -ámos | -emos | -imos |
 | eles/elas/vocês | -aram | -eram | -iram |
 
