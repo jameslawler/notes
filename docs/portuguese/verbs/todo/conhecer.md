@@ -35,7 +35,21 @@ The Portuguese verb "conhecer" means "to know" or "to meet" in English.
 
 ## Exercises
 
-abc
+Use correct verb conjugation:
+
+Nós (conhecemos) pessoas interessantes nas viagens.
+Eu (conheci) o meu melhor amigo na escola primária.
+Tu (conheceste) o museu de arte moderna na semana passada.
+Nós (conhecemos) a capital de Portugal durante as férias.
+Eu (conhecerei) Paris no próximo verão.
+
+Order the words:
+
+conheço / bem / cidade / esta / eu -> eu conheço bem esta cidade
+tu / novo / o projeto / de / arquitetura / breve / conhecerás / em -> Eu breve tu conhecerás o novo porojeto de arquitetura.
+conheceremos / novo / o restaurante / italiano / nós -> nós conheceremos o novo restaurante italiano.
+ele / sua / a namorada / numa / festa / há / dois / anos / conheceu -> Ele conheceu a sua namorada numa festa há dois anos
+dela / elas / os pais / no / próximo / fim de semana / conhecerão -> Elas conhecerão os pais dela no próximo fim de semana
 
 ## Writing Prompts
 

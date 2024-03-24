@@ -41,11 +41,11 @@ Num dia ensolarado, Pedro achou que seria perfeito para um piquenique no (parque
 
 Story with true / false
 
-O Pedro quis fazer um jantar com a Joana - V ou F
-Esteve sempre sol ao longo do dia - V ou F
-O Pedro encontrou o guarda-chuva na varanda - V ou F
-Joana e Pedro cancelaram os planos - V ou F
-O tempo era previsível - V ou F
+O Pedro quis fazer um jantar com a Joana - False
+Esteve sempre sol ao longo do dia - False
+O Pedro encontrou o guarda-chuva na garagem - True
+Joana e Pedro cancelaram os planos - False
+O tempo era imprevisível - True
 
 ## Writing Prompts
 

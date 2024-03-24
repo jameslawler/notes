@@ -30,7 +30,21 @@ The Portuguese verb "fechar" translates to "to close" in English.
 
 ## Exercises
 
-abc
+Use correct verb conjugation
+
+Eu (fechei) a mala antes de viajar.
+Tu (fechas) a porta quando sais do quarto.
+Ele (fechará) a conta no restaurante antes de ir embora.
+Nós (fecharemos) a porta da garagem quando chegarmos a casa.
+Eles (fecham) o livro e desliga a luz antes de dormir.
+
+Order the words in a sentence
+
+fechamos / ao / final / do / a loja / dia / nós -> Nós fechamos a loja ao final do dia.
+a porta / tu / fechaste / com / força / saíste / quando -> Tu fechaste a porta com força quando saíste.
+atividade / ele / a empresa / depois / fechou / de / anos / de -> Ele fechou a empresa depois de anos de atividade.
+fecharei / a porta / de / sair / antes / eu -> Eu fecharei a porta antes de sair.
+tu / a janela / à noite / evitar / o frio / para / fecharás -> Tu fecharás a janela à noite para evitar o frio.
 
 ## Writing Prompts
 

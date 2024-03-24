@@ -30,7 +30,17 @@ The Portuguese verb "falar" means "to speak" or "to talk" in English.
 
 ## Exercises
 
-abc
+Fill in missing word
+
+Na arena política, é fundamental que (os líderes) falem com clareza e convicção para transmitir as suas ideias e influenciar o público. Os discursos políticos têm o poder de inspirar e mobilizar as massas em torno de uma causa comum. Os debates (parlamentares) são oportunidades para os representantes discutirem questões importantes e apresentarem (soluções). Além disso, as entrevistas televisivas e as conferências de (imprensa) permitem aos políticos comunicarem diretamente com os cidadãos e responderem às suas preocupações. A habilidade de (falar) de forma persuasiva é essencial para ganhar (apoio) e alcançar os objetivos (políticos).
+
+Story with true / false
+
+Os líderes falam com clareza - V ou F
+Os discursos políticos inspiram as massas - V ou F
+Nos debates parlamentares não se discutem questões importantes - V ou F
+As conferências de imprensa permitem aos políticos comunicarem indiretamente - V ou F
+A persuasão é essencial para ganhar apoio - V ou F
 
 ## Writing Prompts
 

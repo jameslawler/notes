@@ -35,7 +35,21 @@ The Portuguese verb "entrar" means "to enter" or "to come in" in English.
 
 ## Exercises
 
-abc
+Use correct verb conjugation:
+
+Eu (entrarei) no escritório mais cedo amanhã.
+Elas (entram) na sala de aula todas as manhãs.
+Tu (entraste) no supermercado para fazer as compras.
+Nós (entrámos) na festa e cumprimentámos os amigos.
+Ele (entrará) no escritório às oito horas.
+
+Order the words in a sentence:
+
+elas / no carro / e / partiram para / entraram / a viagem -> Elas entraram no carro e partiram para a viagem.
+entramos / para / ver / um filme / nós / no cinema -> Nós entramos no cinema para ver um filme.
+entrarás / na universidade / tu / ano / no próximo -> Tu entrarás na universidade no próximo ano.
+no concurso / ele / entrará / ganhar / o prémio / para -> Ele entrará no concurso para ganhar o prémio.
+eu / entrei / para / almoçar / ontem / no restaurante -> Eu entrei no restaurante para almoçar ontem.
 
 ## Writing Prompts
 

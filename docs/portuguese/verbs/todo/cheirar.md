@@ -25,7 +25,21 @@ The Portuguese verb "cheirar" means "to smell" in English.
 
 ## Exercises
 
-abc
+Use correct verb conjugation:
+
+Eu (cheirei) as especiarias na feira.
+Tu (cheiras) a comida a fazer na cozinha.
+Nós (cheirámos) o perfume da primavera no jardim.
+Elas (cheiraram) o bolo de chocolate que a avó fez.
+Ele (cheirará) o perfume novo quando o comprar.
+
+Order the words in a sentence:
+
+ele / o café / acabado / fazer / de / cheira -> ele cheira o café acabado de fazer.
+eu / as rosas / no jardim / cheirarei / amanhã -> Eu cheirarei as rosas no jardim,amanhã.
+durante / ele / cheirou / o ar / da montanha / as férias / fresco -> Ele cheirou o ar fresco da montanha durante as férias
+cheirarás / que / farei / o teu / aniversário / para / o bolo / tu -> Tu cheirarás o bolo que farei para o teu aniversário
+cheiraremos / a comida / estará / a cozinhar / no restaurante / nós / que -> Nós cheiraremos a comida que estará a cozinhar no restaurante
 
 ## Writing Prompts
 

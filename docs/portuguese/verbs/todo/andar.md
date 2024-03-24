@@ -32,26 +32,26 @@ The Portuguese verb "andar" translates to "to walk" or "to go" in English.
 
 Use correct verb conjugation
 
-1. Eu não (andar) de carro para evitar o trânsito.
-2. Tu não (andar) de avião porque tens medo de voar.
-3. Ele (andar) de autocarro todos os dias.
-4. Nós não (andar) de elevador porque gostamos de subir escadas.
-5. Ontem eles (andar) de mota com o primo mais velho.
+1. Eu não (ando) de carro para evitar o trânsito.
+2. Tu não (andas) de avião porque tens medo de voar.
+3. Ele (anda) de autocarro todos os dias.
+4. Nós não (andamos) de elevador porque gostamos de subir escadas.
+5. Ontem eles (andaram) de mota com o primo mais velho.
 
 Order the words in a sentence
 
-1. eu / no / parque / ando / aos fins de / de bicicleta / semana
-2. nós / pela / cidade / para / os monumentos / conhecer / andamos
-3. tu / de carro / até / na / semana / passada / ao supermercado / andaste
-4. ela / andou / floresta / o acampamento / pela / durante
-5. último / vizinha / Nós / de / comboio / até / no / fim / de / semana / andámos / à cidade
+1. eu / no / parque / ando / aos fins de / de bicicleta / semana -> eu ando de bicicleta no parque aos fins de semana
+2. nós / pela / cidade / para / os monumentos / conhecer / andamos -> nós andamos pela cidade para conhecer os monumentos
+3. tu / de carro / até / na / semana / passada / ao supermercado / andaste -> tu andaste de carro até ao supermercado na semana passada
+4. ela / andou / floresta / o acampamento / pela / durante -> ela andou pela floresta durante o acampamento
+5. último / vizinha / nós / de / comboio / até / no / fim / de / semana / andámos / à cidade -> nós andámos de comboio até à cidade vizinha no último fim de semana
 
 Connect the sentences
 
-1. Tu andas de bicicleta ---------------aos fins de semana.
-2. Ele anda com a cadela------------------ no parque todas as tardes.
-3. Nós andamos à volta da cidade----------------- a pé.
-4. Elas andam pela floresta--------------- para apreciar a natureza.
+1. Tu andas de bicicleta --------------- aos fins de semana.
+2. Ele anda com a cadela --------------- no parque todas as tardes.
+3. Nós andamos à volta da cidade --------------- a pé.
+4. Elas andam pela floresta --------------- para apreciar a natureza.
 
 ## Writing Prompts
 

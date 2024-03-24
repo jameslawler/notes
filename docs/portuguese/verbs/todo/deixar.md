@@ -30,7 +30,21 @@ The Portuguese verb "deixar" translates to "to let" or "to allow" in English.
 
 ## Exercises
 
-abc
+Use correct verb conjugation
+
+Eu (deixo) a chave na entrada todas as manhãs.
+Tu (deixas) o carro estacionado à porta de casa.
+Ele (deixou) o emprego no mês passado.
+Nós (deixámos) os documentos no escritório.
+Eu (deixarei) a porta aberta para ti.
+
+Order the words in a sentence
+
+ele / o trabalho / às / da tarde / deixa / seis -> Ele deixa o trabalho às seis da tarde.
+o dia / nós / deixamos / as janelas / durante / abertas -> Nós deixamos as janelas abertas durante o dia.
+do tapete / eles / deixarão / as chaves / debaixo -> Eles deixarão as chaves debaixo do tapete.
+deixei / eu / no / o guarda-chuva / restaurante / ontem -> Eu deixei o guarda-chuva no restaurante ontem.
+tu / o livro / na / biblioteca na / passada / semana / deixaste -> Tu deixaste o livro na biblioteca na semana passada.
 
 ## Writing Prompts
 

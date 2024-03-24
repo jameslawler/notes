@@ -30,7 +30,16 @@ The Portuguese verb "conseguir" translates to "to achieve" or "to manage" in Eng
 
 ## Exercises
 
-abc
+Fill in missing word:
+
+No sabádo, o Pedro e a Sofia partiram para uma (aventura) na montanha. Equipados com capacetes e cordas, enfrentaram o (desafio) de escalar a rocha íngreme. Com determinação, (conseguiram) alcançar o cume, onde foram recompensados com uma vista deslumbrante. Desceram a (encosta) com habilidade, desfrutando da adrenalina do rapel. Na base da (montanha), encontraram um rio cristalino e não resistiram a dar um mergulho revigorante. A água (fresca) e as gargalhadas tornaram o momento ainda mais memorável. Eles (sabiam) que, juntos, conseguiam superar qualquer obstáculo e viver aventuras incríveis.
+
+Story with true / false:
+
+O Pedro e a Sofia foram para a praia - V ou F
+Eles conseguiram alcançar o cume - V ou F
+Deram um mergulho - V ou F
+A água não fresca - V ou F
 
 ## Writing Prompts
 

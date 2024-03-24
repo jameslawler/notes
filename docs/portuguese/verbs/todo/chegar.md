@@ -41,11 +41,11 @@ A Maria chegou a Braga de (tarde) para uma visita à cidade. Poucos (minutos) de
 
 Story with true / false
 
-A Maria visitou a cidade de Lisboa - V ou F
-A Maria e os primos vieram ao mesmo tempo - V ou F
-Tinha organizado um ponto de encontro - V ou F
-Os primos sabiam que a Maria chegaria atrasada - V ou F
-Eles cancelaram a visita - V ou F
+A Maria visitou a cidade de Lisboa - False
+A Maria e os primos vieram ao mesmo tempo - False
+Tinha organizado um ponto de encontro - True
+Os primos sabiam que a Maria chegaria atrasada - False
+Eles cancelaram a visita - False
 
 ## Writing Prompts
 
