@@ -63,7 +63,7 @@ const config = {
             items: [
               {
                 label: "Portuguese Language",
-                to: "/category/portuguese",
+                to: "/category/portuguese-language",
               },
             ],
           },
