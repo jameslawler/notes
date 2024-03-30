@@ -30,7 +30,29 @@ The Portuguese verb "usar" means "to use" in English.
 
 ## Exercises
 
-abc
+Present Tense:
+
+Eu uso óculos para ler.
+Tu usas o computador para trabalhar.
+Ele usa o telemóvel para comunicar.
+Nós usamos o carro para ir ao supermercado.
+Vós usais a internet para pesquisar informações.
+
+Past Tense:
+
+Eu usei o guarda-chuva ontem quando chovia.
+Tu usaste o casaco azul na semana passada.
+Ele usou os sapatos novos na festa.
+Nós usámos o fogão para cozinhar o jantar.
+Vós usastes o telefone para ligar para os amigos.
+
+Future Tense:
+
+Eu usarei um vestido bonito na festa.
+Tu usarás o dinheiro para comprar presentes.
+Ele usará o carro para viajar.
+Nós usaremos o GPS para encontrar o caminho.
+Vós usareis a bicicleta para passear no parque.
 
 ## Writing Prompts
 

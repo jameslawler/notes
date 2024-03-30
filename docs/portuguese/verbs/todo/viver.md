@@ -35,7 +35,29 @@ The Portuguese verb "viver" means "to live" in English.
 
 ## Exercises
 
-abc
+Present Tense:
+
+Eu vivo numa casa pequena.
+Tu vives perto do centro da cidade.
+Ele vive com os pais.
+Nós vivemos numa vila tranquila.
+Vós viveis numa casa grande.
+
+Past Tense:
+
+Eu vivi em outra cidade quando era criança.
+Tu viveste no estrangeiro durante um ano.
+Ele viveu muitas aventuras na juventude.
+Nós vivemos num apartamento antes de comprar a casa.
+Vós vivestes em diferentes países antes de se conhecerem.
+
+Future Tense:
+
+Eu viverei numa casa na praia quando me reformar.
+Tu viverás numa cidade diferente para estudar.
+Ele viverá numa fazenda quando se aposentar.
+Nós viveremos numa casa maior quando a família crescer.
+Vós vivereis no campo quando os filhos forem para a faculdade.
 
 ## Writing Prompts
 

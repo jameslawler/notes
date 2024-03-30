@@ -35,7 +35,29 @@ The Portuguese verb "mudar" means "to change" or "to move" in English.
 
 ## Exercises
 
-abc
+Present Tense:
+
+Eu mudo de roupa todos os dias.
+Tu mudas de opinião com frequência.
+Ele muda de emprego a cada dois anos.
+Nós mudamos de canal quando não gostamos do programa.
+Vós mudais de casa este mês.
+
+Past Tense:
+
+Eu mudei de escola no ano passado.
+Tu mudaste de cidade há alguns anos.
+Ele mudou de carro recentemente.
+Nós mudámos de planos de última hora.
+Vós mudastes de apartamento após o casamento.
+
+Future Tense:
+
+Eu mudarei de emprego no próximo ano.
+Tu mudarás de país para estudar no futuro.
+Ele mudará de estilo de vida para ser mais saudável.
+Nós mudaremos de casa quando encontrarmos uma melhor.
+Vós mudareis de horário de trabalho para acomodar a família.
 
 ## Writing Prompts
 

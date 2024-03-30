@@ -35,7 +35,29 @@ The Portuguese verb "levar" means "to take" or "to bring" in English.
 
 ## Exercises
 
-abc
+Present Tense:
+
+Eu lavo o carro todos os sábados.
+Tu lavas a louça após as refeições.
+Ele lava as mãos antes de comer.
+Nós lavamos as roupas na máquina.
+Vós lavais o rosto com água fria de manhã.
+
+Past Tense:
+
+Eu lavei o carro ontem à tarde.
+Tu lavaste as janelas na semana passada.
+Ele lavou o cabelo com um novo shampoo.
+Nós lavámos o chão da casa na segunda-feira.
+Vós lavastes o carro antes da viagem.
+
+Future Tense:
+
+Eu lavarei a roupa hoje à noite.
+Tu lavarás o cachorro depois do passeio.
+Ele lavará o carro amanhã de manhã.
+Nós lavaremos a louça após o jantar.
+Vós lavareis os pratos antes da festa.
 
 ## Writing Prompts
 

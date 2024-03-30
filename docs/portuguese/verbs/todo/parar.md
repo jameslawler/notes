@@ -25,7 +25,29 @@ The Portuguese verb "parar" means "to stop" in English.
 
 ## Exercises
 
-abc
+Present Tense:
+
+Eu paro o carro no sinal vermelho.
+Tu paras de estudar quando te sentes cansado.
+Ele para de falar quando alguém o interrompe.
+Nós paramos de caminhar para descansar.
+Vós parais de trabalhar ao meio-dia para almoçar.
+
+Past Tense:
+
+Eu parei de correr quando me magoei.
+Tu paraste de chorar quando te consolei.
+Ele parou de chover depois do temporal.
+Nós paramos de assistir ao filme antes do fim.
+Vós parastes de fumar há muitos anos.
+
+Future Tense:
+
+Eu pararei de comer doces para ter uma alimentação mais saudável.
+Tu pararás de gastar dinheiro em coisas desnecessárias.
+Ele parará de se preocupar tanto com o futuro.
+Nós pararemos de viajar quando formos mais velhos.
+Vós parareis de discutir quando aprenderdes a dialogar.
 
 ## Writing Prompts
 

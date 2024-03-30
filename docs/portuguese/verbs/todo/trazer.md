@@ -25,7 +25,29 @@ The Portuguese verb "trazer" means "to bring" in English.
 
 ## Exercises
 
-abc
+Present Tense:
+
+Eu trago o meu livro para a aula.
+Tu trazes a comida para o piquenique.
+Ele traz o guarda-chuva em dias chuvosos.
+Nós trazemos a bagagem para as férias.
+Vós trazeis o lanche para a escola.
+
+Past Tense:
+
+Eu trouxe o presente para a festa de aniversário.
+Tu trouxeste os documentos para a reunião.
+Ele trouxe o cachorro para passear no parque.
+Nós trouxemos os ingredientes para fazer o jantar.
+Vós trouxestes os livros para estudar na biblioteca.
+
+Future Tense:
+
+Eu trarei o bolo para a sobremesa.
+Tu trarás as bebidas para a festa.
+Ele trará a câmara para tirar fotos.
+Nós traremos os brinquedos para a viagem.
+Vós trareis os documentos para a entrevista de trabalho.
 
 ## Writing Prompts
 

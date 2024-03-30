@@ -35,7 +35,29 @@ The Portuguese verb "pensar" means "to think" or "to consider" in English.
 
 ## Exercises
 
-abc
+Present Tense:
+
+Eu penso que hoje será um bom dia.
+Tu pensas muito antes de tomar decisões.
+Ele pensa em viajar nas próximas férias.
+Nós pensamos que o filme será interessante.
+Vós pensais em mudar de emprego.
+
+Past Tense:
+
+Eu pensei em ti durante a viagem.
+Tu pensaste numa solução para o problema.
+Ele pensou que tudo estava perdido.
+Nós pensámos em fazer uma festa surpresa.
+Vós pensastes em desistir antes de tentar.
+
+Future Tense:
+
+Eu pensarei mais sobre o assunto antes de decidir.
+Tu pensarás em estudar no estrangeiro.
+Ele pensará duas vezes antes de agir.
+Nós pensaremos em comprar uma casa.
+Vós pensareis em como melhorar a situação.
 
 ## Writing Prompts
 

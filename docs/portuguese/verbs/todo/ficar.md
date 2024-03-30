@@ -35,7 +35,17 @@ The Portuguese verb "ficar" means "to stay" or "to remain" in English.
 
 ## Exercises
 
-abc
+Fill in missing word
+
+Numa cidade cosmopolita, há uma variedade de atividades (culturais) que deixam os habitantes e os visitantes fascinados. Os museus (oferecem) exposições incríveis, mostrando a história e a arte do país. As galerias de arte exibem (obras) de artistas locais e internacionais, proporcionando inspiração e reflexão. Os teatros e cinemas apresentam (peças) de teatro, concertos e filmes que cativam o público. Além disso, os festivais de música e dança (animam) as ruas com performances emocionantes. Independentemente das preferências (pessoais), há sempre algo para todos ficarem encantados e apaixonados pela (cultura) e arte da cidade.
+
+Story with true / false
+
+Numa cidade cosmopolita há muitos tipos de atividades culturais- V ou F
+As galerias de arte apenas exibem obras de artistas locais- V ou F
+As peças de teatro, concertos e filmes agradam ao público- V ou F
+Os festivais de música e dança desanimam as ruas- V ou F
+Nunca há nada que encante a todos- V ou F
 
 ## Writing Prompts
 

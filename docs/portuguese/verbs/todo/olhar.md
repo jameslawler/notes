@@ -21,7 +21,7 @@ The Portuguese verb "olhar" translates to "to look" or "to watch" in English.
 1. Getting attention:
 
    - Portuguese: Chamar a atenção - ex: Olha! O que achas do meu novo corte de cabelo?
-   - English: Get attention - e.g: Look! What do you think of my  new hair cut?
+   - English: Get attention - e.g: Look! What do you think of my new hair cut?
 
 2. Observing or Watching:
 
@@ -30,7 +30,29 @@ The Portuguese verb "olhar" translates to "to look" or "to watch" in English.
 
 ## Exercises
 
-abc
+Present Tense:
+
+Eu olho para o céu todas as noites.
+Tu olhas para o telemóvel constantemente.
+Ele olha para o relógio com impaciência.
+Nós olhamos para o mar quando estamos na praia.
+Vós olhais para o professor durante a aula.
+
+Past Tense:
+
+Eu olhei para o mapa para encontrar o caminho.
+Tu olhaste para a fotografia com saudade.
+Ele olhou para trás antes de atravessar a rua.
+Nós olhámos para as estrelas durante a noite.
+Vós olhastes para a televisão durante horas.
+
+Future Tense:
+
+Eu olharei para o futuro com otimismo.
+Tu olharás para o horizonte à procura de respostas.
+Ele olhará para a lua durante o passeio.
+Nós olharemos para as oportunidades que surgirem.
+Vós olhareis para as fotos antigas com nostalgia.
 
 ## Writing Prompts
 
