@@ -7,6 +7,6 @@ slug: /
 
 A collection of my notes on various topics.
 
-## Topics
-
-[Portuguese Language](/category/portuguese) - My notes from studying the Portuguese language (european).
+- [Portuguese Language](/category/portuguese) - Studying the Portuguese language (european).
+- [Portugal](/category/portugal) - Living in Portugal.
+- [Software Engineering](/category/software-engineering) - Day job and hobby.
