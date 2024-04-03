@@ -52,6 +52,6 @@ The Portuguese verb "considerar" translates to "to consider" in English, indicat
 
 ## Writing Prompts
 
-1. Descreva um momento em que você teve que considerar várias opções antes de tomar uma decisão importante.
-2. Escreva sobre alguém que você considera como um modelo a seguir e explique por que essa pessoa é importante para você.
-3. Imagine uma situação em que você precisa considerar os prós e contras de uma viagem e descreva como tomaria essa decisão.
+1. O que você leva em consideração na hora de escolher o que assistir? What do you consider when choosing what to watch?
+2. Quem você considera um modelo? Who do you consider a role-model?
+3. Você possui técnicas para decidir entre duas escolhas? Do you have techniques to decide between two choices?

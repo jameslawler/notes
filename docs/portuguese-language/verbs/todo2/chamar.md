@@ -57,6 +57,6 @@ The Portuguese verb "chamar" means "to call" or "to summon" in English, referrin
 
 ## Writing Prompts
 
-1. Imagine-se em um parque chamando seu animal de estimação pelo nome e descreva a cena.
-2. Escreva sobre um momento em que você teve que chamar alguém em uma situação de emergência.
-3. Descreva uma ocasião em que você chamou algo por um nome diferente e explique por que escolheu esse nome.
+1. Quais são alguns alcunha que você chama de seus amigos? What are some nicknames you call your friends?
+2. Para quem você liga com mais frequência? Who do you call the most often?
+3. Descreva quem você convidou para conhecê-lo recentemente. Describe who you have invited to meet you recently.

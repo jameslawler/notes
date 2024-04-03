@@ -52,6 +52,6 @@ Vós entenderão a importância do comprometimento.
 
 ## Writing Prompts
 
-1. Descreva uma situação em que você teve dificuldade em entender algo e como conseguiu superar essa dificuldade.
-2. Conte sobre alguém que você conhece que tem facilidade em entender as emoções dos outros.
-3. Imagine uma conversa em que você precisa explicar algo difícil de entender para alguém e descreva como você faria isso de maneira clara e compreensível.
+1. Como você entende o significado das palavras em português? How do you understand the meanings of Portuguese words?
+2. Quanto você estudou na escola? How hard did you study in school?
+3. Quais sotaques você tem dificuldade para entender? Which accents do you struggle to understand?

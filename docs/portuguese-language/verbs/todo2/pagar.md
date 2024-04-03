@@ -47,6 +47,6 @@ Vós pagarão a entrada do cinema.
 
 ## Writing Prompts
 
-1. Descreva uma situação em que você teve que pagar por algo inesperado.
-2. Conte sobre uma vez em que você pagou por algo com dificuldade financeira.
-3. Imagine um cenário onde você terá que pagar por algo muito caro no futuro.
+1. Qual foi a coisa mais cara que você comprou? What is the most expensive thing you bought?
+2. Você paga gorjeta em restaurantes? Do you pay a tip in restaurants?
+3. Quanto você precisa pagar para consultar um médico? How much do you need to pay to see a doctor?

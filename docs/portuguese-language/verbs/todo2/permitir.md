@@ -52,6 +52,6 @@ The Portuguese verb "permitir" means "to permit" or "to allow."
 
 ## Writing Prompts
 
-1. Escreva sobre uma situação em que você teve que permitir algo para alguém.
-2. Descreva um momento em que você precisou pedir permissão a alguém para fazer algo.
-3. Imagine uma nova regra que você gostaria de permitir em sua escola ou local de trabalho e explique por que seria benéfica.
+1. O que você não tinha permissão de fazer quando criança? What were you not allowed to do as a child?
+2. Ao completar 18 anos, o que você pode fazer? When you turn 18 years old, what can you do?
+3. Você tem alguma regra própria? Do you have any rules of your own?

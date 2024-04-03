@@ -51,6 +51,6 @@ The Portuguese verb "voltar" translates to "to return" or "to come back" in Engl
 
 ## Writing Prompts
 
-1. Descreva uma experiência emocionante de voltar a um lugar especial depois de muito tempo.
-2. Imagine-se voltando no tempo para corrigir um erro ou fazer uma escolha diferente. Descreva como seria essa experiência.
-3. Escreva sobre um personagem que tem que voltar à sua cidade natal para resolver um problema do passado e como isso o afeta emocionalmente.
+1. Você já devolveu uma compra online? Have you ever returned an online purchase?
+2. Como você se sente quando volta para casa à noite? How do you feel when you return home in the evening?
+3. Você já esqueceu de devolver alguma coisa antes? Have you forgotten to return something before?

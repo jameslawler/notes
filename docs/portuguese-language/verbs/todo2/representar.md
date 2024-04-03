@@ -57,6 +57,6 @@ Vós representarão nossos interesses na próxima reunião.
 
 ## Writing Prompts
 
-1. Descreva uma vez em que você teve que representar um papel importante em um evento.
-2. Conte sobre alguém que você admira por representar bem os valores de uma comunidade.
-3. Imagine-se representando sua nação em um cenário internacional e descreva como seria essa experiência.
+1. Você já atuou em alguma peça? Have you ever acted in a play?
+2. Qual personagem histórico representa suas ideologias? Which historical person represents your ideologies?
+3. Quais atletas famosos representam o seu país? Which famous athletes represent your country?

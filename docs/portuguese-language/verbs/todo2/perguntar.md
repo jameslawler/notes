@@ -47,6 +47,6 @@ Vós perguntareis quem será o palestrante.
 
 ## Writing Prompts
 
-1. Descreva uma situação em que você precisou fazer várias perguntas para entender algo completamente.
-2. Liste três perguntas que você faria para alguém que você admira e por que são importantes para você.
-3. Imagine-se em uma entrevista de emprego e descreva as perguntas que faria ao entrevistador sobre a empresa.
+1. Você fez muitas perguntas na escola? Did you ask a lot of questions in school?
+2. Você recebe muitas perguntas? Do you get asked a lot of questions?
+3. Qual é a sua área de habilidade especial? What is your special skill area?

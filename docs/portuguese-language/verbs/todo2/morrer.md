@@ -47,6 +47,6 @@ Vós morrereis rodeados de amor e felicidade.
 
 ## Writing Prompts
 
-1. Descreva uma cena em que um personagem enfrenta a morte com coragem.
-2. Conte uma história sobre alguém que morreu em circunstâncias inesperadas.
-3. Escreva sobre como você imagina que será o seu último dia de vida.
+1. Descreva como morreu um personagem famoso da TV. Describe how a famous tv character died.
+2. Para que servem os rituais quando alguém morre? What are rituals for when someone dies?
+3. Você cuida bem de plantas? Are you good at looking after plants?

@@ -47,6 +47,6 @@ Vós tentareis aprender um novo instrumento musical.
 
 ## Writing Prompts
 
-1. Descreva uma situação em que você tentou algo novo e teve sucesso.
-2. Conte sobre um momento em que você tentou ajudar alguém, mas não conseguiu.
-3. Escreva sobre um objetivo que você tentará alcançar nos próximos meses.
+1. Descreva uma situação em que você tentou algo novo e obteve sucesso. Describe a situation when you tried something new and were successful.
+2. Escreva sobre uma ocasião em que você tentou ajudar alguém, mas não conseguiu. Write about a time when you tried to help someone but couldn't.
+3. Quantos idiomas você já tentou aprender? How many languages have you tried to learn?

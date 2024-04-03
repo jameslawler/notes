@@ -52,6 +52,6 @@ Vós surgireis como exemplos a serem seguidos.
 
 ## Writing Prompts
 
-1. Descreva uma situação em que uma solução inesperada surgiu para um problema.
-2. Conte sobre uma vez em que você emergiu como um líder em uma situação desafiadora.
-3. Imagine um cenário em que uma oportunidade única surge para um personagem principal.
+1. Descreva uma situação em que surgiu uma solução inesperada. Describe a situation in which an unexpected solution emerged.
+2. Quando você encontra amigos, você e seus amigos chegam cedo? When meeting friends do you and your friends show up early?
+3. Que oportunidades surgiram para você? What opportunities have appeared for you?

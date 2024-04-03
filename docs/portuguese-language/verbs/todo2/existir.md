@@ -51,6 +51,6 @@ The Portuguese verb "existir" translates to "to exist" in English, indicating th
 
 ## Writing Prompts
 
-1. Descreva como seria o mundo se certos animais ou seres fictícios existissem de verdade.
-2. Imagine um futuro distópico e escreva sobre as condições de vida e as dificuldades que existirão nesse mundo.
-3. Reflita sobre a importância da arte e da cultura na existência humana e como elas moldam nossa sociedade e identidade.
+1. Que benefícios existem para apoiar uma força de trabalho saudável? What benefits are there to supporting a healthy workforce?
+2. Qual é o seu personagem favorito que não existe na vida real? Who is your favorite character that doesn't exist in real life?
+3. Acredita que existe vida em outros planetas? Do you believe that life exists on other planets?

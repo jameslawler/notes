@@ -52,6 +52,6 @@ Vós colocareis as plantas no jardim durante a tarde.
 
 ## Writing Prompts
 
-1. Descreva como você coloca a mesa para uma refeição especial.
-2. Liste cinco objetos que você costuma colocar em lugares específicos em sua casa e por que eles são importantes para você.
-3. Imagine que você está se mudando para uma nova casa. Escreva sobre como você colocaria seus móveis e decorações para tornar o espaço acolhedor.
+1. Descreva como você arruma a mesa para uma refeição especial. Describe how you set the table for a special meal.
+2. O que você coloca ao seu lado quando vai para a cama? What do you place beside you when you go to bed?
+3. Onde você colocaria uma foto de família na sua casa? Where you would place a family photo in your house?

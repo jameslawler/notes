@@ -61,6 +61,6 @@ The Portuguese verb "parecer" means "to seem" or "to appear" in English, indicat
 
 ## Writing Prompts
 
-1. Descreva como alguém próximo a você parece quando está feliz.
-2. Imagine que você está em uma situação desconhecida e descreva como o ambiente parece aos seus olhos.
-3. Escreva sobre uma situação em que alguém parecia estar com problemas, mas na verdade estava apenas distraído.
+1. Descreva seu estado atual (animado, feliz, cansado, etc.). Describe your current state (excited, happy, tired, etc).
+2. As pessoas acham que você se parece com alguém? Do people think you look like someone?
+3. Que técnicas parecem ser uma boa ideia para aprender português? What techniques seems like a good idea to learn Portuguese?

@@ -57,6 +57,6 @@ The Portuguese verb "trabalhar" translates to "to work" in English, indicating t
 
 ## Writing Prompts
 
-1. Descreva um dia típico de trabalho na sua vida, desde a hora que você acorda até quando termina o expediente.
-2. Conte sobre um projeto desafiador em que você trabalhou no passado e como isso contribuiu para o seu crescimento profissional.
-3. Imagine seu futuro profissional daqui a cinco anos e escreva sobre o que você estará fazendo e como estará trabalhando para alcançar seus objetivos.
+1. Escreva sobre as tarefas que você realiza no seu trabalho diário. Write about the tasks you do at your day job.
+2. Você gosta de trabalhar? Do you enjoy working?
+3. Qual é o seu trabalho ideal? What is your ideal job?

@@ -47,6 +47,6 @@ The Portuguese verb "afirmar" translates to "to affirm" or "to assert" in Englis
 
 ## Writing Prompts
 
-1. Escreva sobre uma situação em que você teve que afirmar algo como verdadeiro. Write about a situation in which you have to affirm a truth.
-2. Imagine uma conversa em que você precisa afirmar uma opinião forte. Imaging a conversation in which you need to affirm a strong opinion.
-3. Descreva como você afirmará o seu compromisso com um projeto futuro. Describe about a compromise in a future project.
+1. Descreva uma situação em que você erroneamente pensou que estava certo. Describe a situation in which you mistakenly thought you were right.
+2. Que técnicas você usa para convencer alguém de que está certo? What techniques do you use to convince someone you are correct?
+3. Como vai afirmar o seu compromisso com um projeto futuro? How will you affirm your commitment to a future project?

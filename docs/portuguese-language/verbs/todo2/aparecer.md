@@ -47,6 +47,6 @@ Vós aparecereis no evento de lançamento do livro.
 
 ## Writing Prompts
 
-1. Descreva uma situação em que você apareceu em um lugar de surpresa.
-2. Conte sobre alguém que sempre aparece nos momentos mais inesperados.
-3. Escreva sobre um evento futuro em que você aparecerá como convidado especial.
+1. Descreva uma situação em que você apareceu em um lugar de surpresa. Describe a situation in which you appeared in a place by surprise.
+2. Escreva sobre alguém que sempre aparece nos momentos mais inesperados. Write about someone who always appears at the most unexpected times.
+3. Escreva sobre um evento futuro em que aparecerá como convidado especial. Write about an upcoming event where you will appear as a special guest.

@@ -57,6 +57,6 @@ The Portuguese verb "tratar" can mean "to treat," "to handle," or "to deal with"
 
 ## Writing Prompts
 
-1. Descreva como você trata um amigo que está passando por dificuldades.
-2. Escreva sobre como você trata uma doença com remédios caseiros.
-3. Imagine uma situação em que você precisa tratar de um conflito entre colegas de trabalho.
+1. Descreva como você trata seus amigos. Describe how you treat your friends.
+2. Como você trata dores de estômago? How do you treat an upset stomach?
+3. Você se trata bem? Do you treat yourself well?

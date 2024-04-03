@@ -47,6 +47,6 @@ The Portuguese verb "manter" means "to maintain" or "to keep."
 
 ## Writing Prompts
 
-1. Descreva como você mantém sua rotina diária organizada.
-2. Escreva sobre um hábito que você pretende manter pelo resto da vida.
-3. Imagine uma situação em que você precisa manter a calma diante de uma emergência.
+1. Descreva como você mantém sua rotina diária organizada. Describe how you keep your daily routine organized.
+2. Escreva sobre um hábito que você pretende manter pelo resto da vida. Write about a habit you intend to maintain for the rest of your life.
+3. Imagine uma situação em que você precisa manter a calma. Imagine a situation where you need to remain calm.

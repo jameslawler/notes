@@ -52,6 +52,6 @@ Vós correreis mais rápido se treinardes regularmente.
 
 ## Writing Prompts
 
-1. Descreva uma experiência em que você participou de uma corrida ou maratona.
-2. Conte sobre uma vez em que você teve que correr para pegar um ônibus ou um trem.
-3. Imagine uma cena em que um personagem principal corre para salvar alguém ou resolver um problema.
+1. Descreva uma experiência em que você participou de uma corrida. Describe an experience in which you participated in a race.
+2. Escreva sobre uma vez em que teve que correr para pegar um autocarro. Write about a time when you had to rush to catch a bus.
+3. Como correu o seu dia? How was your day?

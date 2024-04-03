@@ -52,6 +52,6 @@ The Portuguese verb "continuar" translates to "to continue" in English, indicati
 
 ## Writing Prompts
 
-1. Descreva uma situação em que você teve que continuar com algo desafiador apesar das dificuldades.
-2. Escreva sobre uma atividade que você continuamente pratica para melhorar suas habilidades.
-3. Imagine um cenário em que você precisa continuar em frente mesmo diante de obstáculos e descreva como você lidaria com essa situação.
+1. Descreva uma situação em que você teve que continuar com algo desafiador. Describe a situation in which you had to continue with something challenging.
+2. Escreva sobre uma atividade que você faz continuamente para melhorar. Write about an activity that you continually do to improve yourself.
+3. Escreva instruções para ir a uma loja local. Write directions to go to a local shop.

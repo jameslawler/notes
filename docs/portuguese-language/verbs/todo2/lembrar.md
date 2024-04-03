@@ -52,6 +52,6 @@ The Portuguese verb "lembrar" means "to remember" or "to remind."
 
 ## Writing Prompts
 
-1. Escreva sobre uma lembrança especial da sua infância.
-2. Descreva um momento em que você precisou lembrar alguém de fazer algo importante.
-3. Imagine uma situação em que você esqueceu algo crucial e escreva sobre como você se lembrou a tempo.
+1. Escreva sobre uma lembrança especial da sua infância. Write about a special memory from your childhood.
+2. Você possui técnicas para lembrar de realizar tarefas? Do you have techniques for remembering to do tasks?
+3. Como você lembra o significado das palavras em português? How do you remember meanings of Portuguese words?

@@ -57,6 +57,6 @@ The Portuguese verb "pedir" translates to "to ask" or "to request" in English, i
 
 ## Writing Prompts
 
-1. Imagine que você está em um restaurante. Escreva um diálogo pedindo seu prato favorito e uma bebida.
-2. Descreva uma situação em que você precisou pedir ajuda a um amigo e como isso resolveu o problema.
-3. Conte sobre uma vez em que você pediu um favor a alguém e como se sentiu após receber ajuda.
+1. Escreva o diálogo sobre como pedir o cardápio e uma refeição. Write the dialog about asking for the menu and a meal.
+2. Como você pede ajuda aos seus amigos? How do you ask your friends for help?
+3. Descreva um momento em que você teve que pedir informações. Describe a time you had to ask for directions.

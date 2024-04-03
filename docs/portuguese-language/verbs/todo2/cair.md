@@ -47,6 +47,6 @@ Vós caireis se não segurarem bem as mãos.
 
 ## Writing Prompts
 
-1. Descreva uma situação em que você ou alguém que conhece tenha caído de bicicleta.
-2. Conte sobre um momento em que você caiu enquanto praticava esportes ou atividades físicas.
-3. Imagine uma cena em que um personagem principal cai em uma situação engraçada e descreva o que acontece em seguida.
+1. Descreva uma situação em que você caiu. Describe a situation in which you fell down.
+2. O que você deixou cair e partiu? What have you dropped and broken?
+3. Como protege o seu telefone? How do you protect your phone?

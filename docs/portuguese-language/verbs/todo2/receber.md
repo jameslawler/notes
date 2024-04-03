@@ -47,6 +47,6 @@ The Portuguese verb "receber" translates to "to receive" in English, indicating 
 
 ## Writing Prompts
 
-1. Descreva uma vez em que você recebeu um presente inesperado e como se sentiu.
-2. Escreva sobre como você recebe visitas em sua casa e como costuma tratá-las.
-3. Imagine uma situação em que você está prestes a receber uma notícia importante e descreva suas expectativas e emoções.
+1. Descreva um momento em que você recebeu um presente inesperado. Describe a time when you received an unexpected gift.
+2. Você leva presentes quando visita amigos? Do you bring gifts when visiting friends?
+3. Qual foi o melhor presente que você já recebeu? What was the best gift you ever received?

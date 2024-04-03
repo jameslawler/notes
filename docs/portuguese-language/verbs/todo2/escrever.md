@@ -47,6 +47,6 @@ The Portuguese verb "escrever" means "to write."
 
 ## Writing Prompts
 
-1. Escreva sobre uma experiência marcante que você teve recentemente.
-2. Imagine que você é um jornalista e escreva um artigo sobre um evento atual.
-3. Escreva uma carta para seu futuro eu, descrevendo seus sonhos e objetivos.
+1. Você escreve em um diário ou diário? Do you write in a diary or journal?
+2. Com que frequência você escreve com papel e caneta? How often do you write with pen and paper?
+3. Escreva uma carta para o seu futuro descrevendo seus sonhos e objetivos. Write a letter to your future self outlining your dreams and goals.

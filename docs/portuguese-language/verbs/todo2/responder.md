@@ -52,6 +52,6 @@ Vós responderão às perguntas da entrevista de emprego com honestidade.
 
 ## Writing Prompts
 
-1. Descreva uma situação em que você teve que responder a uma pergunta difícil.
-2. Liste três maneiras diferentes de responder a uma mensagem de texto e explique quando você usaria cada uma delas.
-3. Imagine que você está em uma entrevista de emprego e descreva como você responderia a uma pergunta sobre seus pontos fortes e fracos.
+1. Como você responde a perguntas difíceis? How do you respond to difficult questions?
+2. Você responde rapidamente aos e-mails? Are you quick to respond to E-Mails?
+3. Você teve que responder a uma emergência? Have you had to respond to an emergency?

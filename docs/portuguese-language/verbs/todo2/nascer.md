@@ -57,6 +57,6 @@ Vós nascerão em um mundo repleto de possibilidades.
 
 ## Writing Prompts
 
-1. Descreva o local onde você nasceu e como se sentiu ao descobrir suas origens.
-2. Conte uma história sobre o nascimento de alguém em sua família ou círculo de amigos.
-3. Imagine como seria a vida se você nascesse em uma época diferente da história.
+1. Onde você nasceu? Where were you born?
+2. Alguém famoso nasceu na sua cidade? Was anyone famous born in your city?
+3. Você ficou acordado para assistir ao nascer do sol? Have you stayed up to watch a sunrise?

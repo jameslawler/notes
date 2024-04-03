@@ -47,6 +47,6 @@ Vós precisareis de novas habilidades para avançar na carreira.
 
 ## Writing Prompts
 
-1. Descreva uma situação em que você precisou de ajuda e como isso impactou sua vida.
-2. Liste três coisas que você precisa fazer esta semana e explique por que são importantes.
-3. Imagine uma viagem em que você precisará de várias coisas essenciais e descreva como planejará suas necessidades.
+1. Que tarefas importantes você precisou realizar esta semana? What important tasks did you need to do this week?
+2. O que você precisa fazer antes de dormir? What do you need to do before you go to bed?
+3. O que você precisa antes de poder dirigir um carro? What do you need before you can drive a car?

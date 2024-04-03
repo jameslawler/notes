@@ -56,6 +56,6 @@ The Portuguese verb "encontrar" can mean "to find" or "to meet" depending on the
 
 ## Writing Prompts
 
-1. Imagine que você está perdido em uma cidade desconhecida e precisa encontrar um lugar para se hospedar. Descreva como você planeja encontrar um hotel ou uma pousada.
-2. Você é um detetive investigando um caso de roubo. Descreva como você e sua equipe encontram pistas e evidências para resolver o crime.
-3. Você está em uma missão para encontrar o presente perfeito para o aniversário de um amigo. Descreva como você pesquisa e encontra o presente ideal.
+1. Que item valioso você perdeu antes? What valuable item have you lost before?
+2. Onde você costuma encontrar os seus amigos? Where do you typically meet your friends?
+3. Como encontrar o presente perfeito para o aniversário de um amigo? How do you find the perfect gift for a friend's birthday?

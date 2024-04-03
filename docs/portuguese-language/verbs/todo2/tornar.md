@@ -51,6 +51,6 @@ The Portuguese verb "tornar" can mean "to become" or "to turn" in English, indic
 
 ## Writing Prompts
 
-1. Imagine como seria a sua vida se pudesse tornar-se uma personagem de um livro ou filme. Descreva essa nova identidade.
-2. Descreva como você se tornou quem é hoje, destacando os eventos ou experiências que moldaram sua personalidade.
-3. Reflita sobre um objetivo que você espera alcançar no futuro e descreva os passos que precisa tomar para tornar esse objetivo uma realidade.
+1. Descreva como você se tornou quem você é hoje. Describe how you became who you are today.
+2. Quem você gostaria de ser à medida que envelhece? Who would you like to become as you grow older?
+3. Como você se torna milionário? How do you become a millionaire?

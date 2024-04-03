@@ -57,6 +57,6 @@ Vós constituirão uma nova filial da empresa no exterior.
 
 ## Writing Prompts
 
-1. Descreva como você constituiria uma equipe para um projeto importante.
-2. Liste três elementos que constituem a sua identidade e como eles influenciam suas decisões.
-3. Imagine-se no papel de um líder político e descreva como você constituiria um plano para melhorar a educação no seu país.
+1. Descreva como você formaria uma equipe para um projeto importante. Describe how you would form a team for an important project.
+2. Liste os elementos que compõem a sua identidade. List the elements that make up your identity.
+3. Você já fundou alguma empresa ou clube? Have you ever established any company or club?

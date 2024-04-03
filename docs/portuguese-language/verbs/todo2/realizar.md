@@ -57,6 +57,6 @@ The Portuguese verb "realizar" means "to accomplish," "to carry out," or "to ach
 
 ## Writing Prompts
 
-1. Descreva um objetivo que você pretende realizar nos próximos anos.
-2. Escreva sobre uma tarefa que você realizou recentemente com sucesso.
-3. Imagine um projeto que você gostaria de realizar no futuro e explique por que é importante para você.
+1. Descreva um objetivo que você pretende realizar nos próximos anos. Describe a goal you want to accomplish in the next few years.
+2. Escreva sobre uma tarefa que você realizou recentemente com sucesso. Write about a task you recently completed successfully.
+3. Quais são alguns dos seus objetivos de vida? What are some of your life goals?

@@ -57,6 +57,6 @@ Vós tirareis um dia de folga para descansar.
 
 ## Writing Prompts
 
-1. Descreva um momento em que você teve que tirar algo de um lugar e como se sentiu depois.
-2. Liste três coisas que você sempre tira da sua mochila quando chega em casa e por quê.
-3. Imagine uma situação em que você precise tirar uma foto importante e descreva onde e quando isso aconteceria.
+1. Com que frequência você tira fotos? How often do you take photos?
+2. Quem leva o lixo da sua casa? Who takes out the trash in your house?
+3. Você tirou boas notas na escola? Did you get good grades in school?

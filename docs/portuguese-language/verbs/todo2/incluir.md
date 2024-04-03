@@ -47,6 +47,6 @@ Vós incluireis um brinde especial na oferta.
 
 ## Writing Prompts
 
-1. Descreva um projeto em que você incluiu uma nova ideia para melhorar o resultado final.
-2. Escreva sobre alguém que sempre inclui os outros em suas atividades e planos.
-3. Conte sobre um evento futuro em que você incluirá uma surpresa para os participantes.
+1. Quem você incluiu na sua última festa de aniversário? Who did you include in your last birthday party?
+2. O que está incluído no seu currículo? What is included in your resume?
+3. Escreva sobre alguém que sempre inclui outras pessoas em suas atividades. Write about someone who always includes others in their activities.

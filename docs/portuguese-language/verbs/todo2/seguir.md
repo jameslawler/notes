@@ -57,6 +57,6 @@ The Portuguese verb "seguir" translates to "to follow" or "to continue" in Engli
 
 ## Writing Prompts
 
-1. Descreva uma situação em que você precisou seguir alguém para chegar a um destino específico.
-2. Conte sobre um momento em que você decidiu seguir um novo caminho na vida e como isso afetou suas decisões subsequentes.
-3. Imagine que você está dando conselhos a um amigo. Escreva sobre o que você diria a ele para que siga em frente após um desafio.
+1. Você é bom em seguir instruções em uma nova cidade? Are you good with following directions in a new city?
+2. Você prefere liderar ou seguir? Do you prefer to lead or follow?
+3. Quem você segue nas redes sociais? Who do you follow on social media?

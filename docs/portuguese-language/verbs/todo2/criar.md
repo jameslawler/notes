@@ -57,6 +57,6 @@ The Portuguese verb "criar" translates to "to create" or "to make" in English, i
 
 ## Writing Prompts
 
-1. Imagine que você é um artista. Descreva o processo de criar uma obra de arte, desde o conceito até a finalização.
-2. Conte sobre uma decisão importante que você teve que tomar no passado e como isso afetou sua vida.
-3. Projete o que você vai criar em sua carreira futura e como isso contribuirá para sua área de atuação.
+1. Você cria coisas (arte, música, software)? Do you create things (art, music, software)?
+2. De qual projeto escolar você mais se orgulha? What school project are you most proud of?
+3. O que você gostaria de criar no futuro? What would you like to create in the future?

@@ -52,6 +52,6 @@ Vós formareis uma sociedade beneficente.
 
 ## Writing Prompts
 
-1. Descreva um momento em que você formou uma opinião sobre um assunto importante.
-2. Conte sobre como você formou um grupo para resolver um problema.
-3. Escreva sobre um projeto futuro que você formará com outras pessoas.
+1. Descreva um momento em que você precisou formar uma opinião rápida. Describe a time when you needed to form a fast opinion.
+2. Escreva sobre como você formou um grupo para resolver um problema. Write us about how you formed a group to solve a problem.
+3. Escreva sobre um projeto futuro que você formará com outras pessoas. Write about an upcoming project you will form with others.

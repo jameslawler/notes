@@ -57,6 +57,6 @@ The Portuguese verb "ocorrer" means "to occur" or "to happen."
 
 ## Writing Prompts
 
-1. Escreva sobre um evento que ocorreu recentemente na sua vida.
-2. Descreva uma ideia que ocorreu a você em um momento inesperado.
-3. Imagine um incidente que possa ocorrer em uma situação específica e descreva como você lidaria com ele.
+1. Escreva sobre um acontecimento que ocorreu recentemente em sua vida. Write about an event that recently occurred in your life.
+2. O que aconteceu ontem? What occurred yesterday?
+3. Você acha que algo especial acontecerá na próxima semana? Do you think anything special will happen next week?

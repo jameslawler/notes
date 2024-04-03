@@ -52,6 +52,6 @@ The Portuguese verb "mostrar" means "to show" or "to display."
 
 ## Writing Prompts
 
-1. Descreva uma situação em que você precisou mostrar algo importante para alguém.
-2. Escreva sobre uma habilidade que você gostaria de mostrar ao mundo.
-3. Imagine uma cena em que você tem que mostrar como fazer algo complicado para um amigo e descreva como você o faria.
+1. Você mostrou a alguém como consertar alguma coisa? Have you shown anyone how to fix something?
+2. Escreva sobre uma habilidade que você gostaria de mostrar ao mundo. Write about a skill you would like to show the world.
+3. Você escreveu algum guia que mostre como realizar uma tarefa? Have you written any guides that show how to accomplish a task?

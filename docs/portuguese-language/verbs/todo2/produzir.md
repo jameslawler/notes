@@ -57,6 +57,6 @@ Vós produzireis uma linha de roupas sustentáveis.
 
 ## Writing Prompts
 
-1. Descreva um projeto que você gostaria de produzir no futuro e explique por que é importante para você.
-2. Conte sobre uma vez em que você produziu algo significativo e como isso impactou sua vida.
-3. Imagine uma sociedade em que todos produzem seus próprios alimentos e descreva como seria essa realidade.
+1. Você já tentou cultivar seus próprios vegetais? Have you tried growing your own vegetables?
+2. Quer produzir seu próprio conteúdo? Do you want to produce your own content?
+3. O que produz o seu país de origem? What does your home country produce?

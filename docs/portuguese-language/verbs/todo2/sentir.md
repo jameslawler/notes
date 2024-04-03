@@ -57,6 +57,6 @@ The Portuguese verb "sentir" means "to feel" or "to sense" in English, referring
 
 ## Writing Prompts
 
-1. Descreva como você se sente em uma situação emocionalmente desafiadora, como um momento de despedida.
-2. Imagine-se caminhando em um jardim e descreva as sensações que você sente ao perceber os diferentes aromas das flores.
-3. Escreva sobre uma experiência em que você sentiu uma forte intuição e como isso afetou suas ações.
+1. O que te faz feliz? What makes you happy?
+2. Quais alimentos cheiram melhor para você? Which foods smell the best to you?
+3. Qual foi o momento emocionante que você viveu? What is an emotional moment you experienced?

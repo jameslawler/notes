@@ -52,6 +52,6 @@ Vós possuireis um carro elétrico em breve.
 
 ## Writing Prompts
 
-1. Descreva algo que você possui há muito tempo e que tem um grande significado para você.
-2. Liste três coisas que você gostaria de possuir no futuro e explique por que são importantes para você.
-3. Imagine uma situação em que você precise decidir entre possuir mais tempo livre ou possuir mais dinheiro. Escreva sobre como tomaria essa decisão.
+1. Descreva o item mais importante que você possui. Describe your most significant item you own.
+2. Qual é o item dos seus sonhos? What is your dream item to own?
+3. Descreva os atributos/qualidades de alguém que você conhece. Describe the attributes/qualities of someone you know.

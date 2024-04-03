@@ -52,6 +52,6 @@ Vós ganhareis uma medalha por participar na corrida.
 
 ## Writing Prompts
 
-1. Descreva uma situação em que você ganhou um prêmio ou uma competição.
-2. Conte sobre uma vez em que você ganhou dinheiro de forma inesperada.
-3. Imagine uma cena em que um personagem principal ganha um presente especial de alguém próximo.
+1. Descreva uma situação em que você ganhou um prêmio ou concurso. Describe a situation when you won a prize or a competition.
+2. Escreva sobre uma época em que você ganhou dinheiro inesperadamente. Write about a time when you unexpectedly made money.
+3. Quem ganhou o recente jogo de futebol? Who won the recent football game?

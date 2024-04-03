@@ -57,6 +57,6 @@ The Portuguese verb "esperar" means "to wait" or "to hope."
 
 ## Writing Prompts
 
-1. Descreva uma situação em que você teve que esperar por algo importante.
-2. Escreva sobre algo que você espera alcançar no futuro.
-3. Imagine uma cena em que você está esperando por uma pessoa querida que está atrasada.
+1. Descreva uma situação em que você teve que esperar por algo importante. Describe a situation when you had to wait for something important.
+2. Escreva sobre algo que você espera alcançar no futuro. Describe a situation when you had to wait for something important.
+3. Quando encontra amigos você costuma chegar na hora ou atrasado? When meeting friends are you usually on time or late?

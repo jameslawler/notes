@@ -47,6 +47,6 @@ Vós obterão reconhecimento internacional pelo projeto.
 
 ## Writing Prompts
 
-1. Descreva um momento em que você obteve algo que desejava há muito tempo.
-2. Liste três estratégias que você usa para obter novas habilidades ou conhecimentos.
-3. Imagine que você está buscando obter uma promoção no trabalho e descreva como você planeja alcançar esse objetivo.
+1. O que você deseja obter há muito tempo? What have you wanted to obtain for a long time?
+2. O que você obteve aprendendo português? What have you obtained from learning Portuguese?
+3. O que você gostaria de obter mais tarde na vida? What would you like to obtain later in life?

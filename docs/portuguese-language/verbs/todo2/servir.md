@@ -52,6 +52,6 @@ Vós servirão como testemunhas no casamento.
 
 ## Writing Prompts
 
-1. Descreva uma ocasião em que você serviu comida ou bebida para os outros e como se sentiu.
-2. Liste três serviços que você considera importantes em sua comunidade e por que são essenciais.
-3. Imagine uma situação em que você precise decidir se algo pode servir para uma determinada finalidade ou não. Descreva como tomaria essa decisão.
+1. Você gosta de cozinhar para amigos ou família? Do you like to cook for friends or family?
+2. Você já trabalhou em um café/restaurante antes? Have you worked in a cafe / restaurant before?
+3. Que ferramentas você considera úteis para um hobby que você possui? What tools do you find useful for a hobby you have?

@@ -56,6 +56,6 @@ The Portuguese verb "apresentar" translates to "to present" or "to introduce" in
 
 ## Writing Prompts
 
-1. Descreva como você se sente ao apresentar um projeto.
-2. Descreva a apresentar um programa de televisão.
-3. Escreva sobre alguém que tem que apresentar uma nova ideia em uma situação desafiadora e como essa pessoa se prepara para isso.
+1. Descreva como você se sente ao apresentar um projeto. Describe how you feel when presenting a project.
+2. Gosta de fazer apresentações para grandes grupos de pessoas? Do you like to present to large groups of people?
+3. Conhece alguma técnica para fazer boas apresentações? Do you have any techniques for making good presentations?

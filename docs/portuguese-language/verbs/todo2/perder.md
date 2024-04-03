@@ -52,6 +52,6 @@ The Portuguese verb "perder" translates to "to lose" in English, indicating the 
 
 ## Writing Prompts
 
-1. Descreva um momento em que você perdeu algo importante e como isso afetou seu dia.
-2. Escreva sobre uma competição da qual você participou e perdeu, e como isso influenciou seus sentimentos.
-3. Imagine uma situação em que você pode perder uma grande oportunidade e como você se prepararia para lidar com isso.
+1. Descreva um momento em que você perdeu algo importante. Describe a time when you lost something important.
+2. Como você se sente quando seu time perde um jogo? How do you feel when your team loses a game?
+3. Você já perdeu um voo? Have you ever missed a flight?
