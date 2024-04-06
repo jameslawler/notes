@@ -40,11 +40,11 @@ Use correct verb conjugation
 
 Order the words in a sentence
 
-1. eu / no / parque / ando / aos fins de / de bicicleta / semana -> eu ando de bicicleta no parque aos fins de semana
-2. nós / pela / cidade / para / os monumentos / conhecer / andamos -> nós andamos pela cidade para conhecer os monumentos
-3. tu / de carro / até / na / semana / passada / ao supermercado / andaste -> tu andaste de carro até ao supermercado na semana passada
-4. ela / andou / floresta / o acampamento / pela / durante -> ela andou pela floresta durante o acampamento
-5. último / vizinha / nós / de / comboio / até / no / fim / de / semana / andámos / à cidade -> nós andámos de comboio até à cidade vizinha no último fim de semana
+1. eu / no / parque / ando / aos fins de / de bicicleta / semana -> eu ando de bicicleta no parque aos fins de semana.
+2. nós / pela / cidade / para / os monumentos / conhecer / andamos -> nós andamos pela cidade para conhecer os monumentos.
+3. tu / de carro / até / na / semana / passada / ao supermercado / andaste -> tu andaste de carro até ao supermercado na semana passada.
+4. ela / andou / floresta / o acampamento / pela / durante -> ela andou pela floresta durante o acampamento.
+5. último / vizinha / nós / de / comboio / até / no / fim / de / semana / andámos / à cidade -> nós andámos de comboio até à cidade vizinha no último fim de semana.
 
 Connect the sentences
 
