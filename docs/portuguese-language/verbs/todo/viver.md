@@ -35,29 +35,23 @@ The Portuguese verb "viver" means "to live" in English.
 
 ## Exercises
 
-Present Tense:
+Use correct verb conjugation
 
-Eu vivo numa casa pequena.
-Tu vives perto do centro da cidade.
-Ele vive com os pais.
-Nós vivemos numa vila tranquila.
-Vós viveis numa casa grande.
+Eu e a Joana (vivemos) numa vila tranquila.
+Durante um ano, Tu (viveste) no estrangeiro.
+Ele e Elas (viveram) muitas aventuras na juventude.
+Quando se reformar, ele (viverá) numa vivenda.
+Eu (vivo) numa casa pequena.
+Tu (vives) perto do centro da cidade.
 
-Past Tense:
+Order the words in a sentence
 
-Eu vivi em outra cidade quando era criança.
-Tu viveste no estrangeiro durante um ano.
-Ele viveu muitas aventuras na juventude.
-Nós vivemos num apartamento antes de comprar a casa.
-Vós vivestes em diferentes países antes de se conhecerem.
-
-Future Tense:
-
-Eu viverei numa casa na praia quando me reformar.
-Tu viverás numa cidade diferente para estudar.
-Ele viverá numa fazenda quando se aposentar.
-Nós viveremos numa casa maior quando a família crescer.
-Vós vivereis no campo quando os filhos forem para a faculdade.
+vive / os pais / com / ele -> Ele vive com os pais.
+crescer / nós / viveremos / casa / maior / quando / a família / numa
+vivi / eu / noutra / era / criança / cidade / quando
+comprar / nós / num / apartamento / antes de / a casa / vivemos
+viverei / casa / numa / na praia / quando / me reformar / eu
+diferente / tu / viverás / cidade / para / estudar / numa
 
 ## Writing Prompts
 

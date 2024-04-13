@@ -32,29 +32,23 @@ The Portuguese verb
 
 ## Exercises
 
-Present Tense:
+Use correct verb conjugation
 
-Eu procuro as chaves pela casa.
-Tu procuras o teu telemóvel na mochila.
-Ele procura um novo emprego há meses.
-Nós procuramos informações na internet.
-Vós procurais o endereço no mapa.
+Ele (procurará) uma casa nova para alugar.
+Eu e o Roberto (procuraremos) por uma nova oportunidade de negócio.
+Ontem eu (procurei) o livro na biblioteca.
+Na semana passada, tu (procuraste) os documentos no escritório.
+Eu (procuro) as chaves pela casa.
+Tu (procuras) o teu telemóvel na mochila.
 
-Past Tense:
+Connect the sentences
 
-Eu procurei o livro na biblioteca ontem.
-Tu procuraste os documentos no escritório na semana passada.
-Ele procurou a carteira por toda a casa.
-Nós procurámos o restaurante naquela rua.
-Vós procurastes a solução para o problema durante horas.
-
-Future Tense:
-
-Eu procurarei o presente perfeito para ela.
-Tu procurarás a verdade sobre o assunto.
-Ele procurará uma casa nova para alugar.
-Nós procuraremos por uma nova oportunidade de negócio.
-Vós procurareis uma nova cidade para morar.
+Ele procura um novo -> emprego há meses.
+Nós procuramos informações -> na internet.
+Ele procurou a carteira -> por toda a casa.
+Nós procurámos o restaurante -> naquela rua.
+Eu procurarei o presente -> perfeito para ela.
+Tu procurarás a verdade -> sobre o assunto.
 
 ## Writing Prompts
 

@@ -35,29 +35,22 @@ The Portuguese verb "tomar" can mean "to take," "to have," or "to drink" dependi
 
 ## Exercises
 
-Present Tense:
+Use correct verb conjugation
 
-Eu tomo café todas as manhãs.
-Tu tomas um banho antes de sair.
-Ele toma o autocarro para ir ao trabalho.
-Nós tomamos água ao longo do dia.
-Vós tomais chá antes de dormir.
+Quando estava doente, eu (tomei) um remédio.
+Tu (tomaste) um café com leite no café.
+Antes de dormir, ele (tomará) um banho relaxante.
+Eu e a Mariana (tomaremos) um café com amigos amanhã.
+Todas as manhãs, eu (tomo) café.
+Tu (tomas) um banho antes de sair.
 
-Past Tense:
+Order the words in a sentence
 
-Eu tomei um remédio quando estava doente.
-Tu tomaste um café com leite no café.
-Ele tomou uma decisão importante na semana passada.
-Nós tomámos um refrigerante no jantar.
-Vós tomastes um copo de vinho no jantar de ontem.
-
-Future Tense:
-
-Eu tomarei um suco de laranja ao pequeno-almoço.
-Tu tomarás um café expresso depois do almoço.
-Ele tomará um banho relaxante antes de dormir.
-Nós tomaremos um café com amigos amanhã.
-Vós tomareis um chá gelado para refrescar.
+ir / ele / toma / antes / de / trabalho / o / banho/ para -> Ele toma banho antes de ir para o trabalho.
+tomamos / água / ao / do dia / longo / nós
+na / semana / ele / tomou / uma / importante / passada / decisão
+nós / tomámos / ao / jantar / ao / refrigerante / um
+tu / um / café / depois / expresso / do / almoço / tomarás
 
 ## Writing Prompts
 

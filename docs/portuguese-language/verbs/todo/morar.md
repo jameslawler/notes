@@ -25,29 +25,21 @@ The Portuguese verb "morar" translates to "to live" or "to reside" in English.
 
 ## Exercises
 
-Present Tense:
+Use correct verb conjugation
+O Ronaldo (morará) sozinho quando terminar os estudos.
+Nós (moraremos) numa casa de campo quando nos reformarmos.
+Eu (moro) numa casa pequena perto do centro.
+Tu (moras) num apartamento no quinto andar.
+A Isabel (mora) com os pais na cidade.
+Eu e a minha esposa (moramos) numa vila tranquila no campo.
 
-Eu moro numa casa pequena perto do centro.
-Tu moras num apartamento no quinto andar.
-Ele mora com os pais na cidade.
-Nós moramos numa vila tranquila no campo.
-Vós morais num condomínio no subúrbio.
-
-Past Tense:
-
-Eu morei numa cidade diferente quando era criança.
-Tu moraste com os avós durante as férias.
-Ele morou numa casa antiga antes de se mudar.
-Nós morámos no estrangeiro por alguns anos.
-Vós morastes numa casa alugada temporariamente.
-
-Future Tense:
-
-Eu morarei numa casa maior no futuro.
-Tu morarás numa cidade diferente por motivos de trabalho.
-Ele morará sozinho quando terminar os estudos.
-Nós moraremos numa casa de campo quando nos reformarmos.
-Vós morareis num apartamento no centro da cidade depois do casamento.
+Connect the sentences
+Eu morei numa cidade diferente -> quando era criança.
+Tu moraste com os avós -> durante as férias.
+Ele morou numa casa antiga -> antes de se mudar.
+Nós morámos no estrangeiro -> por alguns anos.
+Eu morarei numa casa maior-> no futuro.
+Tu morarás numa cidade diferente -> por motivos de trabalho.
 
 ## Writing Prompts
 

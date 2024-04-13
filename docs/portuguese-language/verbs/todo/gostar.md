@@ -25,29 +25,23 @@ The Portuguese verb "gostar" means "to like" in English.
 
 ## Exercises
 
-Present Tense:
+Use correct verb conjugation
 
-Eu gosto de ler livros antes de dormir.
-Tu gostas de comer pizza aos sábados.
-Ele gosta de assistir a filmes de comédia.
-Nós gostamos de passear no parque aos domingos.
-Vós gostais de ouvir música enquanto estudais.
+A Rita (gostou) da viagem que fez ao estrangeiro.
+O Manuel (gostou) do presente que recebeu no aniversário.
+Durante as férias, o Miguel (gostará) de visitar museus.
+Nós (gostaremos) de assistir ao espetáculo no teatro.
+Antes de dormir, a Joana (gosta) de ler livros.
+Aos sábados, o Pedro e a Maria (gostam) de comer pizza.
 
-Past Tense:
+Connect the sentences 
 
-Eu gostei do concerto que assisti na semana passada.
-Tu gostaste da viagem que fizeste ao estrangeiro.
-Ele gostou do presente que recebeu no aniversário.
-Nós gostámos do restaurante novo que experimentámos.
-Vós gostastes da festa de aniversário do amigo.
-
-Future Tense:
-
-Eu gostarei de viajar pelo mundo um dia.
-Tu gostarás de experimentar novos pratos culinários.
-Ele gostará de visitar museus durante as férias.
-Nós gostaremos de assistir ao espetáculo no teatro.
-Vós gostareis de passar o verão na praia.
+Ele (gosta) de assistir                 -> a filmes de comédia.
+Aos domingos, nós (gostamos) de passear    ->  no parque.
+Eu (gostei) do concerto                   ->   que assisti na semana passada.
+Nós (gostámos) do restaurante novo          -> que experimentámos.
+Um dia, Eu (gostarei) de viajar              -> pelo mundo.
+Tu (gostarás) de experimentar novos         ->  pratos culinários.
 
 ## Writing Prompts
 

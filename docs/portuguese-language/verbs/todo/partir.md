@@ -35,29 +35,22 @@ The Portuguese verb "partir" means "to leave" or "to depart" in English.
 
 ## Exercises
 
-Present Tense:
+Correct verb conjugation
 
-Eu parto para o trabalho todas as manhãs.
-Tu partes para as férias amanhã.
-Ele parte do aeroporto às 15h.
-Nós partimos de casa às 8h.
-Vós partis para a escola de autocarro.
+Ele (partirá) de comboio para o Porto.
+Nós (partiremos) de carro para as montanhas.
+Eu (parto) para o trabalho todas as manhãs.
+Na semana passada eu (parti) de viagem.
+No verão passado tu (partiste) para o estrangeiro.
+Tu (partes) para as férias amanhã.
 
-Past Tense:
-
-Eu parti de viagem na semana passada.
-Tu partiste para o estrangeiro no verão passado.
-Ele partiu para o Brasil no ano passado.
-Nós partimos de Lisboa há dois anos.
-Vós partistes de casa cedo ontem.
-
-Future Tense:
-
-Eu partirei para Paris no próximo mês.
-Tu partirás para a faculdade no outono.
-Ele partirá de comboio para o Porto.
-Nós partiremos de carro para as montanhas.
-Vós partireis de avião para as férias de verão.
+Order the words in a sentence
+parte / ele / do aeroporto / às / 15h -> Ele parte do aeroporto às 15h.
+nós / de / casa / 8h / às / partimos
+no / ele / partiu / para / o Brasil / ano / passado
+partimos / de / Lisboa / nós / dois / anos / há
+para / Paris / no / eu / próximo / mês / partirei
+partirás / tu / para / faculdade / no / outono / afaculdade
 
 ## Writing Prompts
 

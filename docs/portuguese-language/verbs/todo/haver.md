@@ -30,29 +30,22 @@ The Portuguese verb "haver" means "to have" or "to exist" in English.
 
 ## Exercises
 
-Present Tense:
+Use correct verb conjugation
+Daqui a dois meses (haverá) um feriado nacional.
+No final da tarde (haverá) uma tempestade.
+(Houveram) muitos problemas durante o evento.
+No ano passado, (houveram) diversas manifestações na cidade.
+(Há) muitas pessoas na praia neste momento.
+(Há) uma festa no jardim esta noite.
 
-Há muitas pessoas na praia neste momento.
-Há uma festa no jardim esta noite.
-Há um bom filme em exibição no cinema.
-Há livros interessantes na biblioteca.
-Há música suave a tocar no café.
+Connect the sentences
 
-Past Tense:
-
-Havia muitas árvores no parque quando eu era criança.
-Houveram muitos problemas durante o evento.
-Houveram diversas manifestações na cidade no ano passado.
-Houveram muitas discussões na reunião anterior.
-Houveram várias mudanças na política da empresa.
-
-Future Tense:
-
-Haverá um grande concerto no estádio no próximo mês.
-Haverá uma reunião importante amanhã de manhã.
-Haverá uma exposição de arte na galeria esta semana.
-Haverá um feriado nacional daqui a dois meses.
-Haverá uma tempestade no final da tarde.
+Haverá uma reunião importante-> amanhã de manhã.
+Havia muitas árvores no parque -> quando eu era criança.
+Há um bom filme em exibição-> no cinema.
+Há livros interessantes-> na biblioteca.
+Há música suave a tocar -> no café.
+Haverá um grande concerto -> no estádio.
 
 ## Writing Prompts
 

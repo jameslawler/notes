@@ -30,29 +30,21 @@ The Portuguese verb "olhar" translates to "to look" or "to watch" in English.
 
 ## Exercises
 
-Present Tense:
+Use correct verb conjugation
+Eu (olhei) para o mapa para encontrar o caminho.
+Tu (olhaste) para a fotografia com saudade.
+Durante o passeio, ele (olhará) para a lua.
+Nós (olharemos) para as oportunidades que surgirem.
+Todas as noites, eu (olho) para o céu.
+Tu (olhas) constantemente para o telemóvel.
 
-Eu olho para o céu todas as noites.
-Tu olhas para o telemóvel constantemente.
-Ele olha para o relógio com impaciência.
-Nós olhamos para o mar quando estamos na praia.
-Vós olhais para o professor durante a aula.
-
-Past Tense:
-
-Eu olhei para o mapa para encontrar o caminho.
-Tu olhaste para a fotografia com saudade.
-Ele olhou para trás antes de atravessar a rua.
-Nós olhámos para as estrelas durante a noite.
-Vós olhastes para a televisão durante horas.
-
-Future Tense:
-
-Eu olharei para o futuro com otimismo.
-Tu olharás para o horizonte à procura de respostas.
-Ele olhará para a lua durante o passeio.
-Nós olharemos para as oportunidades que surgirem.
-Vós olhareis para as fotos antigas com nostalgia.
+Order the words in a sentence
+para / ele / olha / o relógio / impaciência / com -> Ele olha para o relógio com impaciência.
+olhamos / nós / para / o mar / estamos / quando / na / praia
+olhou / ele / para / trás / antes / de / atravessar / a rua / antes
+a noite / nós / as estrelas / olhámos / para / durante
+eu / para / olharei / o futuro / otimismo / com
+o horizonte / tu / olharás / para / à procura / respostas/ de
 
 ## Writing Prompts
 
