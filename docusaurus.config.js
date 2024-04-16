@@ -77,7 +77,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} James Lawler, Built with Docusaurus. All notes are my personal opinion based on experiences and not intended as advice.`,
+        copyright: `Copyright © ${new Date().getFullYear()} James Lawler, Built with Docusaurus.<br>All notes are my personal opinion based on experiences and not intended as advice.`,
       },
       prism: {
         theme: prismThemes.github,
