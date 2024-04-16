@@ -14,7 +14,6 @@ Vocabulary lists and examples of how job advertisements look in Portugal.
 - o currículo
 - urgente
 - oferece-se
--
 
 ## Examples
 

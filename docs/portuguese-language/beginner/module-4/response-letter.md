@@ -11,7 +11,6 @@ Structure of a response letter and an example of a response letter in Portugal.
 Greetings:
 
 - Examos. Senhores
--
 
 What the letter is in response to:
 
