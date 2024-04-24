@@ -26,29 +26,28 @@ The Portuguese verb "continuar" translates to "to continue" in English, indicati
 
 ## Examples
 
-### Present Tense:
+Use correct verb conjugation
 
-- Eu continuo a aprender português todos os dias.
-- Tu continuas a praticar piano todas as tardes.
-- Ele continua a trabalhar mesmo depois do expediente.
-- Nós continuamos a explorar novas ideias para o projeto.
-- Eles continuam a estudar para o exame final.
+Todos os dias, eu (continuo) a aprender português.
+Todas as tardes, tu (continuas) a praticar piano.
+Tu (continuarás) a trabalhar duro para alcançar teus objetivos.
+A Bendita (continuará) a buscar novas oportunidades de trabalho
+Nós (continuamos) a explorar novas ideias para o projeto.
+O Marcelo e o Paulo (continuam) a estudar para o exame final.
 
-### Past Tense:
+Connect the sentences
 
-- Eu continuei a ler o livro até altas horas da noite.
-- Tu continuaste a fazer exercício físico mesmo quando estavas cansado.
-- Ele continuou a trabalhar no projeto até terminá-lo.
-- Nós continuámos a assistir ao filme mesmo depois de já ter passado da meia-noite.
-- Elas continuaram a estudar mesmo durante as férias.
+Eu continuei a ler -> o livro até altas horas da noite.
+Ele continuou a trabalhar -> no projeto até terminá-lo.
+Eu continuarei a praticar -> desporto regularmente para manter a forma.
+Tu continuaste a fazer -> exercício físico mesmo quando estavas cansado.
+Nós continuámos a assistir -> ao filme depois de já ter passado da meia-noite.
+Elas continuaram a estudar -> mesmo durante as férias.
 
-### Future Tense:
+Extra
 
-- Eu continuarei a praticar esportes regularmente para manter a forma.
-- Tu continuarás a trabalhar duro para alcançar teus objetivos.
-- Ele continuará a buscar novas oportunidades de trabalho.
-- Nós continuaremos a nos esforçar para melhorar nossas habilidades.
-- Vós continuaréis a explorar o mundo através das viagens.
+Nós continuaremos a nos esforçar para melhorar nossas habilidades.
+Ele continua a trabalhar mesmo depois do expediente
 
 ## Writing Prompts
 

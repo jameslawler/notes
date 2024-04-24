@@ -26,29 +26,23 @@ The Portuguese verb "formar" means "to form" or "to shape."
 
 ## Exercises
 
-Present Tense:
+Use correct verb conjugation
 
-Eu formo as letras com o lápis.
-Tu formas um plano para o projeto.
-Ele forma uma equipe para o evento.
-Nós formamos uma fila na entrada.
-Vós formais um círculo para discutir.
+Eu (formei) uma opinião sobre o assunto.
+O Paulo e a Isabel (formaram) uma aliança com outra empresa.
+Tu (formarás) um novo hábito saudável.
+O Bruno (formará) uma equipa de trabalho.
+Nós (formamos) as letras com o lápis.
+Tu (formas) um plano para o projeto.
 
-Past Tense:
+Connect the sentences
 
-Eu formei uma opinião sobre o assunto.
-Tu formaste uma aliança com outra empresa.
-Ele formou uma associação para ajudar os necessitados.
-Nós formámos um comitê para organizar o evento.
-Vós formastes uma parceria de negócios.
-
-Future Tense:
-
-Eu formarei uma escultura de argila.
-Tu formarás um novo hábito saudável.
-Ele formará uma equipe de trabalho.
-Nós formaremos uma aliança estratégica.
-Vós formareis uma sociedade beneficente.
+Ele forma uma equipa -> para o evento.
+Nós formamos uma fila -> na entrada.
+Ele formou uma associação -> para ajudar os necessitados.
+Nós formámos um comitcomité -> para organizar o evento.
+Eu formarei uma escultura -> de argila.
+Nós formaremos uma aliança -> estratégica.
 
 ## Writing Prompts
 

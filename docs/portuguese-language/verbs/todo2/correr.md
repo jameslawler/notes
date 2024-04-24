@@ -26,29 +26,27 @@ The Portuguese verb "correr" means "to run."
 
 ## Exercises
 
-Present Tense:
+Use correct verb conjugation
 
-Eu corro cinco quilômetros todos os dias.
-Tu corres mais rápido do que eu.
-Ele corre no parque aos domingos.
-Nós corremos juntos pela manhã.
-Vós correis regularmente para manter a forma.
+Todos os dias, eu (corro) cinco quilómetros.
+Tu (corres) mais rápido do que eu.
+O Rui (corre) no parque aos domingos.
+Pela manhã, eu e o Filipe (corremos) juntos.
+Eu (correrei) uma ultramaratona no próximo mês.
+Tu (correrás) todos os dias para te preparares para a competição.
 
-Past Tense:
+Order the words in a sentence
 
-Eu corri uma maratona no ano passado.
-Tu correste pela praia durante as férias.
-Ele correu para pegar o ônibus ontem.
+eu / numa / corri / maratona / no / ano / passado -> Eu corri numa maratona no ano passado.
+correste / tu / pela / durante / as férias / praia
+aos / ele / corre / no / parque / domingos
+um / ele / correrá / quilómetro / menos / quatro / minutos / em / de
+correremos / na / juntos / trilha / amanhã / nós
+ele / apanhar / para / o autocarro / ontem / correu
+
+Extra
+
 Nós corremos sob a chuva na semana passada.
-Vós correstes comigo na corrida de rua.
-
-Future Tense:
-
-Eu correrei uma ultramaratona no próximo mês.
-Tu correrás todos os dias para se preparar para a competição.
-Ele correrá o primeiro quilômetro em menos de quatro minutos.
-Nós correremos juntos na trilha amanhã.
-Vós correreis mais rápido se treinardes regularmente.
 
 ## Writing Prompts
 

@@ -26,29 +26,28 @@ The Portuguese verb "considerar" translates to "to consider" in English, indicat
 
 ## Examples
 
-### Present Tense:
+Use correct verb conjugation
 
-- Eu considero todas as possibilidades antes de tomar uma decisão.
-- Tu consideras as opiniões dos outros antes de agir.
-- Ele considera o problema com cuidado antes de propor soluções.
-- Nós consideramos várias alternativas para resolver o problema.
-- Eles consideram a proposta do cliente antes de apresentar uma contraproposta.
+Antes de tomar uma decisão, eu (considero) todas as possibilidades.
+Antes de agir, nós (consideraremos) todas as opções disponíveis.
+Tu (consideras) sempre as opiniões dos outros.
+A Paula (considera) o problema com cuidado antes de propor soluções.
+Nós (consideramos) várias alternativas para resolver o problema.
+Eles (consideraram) a proposta do cliente antes de apresentar uma contraproposta.
 
-### Past Tense:
+Connect the sentences
+Eu considerei -> sua sugestão
+Tu consideraste -> todas as implicações
+Ele considerou -> a oferta da empresa
+Nós considerámos -> todas as opções
+Elas consideraram -> a ideia antes
 
-- Eu considerei sua sugestão, mas decidi seguir outro caminho.
-- Tu consideraste todas as implicações antes de fazer a escolha.
-- Ele considerou a oferta da empresa antes de aceitar o emprego.
-- Nós considerámos todas as opções antes de fazer a reserva.
-- Elas consideraram a ideia antes de rejeitá-la.
-
-### Future Tense:
+Extras
 
 - Eu considerarei suas sugestões antes de finalizar o projeto.
 - Tu considerarás todas as consequências antes de tomar uma decisão.
 - Ele considerará as possibilidades antes de fazer uma escolha.
-- Nós consideraremos todas as opções disponíveis antes de agir.
-- Vós considerareis a oferta antes de tomar uma decisão final.
+-
 
 ## Writing Prompts
 

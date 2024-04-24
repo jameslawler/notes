@@ -31,29 +31,28 @@ The Portuguese verb "criar" translates to "to create" or "to make" in English, i
 
 ## Examples
 
-### Present Tense:
+Use correct verb conjugation
 
-- Eu crio uma nova música todas as semanas.
-- Tu crias belas esculturas com argila.
-- Ele cria histórias fantásticas para seus filhos.
-- Nós criamos um aplicativo de sucesso.
-- Vocês criam roupas exclusivas para seus clientes.
+Eu (criarei) uma empresa de design gráfico.
+Tu (criarás) uma coleção de moda inovadora.
+O Diogo (cria) histórias fantásticas para os filhos dele.
+Tu (criaste) um bolo delicioso para o aniversário.
+Ele (criou) uma apresentação impressionante para a reunião.
+Nós (criamos) um aplicativo de sucesso.
 
-### Past Tense:
+Connect the sentences
+
+Eu crio uma nova -> música.
+Tu crias belas esculturas -> com argila.
+Nós criámos uma empresa -> há cinco anos.
+Elas criaram um jardim -> bonito no quintal.
+Ele criará um livro -> de receitas famoso.
+Nós criaremos um novo método -> de ensino.
+
+Extra
+Vocês criam roupas exclusivas para seus clientes.
 
 - Eu criei um quadro para a exposição de arte.
-- Tu criaste um bolo delicioso para o aniversário.
-- Ele criou uma apresentação impressionante para a reunião.
-- Nós criámos uma empresa há cinco anos.
-- Elas criaram um jardim bonito no quintal.
-
-### Future Tense:
-
-- Eu criarei uma empresa de design gráfico.
-- Tu criarás uma coleção de moda inovadora.
-- Ele criará um livro de receitas famoso.
-- Nós criaremos um novo método de ensino.
-- Vós criareis um projeto de voluntariado na comunidade.
 
 ## Writing Prompts
 

@@ -21,29 +21,23 @@ The Portuguese verb "incluir" means "to include."
 
 ## Exercises
 
-Present Tense:
+Use correct verb conjugation
 
-Eu incluo todos os ingredientes na receita.
-Tu incluis teus amigos em todos os planos.
-Ele inclui o imposto no cálculo final.
-Nós incluímos todas as opções no relatório.
-Vós incluís as despesas nas contas mensais.
+Tu (incluis) os teus amigos em todos os planos.
+Eu (incluirei) uma nota de agradecimento no pacote.
+Tu (incluirás) uma garantia estendida no contrato.
+Eu e o Rafael (incluímos) todas as opções no relatório.
+A Melissa (incluiu) um bónus no salário do funcionário.
+No contrato, Nós (incluímos) uma cláusula adicional.
 
-Past Tense:
+Connect the sentences
 
-Eu incluí uma sobremesa extra no jantar de ontem.
-Tu incluíste um comentário especial no presente.
-Ele incluiu um bônus no salário do funcionário.
-Nós incluímos uma cláusula adicional no contrato.
-Vós incluístes um parágrafo extra no relatório final.
-
-Future Tense:
-
-Eu incluirei uma nota de agradecimento no pacote.
-Tu incluirás uma garantia estendida no contrato.
-Ele incluirá uma nova seção no documento.
-Nós incluiremos uma opção de entrega expressa.
-Vós incluireis um brinde especial na oferta.
+Eu incluo todos os ingredientes -> na receita.
+Ele inclui o imposto -> no cálculo final.
+Eu incluí uma sobremesa extra -> no jantar de ontem.
+Tu incluíste um comentário especial -> no presente.
+Ele incluirá uma nova secção -> no documento.
+Nós incluiremos uma opção -> de entrega expressa.
 
 ## Writing Prompts
 

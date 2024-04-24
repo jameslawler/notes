@@ -21,29 +21,29 @@ The Portuguese verb "escrever" means "to write."
 
 ## Examples
 
-### Present Tense:
+Use correct verb conjugation
 
-- Eu escrevo no meu diário todos os dias.
-- Tu escreves um e-mail para o professor.
-- Ele escreve uma poesia para a namorada.
-- Nós escrevemos um artigo para a revista.
-- Vocês escrevem um roteiro para o filme.
+Eu (escreverei) um romance um dia.
+Tu (escreves) um e-mail para o professor.
+A Rafaela (escreve) uma poesia para o namorado.
+O David (escreveu) um ensaio para a faculdade.
+Eu e tu (escrevemos) um conto de fadas na infância.
+Vocês (escreveram) um poema juntos.
 
-### Past Tense:
+Order the words in a sentence
 
-- Eu escrevi um livro no ano passado.
-- Tu escreveste uma carta para os avós.
-- Ele escreveu um ensaio para a faculdade.
-- Nós escrevemos um conto de fadas na infância.
-- Vocês escreveram um poema juntos.
+escrevemos / nós / um artigo / a revista / para -> Nós escrevemos a revista para um artigo.
+um roteiro / para / o filme / vocês / escrevem
+viagens / ele / escreverá / um blog / sobre
+escrevi um livro no / passado / ano / eu
+os avós / uma carta / tu / escreveste / para
+uma peça / vocês / escreverão / / de / teatro
 
-### Future Tense:
+Extras
 
-- Eu escreverei um romance um dia.
-- Tu escreverás uma mensagem para o amigo.
-- Ele escreverá um blog sobre viagens.
-- Nós escreveremos um livro de receitas.
-- Vocês escreverão uma peça de teatro.
+Tu escreverás uma mensagem para o amigo.
+Nós escreveremos um livro de receitas.
+Eu escrevo no meu diário todos os dia
 
 ## Writing Prompts
 

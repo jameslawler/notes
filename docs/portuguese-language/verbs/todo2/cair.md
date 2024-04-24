@@ -21,29 +21,23 @@ The Portuguese verb "cair" means "to fall."
 
 ## Exercises
 
-Present Tense:
+Use correct verb conjugation
 
-Eu caio se o chão estiver molhado.
-Tu cais quando estás distraído.
-Ele cai quando a escada é escorregadia.
-Nós caímos durante a tempestade.
-Vós caem quando o vento está forte.
+Tu (cairás) se não olhares por onde andas.
+O Nuno (cairá) se continuar a correr tão rápido.
+Se o chão estiver molhado, eu (caio).
+Tu (cais) quando estás distraído.
+A Fabiana e a Lara (caem) quando a escada é escorregadia.
+Nós (caímos) durante a tempestade.
 
-Past Tense:
+Order the words in a sentence
 
-Eu caí da bicicleta ontem.
-Tu caíste da cama esta manhã.
-Ele caiu enquanto esquiava na montanha.
-Nós caímos na rua molhada.
-Vós caístes no gelo durante o inverno passado.
-
-Future Tense:
-
-Eu cairei se não tomar cuidado.
-Tu cairás se não olhares por onde andas.
-Ele cairá se continuar correndo tão rápido.
-Nós cairemos se o piso estiver escorregadio.
-Vós caireis se não segurarem bem as mãos.
+eu / da / caí / bicicleta / ontem -> Eu caí da bicicleta ontem.
+caíste / da / cama / manhã / esta / tu
+enquanto / esquiava / na / montanha / ele / caiu
+nós / caímos / rua / molhada / na
+cairei / se / não / cuidado / eu / tomar
+o piso / cairemos / se / estiver / escorregadio / nós
 
 ## Writing Prompts
 

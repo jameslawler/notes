@@ -31,29 +31,26 @@ The Portuguese verb "constituir" means "to constitute" or "to establish."
 
 ## Examples
 
-Past Tense:
+Use correct verb conjugation
 
-Eu constitui uma associação no ano passado.
-Tu constituíste uma nova equipe para o projeto.
-Ele constituiu uma família feliz com sua esposa.
-Nós constituímos uma comissão para investigar o problema.
-Vós constituístes uma parceria de negócios em 2020.
+De forma a promover a arte, (constituirá) uma nova organização.
+Nós (constituiremos) um grupo de estudos para o exame.
+Eu (constitui) uma associação no ano passado.
+Tu (constituis) a base do projeto com suas ideias.
+Ele (constituiu) uma família feliz com sua esposa.
+Eu e a Vanessa (constituímos) uma comissão para investigar o problema.
 
-Present Tense:
+Order the words in a sentence
 
-Eu constituo parte do conselho de administração.
-Tu constituis a base do projeto com suas ideias.
-Ele constitui a essência do time com sua liderança.
-Nós constituímos a força motriz por trás da mudança.
-Vós constituem um exemplo a ser seguido para os outros.
+para / tu / constituíste / nova / equipa / o projeto / uma -> Tu constituíste uma equipa nova para o projeto.
+constituo / eu / do / parte / conselho / de / administração
+a essência / ele / constitui / da / equipa / com / sua / liderança
+da / nós / constituímos / motriz por trás / mudança / a força
+empresa / eu / constituirei / uma / de / no / futuro / tecnologia
+valores / eu / sólida / constituirás / uma / família / com / seus
 
-Future Tense:
-
-Eu constituirei uma empresa de tecnologia no futuro.
-Tu constituirás uma família sólida com seus valores.
-Ele constituirá uma nova organização para promover a arte.
-Nós constituiremos um grupo de estudos para o exame.
-Vós constituirão uma nova filial da empresa no exterior.
+Extras
+Elas constituirão uma nova filial da empresa no estrangeiro.
 
 ## Writing Prompts
 

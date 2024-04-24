@@ -30,29 +30,28 @@ The Portuguese verb "apresentar" translates to "to present" or "to introduce" in
 
 ## Examples
 
-### Present Tense:
+Use correct verb conjugation
 
-- Eu apresento o relatório aos meus colegas.
-- Tu apresentas o convidado ao público.
-- Ele apresenta os resultados da pesquisa.
-- Nós apresentamos nossas ideias ao comitê.
-- Eles apresentam suas habilidades durante a entrevista.
+Eu (apresento) o relatório aos meus colegas.
+Tu (apresentas) o convidado ao público.
+A Joana (apresenta) os resultados da pesquisa.
+Eu e o Armando (apresentamos) as nossas ideias.
+Durante a entrevista, o Francisco e o Assis (apresentam) suas capacidades.
+Eu (apresentei) o meu trabalho na conferência.
 
-### Past Tense:
+Connect the sentences
 
-- Eu apresentei meu trabalho na conferência.
-- Tu apresentaste teus amigos aos teus pais.
-- Ele apresentou sua proposta à diretoria.
-- Nós apresentámos o plano de negócios ao investidor.
-- Elas apresentaram seus projetos artísticos na exposição.
+Tu apresentaste os teus amigos -> aos teus pais.
+Ele apresentou a sua proposta -> à diretoria.
+Nós apresentámos o plano de negócios -> ao investidor.
+Eu apresentarei a minha dissertação -> no próximo mês.
+Tu apresentarás o novo produto -> ao mercado.
+Ele apresentará sua pesquisa -> na conferência internacional.
+Nós apresentaremos nossa proposta -> ao cliente.
 
-### Future Tense:
+Extras
 
-- Eu apresentarei minha dissertação no próximo mês.
-- Tu apresentarás o novo produto ao mercado em breve.
-- Ele apresentará sua pesquisa na conferência internacional.
-- Nós apresentaremos nossa proposta ao cliente na próxima semana.
-- Vós apresentareis vossas conclusões na reunião de equipe.
+Elas apresentaram os seus projetos artísticos -> na exposição.
 
 ## Writing Prompts
 

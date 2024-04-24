@@ -26,29 +26,23 @@ The Portuguese verb "colocar" means "to put" or "to place."
 
 ## Examples
 
-Past Tense:
+Use correct verb conjugation
 
-Eu coloquei as chaves na gaveta.
-Tu colocaste o livro na estante.
-Ele colocou as flores no vaso.
-Nós colocámos a comida na geladeira.
-Vós colocastes as roupas no armário.
+O Marco (colocou) as flores no vaso.
+Nós (colocámos) a comida no frigorífico.
+Amanhã cedo, eu (colocarei) os documentos na pasta.
+Tu (colocarás) as compras no carro depois de pagar.
+Eu (coloco) o prato na mesa antes de comer.
+Depois de chegar em casa, ele e ela (colocam) os sapatos no armário.
 
-Present Tense:
+Order the words in a sentence
 
-Eu coloco o prato na mesa antes de comer.
-Tu colocas os sapatos no armário após chegar em casa.
-Ele coloca o casaco no cabide ao entrar.
-Nós colocamos as fotos na parede da sala.
-Vós colocais o lixo para fora todas as noites.
-
-Future Tense:
-
-Eu colocarei os documentos na pasta amanhã cedo.
-Tu colocarás as compras no carro depois de pagar.
-Ele colocará as malas no porta-malas antes de viajar.
-Nós colocaremos a mesa para o jantar logo.
-Vós colocareis as plantas no jardim durante a tarde.
+cabide / ele / coloca / o casaco / no / ao / entrar -> Ele coloca o casaco no cabide ao entrar.
+nós / colocamos / as fotos / parede / da / sala / na
+coloquei / na gaveta / as chaves / eu
+o livro / tu / colocaste / na / estante
+antes / ele / colocará / no / porta-malas / de / viajar / as malas
+o jantar / nós / colocaremos / a mesa / para / logo
 
 ## Writing Prompts
 

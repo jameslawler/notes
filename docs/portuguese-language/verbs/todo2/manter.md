@@ -21,29 +21,29 @@ The Portuguese verb "manter" means "to maintain" or "to keep."
 
 ## Examples
 
-### Present Tense:
+Use correct verb conjugation
 
-- Eu mantenho contato com meus amigos todos os dias.
-- Tu manténs a calma em situações estressantes.
-- Ele mantém o foco nos estudos para passar nos exames.
-- Nós mantemos a casa limpa e organizada.
-- Vocês mantêm o compromisso de praticar esportes regularmente.
+Todos os dias, eu (mantenho) contato com meus amigos.
+A Diana (mantém) o foco nos estudos para passar nos exames.
+Eu e a Adriana (mantemos) a casa limpa e organizada.
+Tu (mantiveste) a serenidade diante de uma situação difícil.
+Vocês (mantêm) o compromisso de praticar desporto regularmente.
+Nós (manteremos) a confiança mesmo diante dos desafios.
 
-### Past Tense:
+Connect the sentences
 
-- Eu mantive minha promessa de chegar cedo.
-- Tu mantiveste a serenidade diante da situação difícil.
-- Ele manteve o controle da situação durante a reunião.
-- Nós mantivemos nossas tradições familiares vivas.
-- Vocês mantiveram a esperança mesmo em tempos difíceis.
+Ele manteve o controle -> da situação.
+Nós mantivemos nossas tradições -> familiares vivas.
+Vocês mantiveram -> a esperança.
+Eu manterei a minha -> palavra.
+Tu manterás a determinação -> até alcançar seus objetivos.
+Ele manterá a promessa -> de cuidar dos filhos.
+Eu mantive minha promessa -> de chegar cedo.
+Tu manténs a calma -> em situações stressantes.
 
-### Future Tense:
+Extras
 
-- Eu manterei minha palavra e te ajudarei.
-- Tu manterás a determinação até alcançar seus objetivos.
-- Ele manterá a promessa de cuidar dos filhos.
-- Nós manteremos a fé mesmo diante dos desafios.
-- Vocês manterão a tradição de se reunir durante as festas.
+Vocês manterão a tradição de se reunir durante as festas.
 
 ## Writing Prompts
 

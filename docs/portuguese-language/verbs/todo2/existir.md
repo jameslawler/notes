@@ -25,29 +25,27 @@ The Portuguese verb "existir" translates to "to exist" in English, indicating th
 
 ## Examples
 
-### Present Tense:
+Use correct verb conjugation
 
-- Eu existo para aproveitar cada momento da vida.
-- Tu existes para fazer a diferença no mundo.
-- Ele existe para ajudar os outros sempre que pode.
-- Nós existimos para aprender e crescer como pessoas.
-- Eles existem para contribuir para um mundo melhor.
+Eu (existo) para aproveitar cada momento da vida.
+Tu (existes) para fazer a diferença no mundo.
+Nossos avós (existiram) em tempos muito diferentes dos nossos.
+Eu (existirei) para ver o sucesso dos meus filhos.
+Nós (existimos) para aprender e crescer como pessoas.
+Eles (existem) para contribuir para um mundo melhor.
 
-### Past Tense:
+Order the words in a sentence
 
-- Eu existi antes de me mudar para esta cidade.
-- Tu exististe na história da nossa família.
-- Ele existiu antes de se tornar famoso.
-- Nós existimos antes deste avanço tecnológico.
-- Elas existiram em tempos muito diferentes dos nossos.
+para / ele / existe / ajudar / sempre / os outros / que / pode -> Ele existe para ajudar os outros sempre que pode.
+eu / existi / de / antes / me mudar / esta / cidade / para
+exististe / na história / nossa / da / família / tu
+alcançar / tu / existirás / para / os teus / sonhos
+do futuro / ele / existirá / para / os desafios / enfrentar
+para / nós / existiremos / fazer / positiva / no / uma diferença / mundo
 
-### Future Tense:
+Extra
 
-- Eu existirei para ver o sucesso dos meus filhos.
-- Tu existirás para alcançar os teus sonhos.
-- Ele existirá para enfrentar os desafios do futuro.
-- Nós existiremos para fazer uma diferença positiva no mundo.
-- Vós existireis para deixar um legado duradouro.
+Nós existimos antes deste avanço tecnológico
 
 ## Writing Prompts
 

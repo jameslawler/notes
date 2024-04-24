@@ -31,29 +31,28 @@ The Portuguese verb "chamar" means "to call" or "to summon" in English, referrin
 
 ## Examples
 
-### Present Tense:
+Use correct verb conjugation
 
-- Eu chamo meu irmão para jantar.
-- Tu chamas o gato pelo apelido.
-- Ele chama o ônibus para ir ao trabalho.
-- Nós chamamos o novo produto de "Inovação Total".
-- Eles chamam seus amigos para a festa.
+Eu (chamarei) o meu irmão para jantar.
+Tu (chamas) o teu vizinho pelo apelido.
+O Joaquim (chama) o táxi para ir ao trabalho.
+Tu (chamaste) o professor pelo sobrenome.
+Tu (chamarás) um táxi para ir ao concerto.
+A Sofia (chamará) os colegas para uma reunião de brainstorming.
+Nós (chamaremos) o serviço de entrega para o jantar.
 
-### Past Tense:
+Connect the sentences
 
-- Eu chamei o táxi e fui para o aeroporto.
-- Tu chamaste o professor pelo sobrenome.
-- Ele chamou o cachorro para brincar no parque.
-- Nós chamámos o restaurante e reservamos uma mesa.
-- Elas chamaram o filme de "Aventura Épica".
+Eu chamarei um médico se -> a febre não passar.
+Nós chamamos o novo produto de -> "Inovação Total".
+Eles chamam seus amigos -> para a festa.
+Eu chamei o táxi e fui -> para o aeroporto.
+Ele chamou a cadela para brincar -> no parque.
+Elas chamaram o filme de -> "Aventura Épica".
 
-### Future Tense:
+Extra
 
-- Eu chamarei um médico se a febre não passar.
-- Tu chamarás um táxi para ir ao concerto.
-- Ele chamará os colegas para uma reunião de brainstorming.
-- Nós chamaremos o serviço de entrega para o jantar.
-- Vós chamarão os vizinhos para a festa de inauguração.
+Nós (chamaremos) o serviço de entrega.
 
 ## Writing Prompts
 

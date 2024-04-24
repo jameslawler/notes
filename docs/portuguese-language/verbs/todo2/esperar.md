@@ -31,29 +31,30 @@ The Portuguese verb "esperar" means "to wait" or "to hope."
 
 ## Examples
 
-### Present Tense:
+Use correct verb conjugation
 
-- Eu espero pela chegada do meu amigo.
-- Tu esperas uma oportunidade para viajar.
-- Ele espera pelo momento certo para agir.
-- Nós esperamos por boas notícias.
-- Vocês esperam pelo resultado do exame.
+Nós (esperamos) pelo resultado do teste, ansiosamente.
+Tu (esperaste) pacientemente pelo telefonema.
+Vocês (esperam) pelo resultado do exame.
+Eu (esperarei) pelo seu retorno.
+Antes de começar, tu (esperarás) pelo meu sinal.
+Ele e ela (esperaram) pelo sinal verde para atravessar.
 
-### Past Tense:
+Connect the sentences
 
-- Eu esperei muito tempo pelo ônibus ontem.
-- Tu esperaste pacientemente pelo telefonema.
-- Ele esperou pelo sinal verde para atravessar.
-- Nós esperámos pelo resultado do teste ansiosamente.
-- Elas esperaram pelo fim da reunião com impaciência.
+Nós esperamos por -> boas notícias.
+Elas esperaram pelo fim -> da reunião.
+Ele esperará pelo próximo -> comboio.
+Nós esperaremos pelo resultado -> das eleições.
+Vocês esperarão pelo avião -> no aeroporto.
+Ele esperou pelo sinal verde -> para atravessar.
+Eu esperei muito tempo -> pelo autocarro ontem.
+Eu espero pela chegada -> do meu amigo.
 
-### Future Tense:
+Extras
 
-- Eu esperarei pelo seu retorno.
-- Tu esperarás pelo meu sinal antes de começar.
-- Ele esperará pelo próximo trem.
-- Nós esperaremos pelo resultado das eleições.
-- Vocês esperarão pelo avião no aeroporto.
+Tu esperas uma oportunidade para viajar.
+Ele espera pelo momento certo para agir.
 
 ## Writing Prompts
 

@@ -26,29 +26,23 @@ The Portuguese verb "entender" means "to understand."
 
 ## Examples
 
-Past Tense:
+Use correct verb conjugation
 
-Eu entendi a piada que ele contou.
-Tu entendeste o contexto da situação.
-Ele entendeu o problema após muita explicação.
-Nós entendemos a importância do trabalho em equipe.
-Vós entenderam as consequências de suas ações.
+Tu (entendeste) o contexto da situação.
+Após muita explicação, elas (entendem) o problema.
+Nós (entendemos) a importância do trabalho em equipa.
+Quando souber toda a verdade, o Hugo (entenderá) a situação.
+A Alexandra (entende) o que está a acontecer.
+Nós (entendemos) a necessidade de mudança.
 
-Present Tense:
+Connect the sentences
 
-Eu entendo as instruções do professor.
-Tu entendes as regras do jogo.
-Ele entende o que está acontecendo.
-Nós entendemos a necessidade de mudança.
-Vós entendem a importância da comunicação.
-
-Future Tense:
-
-Eu entenderei melhor depois de estudar mais.
-Tu entenderás quando explicarem com detalhes.
-Ele entenderá a situação quando souber toda a verdade.
-Nós entenderemos as consequências das decisões.
-Vós entenderão a importância do comprometimento.
+Eu entenderei melhor depois de -> estudar mais.
+Tu entenderás quando explicarem -> com detalhes.
+Eu entendi a piada -> que ele contou.
+Eu entendo as instruções -> do professor.
+Tu entendes as regras -> do jogo.
+Nós entenderemos as consequências -> das decisões.
 
 ## Writing Prompts
 

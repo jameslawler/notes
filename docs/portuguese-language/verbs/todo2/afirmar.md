@@ -21,29 +21,29 @@ The Portuguese verb "afirmar" translates to "to affirm" or "to assert" in Englis
 
 ## Examples
 
-### Present Tense:
+Use correct verb conjugation
 
-- Eu afirmo que o projeto está pronto.
-- Tu afirmas que ele é o melhor candidato.
-- Ele afirma que o problema foi resolvido.
-- Nós afirmamos nossa posição sobre o assunto.
-- Vocês afirmam que estão prontos para a competição.
+Tu (afirmas) que ele é o melhor candidato.
+O Tiago (afirma) que o problema foi resolvido.
+Eu e a Josefina (afirmamos) a nossa posição sobre o assunto.
+Tu (afirmarás) que alcançarás teus objetivos.
+Vocês (afirmam) que estão prontos para a competição.
+Eu (afirmei) que a informação era correta.
 
-### Past Tense:
+Connect the sentences
 
-- Eu afirmei que a informação era correta.
-- Tu afirmaste que ele estava mentindo.
-- Ele afirmou que já tinha terminado o trabalho.
-- Nós afirmámos que não sabíamos da situação.
-- Elas afirmaram que não viriam ao evento.
+Ele afirmará que trará -> novas ideias para o projeto.
+Tu afirmaste que ele -> estava a mentir.
+Ele afirmou que já -> tinha terminado o trabalho.
+Nós afirmámos que -> não sabíamos da situação.
+Elas afirmaram que -> não viriam ao evento.
+Eu afirmarei que -> tudo correrá bem.
 
-### Future Tense:
+EXTRAS
 
-- Eu afirmarei que tudo correrá bem.
-- Tu afirmarás que alcançarás teus objetivos.
 - Ele afirmará que trará novas ideias para o projeto.
 - Nós afirmaremos que participaremos da reunião.
-- Vocês afirmarão que estarão presentes na cerimônia.
+- Vocês afirmarão que estarão presentes na cerimonia.
 
 ## Writing Prompts
 

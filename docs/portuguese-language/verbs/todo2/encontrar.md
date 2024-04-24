@@ -30,29 +30,29 @@ The Portuguese verb "encontrar" can mean "to find" or "to meet" depending on the
 
 ## Examples
 
-### Present Tense:
+Use correct verb conjugation
 
-- Eu encontro sempre a minha irmã na escola.
-- Tu encontras a solução para os problemas com facilidade.
-- Ele encontra sempre tempo para os amigos.
-- Nós encontramos o restaurante perfeito para jantar.
-- Eles encontram-se todos os dias depois do trabalho.
+Eu (encontro) sempre a minha irmã na escola.
+Ele (encontrou) uma moeda antiga enquanto limpava a casa.
+Eu e A Elsa (encontrámos) os nossos amigos no concerto.
+Tu (encontras) a solução para os problemas com facilidade.
+Eu (encontrarei) uma solução para este problema.
+O Filipe (encontra) sempre tempo para os amigos.
+Nós (encontramos) o restaurante perfeito para jantar.
+Elas (encontram-se) todos os dias depois do trabalho.
 
-### Past Tense:
+Order the words in a sentence
 
-- Eu encontrei o meu livro perdido na biblioteca.
-- Tu encontraste um emprego novo no mês passado.
-- Ele encontrou uma moeda antiga enquanto limpava a casa.
-- Nós encontrámos os nossos amigos no concerto.
-- Elas encontraram um gato abandonado na rua.
+encontrei / o / meu / livro / perdido / na / biblioteca / eu -> Eu encontrei o meu livro perdido na biblioteca.
+passado / tu / encontraste / um / emprego / no / mês / novo
+abandonado / elas / encontraram / um gato / na / rua
+a paz / ele / encontrará / interior / através / meditação / da
+lugar / nós / encontraremos / um / novo / para / morar
+eles / uma / maneira de / se / entenderem / encontrarão
 
-### Future Tense:
+Extra
 
-- Eu encontrarei uma solução para este problema.
-- Tu encontrarás a resposta nas páginas finais do livro.
-- Ele encontrará a paz interior através da meditação.
-- Nós encontraremos um novo lugar para morar.
-- Eles encontrarão uma maneira de se entenderem.
+Tu encontrarás a resposta nas páginas finais do livro.
 
 ## Writing Prompts
 
