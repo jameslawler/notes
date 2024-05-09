@@ -31,6 +31,19 @@ The Portuguese verb "ocorrer" means "to occur" or "to happen."
 
 ## Examples
 
+Fill in missing word
+
+Numa pacata (aldeia), ocorreu um evento extraordinário. Uma chuva de estrelas cadentes (iluminou) o céu noturno, deixando os habitantes maravilhados. O fenômeno (ocorreu) sem aviso prévio, levando todos a sair das suas casas para testemunhar o espetáculo (celestial). As crianças ficaram encantadas, fazendo pedidos às (estrelas) cadentes enquanto corriam pelo campo. Os mais velhos recordaram (histórias) antigas sobre presságios e sonhos realizados. Após algumas horas, o evento chegou ao (fim), deixando uma sensação de admiração e gratidão em todos que o presenciaram.
+
+Story with true / false
+
+O evento extraordinário ocorreu em uma cidade grande - False
+O evento era bem conhecido - False
+Estrelas cadentes iluminaram o céu - True
+As crianças estavam com medo - False
+As histórias foram contadas pelos mais velhos - True
+As estrelas cadentes ficaram no céu por algumas horas - True
+
 ### Present Tense:
 
 - Eu ocorro que a reunião seja amanhã.

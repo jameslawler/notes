@@ -26,29 +26,23 @@ The Portuguese verb "responder" means "to answer" or "to reply" in English.
 
 ## Examples
 
-Past Tense:
+Use correct verb conjugation
 
-Eu respondi às perguntas do professor ontem.
-Tu respondeste à carta que recebeste?
-Ele respondeu às mensagens de texto rapidamente.
-Nós respondemos ao convite com entusiasmo.
-Vós responderam às críticas com calma.
+Tu (respondeste) à carta que recebeste?
+Nós (respondemos) às críticas com respeito.
+O meu chef (responderá) à proposta de negócio na próxima semana.
+A Ana (responde) à pergunta do professor com confiança.
+Eu (respondi) às questões do exame com cuidado.
+Eles (responderam) às críticas com calma.
 
-Present Tense:
+Connect the sentences
 
-Eu respondo às mensagens assim que as recebo.
-Tu respondes sempre quando te chamam?
-Ele responde à pergunta do professor com confiança.
-Nós respondemos às críticas com respeito.
-Vós respondem às solicitações dos clientes com eficiência.
-
-Future Tense:
-
-Eu responderei às questões do exame com cuidado.
-Tu responderás ao e-mail do cliente antes do final do dia.
-Ele responderá à proposta de negócio na próxima semana.
-Nós responderemos ao convite para a festa de aniversário.
-Vós responderão às perguntas da entrevista de emprego com honestidade.
+Quanto tempo tenho para responder? -> um dia.
+Ele respondeu às mensagens de texto -> rapidamente.
+O Pedro responde rapidamente -> em emergências.
+Você tem todas as respostas corretas -> Bom trabalho!
+Você sabe a resposta? -> claro.
+As perguntas da entrevista -> foram difíceis.
 
 ## Writing Prompts
 

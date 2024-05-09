@@ -26,29 +26,18 @@ The Portuguese verb "perder" translates to "to lose" in English, indicating the 
 
 ## Examples
 
-### Present Tense:
+Fill in missing word
 
-- Eu perco meu tempo com coisas sem importância.
-- Tu perdes sempre as tuas meias.
-- Ele perde o interesse no trabalho facilmente.
-- Nós perdemos o ônibus para o centro.
-- Vocês perdem a paciência com facilidade.
+Na manhã ensolarada, João decidiu explorar a (floresta) próxima. Ele caminhou por trilhas sinuosas, perdendo-se na beleza da natureza. No entanto, ao se aventurar mais fundo, João percebeu que estava (perdido). O sol começou a se (pôr) e a ansiedade tomou conta dele. Por sorte, encontrou uma (clareira) onde montou acampamento. Na manhã seguinte, seguiu o som de um (rio) e eventualmente encontrou o caminho de volta. Embora tivesse se perdido por um (momento), João ganhou uma nova apreciação pela orientação e pela aventura.
 
-### Past Tense:
+Story with true / false
 
-- Eu perdi o meu celular na semana passada.
-- Tu perdeste o teu lugar na fila.
-- Ele perdeu a aposta que fez.
-- Nós perdemos a nossa reserva no restaurante.
-- Elas perderam o voo para Paris.
-
-### Future Tense:
-
-- Eu perderei peso com exercícios regulares.
-- Tu perderás a oportunidade se não agires agora.
-- Ele perderá a confiança se não cumprir a promessa.
-- Nós perderemos a conexão se o voo atrasar.
-- Vós perdereis o interesse se não houver desafios.
+O João estava andando em um dia chuvoso - False
+À medida que o sol se punha, o João sabia onde estava - False
+O João estava perdido na floresta - True
+O João decidiu acampar durante a noite - True
+O João encontrou o caminho de volta pelo som dos carros - False
+O João aprendeu muito enquanto estava perdido - True
 
 ## Writing Prompts
 

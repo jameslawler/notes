@@ -31,29 +31,23 @@ The Portuguese verb "nascer" means "to be born."
 
 ## Examples
 
-Past Tense:
+Use correct verb conjugation
 
-Eu nasci em 1990.
-Tu nasceste em uma pequena vila.
-Ele nasceu em uma família humilde.
-Nós nascemos no mesmo hospital.
-Vós nascestes sob um céu estrelado.
+O Fernando Pessoa (nasceu) em Lisboa em 1888.
+Normalmente as pessoas (nascem) em um hospital.
+O meu filho (nascerá) no próximo mês.
+O (nascer) do sol ontem foi incrível.
+Nós (nascemos) no mesmo dia.
+Mais crianças (nascem) nos meses de verão.
 
-Present Tense:
+Connect the sentences
 
-Eu nasço em uma cidade do interior.
-Tu nasces com um talento especial.
-Ele nasce no dia 20 de junho.
-Nós nascemos em países diferentes.
-Vós nascem com olhos brilhantes.
-
-Future Tense:
-
-Eu nasceri em uma época de mudanças.
-Tu nascerás com muitas oportunidades.
-Ele nascerá em uma era digital.
-Nós nasceremos para grandes conquistas.
-Vós nascerão em um mundo repleto de possibilidades.
+As pessoas nascidas entre 1981 e 1996 -> são a geração millennials.
+As galinhas nascem -> numa quinta.
+Onde você nasceu? -> um hospital no Porto.
+Quando você nasceu? -> na década de 2000.
+Ontem não pudemos ver o nascer do sol -> porque estava chover.
+As flores nascem de novo -> a cada primavera.
 
 ## Writing Prompts
 

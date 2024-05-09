@@ -31,29 +31,21 @@ The Portuguese verb "realizar" means "to accomplish," "to carry out," or "to ach
 
 ## Examples
 
-### Present Tense:
+Use correct verb conjugation
 
-- Eu realizo meu trabalho com dedicação.
-- Tu realizas exercícios físicos todos os dias.
-- Ele realiza uma apresentação importante nesta tarde.
-- Nós realizamos reuniões semanais para discutir o progresso.
-- Vocês realizam atividades de voluntariado regularmente.
+Eu (realizo) o meu trabalho com dedicação.
+O Pedro (realizou) uma viagem incrível no ano passado.
+Nós (realizaremos) uma viagem em família nas férias.
+Todos os dias tu (realizas) exercícios físicos.
+Eles (realizam) atividades de voluntariado regularmente.
 
-### Past Tense:
+Order the words in a sentence
 
-- Eu realizei meu sonho de estudar no exterior.
-- Tu realizaste um grande feito ao vencer a competição.
-- Ele realizou uma viagem incrível no ano passado.
-- Nós realizámos um evento beneficente para arrecadar fundos.
-- Vocês realizaram um excelente trabalho no projeto anterior.
-
-### Future Tense:
-
-- Eu realizarei meu objetivo de aprender um novo idioma.
-- Tu realizarás um curso de especialização no próximo ano.
-- Ele realizará uma importante apresentação na conferência.
-- Nós realizaremos uma viagem em família nas férias.
-- Vocês realizarão um grande evento para comemorar o aniversário da empresa.
+Ela realizou um excelente trabalho na apresentação de hoje.
+Eles realizarão uma festa de aniversário no próximo sábado.
+Eu realizo minhas tarefas diárias com dedicação e empenho.
+Ela realiza os seus estudos com muita dedicação.
+Vocês realizam um trabalho incrível como equipe.
 
 ## Writing Prompts
 

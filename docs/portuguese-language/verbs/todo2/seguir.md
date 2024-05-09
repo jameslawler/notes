@@ -31,29 +31,18 @@ The Portuguese verb "seguir" translates to "to follow" or "to continue" in Engli
 
 ## Examples
 
-### Present Tense:
+Fill in missing word
 
-- Eu sigo as instruções do professor.
-- Tu segues uma dieta rigorosa.
-- Ele segue o conselho dos pais.
-- Nós seguimos uma rotina de exercícios diária.
-- Vocês seguem os passos do líder.
+Na cidade movimentada, o Pedro decidiu seguir o seu coração e perseguir os seus sonhos de ser (músico). Apesar dos desafios, ele (seguiu) em frente com determinação, praticando (diariamente) e tocando em pequenos bares locais. Com o tempo, a sua música começou a atrair (atenção) e ele conseguiu uma oportunidade de gravar um (álbum). Finalmente, a sua persistência foi recompensada quando seu álbum foi lançado e bem (recebido) pelo público.
 
-### Past Tense:
+Story with true / false
 
-- Eu segui o carro até chegar ao destino.
-- Tu seguiste o conselho do teu amigo.
-- Ele seguiu os seus sonhos e mudou de carreira.
-- Nós seguimos as regras do jogo à risca.
-- Elas seguiram as pegadas na areia até encontrar o tesouro.
-
-### Future Tense:
-
-- Eu seguirei o meu coração e farei o que é certo.
-- Tu seguirás o teu instinto na hora da decisão.
-- Ele seguirá em busca de novas oportunidades.
-- Nós seguiremos em frente com confiança.
-- Vocês seguirão as indicações do mapa para chegar ao destino.
+O Pedro mora em uma cidade - True
+O Pedro quer ser estrela de televisão - False
+O Pedro está motivado para seguir seu sonho - True
+O Pedro tem oportunidade de fazer um álbum - True
+O álbum que dei críticas negativas - False
+O Pedro para de fazer música - False
 
 ## Writing Prompts
 

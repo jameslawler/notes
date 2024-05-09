@@ -21,29 +21,17 @@ The Portuguese verb "obter" translates to "to obtain" or "to get" in English.
 
 ## Examples
 
-Past Tense:
+Fill in missing word
 
-Eu obtive uma bolsa de estudos para estudar no exterior.
-Tu obtiveste o primeiro lugar no concurso de redação.
-Ele obteve uma resposta positiva do empregador.
-Nós obtivemos as informações que precisávamos para o relatório.
-Vós obtivestes a aprovação dos clientes para o projeto.
+A Joana sempre sonhou em obter uma (bolsa) de estudos para estudar no exterior. Ela se (dedicou) incansavelmente aos estudos, buscando obter as melhores notas e participando em atividades (extracurriculares). Finalmente, após anos de esforço, a Joana (obteve) a tão desejada bolsa de estudos. Agora, a Joana está pronta para (embarcar) em uma jornada de aprendizado e crescimento, determinada a aproveitar ao máximo essa (oportunidade) que obteve com tanto empenho.
 
-Present Tense:
+Story with true / false
 
-Eu obtenho bons resultados nos testes de matemática.
-Tu obténs as respostas corretas com facilidade.
-Ele obtém sucesso em todas as suas empreitadas.
-Nós obtemos reconhecimento pelo nosso trabalho árduo.
-Vós obtêm vantagens ao se dedicarem aos estudos.
-
-Future Tense:
-
-Eu obterei o diploma no próximo ano.
-Tu obterás uma nova oportunidade de emprego em breve.
-Ele obterá uma casa própria antes dos 30 anos.
-Nós obteremos um financiamento para a empresa expandir.
-Vós obterão reconhecimento internacional pelo projeto.
+A Joana queria estudar no seu país de origem - False
+A Joana obteve a bolsa através de muito trabalho - True
+A Joana não participava de nenhuma atividade extracurricular - False
+A Joana iniciará a bolsa mais tarde - False
+A Joana é uma estudante dedicada que trabalha incansavelmente - True
 
 ## Writing Prompts
 

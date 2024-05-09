@@ -21,29 +21,22 @@ The Portuguese verb "morrer" means "to die."
 
 ## Exercises
 
-Present Tense:
+Use correct verb conjugation
 
-Eu morro de medo de cobras.
-Tu morres de sono quando estudas até tarde.
-Ele morre de rir com os vídeos engraçados.
-Nós morremos de calor no verão.
-Vós morrem de saudades dos vossos amigos.
+As flores (morreram) durante uma tempestade.
+Eu (morri) um pouco quando ele contou a história embaraçosa.
+As pessoas (morrem) todos os dias.
+Você (morrerá) se não comer e beber.
+Durante a segunda guerra mundial muitas pessoas (morreram).
+Ele (morreu) inesperadamente.
 
-Past Tense:
+Order the words in a sentence
 
-Eu morri de vergonha quando tropecei na rua.
-Tu morreste de susto com o barulho.
-Ele morreu de fome durante a greve.
-Nós morremos de preocupação com o resultado dos exames.
-Vós morrestes de tristeza quando vosso animal de estimação morreu.
-
-Future Tense:
-
-Eu morrerei em paz, sabendo que vivi uma vida plena.
-Tu morrerás velhinho ao lado da tua família.
-Ele morrerá como um herói na batalha.
-Nós morreremos juntos, como prometido.
-Vós morrereis rodeados de amor e felicidade.
+morreram / as / seca / durante / da quinta / colheitas / uma -> As colheitas da quinta morreram durante uma seca.
+ontem / o cão / à noite / velhice / morreu / de -> O cão morreu ontem à noite de velhice.
+a flor / antes / choveu / morrer / quando / cresceu / de / muito / não -> A flor cresceu muito antes de morrer quando não choveu.
+enterrados / os mortos / um / são / onde / cemitério / é -> Um cemitério é onde os mortos são enterrados.
+o meu / chão / morreu / telefone / caiu / quando / no -> O meu telefone morreu quando caiu no chão.
 
 ## Writing Prompts
 

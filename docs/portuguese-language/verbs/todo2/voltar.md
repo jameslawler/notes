@@ -25,29 +25,23 @@ The Portuguese verb "voltar" translates to "to return" or "to come back" in Engl
 
 ## Examples
 
-### Present Tense:
+Use correct verb conjugation
 
-- Eu volto para casa ao final do dia.
-- Tu voltas para o escritório depois do almoço.
-- Ele volta para a sala de aula após o recreio.
-- Nós voltamos para o ponto de partida no final da caminhada.
-- Eles voltam para casa juntos todos os dias.
+Eu (volto) para casa ao final do dia.
+Nós (voltamos) para o ponto de partida no final da caminhada.
+Elas (voltaram) para casa depois da festa terminar.
+Nas próximas férias eu (voltarei) para a praia.
+A Sofia (volta) para a sala de aula após o recreio.
+Tu (voltas) para o escritório depois do almoço.
 
-### Past Tense:
+Order the words in a sentence
 
-- Eu voltei para o meu país natal depois de anos morando no estrangeiro.
-- Tu voltaste ao restaurante onde tivemos nosso primeiro encontro.
-- Ele voltou para a empresa anterior após um período sabático.
-- Nós voltámos para a cidade onde crescemos para uma visita.
-- Elas voltaram para casa depois da festa terminar.
-
-### Future Tense:
-
-- Eu voltarei para a praia nas próximas férias.
-- Tu voltarás ao trabalho depois das férias.
-- Ele voltará para a universidade para concluir os estudos.
-- Nós voltaremos para a montanha para fazer mais trilhas.
-- Vós voltareis para a academia depois das festas de fim de ano.
+Nós voltámos para a cidade onde crescemos para uma visita.
+Eu voltei para buscar meu telemóvel que esqueci.
+Vocês voltaram a praticar piano recentemente.
+Preciso de uma passagem de volta.
+Quanto custa uma viagem de volta?
+Você está feliz em voltar para casa?
 
 ## Writing Prompts
 

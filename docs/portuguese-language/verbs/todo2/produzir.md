@@ -31,29 +31,23 @@ The Portuguese verb "produzir" means "to produce."
 
 ## Examples
 
-Past Tense:
+Use correct verb conjugation
 
-Eu produzi um documentário no ano passado.
-Tu produziste muitas ideias criativas.
-Ele produziu uma obra-prima em sua juventude.
-Nós produzimos um relatório detalhado sobre o projeto.
-Vós produzistes uma grande quantidade de conteúdo.
+Eu (produzi) um documentário no ano passado.
+Tu (produzes) peças de arte incríveis.
+A Maria (produz) resultados consistentes em seu trabalho.
+Nós (produzimos) energia solar em nossa casa.
+Ele (produzirá) um novo álbum de música.
+Eu (produzo) conteúdo para o meu blog.
 
-Present Tense:
+Connect the sentences
 
-Eu produzo conteúdo para o meu blog.
-Tu produzes peças de arte incríveis.
-Ele produz resultados consistentes em seu trabalho.
-Nós produzimos energia solar em nossa casa.
-Vós produzem alimentos orgânicos em sua fazenda.
-
-Future Tense:
-
-Eu produzirei um livro no próximo ano.
-Tu produzirás uma série de vídeos educativos.
-Ele produzirá um novo álbum de música.
-Nós produziremos um filme independente.
-Vós produzireis uma linha de roupas sustentáveis.
+O que produz na quinta? -> legumes e frutas.
+Que tipo de frutas produz? -> laranjas e maçãs.
+Quanto tempo precisa para produzir? -> três meses.
+Qual é o nome de último álbum que produziu? -> Quinta Aberta.
+Quantos livros produziste? -> Até agora só dois.
+Como produz novas ideas? -> Preciso de tempo para pensar.
 
 ## Writing Prompts
 

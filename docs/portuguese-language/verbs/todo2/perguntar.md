@@ -21,29 +21,23 @@ The Portuguese verb "perguntar" means "to ask."
 
 ## Examples
 
-Past Tense:
+Use correct verb conjugation
 
-Eu perguntei onde ele estava.
-Tu perguntaste sobre o horário da reunião.
-Ele perguntou se vocês estavam bem.
-Nós perguntámos qual era o problema.
-Vós perguntastes como chegar ao museu.
+Os alunos (perguntam) muito todos os dias.
+A Maria (perguntou) primeiro.
+Eles (perguntarão) ao professor amanhã.
+Eu (perguntei) como chegar em casa.
+Ele (pergunta) muito.
+A professora nos (perguntou).
 
-Present Tense:
+Order the words in a sentence
 
-Eu pergunto o que está acontecendo.
-Tu perguntas se ela vai comparecer.
-Ele pergunta por que atrasaram.
-Nós perguntamos quando o evento começará.
-Vós perguntam quem é o responsável.
-
-Future Tense:
-
-Eu perguntarei se precisam de ajuda.
-Tu perguntarás quando terminará o curso.
-Ele perguntará onde fica o banheiro.
-Nós perguntaremos por que houve atraso.
-Vós perguntareis quem será o palestrante.
+A imobiliária nos perguntou que tipo de casa queremos -> A imobiliária nos perguntou que tipo de casa queremos.
+Na escola perguntamos muitas vezes ao professor -> Na escola perguntamos muitas vezes ao professor.
+Continue perguntando até entender -> Continue perguntando até entender.
+Eu tenho uma pergunta muito difícil -> Eu tenho uma pergunta muito difícil.
+O exame começa com as perguntas fáceis -> O exame começa com as perguntas fáceis.
+Vamos começar a entrevista com algumas perguntas pessoais -> Vamos começar a entrevista com algumas perguntas pessoais.
 
 ## Writing Prompts
 
