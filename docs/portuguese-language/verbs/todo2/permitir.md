@@ -38,7 +38,7 @@ Quem te (permitiu)?
 Connect the sentences
 
 Posso fumar aqui? -> não é permitido em restaurantes.
-A piscina está aberta? -> não permitido por causa de uma aula de natação.
+A piscina está aberta? -> não permitido por causa de uma aula.
 Você tem mais de 18 anos? -> somente adultos são permitidos.
 Posso falar com você, por favor? -> agora não, mas depois está tudo bem.
 Quando você vai nadar? -> nas manhãs.

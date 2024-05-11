@@ -32,12 +32,12 @@ A professora nos (perguntou).
 
 Order the words in a sentence
 
-A imobiliária nos perguntou que tipo de casa queremos -> A imobiliária nos perguntou que tipo de casa queremos.
-Na escola perguntamos muitas vezes ao professor -> Na escola perguntamos muitas vezes ao professor.
-Continue perguntando até entender -> Continue perguntando até entender.
-Eu tenho uma pergunta muito difícil -> Eu tenho uma pergunta muito difícil.
-O exame começa com as perguntas fáceis -> O exame começa com as perguntas fáceis.
-Vamos começar a entrevista com algumas perguntas pessoais -> Vamos começar a entrevista com algumas perguntas pessoais.
+tipo / casa / nos / a imobiliária / de / que / perguntou / queremos -> A imobiliária nos perguntou que tipo de casa queremos.
+na / professor / escola / perguntamos / vezes / ao / muitas -> Na escola perguntamos muitas vezes ao professor.
+entender / continue / até / perguntando -> Continue perguntando até entender.
+pergunta / eu / uma / tenho / difícil / muito -> Eu tenho uma pergunta muito difícil.
+com / o exame / fáceis / começa / as perguntas -> O exame começa com as perguntas fáceis.
+pessoais / com / a entrevista / vamos / algumas / começar / perguntas -> Vamos começar a entrevista com algumas perguntas pessoais.
 
 ## Writing Prompts
 

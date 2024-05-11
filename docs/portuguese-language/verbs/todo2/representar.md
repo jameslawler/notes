@@ -38,15 +38,15 @@ Eu (represento) minha família em reuniões importantes.
 Se tiver sorte, ela (representará) nosso país nas Olimpíadas.
 Antigamente os meus pais (representei) me.
 Este dia (representa) liberdade.
-O seu preço representa seu valor.
+O seu preço (representa) seu valor.
 
 Order the words in a sentence
 
-Eu representei meu país em uma competição internacional.
-Ele representa a empresa em negociações comerciais.
-Tu representarás nossa escola no concurso de debates.
-Nós representamos nossa comunidade em eventos culturais.
-Esse flor representa a liberdade.
+competição / eu / país / representei / internacional / meu / em / uma / competição -> Eu representei meu país em uma competição internacional.
+negociações / ele / comerciais / representa / em / a empresa -> Ele representa a empresa em negociações comerciais.
+concurso / escola / representarás / nossa / debates / no / tu / de -> Tu representarás nossa escola no concurso de debates.
+comunidade / eventos / nossa / nós / em / culturais / representamos -> Nós representamos nossa comunidade em eventos culturais.
+a / esse / flor / liberdade / representa -> Esse flor representa a liberdade.
 
 ## Writing Prompts
 

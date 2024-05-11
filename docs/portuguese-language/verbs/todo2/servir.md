@@ -37,11 +37,11 @@ A Maria (serve) bebidas no bar à noite.
 
 Order the words in a sentence
 
-Eles servistes petiscos durante o jogo de futebol.
-Eu servi o jantar para os convidados ontem.
-Os meus pais servem chá da tarde aos domingos.
-Eles servem uma refeição especial no restaurante.
-Essa faca serve para cortar carne.
+durante / o jogo / servistes / petiscos / eles / futebol / de -> Eles servistes petiscos durante o jogo de futebol.
+o jantar / ontem / servi / convidados / para / os / eu -> Eu servi o jantar para os convidados ontem.
+os / servem / meus / domingos / tarde / chá / da / aos / pais -> Os meus pais servem chá da tarde aos domingos.
+uma / especial / restaurante / servem / eles / refeição / no -> Eles servem uma refeição especial no restaurante.
+faca / cortar / essa / carne / serve / para -> Essa faca serve para cortar carne.
 
 ## Writing Prompts
 

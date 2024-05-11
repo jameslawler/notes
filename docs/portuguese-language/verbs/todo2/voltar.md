@@ -36,12 +36,12 @@ Tu (voltas) para o escritório depois do almoço.
 
 Order the words in a sentence
 
-Nós voltámos para a cidade onde crescemos para uma visita.
-Eu voltei para buscar meu telemóvel que esqueci.
-Vocês voltaram a praticar piano recentemente.
-Preciso de uma passagem de volta.
-Quanto custa uma viagem de volta?
-Você está feliz em voltar para casa?
+para / crescemos / a cidade / nós / para / onde / uma / voltámos / visita -> Nós voltámos para a cidade onde crescemos para uma visita.
+buscar / eu / para / telemóvel / o / meu / que / voltei / esqueci -> Eu voltei para buscar o meu telemóvel que esqueci.
+recentemente / vocês / praticar / a / piano / voltaram -> Vocês voltaram a praticar piano recentemente.
+uma / passagem / de / preciso / volta / de -> Preciso de uma passagem de volta.
+volta? / quanto / uma / viagem / custa / de -> Quanto custa uma viagem de volta?
+voltar / casa? / está / feliz / em / você / para -> Você está feliz em voltar para casa?
 
 ## Writing Prompts
 
