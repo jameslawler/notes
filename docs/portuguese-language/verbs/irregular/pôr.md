@@ -30,7 +30,23 @@ The Portuguese verb "pôr" translates to "to put" or "to place" in English.
 
 ## Exercises
 
-abc
+Use correct verb conjugation
+
+Tu (pões) as chaves na mesa.
+Eu (ponho) o livro no saco.
+Eu (pus) a mesa para o jantar ontem.
+Nós (pusemos) as malas no carro antes da viagem.
+Eu (porei) a roupa no armário quando chegar em casa.
+O Pedro (pôs) o presente em cima da mesa.
+
+Connect the sentences
+
+Quem põe a mesa? -> A Maria põe hoje.
+Onde puseram os livros? -> Nós pusemo-los nas nossas mochilas.
+Eu gosto de pôr música -> enquanto cozinho.
+Ela adora pôr flores frescas -> na mesa da sala.
+Quando vai pôr a roupa -> na máquina.
+Quando pôr as chaves aqui? -> uma hora atrás.
 
 ## Writing Prompts
 

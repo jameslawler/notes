@@ -35,7 +35,23 @@ The Portuguese verb "ter" means "to have" in English.
 
 ## Exercises
 
-abc
+Use correct verb conjugation
+
+Eu (tenho) um gato preto como animal de estimação.
+O Francisco (teve) uma coleção impressionante de selos antigos.
+O professor (tem) muita paciência com os alunos.
+A Matilde e eu (tivemos) uma casa perto da praia para as férias.
+Ele e ela (têm) um jardim cheio de flores coloridas.
+O cientista (terá) uma descoberta revolucionária em breve.
+
+Connect the sentences
+
+Tu tens um talento incrível -> para a música.
+Eu terei uma surpresa especial -> para o teu aniversário.
+Ela terá uma oportunidade única de viajar -> pelo mundo.
+Nós teremos um encontro importante -> com o cliente amanhã.
+Eles terão um desafio -> difícil pela frente.
+Ontem ele teve um dia -> longo.
 
 ## Writing Prompts
 

@@ -35,7 +35,23 @@ The Portuguese verb "ver" translates to "to see" or "to watch" in English.
 
 ## Exercises
 
-abc
+Use correct verb conjugation
+
+Ontem, eu (vi) o pôr do sol na praia.
+Ela (vê) filmes de comédia ao fim de semana.
+O arquiteto (viu) potencial naquela velha casa abandonada.
+Nós (vimos) uma exposição de arte contemporânea no museu.
+O professor (verá) os alunos a progredir nos estudos.
+Eles (verão) uma exposição de arte moderna no centro cultural.
+
+Connect the sentences
+
+Quando viram um eclipse solar? -> durante as férias.
+Onde verás o jogo de futebol? -> no estádio.
+O que é que adora ver? -> as fotografias antigas da família.
+Onde verá a peça de teatro? -> no teatro local.
+Quanto dinheiro vês na minha mão? -> vinte euros.
+O que é que vimos numa noite de céu limpo? -> as estrelas.
 
 ## Writing Prompts
 

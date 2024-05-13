@@ -30,7 +30,23 @@ The Portuguese verb "sair" translates to "to go out" or "to leave" in English.
 
 ## Exercises
 
-abc
+Use correct verb conjugation
+
+Ontem o Pedro e o Manuel (saíram) mais cedo do trabalho.
+Eu (saio) sempre a horas da empresa.
+A Maria nunca (sai) com os amigos.
+A Sofia e eu (sairemos) juntas na semana que vem.
+Tu (sairás) às duas da tarde todos os dias.
+Ele e ela (saem) da escola para irem trabalhar.
+
+Order the words in a sentence
+
+as manhãs / eu / de sair / todas / correr / para / gosto -> Eu gosto de sair para correr todas as manhãs.
+o aniversário / saiu / os amigos / com / ela / para comemorar -> Ela saiu com os amigos para comemorar o aniversário.
+nos / o filme / de sair / acabou / cinemas / novo -> O filme novo acabou de sair nos cinemas.
+para / nós / restaurante / jantar / saímos / num / na cidade / novo -> Nós saímos para jantar num restaurante novo na cidade.
+para / saíram / de / férias / a praia / eles -> Eles saíram de férias para a praia.
+mais / eu / cedo / trabalho / do / hoje / saí -> Eu saí mais cedo do trabalho hoje.
 
 ## Writing Prompts
 

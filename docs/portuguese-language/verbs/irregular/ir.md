@@ -30,7 +30,22 @@ The Portuguese verb "ir" means "to go" in English.
 
 ## Exercises
 
-abc
+Use correct verb conjugation
+
+Eu (vou) ao cinema com meus amigos hoje à noite.
+Eu e os meus amigos (vamos) à praia hoje.
+Tu (foste) ao concerto da tua banda favorita no mês passado.
+Nós (fomos) à montanha para fazer uma caminhada.
+A Maria (vai )ao supermercado.
+Os alunos (foram) ao teatro assistir a uma peça clássica.
+
+Order the words in a sentence
+
+o exame / estudar / para / ele / biblioteca / vai / à -> Ele vai à biblioteca estudar para o exame.
+na / montanha / ele / relaxar / caminhada / vai / uma / fazer / para -> Ele vai fazer uma caminhada na montanha para relaxar.
+nas / vagas / guitarra / horas / eu / tocar / minhas / vou / aprender / a -> Eu vou aprender a tocar guitarra nas minhas horas vagas.
+exercício / dias / eu / fazer / parque / vou / ao / para / todos / os -> Eu vou ao parque todos os dias para fazer exercício.
+fim / semana / nós / acampamento / vamos / fazer / um / de / no -> Nós vamos fazer um acampamento no fim de semana.
 
 ## Writing Prompts
 

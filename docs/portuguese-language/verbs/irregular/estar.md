@@ -35,7 +35,23 @@ The Portuguese verb "estar" means "to be" in English, but it is used in differen
 
 ## Exercises
 
-abc
+Use correct verb conjugation
+
+Tu (estás) feliz por teres passado no exame.
+Eu (estive) doente na semana passada.
+Nós (estivemos) juntos no concerto na última sexta-feira.
+Tu (estiveste) ocupado durante todo o fim de semana.
+Na Suíça (está) frio hoje.
+O copo (está) na mesa.
+
+Connect the sentences
+
+onde estás? -> na escola.
+está bem? -> sim, estou melhor.
+há quanto tempo estas aqui? -> há uma hora.
+onde estão o teus amigos? -> estão no cinema.
+não consigo encontrar o meu livro -> está no teu quarto.
+como está o tempo hoje? -> está frio com chuva.
 
 ## Writing Prompts
 
