@@ -31,29 +31,18 @@ The Portuguese verb "tratar" can mean "to treat," "to handle," or "to deal with"
 
 ## Examples
 
-### Present Tense:
+Fill in missing word
 
-- Eu trato dos meus pacientes com atenção.
-- Tu tratas das finanças da empresa.
-- Ele trata dos problemas familiares com seriedade.
-- Nós tratamos dos preparativos para a festa.
-- Vocês tratam dos clientes de forma profissional.
+O médico local, Dr. Paulo, dedicava-se a tratar os (doentes) com carinho e dedicação. Todos na aldeia confiavam nele para cuidar de suas famílias com (competência) e compaixão. Cada paciente recebia atenção (individualizada), e o Dr. Paulo fazia questão de (tratar) não apenas os sintomas, mas também as preocupações (emocionais) de cada pessoa. Mesmo nos momentos mais difíceis, Dr. Paulo nunca perdeu sua determinação em tratar cada (paciente) com dignidade e respeito.
 
-### Past Tense:
+Story with true / false
 
-- Eu tratei da documentação ontem.
-- Tu trataste do problema rapidamente.
-- Ele tratou da situação de forma eficaz.
-- Nós tratámos da logística com antecedência.
-- Elas trataram das questões administrativas na semana passada.
-
-### Future Tense:
-
-- Eu tratarei do assunto amanhã de manhã.
-- Tu tratarás das reservas para o evento.
-- Ele tratará da apresentação com cuidado.
-- Nós trataremos dos detalhes da viagem.
-- Vocês tratarão das negociações com os fornecedores.
+O Dr. Paulo é médico em uma cidade grande - False
+Os pacientes do Dr. Paulo estão felizes com ele - True
+O Dr. Paulo cuida dos sintomas e estado emocional de seus pacientes - True
+O Dr. Paulo trata apenas pacientes com seguro privado - False
+O Dr. Paulo fechará seu consultório em breve - False
+O Dr. Paulo é veterinário - False
 
 ## Writing Prompts
 

@@ -26,29 +26,17 @@ The Portuguese verb "mostrar" means "to show" or "to display."
 
 ## Examples
 
-### Present Tense:
+Fill in missing word
 
-- Eu mostro as fotos da viagem aos meus amigos.
-- Tu mostras como usar o aplicativo.
-- Ele mostra interesse em aprender novas línguas.
-- Nós mostramos os documentos necessários para o visto.
-- Vocês mostram os produtos aos clientes.
+Na pequena vila de (pescadores), o Manuel (mostrava) todos os dias a sua destreza com as redes. Ele era conhecido por mostrar o melhor (ponto) de pesca a qualquer pessoa que precisasse de ajuda. Um dia, durante uma (tempestade) feroz, o Manuel mostrou o seu heroísmo ao resgatar um pescador em apuros no mar revolto. O seu ato de (coragem) foi mostrado para toda a comunidade, que passou a admirá-lo ainda mais.
 
-### Past Tense:
+Story with true / false
 
-- Eu mostrei o caminho para o restaurante.
-- Tu mostraste a ele como resolver o problema.
-- Ele mostrou seu novo carro na festa.
-- Nós mostrámos nossas habilidades durante a apresentação.
-- Vocês mostraram as fotos da infância durante a reunião.
-
-### Future Tense:
-
-- Eu mostrarei o projeto finalizado na reunião.
-- Tu mostrarás o vídeo aos colegas amanhã.
-- Ele mostrará sua arte na exposição.
-- Nós mostraremos os resultados da pesquisa na conferência.
-- Vocês mostrarão a casa aos potenciais compradores.
+Manuel mora numa vila de pescadores - True
+Durante uma tempestade, o Manuel teve problemas no mar revolto - False
+O Manuel mantém em segredo os seus locais de pesca - False
+O Manuel mostrou heroísmo durante a tempestade - True
+A comunidade não gostou do que o Manuel fez durante a tempestade - False
 
 ## Writing Prompts
 

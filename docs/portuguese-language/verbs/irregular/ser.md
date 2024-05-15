@@ -35,7 +35,18 @@ The Portuguese verb "ser" means "to be" in English. It is one of the two main ve
 
 ## Exercises
 
-abc
+Fill in missing word
+
+O jogador de (futebol) Cristiano Ronaldo é uma lenda viva. Ele (foi) sempre conhecido por ser habilidoso e determinado. Desde jovem, ele sonhava em ser um dos melhores (jogadores) do mundo. Com trabalho árduo e dedicação, ele alcançou o seu (objetivo). No campo, ele é um líder inspirador para a sua equipa. Por seu turno, a tenista Serena Williams era conhecida por ser imparável. Ela enfrentava os (desafios) com coragem e força. Em cada competição, ela demonstrava o que era ser uma (verdadeira) campeã. No mundo dos desportos, ser um atleta significava superar os (limites) e inspirar outros a fazer o mesmo.
+
+Story with true / false
+
+Cristiano Ronaldo não é uma lenda viva - False
+Desde pequeno Cristiano Ronaldo quis ser o melhor jogador - True
+Foi bom jogador sem trabalhar muito - False
+Serena Williams enfrentou os desafios com coragem - True
+A tenista não tinha uma atitude de campeã - False
+Amobos os atletas inspiram outras pessoas - False
 
 ## Writing Prompts
 

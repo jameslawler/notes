@@ -31,29 +31,23 @@ The Portuguese verb "pedir" translates to "to ask" or "to request" in English, i
 
 ## Examples
 
-### Present Tense:
+Use correct verb conjugation
 
-- Eu peço desculpa pelo atraso.
-- Tu pedes um café na padaria todas as manhãs.
-- Ele pede conselhos aos colegas de trabalho.
-- Nós pedimos uma pizza para o jantar.
-- Vocês pedem ajuda quando necessário.
+Ontem o meu amigo não (pediu) comida no restaurante.
+Eu sempre (peço) a mesma refeição para o almoço.
+Nós (pedimos) ajuda ao visitar uma nova cidade.
+Alguns visitantes me (pediram) conselhos de viagem.
+A próxima semana (pedirei) peixe.
+Nós (pedimos) água para a mesa.
 
-### Past Tense:
+Connect the sentences
 
-- Eu pedi um favor ao meu amigo ontem.
-- Tu pediste um livro emprestado à biblioteca.
-- Ele pediu um aumento no salário no mês passado.
-- Nós pedimos uma informação ao segurança.
-- Elas pediram uma recomendação ao professor.
-
-### Future Tense:
-
-- Eu pedirei um favor a você quando precisar.
-- Tu pedirás mais detalhes sobre o projeto.
-- Ele pedirá desculpas pelo erro.
-- Nós pediremos comida pelo aplicativo de entrega.
-- Vocês pedirão conselhos aos pais.
+Quando estamos perdidos -> pedimos informações.
+Eles não conseguiam decidir o que comer -> então pediram tudo.
+Tu estás perdido? -> pedes direções.
+O que vocês gostaria? -> já pedimos obrigado.
+O que vocês pediram? -> só bebidas no momento.
+Podes pedir orientação? -> eu sei onde é.
 
 ## Writing Prompts
 

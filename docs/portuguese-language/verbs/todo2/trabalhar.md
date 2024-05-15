@@ -31,29 +31,23 @@ The Portuguese verb "trabalhar" translates to "to work" in English, indicating t
 
 ## Examples
 
-### Present Tense:
+Use correct verb conjugation
 
-- Eu trabalho de segunda a sexta-feira.
-- Tu trabalhas numa empresa de tecnologia.
-- Ele trabalha como médico num hospital.
-- Nós trabalhamos juntos há muitos anos.
-- Vocês trabalham muito para sustentar a família.
+Eu (trabalho) de segunda a sexta-feira.
+A Maria (trabalha) como médico num hospital.
+Vocês (trabalham) muito para sustentar a família.
+Eu (trabalhei) até tarde ontem.
+Ele (trabalhará) como freelancer no futuro.
+Eu (trabalharei) no novo projeto a partir da próxima semana.
 
-### Past Tense:
+Connect the sentences
 
-- Eu trabalhei até tarde ontem.
-- Tu trabalhaste no escritório durante todo o dia.
-- Ele trabalhou como voluntário no fim de semana passado.
-- Nós trabalhámos duro para concluir o projeto.
-- Elas trabalharam juntas no mesmo projeto no ano passado.
-
-### Future Tense:
-
-- Eu trabalharei no novo projeto a partir da próxima semana.
-- Tu trabalharás na empresa dos teus sonhos em breve.
-- Ele trabalhará como freelancer no futuro.
-- Nós trabalharemos juntos para alcançar nossos objetivos.
-- Vós trabalhareis menos quando as férias começarem.
+Tu trabalhas numa -> empresa de tecnologia.
+Nós trabalhámos duro para -> concluir o projeto.
+Nós trabalhamos juntos -> há muitos anos.
+Eles trabalharão menos quando -> as férias começarem.
+Tu trabalharás na empresa -> dos teus sonhos em breve.
+Eu não trabalho -> nos finais de semana.
 
 ## Writing Prompts
 

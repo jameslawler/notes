@@ -30,7 +30,18 @@ The Portuguese verb "fazer" means "to do" or "to make" in English.
 
 ## Exercises
 
-abc
+Fill in missing word
+
+O João decidiu (fazer) um piquenique no parque com os seus amigos. Ele fez sanduíches (deliciosos), trouxe frutas frescas e fez uma limonada refrescante. Todos estavam (animados) com a ideia de fazer algo ao ar livre. Ao chegarem ao parque, (fizeram) uma pausa para apreciar a beleza natural ao redor. Enquanto brincavam e conversavam, o tempo passou (rápido). O pôr do sol fez o céu se encher de cores vivas, e eles fizeram um (brinde) à amizade e aos bons momentos compartilhados.
+
+Story with true / false
+
+O João fez um piquenique com a família - False
+O João trouxe comida e bebidas - True
+O João preparou alguns bolos para o piquenique - False
+No piquenique eles praticaram esportes - False
+Eles ficaram para ver o pôr do sol - True
+Eles decidiram acampar no parque durante a noite - False
 
 ## Writing Prompts
 

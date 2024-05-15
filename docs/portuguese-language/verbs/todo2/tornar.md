@@ -25,29 +25,18 @@ The Portuguese verb "tornar" can mean "to become" or "to turn" in English, indic
 
 ## Examples
 
-### Present Tense:
+Fill in missing word
 
-- Eu torno-me uma pessoa melhor a cada dia.
-- Tu tornas-te mais confiante com o tempo.
-- Ele torna-se mais responsável à medida que envelhece.
-- Nós tornamo-nos mais experientes com os desafios que enfrentamos.
-- Eles tornam-se mais felizes quando estão juntos.
+O Miguel decidiu que era hora de se tornar um (corredor). Embora nunca tivesse sido atlético, ele quer a mudar o seu estilo de vida (sedentário). Começou com pequenas corridas ao redor do quarteirão, lutando contra a falta de fôlego e as (dores) musculares. Com o tempo, a sua resistência (aumentou) e ele se inscreveu para uma corrida de 5 km. Naquele dia, ao cruzar a linha de (chegada), uma sensação de realização o envolveu. O Miguel finalmente se (tornara) o corredor que sempre desejara ser.
 
-### Past Tense:
+Story with true / false
 
-- Eu tornei-me mais independente depois de sair de casa.
-- Tu tornaste-te uma referência na área em que trabalhas.
-- Ele tornou-se famoso depois do lançamento do seu primeiro livro.
-- Nós tornámo-nos mais unidos após superar os problemas familiares.
-- Elas tornaram-se amigas inseparáveis desde a infância.
-
-### Future Tense:
-
-- Eu tornar-me-ei um especialista na minha área de estudo.
-- Tu tornar-te-ás uma inspiração para muitos.
-- Ele tornar-se-á um líder influente na comunidade.
-- Nós tornar-nos-emos uma referência no mercado.
-- Vós tornar-vos-eis mais conscientes da importância da sustentabilidade.
+O Miguel quer fazer mais exercício - True
+Correr reduzirá o seu tempo sentado - True
+O Miguel quer correr uma maratona - False
+Enquanto praticava ele não sentiu nenhuma dor - False
+O Miguel completou a corrida - True
+Ele parou de correr depois da corrida - False
 
 ## Writing Prompts
 

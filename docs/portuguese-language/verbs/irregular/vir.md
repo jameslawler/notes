@@ -35,7 +35,22 @@ The Portuguese verb "vir" means "to come" in English.
 
 ## Exercises
 
-abc
+Use correct verb conjugation
+
+Tu (vens) ao cinema comigo esta noite?
+Nós (vimos) ao parque todos os domingos.
+Ele (veio) ao concerto connosco há dois meses.
+Eles (vieram) à exposição de arte na semana passada.
+Ele (virá) à reunião de trabalho amanhã de manhã.
+Eu (vim) de férias à praia no verão passado.
+
+Order the words in a sentence
+
+biblioteca / eu / para / estudar / venho / sempre / à -> Eu venho sempre à biblioteca para estudar.
+na / o concerto / semana / vem / a / próxima / Lisboa -> O concerto vem a Lisboa na próxima semana.
+chuva / o sol / da / veio / depois / intensa -> O sol veio depois da chuva intensa.
+casamento / minha / amiga / vim / à / festa / de / eu / da -> Eu vim à festa de casamento da minha amiga.
+eu / melhorar / venho / o projeto / uma / ideia / para / com -> Eu venho com uma ideia para melhorar o projeto.
 
 ## Writing Prompts
 

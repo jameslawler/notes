@@ -21,29 +21,22 @@ The Portuguese verb "pagar" means "to pay."
 
 ## Examples
 
-Past Tense:
+Use correct verb conjugation
 
-Eu paguei o aluguel ontem.
-Tu pagaste a conta do restaurante na semana passada.
-Ele pagou a dívida ao banco.
-Nós pagámos a taxa de matrícula da faculdade.
-Vós pagastes o concerto com dinheiro.
+Tu (pagaste) a conta do restaurante na semana passada.
+Ele (pagará) a multa de trânsito.
+Na universidade (pagamos) mensalmente.
+Eles (pagaram) muito dinheiro por uma casa.
+Defina um lembrete para (pagar) a conta de luz em dia.
+Eu (pago) o autocarro todos os dias
 
-Present Tense:
+Order the words in a sentence
 
-Eu pago minhas contas em dia.
-Tu pagas pela comida com cartão.
-Ele paga o bilhete de trem.
-Nós pagamos a mensalidade da academia.
-Vós pagam o café com troco.
-
-Future Tense:
-
-Eu pagarei a fatura do cartão de crédito.
-Tu pagarás pela viagem com dinheiro.
-Ele pagará a multa de trânsito.
-Nós pagaremos o jantar de aniversário.
-Vós pagarão a entrada do cinema.
+de trabalho / uma / o patrão / grande / depois / conta / da festa / pagou -> Depois da festa de trabalho o patrão pagou uma conta grande.
+pagamos / pela / entrega / de / sushi / uma / vez / por / mês -> Pagamos pela entrega de sushi uma vez por mês.
+menos / solares / que / eletricidade / pagamos / pela / significam / nossos / painéis -> Nossos painéis solares significam que pagamos menos pela eletricidade.
+grande / em / morar / uma / para / cidade /pagámos / muito -> Pagámos muito para morar em uma cidade grande.
+novo / um / carro / dinheiro / pagamos / por / muito -> Pagamos muito dinheiro por um carro novo.
 
 ## Writing Prompts
 

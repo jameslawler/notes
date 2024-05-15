@@ -25,7 +25,23 @@ The Portuguese verb "ler" translates to "to read" in English.
 
 ## Exercises
 
-abc
+Use correct verb conjugation
+
+Eu (leio) um livro interessante todas as noites antes de dormir.
+Eles (leem) livros de história para aprender sobre o passado.
+O meu pai (leu) o jornal antes de sair de casa.
+Tu (lerás) o manual antes de montar o móvel.
+A Sofia (lê) romances de mistério para relaxar.
+Você consegue (ler) um relógio de 24 horas?
+
+Connect the sentences
+
+Que tipo de livro você lê? -> Eu gosto de fantasia.
+Quem ainda lê jornais? -> Principalmente velhos.
+Quantos livros você lê por ano? -> Só um punhado.
+Você consegue ler outros idiomas? -> Sim, outros dois.
+Você pode ler isso? -> Nao, é muito pequeno.
+Já leste as notícias de hoje? -> Sim, que terrível.
 
 ## Writing Prompts
 

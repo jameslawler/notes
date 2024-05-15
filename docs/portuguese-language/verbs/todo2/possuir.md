@@ -26,29 +26,18 @@ The Portuguese verb "possuir" means "to possess" or "to own."
 
 ## Examples
 
-Past Tense:
+Fill in missing word
 
-Eu possuí um cachorro quando era criança.
-Tu possuíste uma coleção de selos no passado.
-Ele possuiu várias casas ao longo da vida.
-Nós possuímos um jardim maravilhoso na antiga casa.
-Vós possuístes uma empresa juntos há alguns anos.
+A Maria possuiu uma coleção de (livros) antigos, cada um com uma história única. Ela os guardava com cuidado em uma estante de madeira maciça em seu escritório. Um dia, ao (examinar) um dos volumes, descobriu um mapa antigo escondido entre as (páginas). O mapa possuiu pistas intrigantes sobre um tesouro perdido na região. A Maria ficou (emocionada) com a descoberta e decidiu iniciar uma jornada para desvendar o mistério. Com o mapa em mãos, ela (possuiu) uma nova determinação para explorar o desconhecido e desvendar os (segredos) do passado.
 
-Present Tense:
+Story with true / false
 
-Eu possuo um computador moderno para trabalhar.
-Tu possuis muitos livros em tua estante.
-Ele possui uma vasta experiência na área.
-Nós possuímos um grande círculo de amigos.
-Vós possuís uma bela casa perto do rio.
-
-Future Tense:
-
-Eu possuirei meu próprio negócio no futuro.
-Tu possuirás mais responsabilidades com o tempo.
-Ele possuirá uma fortuna após herdar a empresa.
-Nós possuiremos uma casa na praia um dia.
-Vós possuireis um carro elétrico em breve.
+Os livros da Maria são novos - False
+Os livros estão guardados no escritório - True
+A Maria encontrou um mapa antigo - True
+O mapa antigo era para uma região distante - False
+A Maria queria procurar o tesouro - True
+A Maria só quer ficar rica - False
 
 ## Writing Prompts
 

@@ -30,7 +30,18 @@ The Portuguese verb "querer" translates to "to want" or "to wish" in English.
 
 ## Exercises
 
-abc
+Fill in missing word
+
+Numa cidade pequena, a Maria queria mais do que a (vida) simples que tinha. Ela (queria) explorar o mundo. Um dia, decidiu que queria estudar numa grande (universidade) na cidade. Com determinação, a Maria enfrentou os obstáculos e conseguiu uma (bolsa) de estudos. Ela estudou todos os dias até concluir a (graduação). Agora, ela está a realizar o que sempre (quis): aprender e crescer.
+
+Story with true / false
+
+A Maria viveu uma vida simples, mas queria mais - True
+Ela queria se tornar uma estrela de cinema - False
+Ela foi para a universidade para estudar - True
+A Maria teve que pagar os estudos sozinha - False
+Ela estudou muito enquanto estava na universidade - True
+A Maria conseguiu o que queria no final - True
 
 ## Writing Prompts
 

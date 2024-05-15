@@ -21,29 +21,22 @@ The Portuguese verb "precisar" means "to need."
 
 ## Examples
 
-Past Tense:
+Use correct verb conjugation
 
-Eu precisei de dinheiro para pagar as contas.
-Tu precisaste de ajuda para consertar o carro.
-Ele precisou descansar depois do trabalho.
-Nós precisámos de mais tempo para terminar o projeto.
-Vós precisastes de mais informações antes de decidir.
+Nós (precisamos) poupar dinheiro.
+Eu (precisei) de ajuda na escola hoje.
+À noite eles (precisam) de mais luzes.
+Você (precisa) usar protetor solar.
+Eles (precisam) de comer mais fruta.
+Nós (precisaremos) de ir às Finanças.
 
-Present Tense:
+Order the words in a sentence
 
-Eu preciso de um novo computador para trabalhar.
-Tu precisas de descanso após um dia cansativo.
-Ele precisa de orientação para resolver o problema.
-Nós precisamos de mais recursos para alcançar nossos objetivos.
-Vós precisais de mais prática para melhorar.
-
-Future Tense:
-
-Eu precisarei de assistência técnica para consertar o celular.
-Tu precisarás de um plano de ação para atingir suas metas.
-Ele precisará de um novo emprego para sustentar a família.
-Nós precisaremos de mais espaço para expandir o negócio.
-Vós precisareis de novas habilidades para avançar na carreira.
+beber / calor / nos / água / de / mais / nós / dias / precisamos -> Nos dias de calor nós precisamos beber mais água.
+de / eu / para / contas / as / precisei / pagar / dinheiro -> Eu precisei de dinheiro para pagar as contas.
+cansativo / após / tu / descanso / um / de / precisas / dia -> Tu precisas de descanso após um dia cansativo.
+para / precisámos / nós / tempo / o projeto / terminar / de / mais -> Nós precisámos de mais tempo para terminar o projeto.
+emprego / sustentar / novo / a família / precisará / de / um / para / ele -> Ele precisará de um novo emprego para sustentar a família.
 
 ## Writing Prompts
 

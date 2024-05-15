@@ -35,6 +35,19 @@ The Portuguese verb "parecer" means "to seem" or "to appear" in English, indicat
 
 ## Examples
 
+Fill in missing word
+
+Na movimentada cidade, Maria parecia perdida na multidão. As pessoas ao seu redor pareciam apressadas e (indiferentes), mas Maria permaneceu imersa em seus pensamentos. De repente, um sorriso (pareceu) iluminar seu rosto. Ela encontrou o que procurava: uma pequena (livraria) escondida entre os prédios altos. Parecia um refúgio pacífico em meio ao (caos) da cidade. Com passos determinados ela entrou e parecia ter finalmente encontrado o seu (lugar).
+
+Story with true / false
+
+A Maria estava procurando uma loja em uma cidade grande - True
+A cidade estava calma porque era feriado - False
+As pessoas pararam para ajudar a Maria a encontrar a loja - False
+A Maria estava procurando uma loja que vendesse livros - True
+A Maria estava encontrando uma amiga na livraria - False
+A Maria estava feliz por estar na livraria - True
+
 ### Present Tense:
 
 - Eu pareço cansado depois do trabalho.

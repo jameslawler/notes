@@ -31,29 +31,23 @@ The Portuguese verb "sentir" means "to feel" or "to sense" in English, referring
 
 ## Examples
 
-### Present Tense:
+Use correct verb conjugation
 
-- Eu sinto o calor do sol na minha pele.
-- Tu sentes a tristeza no olhar dela.
-- Ele sente a felicidade ao ver seu filho.
-- Nós sentimos o aroma do café fresco pela manhã.
-- Eles sentem a presença de algo estranho no quarto.
+Está quente hoje e (sinto) isso na minha pele.
+Ele (sente) a felicidade ao ver seu filho.
+Ontem, nós (sentimos) o cheiro das flores no jardim.
+Ultima semana, elas (sentiram) a brisa fresca do mar.
+Eu (sentirei) paz quando estiver na natureza.
+Eles (sentem) a presença de algo estranho no quarto.
 
-### Past Tense:
+Connect the sentences
 
-- Eu senti medo quando vi aquela sombra.
-- Tu sentiste a alegria ao reencontrar teus amigos.
-- Ele sentiu a dor da perda de um ente querido.
-- Nós sentimos o cheiro das flores no jardim.
-- Elas sentiram a brisa fresca do mar.
-
-### Future Tense:
-
-- Eu sentirei paz quando estiver na natureza.
-- Tu sentirás orgulho ao ver o resultado do teu trabalho.
-- Ele sentirá gratidão pelo apoio dos amigos.
-- Nós sentiremos a emoção ao assistir ao espetáculo.
-- Vós sentireis saudade quando partirem em viagem.
+Como você se sente hoje? -> um pouco melhor.
+A minha comida cheira bem? -> sim, sinto cheiro de especiarias.
+Esta casa velha é assustadora e -> eu me sinto estranho.
+Como tu te sentes por estar em casa? -> eu me sinto muito feliz.
+Nós sentimos o aroma do café fresco -> pela manhã.
+Tu sentes a tristeza -> no olhar dela.
 
 ## Writing Prompts
 

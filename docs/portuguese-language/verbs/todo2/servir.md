@@ -26,29 +26,22 @@ The Portuguese verb "servir" means "to serve."
 
 ## Examples
 
-Past Tense:
+Use correct verb conjugation
 
-Eu servi o jantar para os convidados ontem.
-Tu serviste café da manhã para a família toda semana passada.
-Ele serviu bebidas durante a festa de aniversário.
-Nós servimos uma refeição especial no restaurante na semana passada.
-Vós servistes petiscos durante o jogo de futebol.
+Eu (servi) o jantar para os convidados ontem.
+A minha amiga (serviu) bebidas durante a festa.
+No futuro, ele (servirá) como voluntário na ONG.
+Eles (servirão) como testemunhas no casamento.
+Nós (servimos) jantar em nossa casa.
+A Maria (serve) bebidas no bar à noite.
 
-Present Tense:
+Order the words in a sentence
 
-Eu sirvo café todas as manhãs.
-Tu serves almoço para os clientes no restaurante.
-Ele serve drinks no bar à noite.
-Nós servimos jantar para os hóspedes no hotel.
-Vós servem chá da tarde aos domingos.
-
-Future Tense:
-
-Eu servirei um banquete para celebrar o aniversário.
-Tu servirás de motorista para os amigos no fim de semana.
-Ele servirá como voluntário na ONG.
-Nós serviremos comida para os desabrigados.
-Vós servirão como testemunhas no casamento.
+durante / o jogo / servistes / petiscos / eles / futebol / de -> Eles servistes petiscos durante o jogo de futebol.
+o jantar / ontem / servi / convidados / para / os / eu -> Eu servi o jantar para os convidados ontem.
+os / servem / meus / domingos / tarde / chá / da / aos / pais -> Os meus pais servem chá da tarde aos domingos.
+uma / especial / restaurante / servem / eles / refeição / no -> Eles servem uma refeição especial no restaurante.
+faca / cortar / essa / carne / serve / para -> Essa faca serve para cortar carne.
 
 ## Writing Prompts
 

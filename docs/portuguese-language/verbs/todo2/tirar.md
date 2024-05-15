@@ -31,29 +31,23 @@ The Portuguese verb "tirar" can mean "to take," "to remove," or "to get" dependi
 
 ## Examples
 
-Past Tense:
+Use correct verb conjugation
 
-Eu tirei o casaco quando entrei em casa.
-Tu tiraste o açúcar do armário para adoçar o café.
-Ele tirou a carteira da mochila para mostrar o documento.
-Nós tirámos o pó dos móveis ontem.
-Vós tirastes uma foto com a câmera antiga.
+Eu (tiro) os sapatos antes de entrar em casa.
+Nós (tirámos) o pó dos móveis ontem.
+No feriado (tirámos) uma foto em frente ao monumento.
+Como faço para (tirar) uma selfie?
+Ela (tirou) o chapéu.
+Eu (tiro) o cão todas as noites.
 
-Present Tense:
+Connect the sentences
 
-Eu tiro os sapatos antes de entrar em casa.
-Tu tiras o lixo todas as manhãs.
-Ele tira a camisa e coloca a roupa de trabalho.
-Nós tiramos os óculos para limpar as lentes.
-Vós tirais uma folga aos domingos.
-
-Future Tense:
-
-Eu tirarei férias no próximo verão.
-Tu tirarás uma soneca depois do almoço.
-Ele tirará um ano sabático para viajar.
-Nós tiraremos uma foto em frente ao monumento.
-Vós tirareis um dia de folga para descansar.
+Ele tirou a carteira da mochila -> para mostrar o documento.
+Os meus pais tirastes uma foto com -> a câmera antiga.
+Os os trabalhadores tiram uma folga -> aos domingos.
+Eles tiraram boas críticas -> na apresentação.
+Você pode tirar -> a sua bolsa.
+Eu tirarei férias -> no próximo verão.
 
 ## Writing Prompts
 

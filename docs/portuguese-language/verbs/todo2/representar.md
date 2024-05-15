@@ -31,29 +31,22 @@ The Portuguese verb "representar" means "to represent."
 
 ## Examples
 
-Past Tense:
+Use correct verb conjugation
 
-Eu representei meu país em uma competição internacional.
-Tu representaste muito bem o papel principal na peça de teatro.
-Ele representou os sentimentos da nação em seu discurso.
-Nós representámos nossa empresa na conferência.
-Vós representastes nossa equipe de futebol na final.
+Ultima semana, nós (representámos) nossa empresa na conferência.
+Eu (represento) minha família em reuniões importantes.
+Se tiver sorte, ela (representará) nosso país nas Olimpíadas.
+Antigamente os meus pais (representei) me.
+Este dia (representa) liberdade.
+O seu preço (representa) seu valor.
 
-Present Tense:
+Order the words in a sentence
 
-Eu represento minha família em reuniões importantes.
-Tu representas a juventude em nosso conselho estudantil.
-Ele representa a empresa em negociações comerciais.
-Nós representamos nossa comunidade em eventos culturais.
-Vós representam a diversidade em nossa equipe.
-
-Future Tense:
-
-Eu representarei minha cidade no campeonato estadual.
-Tu representarás nossa escola no concurso de debates.
-Ele representará nosso país nas Olimpíadas.
-Nós representaremos nossa cultura em uma exposição internacional.
-Vós representarão nossos interesses na próxima reunião.
+competição / eu / país / representei / internacional / meu / em / uma / competição -> Eu representei meu país em uma competição internacional.
+negociações / ele / comerciais / representa / em / a empresa -> Ele representa a empresa em negociações comerciais.
+concurso / escola / representarás / nossa / debates / no / tu / de -> Tu representarás nossa escola no concurso de debates.
+comunidade / eventos / nossa / nós / em / culturais / representamos -> Nós representamos nossa comunidade em eventos culturais.
+a / esse / flor / liberdade / representa -> Esse flor representa a liberdade.
 
 ## Writing Prompts
 

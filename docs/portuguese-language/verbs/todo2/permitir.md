@@ -26,29 +26,23 @@ The Portuguese verb "permitir" means "to permit" or "to allow."
 
 ## Examples
 
-### Present Tense:
+Use correct verb conjugation
 
-- Eu permito que os alunos usem o laboratório.
-- Tu permites que o cachorro entre em casa.
-- Ele permite que os funcionários saiam mais cedo hoje.
-- Nós permitimos que os clientes façam reservas online.
-- Vocês permitem que os estudantes usem seus próprios materiais.
+O professor (permitiu) aos alunos irem ao banheiro.
+Os meus pais (permitiram) ficar fora até tarde.
+Eu não (permito) isso.
+O governo (permite) e-scooters nas estradas.
+Os meus amigos não me (permitem) jogar.
+Quem te (permitiu)?
 
-### Past Tense:
+Connect the sentences
 
-- Eu permiti que ela fizesse o trabalho em casa.
-- Tu permitiste que ele usasse o carro emprestado.
-- Ele permitiu que o evento acontecesse no parque.
-- Nós permitimos que os voluntários participassem da campanha.
-- Vocês permitiram que o projeto fosse adiado.
-
-### Future Tense:
-
-- Eu permitirei que você saia depois do jantar.
-- Tu permitirás que eles usem a piscina no próximo verão.
-- Ele permitirá que o evento seja transmitido ao vivo.
-- Nós permitiremos que os clientes testem o produto gratuitamente.
-- Vocês permitirão que as crianças brinquem no parque até tarde.
+Posso fumar aqui? -> não é permitido em restaurantes.
+A piscina está aberta? -> não permitido por causa de uma aula.
+Você tem mais de 18 anos? -> somente adultos são permitidos.
+Posso falar com você, por favor? -> agora não, mas depois está tudo bem.
+Quando você vai nadar? -> nas manhãs.
+Você está tentando parar de fumar? -> estou tentando há 1 ano.
 
 ## Writing Prompts
 

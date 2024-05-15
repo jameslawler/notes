@@ -21,29 +21,22 @@ The Portuguese verb "tentar" means "to try."
 
 ## Exercises
 
-Present Tense:
+Use correct verb conjugation
 
-Eu tento resolver este problema há horas.
-Tu tentas manter a calma em situações difíceis.
-Ele tenta encontrar uma solução para o problema.
-Nós tentamos entender o significado deste texto.
-Vós tentais melhorar vossas habilidades todos os dias.
+Ele (tenta) encontrar uma solução para o problema.
+Nós (tentamos) entender o significado deste texto.
+Ultima semana, (tentou) convencer o chefe a mudar de ideia.
+Ele (tentará) encontrar uma solução antes do prazo.
+Nós (tentaremos) fazer uma viagem no próximo verão.
+Eles (tentarão) melhorar vossas habilidades todos os dias.
 
-Past Tense:
+Order the words in a sentence
 
-Eu tentei fazer aquela receita, mas não deu certo.
-Tu tentaste consertar o computador ontem.
-Ele tentou convencer o chefe a mudar de ideia.
-Nós tentámos chegar a um acordo, mas foi impossível.
-Vós tentastes alcançar o objetivo, mas não conseguistes.
-
-Future Tense:
-
-Eu tentarei resolver o problema de uma vez por todas.
-Tu tentarás alcançar teus sonhos, não importa o quê.
-Ele tentará encontrar uma solução antes do prazo.
-Nós tentaremos fazer uma viagem no próximo verão.
-Vós tentareis aprender um novo instrumento musical.
+situações / tu / calma / tentas / difíceis / a / em / manter -> Tu tentas manter a calma em situações difíceis.
+consertar / onten / o computador / tu / tentaste -> Onten tu tentaste consertar o computador.
+amigo / o / meu / me / tentou / prova / ajudar / na -> O meu amigo tentou me ajudar na prova.
+aquele / ensinar / às / professor / crianças / tenta / ideias / novas -> Aquele professor tenta ensinar novas ideias às crianças.
+a Espanha / tentamos / voar / para -> Tentamos voar para a Espanha.
 
 ## Writing Prompts
 
