@@ -24,7 +24,7 @@ English: Begin an activity - e.g: She begins a new dance class today.
 Portuguese: Iniciar um evento - ex: Eles iniciam o concerto com uma música emocionante.
 English: Commence an event - e.g: They start the concert with an emotional song.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

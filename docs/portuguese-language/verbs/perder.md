@@ -24,7 +24,7 @@ The Portuguese verb "perder" translates to "to lose" in English, indicating the 
    - Portuguese: Perder um meio de transport - ex: Não perdemos o autocarro.
    - English: Miss a form of transport - e.g: We missed the bus.
 
-## Examples
+## Exercises
 
 Fill in missing word
 

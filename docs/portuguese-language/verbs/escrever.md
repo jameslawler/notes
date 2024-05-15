@@ -19,7 +19,7 @@ The Portuguese verb "escrever" means "to write."
    - Portuguese: Escrever algo - ex: Ele escreve uma carta para o amigo.
    - English: Write something - e.g: He writes a letter to his friend.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

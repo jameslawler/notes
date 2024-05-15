@@ -29,7 +29,7 @@ The Portuguese verb "sentir" means "to feel" or "to sense" in English, referring
    - Portuguese: Sentir a presença - ex: Eu sinto que alguém está me observando.
    - English: Sense the presence - e.g: I feel like someone is watching me.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

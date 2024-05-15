@@ -24,7 +24,7 @@ The Portuguese verb "continuar" translates to "to continue" in English, indicati
    - Portuguese: Continuar em frente - ex: Nós continuamos em frente.
    - English: Proceed ahead - e.g: We continue ahead.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

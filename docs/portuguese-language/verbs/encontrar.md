@@ -28,7 +28,7 @@ The Portuguese verb "encontrar" can mean "to find" or "to meet" depending on the
    - Portuguese: Encontrar um objeto/localização - ex: Ela encontrou as chaves perdidas.
    - English: Find an object/location - e.g: She found the lost keys.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

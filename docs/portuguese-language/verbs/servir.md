@@ -24,7 +24,7 @@ The Portuguese verb "servir" means "to serve."
    - Portuguese: Servir para algo - ex: Essa faca serve para cortar pão.
    - English: Serve for something - e.g: This knife is used for cutting bread.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

@@ -23,7 +23,7 @@ The Portuguese verb "existir" translates to "to exist" in English, indicating th
    - Portuguese: Existir algo - ex: Existe vida em outros planetas?
    - English: Exist something - e.g: Does life exist on other planets?
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

@@ -19,7 +19,7 @@ The Portuguese verb "precisar" means "to need."
    - Portuguese: Precisar de algo - ex: Eu preciso de ajuda para terminar este trabalho.
    - English: Need something - e.g: I need help to finish this task.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

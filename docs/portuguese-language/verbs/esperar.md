@@ -29,7 +29,7 @@ The Portuguese verb "esperar" means "to wait" or "to hope."
    - Portuguese: Esperar um resultado - ex: Eu espero uma resposta em breve.
    - English: Expect a result - e.g: I expect a response soon.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

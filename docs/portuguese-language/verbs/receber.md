@@ -19,7 +19,7 @@ The Portuguese verb "receber" translates to "to receive" in English, indicating 
    - Portuguese: Receber algo - ex: Eu recebo uma carta todos os meses.
    - English: Receive something - e.g: I receive a letter every month.
 
-## Examples
+## Exercises
 
 Fill in missing word
 

@@ -29,7 +29,7 @@ The Portuguese verb "realizar" means "to accomplish," "to carry out," or "to ach
    - Portuguese: Realizar um objetivo - ex: Ela realizou o objetivo de conseguir um emprego.
    - English: Accomplish an objective - e.g: She accomplished the objective of getting a job.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

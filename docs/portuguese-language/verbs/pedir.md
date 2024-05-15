@@ -29,7 +29,7 @@ The Portuguese verb "pedir" translates to "to ask" or "to request" in English, i
    - Portuguese: Pedir no restaurante - ex: Nós pedimos o prato do dia.
    - English: Order at a restaurant - e.g: We order the dish of the day.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

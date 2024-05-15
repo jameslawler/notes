@@ -24,7 +24,7 @@ The Portuguese verb "mostrar" means "to show" or "to display."
    - Portuguese: Mostrar como fazer algo - ex: Vou te mostrar como consertar isso.
    - English: Demonstrating something - e.g: I'll show you how to fix this.
 
-## Examples
+## Exercises
 
 Fill in missing word
 

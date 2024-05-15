@@ -29,7 +29,7 @@ The Portuguese verb "nascer" means "to be born."
    - Portuguese: Nascer do sol - ex: O nascer do sol é sempre espetacular.
    - English: Sunrise - e.g: The sunrise is always spectacular.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

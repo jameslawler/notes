@@ -28,7 +28,7 @@ The Portuguese verb "apresentar" translates to "to present" or "to introduce" in
    - Portuguese: Apresentar alguém - ex: A Joana apresentou-me o Pedro.
    - English: Introduce someone - e.g: Joana introduced Pedro to me.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

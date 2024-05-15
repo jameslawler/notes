@@ -24,7 +24,7 @@ The Portuguese verb "entender" means "to understand."
    - Portuguese: Entender uma mensagem - ex: Você entendeu o que eu disse?
    - English: Understand a message - e.g: Did you understand what I said?
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

@@ -29,7 +29,7 @@ The Portuguese verb "criar" translates to "to create" or "to make" in English, i
    - Portuguese: Criar ideias - ex: Ela cria novos conceitos para a empresa.
    - English: Generate ideas - e.g: She creates new concepts for the company.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

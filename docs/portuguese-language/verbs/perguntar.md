@@ -19,7 +19,7 @@ The Portuguese verb "perguntar" means "to ask."
    - Portuguese: Perguntar algo - ex: Eu perguntei onde fica a biblioteca.
    - English: Ask something - e.g: I asked where the library is.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

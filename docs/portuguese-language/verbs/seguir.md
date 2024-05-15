@@ -29,7 +29,7 @@ The Portuguese verb "seguir" translates to "to follow" or "to continue" in Engli
    - Portuguese: Seguir um caminho - ex: Ele segue o caminho da verdade.
    - English: Pursue a path - e.g: He follows the path of truth.
 
-## Examples
+## Exercises
 
 Fill in missing word
 

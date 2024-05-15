@@ -29,7 +29,7 @@ The Portuguese verb "tratar" can mean "to treat," "to handle," or "to deal with"
    - Portuguese: Tratar bem alguém - ex: Ele trata os colegas com respeito.
    - English: Treat someone well - e.g: He treats his colleagues with respect.
 
-## Examples
+## Exercises
 
 Fill in missing word
 

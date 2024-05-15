@@ -29,7 +29,7 @@ English: Divide tasks - e.g: They divide responsibilities equally.
 Portuguese: Dividir em partes - ex: Tu divides o documento em secções.
 English: Divide into parts - e.g: You divide the document into sections.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

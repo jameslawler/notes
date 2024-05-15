@@ -24,7 +24,7 @@ The Portuguese verb "responder" means "to answer" or "to reply" in English.
    - Portuguese: Responder a uma situação - ex: Nós respondemos rapidamente ao incêndio.
    - English: Respond to a situation - e.g: We responded quickly to the fire.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

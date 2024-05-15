@@ -29,7 +29,7 @@ The Portuguese verb "representar" means "to represent."
    - Portuguese: Representar um grupo - ex: O político representa os interesses das pessoas.
    - English: Represent a group - e.g: The politician represents the interests of the people.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

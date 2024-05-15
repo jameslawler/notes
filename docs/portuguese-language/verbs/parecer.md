@@ -33,7 +33,7 @@ The Portuguese verb "parecer" means "to seem" or "to appear" in English, indicat
    - Portuguese: Parecer com alguém - ex: Ele parece com o seu pai.
    - English: Look like someone - e.g: He looks like his dad.
 
-## Examples
+## Exercises
 
 Fill in missing word
 

@@ -24,7 +24,7 @@ The Portuguese verb "possuir" means "to possess" or "to own."
    - Portuguese: Possuir qualidades - ex: Ela possui grande inteligência.
    - English: Possess qualities - e.g: She possesses great intelligence.
 
-## Examples
+## Exercises
 
 Fill in missing word
 

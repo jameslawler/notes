@@ -29,7 +29,7 @@ The Portuguese verb "ocorrer" means "to occur" or "to happen."
    - Portuguese: Ocorrer um incidente - ex: O acidente ocorreu na estrada principal.
    - English: Incident occurring - e.g: The accident occurred on the main road.
 
-## Examples
+## Exercises
 
 Fill in missing word
 

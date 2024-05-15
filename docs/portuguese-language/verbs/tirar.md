@@ -29,7 +29,7 @@ The Portuguese verb "tirar" can mean "to take," "to remove," or "to get" dependi
    - Portuguese: Tirar uma foto - ex: Vou tirar uma foto da paisagem.
    - English: Take a photo - e.g: I will take a photo of the landscape.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

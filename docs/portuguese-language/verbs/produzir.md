@@ -29,7 +29,7 @@ The Portuguese verb "produzir" means "to produce."
    - Portuguese: Produzir alimentos - ex: Esta quinta produz frutas e vegetais.
    - English: Produce food - e.g: This farm produces fruits and vegetables.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

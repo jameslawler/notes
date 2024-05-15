@@ -29,7 +29,7 @@ The Portuguese verb "constituir" means "to constitute" or "to establish."
    - Portuguese: Constituir a base de algo - ex: A liberdade constitui a base da democracia.
    - English: Form the basis of something - e.g: Freedom constitutes the basis of democracy.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

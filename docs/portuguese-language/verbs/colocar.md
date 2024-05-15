@@ -24,7 +24,7 @@ The Portuguese verb "colocar" means "to put" or "to place."
    - Portuguese: Colocar algo em seu lugar - ex: Precisamos colocar os novos móveis na sala.
    - English: Install or fit something - e.g: We need to put the new furniture in the living room.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

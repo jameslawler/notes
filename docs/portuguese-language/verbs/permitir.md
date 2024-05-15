@@ -24,7 +24,7 @@ The Portuguese verb "permitir" means "to permit" or "to allow."
    - Portuguese: Permitir permissão - ex: O professor permite a entrada dos alunos.
    - English: Grant permission - e.g: The teacher grants permission for students to enter.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

@@ -19,7 +19,7 @@ The Portuguese verb "manter" means "to maintain" or "to keep."
    - Portuguese: Manter algo/alguém - ex: Nós mantemos o hábito de ler antes de dormir.
    - English: Keep something/someone - e.g: We keep the habit of reading before bedtime.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

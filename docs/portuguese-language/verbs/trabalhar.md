@@ -29,7 +29,7 @@ The Portuguese verb "trabalhar" translates to "to work" in English, indicating t
    - Portuguese: Trabalhar horas extras - ex: Ela trabalha horas extras para terminar o projeto.
    - English: Work overtime - e.g: She works overtime to finish the project.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

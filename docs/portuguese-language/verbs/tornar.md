@@ -23,7 +23,7 @@ The Portuguese verb "tornar" can mean "to become" or "to turn" in English, indic
    - Portuguese: Tornar-se algo - ex: Ele tornou-se médico depois de muitos anos de estudo.
    - English: Turn into something - e.g: He became a doctor after many years of study.
 
-## Examples
+## Exercises
 
 Fill in missing word
 

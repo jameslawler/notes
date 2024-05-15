@@ -23,7 +23,7 @@ The Portuguese verb "voltar" translates to "to return" or "to come back" in Engl
    - Portuguese: Voltar para um local/estado - ex: Ela voltou para casa depois do trabalho.
    - English: Return to a place/state - e.g: She returned home after work.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

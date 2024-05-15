@@ -29,7 +29,7 @@ The Portuguese verb "chamar" means "to call" or "to summon" in English, referrin
    - Portuguese: Chamar para - ex: Eu chamei o Pedro para um café.
    - English: Invite to - e.g: I invited Pedro for a coffee.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

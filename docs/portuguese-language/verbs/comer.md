@@ -24,7 +24,7 @@ The Portuguese verb "comer" means "to eat."
    - Portuguese: Gastar dinheiro - ex: Ele comeu o salário todo em poucos dias.
    - English: To spend money - e.g: He spent the entire salary in just a few days.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

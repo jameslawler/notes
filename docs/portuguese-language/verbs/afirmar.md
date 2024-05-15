@@ -19,7 +19,7 @@ The Portuguese verb "afirmar" translates to "to affirm" or "to assert" in Englis
    - Portuguese: Afirmar uma suspeita - ex: A testemunha afirmou a sua suspeita ao detetive.
    - English: Confirming a suspicion - e.g: The witness affirmed her suspicion to the detective.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

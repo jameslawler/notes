@@ -19,7 +19,7 @@ The Portuguese verb "obter" translates to "to obtain" or "to get" in English.
    - Portuguese: Obter um objetivo - ex: Eu obtive boas notas nos exames.
    - English: Obtain a goal - e.g: I got good grades in exams.
 
-## Examples
+## Exercises
 
 Fill in missing word
 

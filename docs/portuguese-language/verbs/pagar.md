@@ -19,7 +19,7 @@ The Portuguese verb "pagar" means "to pay."
    - Portuguese: Pagar a conta - ex: Eu pago a conta do restaurante.
    - English: Pay the bill - e.g: I pay the restaurant bill.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 

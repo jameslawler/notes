@@ -24,7 +24,7 @@ The Portuguese verb "considerar" translates to "to consider" in English, indicat
    - Portuguese: Considerar como - ex: Ele considera-te como um amigo próximo.
    - English: Regard as - e.g: He regards you as a close friend.
 
-## Examples
+## Exercises
 
 Use correct verb conjugation
 
