@@ -42,6 +42,10 @@ Nós paramos de assistir -> ao filme antes do fim.
 Eu pararei de comer vegetais -> para ter uma alimentação mais saudável.
 Tu pararás de gastar dinheiro -> em coisas desnecessárias.
 
+Fill in the missing words
+
+Não é (fácil) parar de comer açúcar. (Parei) um pouco mas não resisti aos doces portugueses como (natas) e bolos de belém. No futuro vou (parar) novamente e ver até quando consigo (resistir).
+
 ## Writing Prompts
 
 1. Descreva um hábito que você conseguiu parar de fazer. Describe a habit you were able to stop doing.

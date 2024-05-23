@@ -43,6 +43,10 @@ Você consegue ler outros idiomas? -> Sim, outros dois.
 Você pode ler isso? -> Nao, é muito pequeno.
 Já leste as notícias de hoje? -> Sim, que terrível.
 
+Fill in the missing words
+
+Ler para as (crianças) é importante para que elas aprendam letras, (palavras) e como ler. (Leio) para minha filha todas as (noites) e ela lê para mim para aprender a ler. No próximo (ano) ela poderá ler sozinha.
+
 ## Writing Prompts
 
 1. O que lê todos os dias? What do you read everyday?

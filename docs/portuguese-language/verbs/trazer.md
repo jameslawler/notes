@@ -34,13 +34,18 @@ O Pedro (trará) a câmara para tirar fotos.
 Eu (trago) o meu livro para a aula.
 Tu (trazes) a comida para o piquenique.
 
-Connect the sentences 
-Ele traz o guarda-chuva      ->     em dias chuvosos.
-Nós trazemos a bagagem        ->    para as férias.
-Ele trouxe a cadela           ->     para passear no parque.
-Nós trouxemos os ingredientes  ->    para fazer o jantar.
-Eu trarei o bolo              ->     para a sobremesa.
-Nós traremos os brinquedos     ->    para a viagem.
+Connect the sentences
+
+Ele traz o guarda-chuva -> em dias chuvosos.
+Nós trazemos a bagagem -> para as férias.
+Ele trouxe a cadela -> para passear no parque.
+Nós trouxemos os ingredientes -> para fazer o jantar.
+Eu trarei o bolo -> para a sobremesa.
+Nós traremos os brinquedos -> para a viagem.
+
+Fill in the missing word
+
+Trouxe a minha (bolsa) para a escola e dentro dela guardo os meus livros e (canetas). Quando comecei minha primeira aula do (dia), percebi que esqueci de (trazer) minha caneta favorita. Quando cheguei em (casa) coloquei na bolsa para levar amanhã.
 
 ## Writing Prompts
 

@@ -43,6 +43,8 @@ Nós (estivemos) juntos no concerto na última sexta-feira.
 Tu (estiveste) ocupado durante todo o fim de semana.
 Na Suíça (está) frio hoje.
 O copo (está) na mesa.
+A Maria (está) feliz com o novo trabalho.
+O gato (está) a dormir no sofá.
 
 Connect the sentences
 
@@ -52,6 +54,8 @@ há quanto tempo estas aqui? -> há uma hora.
 onde estão o teus amigos? -> estão no cinema.
 não consigo encontrar o meu livro -> está no teu quarto.
 como está o tempo hoje? -> está frio com chuva.
+o bebé está a chorar, -> deve estar com fome.
+estou a aguardar uma resposta -> ao meu email.
 
 ## Writing Prompts
 

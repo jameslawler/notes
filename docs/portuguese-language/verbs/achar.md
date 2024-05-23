@@ -46,6 +46,7 @@ Esteve sempre sol ao longo do dia - False
 O Pedro encontrou o guarda-chuva na garagem - True
 Joana e Pedro cancelaram os planos - False
 O tempo era imprevisível - True
+A chuva demorou muito para parar - False
 
 ## Writing Prompts
 

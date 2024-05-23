@@ -31,6 +31,7 @@ The Portuguese verb "haver" means "to have" or "to exist" in English.
 ## Exercises
 
 Use correct verb conjugation
+
 Daqui a dois meses (haverá) um feriado nacional.
 No final da tarde (haverá) uma tempestade.
 (Houveram) muitos problemas durante o evento.
@@ -46,6 +47,10 @@ Há um bom filme em exibição-> no cinema.
 Há livros interessantes-> na biblioteca.
 Há música suave a tocar -> no café.
 Haverá um grande concerto -> no estádio.
+
+Fill in the missing verb
+
+Há 2 anos que moro em (Portugal). Há muitas pessoas na cidade onde moro. Durante os (meses) de verão (há) sempre um festival diferente acontecendo. É muito (divertido) morar aqui.
 
 ## Writing Prompts
 

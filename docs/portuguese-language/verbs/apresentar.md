@@ -49,9 +49,9 @@ Tu apresentarás o novo produto -> ao mercado.
 Ele apresentará sua pesquisa -> na conferência internacional.
 Nós apresentaremos nossa proposta -> ao cliente.
 
-Extras
+Fill in the missing words
 
-Elas apresentaram os seus projetos artísticos -> na exposição.
+O professor apresentou um novo (método) de ensino aos seus alunos. Ele (apresentou) os conceitos de forma clara e concisa, tornando o conteúdo acessível a (todos). Os alunos (apresentaram) os seus projetos finais com (entusiasmo) durante a apresentação na sala de aula.
 
 ## Writing Prompts
 

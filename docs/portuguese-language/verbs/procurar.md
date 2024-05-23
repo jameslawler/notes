@@ -50,6 +50,10 @@ Nós procurámos o restaurante -> naquela rua.
 Eu procurarei o presente -> perfeito para ela.
 Tu procurarás a verdade -> sobre o assunto.
 
+Fill in the missing word
+
+Há muito (tempo) procuramos um apartamento novo para alugar. (Procuramos) muito, mas tudo era muito (caro). Finalmente, depois de muita procura, encontramos um belo (apartamento) perto da cidade por um preço (razoável).
+
 ## Writing Prompts
 
 1. Descreva a ocasião em que você perdeu algo importante. Describe the time you lost something important.

@@ -43,14 +43,19 @@ O Amaro (mudará) de estilo de vida para ser mais saudável.
 Eu e a Sofia (mudaremos) de casa quando encontrarmos uma melhor.
 Todos os dias, eu (mudo) de roupa.
 Tu (mudas) de opinião com frequência.
+A Maria (mudou) de opinião após ouvir os argumentos do colega.
+O Pedro não consegue (mudar) a senha do seu computador.
 
 Connect the sentences
+
 Ele muda de emprego a cada -> dois anos.
 Nós mudamos de canal quando -> não gostamos do programa.
 Ele mudou de carro -> recentemente.
 Nós mudámos de planos -> de última hora.
 Eu mudarei de emprego -> no próximo ano.
 Tu mudarás de país -> para estudar no futuro.
+O que posso fazer para -> mudar esta situação?
+O tempo está a mudar, -> acho que vem aí chuva.
 
 ## Writing Prompts
 

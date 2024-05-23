@@ -39,6 +39,8 @@ O meu filho (nascerá) no próximo mês.
 O (nascer) do sol ontem foi incrível.
 Nós (nascemos) no mesmo dia.
 Mais crianças (nascem) nos meses de verão.
+O bebé (nasceu) saudável e cheio de energia.
+O sol (nasce) todas as manhãs no horizonte.
 
 Connect the sentences
 
@@ -48,6 +50,8 @@ Onde você nasceu? -> um hospital no Porto.
 Quando você nasceu? -> na década de 2000.
 Ontem não pudemos ver o nascer do sol -> porque estava chover.
 As flores nascem de novo -> a cada primavera.
+Ela nasceu numa pequena aldeia -> no interior de Portugal.
+A criatividade nasce -> da mente aberta.
 
 ## Writing Prompts
 

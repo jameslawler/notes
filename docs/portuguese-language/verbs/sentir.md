@@ -39,6 +39,8 @@ Ontem, nós (sentimos) o cheiro das flores no jardim.
 Ultima semana, elas (sentiram) a brisa fresca do mar.
 Eu (sentirei) paz quando estiver na natureza.
 Eles (sentem) a presença de algo estranho no quarto.
+Nós (sentimos) o calor do sol durante o verão.
+Eu (sinto) a serenidade ao meditar pela manhã.
 
 Connect the sentences
 
@@ -48,6 +50,8 @@ Esta casa velha é assustadora e -> eu me sinto estranho.
 Como tu te sentes por estar em casa? -> eu me sinto muito feliz.
 Nós sentimos o aroma do café fresco -> pela manhã.
 Tu sentes a tristeza -> no olhar dela.
+Você sente o cheiro das flores -> no jardim?
+Nós sentimos a gratidão -> pelos momentos felizes.
 
 ## Writing Prompts
 

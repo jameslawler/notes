@@ -37,6 +37,7 @@ Tu (fechas) a porta quando sais do quarto.
 Ele (fechará) a conta no restaurante antes de ir embora.
 Nós (fecharemos) a porta da garagem quando chegarmos a casa.
 Eles (fecham) o livro e desliga a luz antes de dormir.
+O Pedro (fecha) a janela.
 
 Order the words in a sentence
 

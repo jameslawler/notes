@@ -27,7 +27,7 @@ The Portuguese verb "tornar" can mean "to become" or "to turn" in English, indic
 
 Fill in missing word
 
-O Miguel decidiu que era hora de se tornar um (corredor). Embora nunca tivesse sido atlético, ele quer a mudar o seu estilo de vida (sedentário). Começou com pequenas corridas ao redor do quarteirão, lutando contra a falta de fôlego e as (dores) musculares. Com o tempo, a sua resistência (aumentou) e ele se inscreveu para uma corrida de 5 km. Naquele dia, ao cruzar a linha de (chegada), uma sensação de realização o envolveu. O Miguel finalmente se (tornara) o corredor que sempre desejara ser.
+O Miguel decidiu que era hora de se tornar um (corredor). Embora nunca tivesse sido atlético, ele quer a mudar o seu estilo de vida (sedentário). Começou com pequenas corridas ao redor do quarteirão, lutando contra a falta de fôlego e as (dores) musculares. Com o tempo, a sua resistência (aumentou) e ele se inscreveu para uma corrida de 5 km. Naquele dia, ao cruzar a linha de (chegada), uma sensação de realização o envolveu. O Miguel finalmente se (tornara) o corredor que sempre desejara ser. Ele continuou a correr em corridas todos os anos após a primeira corrida.
 
 Story with true / false
 

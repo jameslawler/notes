@@ -44,6 +44,10 @@ Eu entendo as instruções -> do professor.
 Tu entendes as regras -> do jogo.
 Nós entenderemos as consequências -> das decisões.
 
+Fill in the missing words
+
+Ao estudar uma nova (língua) é importante ter um bom entendimento do (vocabulário) e da gramática. Ao (entender) esses tópicos você será (capaz) de entender conversas simples e ler (textos) simples.
+
 ## Writing Prompts
 
 1. Como você entende o significado das palavras em português? How do you understand the meanings of Portuguese words?

@@ -35,17 +35,22 @@ The Portuguese verb "ficar" means "to stay" or "to remain" in English.
 
 ## Exercises
 
-Fill in missing word
+Correct verb conjugation
 
-Numa cidade cosmopolita, há uma variedade de atividades (culturais) que deixam os habitantes e os visitantes fascinados. Os museus (oferecem) exposições incríveis, mostrando a história e a arte do país. As galerias de arte exibem (obras) de artistas locais e internacionais, proporcionando inspiração e reflexão. Os teatros e cinemas apresentam (peças) de teatro, concertos e filmes que cativam o público. Além disso, os festivais de música e dança (animam) as ruas com performances emocionantes. Independentemente das preferências (pessoais), há sempre algo para todos ficarem encantados e apaixonados pela (cultura) e arte da cidade.
+Eu (fico) em casa aos fins de semana.
+Tu (ficaste) doente na semana passada.
+Nós (ficaremos) emocionados ao ver o pôr do sol na praia.
+O Pedro (ficou) em casa durante as férias de inverno.
+Nós (ficamos) felizes quando recebemos boas notícias.
+Tu (ficarás) feliz com o presente que irei te dar.
 
-Story with true / false
+Order the sentences
 
-Numa cidade cosmopolita há muitos tipos de atividades culturais- V ou F
-As galerias de arte apenas exibem obras de artistas locais- V ou F
-As peças de teatro, concertos e filmes agradam ao público- V ou F
-Os festivais de música e dança desanimam as ruas- V ou F
-Nunca há nada que encante a todos- V ou F
+notícias / recebemos / nós / quando / felizes / boas / ficamos -> Nós ficamos felizes quando recebemos boas notícias.
+preocupados / do / atraso / ontem / voo / o / com / nós / ficámos -> Ontem nós ficámos preocupados com o atraso do voo.
+trabalho / cansados / eles / longo / ficam / de / dia / de / um / depois -> Eles ficam cansados depois de um longo dia de trabalho.
+fugiu / tristes / eles / o cão / ficaram / deles / quando -> Eles ficaram tristes quando o cão deles fugiu.
+amanhã / eu / aeroporto / esperando / ficarei / você / por / no -> Eu ficarei esperando por você no aeroporto amanhã.
 
 ## Writing Prompts
 

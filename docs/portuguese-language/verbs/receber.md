@@ -23,7 +23,7 @@ The Portuguese verb "receber" translates to "to receive" in English, indicating 
 
 Fill in missing word
 
-Na véspera de Natal, a família Silva reuniu-se para (celebrar). Todos estavam ansiosos para receber os presentes e compartilhar (momentos) de alegria. Com sorrisos (radiantes), cada um recebeu o seu presente com (gratidão). Enquanto os adultos conversavam e se deliciavam com iguarias natalinas, a casa estava repleta de amor e união. Aquela (noite) foi especial, pois todos (receberam) não apenas presentes materiais, mas também o caloroso abraço da família.
+Na véspera de Natal, a família Silva reuniu-se para (celebrar). Todos estavam ansiosos para receber os presentes e compartilhar (momentos) de alegria. Com sorrisos (radiantes), cada um recebeu o seu presente com (gratidão). Enquanto os adultos conversavam e se deliciavam com iguarias natalinas, a casa estava repleta de amor e união. Aquela (noite) foi especial, pois todos (receberam) não apenas presentes materiais, mas também o caloroso abraço da família. A família ficou junta em casa até a véspera de ano novo e comemorou junta o início de um novo ano.
 
 Story with true / false
 
@@ -33,6 +33,8 @@ As crianças não estão contentes com os presentes - False
 A casa estava desunida - False
 Foi uma noite unica - True
 Eles só receberam presentes materiais - False
+A família comemorou a véspera de ano novo junta - True
+Eles foram para outra cidade na véspera de ano novo - False
 
 ### Present Tense:
 

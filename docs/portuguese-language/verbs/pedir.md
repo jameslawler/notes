@@ -39,6 +39,8 @@ Nós (pedimos) ajuda ao visitar uma nova cidade.
 Alguns visitantes me (pediram) conselhos de viagem.
 A próxima semana (pedirei) peixe.
 Nós (pedimos) água para a mesa.
+Ela (pediu) desculpa pelo atraso.
+Nós (pedimos) uma pizza para o jantar de hoje.
 
 Connect the sentences
 
@@ -48,6 +50,8 @@ Tu estás perdido? -> pedes direções.
 O que vocês gostaria? -> já pedimos obrigado.
 O que vocês pediram? -> só bebidas no momento.
 Podes pedir orientação? -> eu sei onde é.
+O professor pediu silêncio -> durante o exame.
+Eu pedi um favor -> ao colega de trabalho.
 
 ## Writing Prompts
 

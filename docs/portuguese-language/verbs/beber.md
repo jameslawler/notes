@@ -40,6 +40,7 @@ Order the words in a sentence
 3. porque / de / tu / bebes / álcool / és / menor / idade / não -> tu não bebes álcool porque és menor de idade
 4. não / bebe / intolerante / à / lactose / ele / leite / porque / é -> ela não bebe leite porque é intolerante à lactose
 5. dormir / para / nós / bebemos / café / à / noite / para / evitar / dificuldades / não -> nós não bebemos café à noite para evitar dificuldades para dormir
+6. fim / nós / tarde / bebemos / da / ao / chá -> Nós bebemos chá ao fim da tarde.
 
 ## Writing Prompts
 

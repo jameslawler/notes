@@ -39,8 +39,9 @@ Story with true / false
 Os líderes falam com clareza - V ou F
 Os discursos políticos inspiram as massas - V ou F
 Nos debates parlamentares não se discutem questões importantes - V ou F
-As conferências de imprensa permitem aos políticos comunicarem indiretamente - V ou F
 A persuasão é essencial para ganhar apoio - V ou F
+As conferências de imprensa permitem aos políticos comunicarem - True
+Os politicos mobilizam as massas por uma causa comun - True
 
 ## Writing Prompts
 

@@ -30,7 +30,7 @@ The Portuguese verb "passar" can mean "to pass," "to spend," or "to go by" depen
 
 ## Exercises
 
-correct verb conjugation
+Correct verb conjugation
 
 Eu (passei) o fim de semana com os amigos.
 Tu (passaste) as férias na praia.
@@ -47,6 +47,10 @@ Ele passou um ano a viajar -> pelo mundo.
 Nós passámos a noite a dançar -> na festa.
 Eu passarei as próximas férias -> em Portugal.
 Tu passarás o Natal -> com a família.
+
+Fill in the missing words
+
+Na universidade (passei) muito tempo estudando. Com alguns (colegas) da universidade (passamos) a noite toda estudando antes das (provas). O tempo que passamos foi bem (investido), pois todos recebemos boas (notas).
 
 ## Writing Prompts
 

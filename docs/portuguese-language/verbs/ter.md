@@ -43,6 +43,8 @@ O professor (tem) muita paciência com os alunos.
 A Matilde e eu (tivemos) uma casa perto da praia para as férias.
 Ele e ela (têm) um jardim cheio de flores coloridas.
 O cientista (terá) uma descoberta revolucionária em breve.
+A minha filha (tem) 4 anos.
+A nossa avó (tem) muitos gatos.
 
 Connect the sentences
 
@@ -52,6 +54,8 @@ Ela terá uma oportunidade única de viajar -> pelo mundo.
 Nós teremos um encontro importante -> com o cliente amanhã.
 Eles terão um desafio -> difícil pela frente.
 Ontem ele teve um dia -> longo.
+Você tem gatos -> não, temos um cão.
+Você tem alguma pergunta? -> não, está tudo claro.
 
 ## Writing Prompts
 

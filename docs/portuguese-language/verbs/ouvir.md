@@ -42,6 +42,8 @@ A sua amiga bateu em sua porta - False
 Eles conversaram e ouviram um ao outro por horas - True
 A Ana ficou irritada com a amiga - False
 A amiga da Ana trouxe uma garrafa de vinho - False
+Eles falaram sobre assuntos tristes - False
+No final da conversa eles não são mais amigos - False
 
 ## Writing Prompts
 

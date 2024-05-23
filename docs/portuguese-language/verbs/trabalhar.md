@@ -39,6 +39,8 @@ Vocês (trabalham) muito para sustentar a família.
 Eu (trabalhei) até tarde ontem.
 Ele (trabalhará) como freelancer no futuro.
 Eu (trabalharei) no novo projeto a partir da próxima semana.
+O artista (trabalha) numa nova pintura na sua galeria.
+Eles (trabalham) como programadores numa empresa de tecnologia.
 
 Connect the sentences
 
@@ -48,6 +50,8 @@ Nós trabalhamos juntos -> há muitos anos.
 Eles trabalharão menos quando -> as férias começarem.
 Tu trabalharás na empresa -> dos teus sonhos em breve.
 Eu não trabalho -> nos finais de semana.
+Tu trabalhas no turno -> da noite numa fábrica.
+Eu trabalho como guia -> turístico na cidade.
 
 ## Writing Prompts
 

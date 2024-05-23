@@ -35,14 +35,6 @@ The Portuguese verb "abrir" means "to open" in English.
 
 ## Exercises
 
-Order the words
-
-a. todas / a porta / eu / manhãs / as / abro -> eu abro a porta todas as manhãs.
-b. o presente / nós / cuidado / abrimos / com -> nós abrimos o presente com cuidado.
-c. não / a janela / tu / lá fora / abres / está / quando / frio -> tu não abres a janela quando está frio lá fora.
-d. o livro / começa / e / a ler / ela / abre -> ela abre o livro e começa a ler.
-e. estranhos / para / nós / abrimos / não / a porta -> nós não abrimos a porta para estranhos.
-
 Use correct verb conjugation
 
 Nós (abrimos) a porta do carro e saímos.
@@ -50,6 +42,14 @@ Tu (abres) a janela de manhã.
 Eu (abrirei) a loja amanhã cedo.
 Ela (abre) o livro para estudar.
 Eles (abriram) a janela para arejar o quarto.
+
+Order the words
+
+a. todas / a porta / eu / manhãs / as / abro -> eu abro a porta todas as manhãs.
+b. o presente / nós / cuidado / abrimos / com -> nós abrimos o presente com cuidado.
+c. não / a janela / tu / lá fora / abres / está / quando / frio -> tu não abres a janela quando está frio lá fora.
+d. o livro / começa / e / a ler / ela / abre -> ela abre o livro e começa a ler.
+e. estranhos / para / nós / abrimos / não / a porta -> nós não abrimos a porta para estranhos.
 
 ## Writing Prompts
 

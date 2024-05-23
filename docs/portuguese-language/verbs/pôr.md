@@ -48,6 +48,10 @@ Ela adora pôr flores frescas -> na mesa da sala.
 Quando vai pôr a roupa -> na máquina.
 Quando pôr as chaves aqui? -> uma hora atrás.
 
+Fill the missing words
+
+Ana põe os (pratos) na mesa antes da chegada dos (convidados) e gosta de ter tudo no lugar certo e organizado. Assim que a comida fica pronta, ela (põe) nos pratos e convida os convidados para (começar). Eles desfrutam de uma refeição (juntos).
+
 ## Writing Prompts
 
 1. Onde você colocou este livro hoje? Where did you put this book today?

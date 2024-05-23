@@ -41,9 +41,9 @@ Ele manterá a promessa -> de cuidar dos filhos.
 Eu mantive minha promessa -> de chegar cedo.
 Tu manténs a calma -> em situações stressantes.
 
-Extras
+Fill in the missing words
 
-Vocês manterão a tradição de se reunir durante as festas.
+Manter um estilo de (vida) saudável requer um equilíbrio entre (alimentação) adequada, exercício físico regular e cuidado com a saúde mental. É importante cultivar (hábitos) que promovam o bem-estar físico e (emocional), como dormir o suficiente, praticar (atividades) relaxantes e procurar ajuda quando necessário.
 
 ## Writing Prompts
 

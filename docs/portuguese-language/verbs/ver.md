@@ -52,6 +52,8 @@ O que é que adora ver? -> as fotografias antigas da família.
 Onde verá a peça de teatro? -> no teatro local.
 Quanto dinheiro vês na minha mão? -> vinte euros.
 O que é que vimos numa noite de céu limpo? -> as estrelas.
+Eu vejo o pôr do sol -> todas as noites.
+Nós vemos um arco-íris -> depois da chuva.
 
 ## Writing Prompts
 

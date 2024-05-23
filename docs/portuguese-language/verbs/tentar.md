@@ -37,6 +37,7 @@ consertar / onten / o computador / tu / tentaste -> Onten tu tentaste consertar 
 amigo / o / meu / me / tentou / prova / ajudar / na -> O meu amigo tentou me ajudar na prova.
 aquele / ensinar / às / professor / crianças / tenta / ideias / novas -> Aquele professor tenta ensinar novas ideias às crianças.
 a Espanha / tentamos / voar / para -> Tentamos voar para a Espanha.
+compreender / o aluno / difícil / o texto / tenta -> O aluno tenta compreender o texto difícil.
 
 ## Writing Prompts
 

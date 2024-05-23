@@ -44,6 +44,10 @@ Nós formámos um comitcomité -> para organizar o evento.
 Eu formarei uma escultura -> de argila.
 Nós formaremos uma aliança -> estratégica.
 
+Fill in the missing words
+
+Formar uma equipa coesa é (essencial) para alcançar os objetivos organizacionais. Durante o (processo) de formação da equipa, é (importante) estabelecer metas claras e promover uma (cultura) de colaboração e respeito mútuo.
+
 ## Writing Prompts
 
 1. Descreva um momento em que você precisou formar uma opinião rápida. Describe a time when you needed to form a fast opinion.

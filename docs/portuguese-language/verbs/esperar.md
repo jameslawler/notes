@@ -39,6 +39,8 @@ Vocês (esperam) pelo resultado do exame.
 Eu (esperarei) pelo seu retorno.
 Antes de começar, tu (esperarás) pelo meu sinal.
 Ele e ela (esperaram) pelo sinal verde para atravessar.
+Tu (esperas) uma oportunidade para viajar.
+Ele (espera) pelo momento certo para agir.
 
 Connect the sentences
 
@@ -50,11 +52,6 @@ Vocês esperarão pelo avião -> no aeroporto.
 Ele esperou pelo sinal verde -> para atravessar.
 Eu esperei muito tempo -> pelo autocarro ontem.
 Eu espero pela chegada -> do meu amigo.
-
-Extras
-
-Tu esperas uma oportunidade para viajar.
-Ele espera pelo momento certo para agir.
 
 ## Writing Prompts
 

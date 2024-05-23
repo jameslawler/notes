@@ -42,6 +42,8 @@ Ela foi para a universidade para estudar - True
 A Maria teve que pagar os estudos sozinha - False
 Ela estudou muito enquanto estava na universidade - True
 A Maria conseguiu o que queria no final - True
+A Maria sempre quer aprender - True
+A Maria abandonou os estudos - False
 
 ## Writing Prompts
 

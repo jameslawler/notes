@@ -35,19 +35,13 @@ A Paula (considera) o problema com cuidado antes de propor soluções.
 Nós (consideramos) várias alternativas para resolver o problema.
 Eles (consideraram) a proposta do cliente antes de apresentar uma contraproposta.
 
-Connect the sentences
-Eu considerei -> sua sugestão
-Tu consideraste -> todas as implicações
-Ele considerou -> a oferta da empresa
-Nós considerámos -> todas as opções
-Elas consideraram -> a ideia antes
+Order words
 
-Extras
-
-- Eu considerarei suas sugestões antes de finalizar o projeto.
-- Tu considerarás todas as consequências antes de tomar uma decisão.
-- Ele considerará as possibilidades antes de fazer uma escolha.
--
+parte / família / ela / seu / considera / o / cão / como / da -> Ela considera o seu cão como parte da família.
+tu / fonte / o livro / inspiração / como / uma / de / consideras -> Tu consideras o livro como uma fonte de inspiração.
+ambiente / preservar / meio / importante / ela / o / considera -> Ela considera importante preservar o meio ambiente.
+clientes / o feedback / nós / dos / consideramos -> Nós consideramos o feedback dos clientes.
+negócio / para / novos / o empresário / seu / mercados considera / expandir / o -> O empresário considera expandir o seu negócio para novos mercados.
 
 ## Writing Prompts
 

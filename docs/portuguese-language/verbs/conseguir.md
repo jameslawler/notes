@@ -39,7 +39,10 @@ Story with true / false:
 O Pedro e a Sofia foram para a praia - V ou F
 Eles conseguiram alcançar o cume - V ou F
 Deram um mergulho - V ou F
-A água não fresca - V ou F
+A água não estava fresca - V ou F
+Não foi um dia memorável - False
+Eles encontraram um rio na base da montanha - True
+Eles desceram a montanha com rapel - True
 
 ## Writing Prompts
 

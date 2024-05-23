@@ -39,6 +39,10 @@ Tu incluíste um comentário especial -> no presente.
 Ele incluirá uma nova secção -> no documento.
 Nós incluiremos uma opção -> de entrega expressa.
 
+Fill in the missing words
+
+O futebol é um esporte popular na (Europa) e cada equipe inclui 11 (jogadores). Essas equipes (incluem) um goleiro, atacantes e defensores. A Europa tem muitos (equipas) e ligas de futebol.
+
 ## Writing Prompts
 
 1. Quem você incluiu na sua última festa de aniversário? Who did you include in your last birthday party?

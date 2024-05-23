@@ -34,6 +34,8 @@ O meu chef (responderá) à proposta de negócio na próxima semana.
 A Ana (responde) à pergunta do professor com confiança.
 Eu (respondi) às questões do exame com cuidado.
 Eles (responderam) às críticas com calma.
+Eu (respondi) ao telefonema do meu chefe.
+O advogado (respondeu) às acusações do juiz.
 
 Connect the sentences
 
@@ -43,6 +45,8 @@ O Pedro responde rapidamente -> em emergências.
 Você tem todas as respostas corretas -> Bom trabalho!
 Você sabe a resposta? -> claro.
 As perguntas da entrevista -> foram difíceis.
+O aluno respondeu corretamente -> à pergunta difícil.
+Ela respondeu ao convite -> para o evento.
 
 ## Writing Prompts
 

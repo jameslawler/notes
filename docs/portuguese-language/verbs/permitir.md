@@ -44,6 +44,10 @@ Posso falar com você, por favor? -> agora não, mas depois está tudo bem.
 Quando você vai nadar? -> nas manhãs.
 Você está tentando parar de fumar? -> estou tentando há 1 ano.
 
+Fill in the missing words
+
+Na minha (escola) existe uma área na entrada onde é (permitido) guardar bicicletas. Esta área é para os alunos guardarem suas bicicletas com (segurança) enquanto estão em aula. No verão há alguma (construção) nesta área e os alunos não estão autorizados a guardar as suas (bicicletas) lá.
+
 ## Writing Prompts
 
 1. O que você não tinha permissão de fazer quando criança? What were you not allowed to do as a child?

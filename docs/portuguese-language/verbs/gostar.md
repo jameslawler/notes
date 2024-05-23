@@ -34,14 +34,18 @@ Nós (gostaremos) de assistir ao espetáculo no teatro.
 Antes de dormir, a Joana (gosta) de ler livros.
 Aos sábados, o Pedro e a Maria (gostam) de comer pizza.
 
-Connect the sentences 
+Connect the sentences
 
-Ele (gosta) de assistir                 -> a filmes de comédia.
-Aos domingos, nós (gostamos) de passear    ->  no parque.
-Eu (gostei) do concerto                   ->   que assisti na semana passada.
-Nós (gostámos) do restaurante novo          -> que experimentámos.
-Um dia, Eu (gostarei) de viajar              -> pelo mundo.
-Tu (gostarás) de experimentar novos         ->  pratos culinários.
+Ele (gosta) de assistir -> a filmes de comédia.
+Aos domingos, nós (gostamos) de passear -> no parque.
+Eu (gostei) do concerto -> que assisti na semana passada.
+Nós (gostámos) do restaurante novo -> que experimentámos.
+Um dia, Eu (gostarei) de viajar -> pelo mundo.
+Tu (gostarás) de experimentar novos -> pratos culinários.
+
+Fill in the missing verb
+
+(Gosto) de acordar tarde, mas meu irmão (gosta) de acordar cedo. (Gostamos) de acordar em horários diferentes e fazer atividades diferentes. (Gosto) de ler notícias e meu irmão (gosta) de passear com o cão.
 
 ## Writing Prompts
 

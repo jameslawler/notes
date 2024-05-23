@@ -37,17 +37,16 @@ O Marcelo e o Paulo (continuam) a estudar para o exame final.
 
 Connect the sentences
 
-Eu continuei a ler -> o livro até altas horas da noite.
-Ele continuou a trabalhar -> no projeto até terminá-lo.
-Eu continuarei a praticar -> desporto regularmente para manter a forma.
-Tu continuaste a fazer -> exercício físico mesmo quando estavas cansado.
-Nós continuámos a assistir -> ao filme depois de já ter passado da meia-noite.
+Eu continuei a ler -> o livro.
+Ele continuou a trabalhar -> no projeto.
+Eu continuarei a praticar -> desporto regularmente.
+Tu continuaste a fazer -> exercício físico.
+Nós continuámos a assistir -> ao filme.
 Elas continuaram a estudar -> mesmo durante as férias.
 
-Extra
+Fill in the missing word
 
-Nós continuaremos a nos esforçar para melhorar nossas habilidades.
-Ele continua a trabalhar mesmo depois do expediente
+Durante a (semana) decidimos continuar com nossos planos de (viagem). Precisávamos interromper nossos planos de viagem por causa de uma (emergência) familiar, mas agora podemos continuar com eles novamente. (Continuamos) a fazer os preparativos (necessários), como reservas de voos e alojamento.
 
 ## Writing Prompts
 

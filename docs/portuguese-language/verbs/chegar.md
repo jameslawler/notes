@@ -37,7 +37,7 @@ The Portuguese verb "chegar" translates to "to arrive" or "to come" in English.
 
 Fill in missing word
 
-A Maria chegou a Braga de (tarde) para uma visita à cidade. Poucos (minutos) depois os primos da Maria também (chegaram). Organizaram um ponto de (encontro) e quando eles chegaram, a Maria ainda não estava lá. Ela chegou uma (hora) mais tarde. A Maria explicou o motivo do (atraso) e seguiram para a visita.
+A Maria chegou a Braga de (tarde) para uma visita à cidade. Poucos (minutos) depois os primos da Maria também (chegaram). Organizaram um ponto de (encontro) e quando eles chegaram, a Maria ainda não estava lá. Ela chegou uma (hora) mais tarde. A Maria explicou o motivo do (atraso) e seguiram para a visita. Foram (visitar) muitos monumentos e depois das visitas decidiram parar para tomar um café e comer um bolo. Todos gostaram muito da cidade e prometeram regressar.
 
 Story with true / false
 
@@ -46,6 +46,7 @@ A Maria e os primos vieram ao mesmo tempo - False
 Tinha organizado um ponto de encontro - True
 Os primos sabiam que a Maria chegaria atrasada - False
 Eles cancelaram a visita - False
+Foram visitar poucos monumentos - False
 
 ## Writing Prompts
 

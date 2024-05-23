@@ -37,8 +37,10 @@ Eu (criarei) uma empresa de design gráfico.
 Tu (criarás) uma coleção de moda inovadora.
 O Diogo (cria) histórias fantásticas para os filhos dele.
 Tu (criaste) um bolo delicioso para o aniversário.
+A Maria (cria) um blog para partilhar as suas ideias.
 Ele (criou) uma apresentação impressionante para a reunião.
 Nós (criamos) um aplicativo de sucesso.
+O professor (cria) atividades educativas para motivar os alunos.
 
 Connect the sentences
 
@@ -48,11 +50,8 @@ Nós criámos uma empresa -> há cinco anos.
 Elas criaram um jardim -> bonito no quintal.
 Ele criará um livro -> de receitas famoso.
 Nós criaremos um novo método -> de ensino.
-
-Extra
-Vocês criam roupas exclusivas para seus clientes.
-
-- Eu criei um quadro para a exposição de arte.
+O Pedro cria soluções criativas -> para resolver problemas.
+Nós criamos memórias -> durante as nossas viagens.
 
 ## Writing Prompts
 

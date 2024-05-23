@@ -40,6 +40,7 @@ Tu (chamaste) o professor pelo sobrenome.
 Tu (chamarás) um táxi para ir ao concerto.
 A Sofia (chamará) os colegas para uma reunião de brainstorming.
 Nós (chamaremos) o serviço de entrega para o jantar.
+Eles (chamam) os clientes para entrar na loja.
 
 Connect the sentences
 
@@ -49,10 +50,8 @@ Eles chamam seus amigos -> para a festa.
 Eu chamei o táxi e fui -> para o aeroporto.
 Ele chamou a cadela para brincar -> no parque.
 Elas chamaram o filme de -> "Aventura Épica".
-
-Extra
-
-Nós (chamaremos) o serviço de entrega.
+Tu chamas o médico -> quando estás doente.
+Ela chama pelo seu nome -> quando alguém a procura.
 
 ## Writing Prompts
 

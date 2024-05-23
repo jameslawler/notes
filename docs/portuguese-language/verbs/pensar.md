@@ -43,6 +43,8 @@ Ele (pensará) duas vezes antes de agir.
 Nós (pensaremos) em comprar uma casa.
 Eu (penso) que hoje será um bom dia.
 Tu (pensas) muito antes de tomar decisões.
+Eu (penso) que hoje vai chover.
+A Maria (pensa) muito antes de tomar uma decisão.
 
 Connect the sentences
 
@@ -52,6 +54,8 @@ Eu pensei em ti -> durante a viagem.
 Tu pensaste numa solução -> para o problema.
 Nós pensaremos mais sobre -> o assunto antes de decidir.
 Tu pensarás em estudar -> no estrangeiro.
+O Pedro está a pensar em mudar -> de carreira.
+Nunca pensei que -> isso fosse possível!
 
 ## Writing Prompts
 

@@ -40,12 +40,17 @@ Eu (uso) óculos para ler.
 Tu (usas) o computador para trabalhar.
 
 Connect the sentences
+
 Ele usa o telemóvel -> para comunicar.
 Nós usamos o carro -> para ir ao supermercado.
 Ele usou os sapatos novos -> na festa.
 Nós usámos o fogão -> para cozinhar o jantar.
 Eu usarei um vestido bonito -> na festa.
 Tu usarás o dinheiro -> para comprar presentes.
+
+Fill in the missing words
+
+Eu trabalho na construção e (uso) muitas ferramentas diferentes todos os dias. Eu uso (martelos) e furadeiras. No meu trabalho preciso (usar) roupas especiais que tenham boa (visibilidade). Também preciso usar (capacete) quando estiver trabalhando.
 
 ## Writing Prompts
 

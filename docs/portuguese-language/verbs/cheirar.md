@@ -32,6 +32,7 @@ Tu (cheiras) a comida a fazer na cozinha.
 Nós (cheirámos) o perfume da primavera no jardim.
 Elas (cheiraram) o bolo de chocolate que a avó fez.
 Ele (cheirará) o perfume novo quando o comprar.
+A nossa casa (cheira) a mofo.
 
 Order the words in a sentence:
 
@@ -40,6 +41,7 @@ eu / as rosas / no jardim / cheirarei / amanhã -> Eu cheirarei as rosas no jard
 durante / ele / cheirou / o ar / da montanha / as férias / fresco -> Ele cheirou o ar fresco da montanha durante as férias
 cheirarás / que / farei / o teu / aniversário / para / o bolo / tu -> Tu cheirarás o bolo que farei para o teu aniversário
 cheiraremos / a comida / estará / a cozinhar / no restaurante / nós / que -> Nós cheiraremos a comida que estará a cozinhar no restaurante
+recebeu / ontem / o Pedro / bem / perfume / fez / anos / e / cheira / um / muito / que -> Ontem o Pedro fez anos e recebeu um perfume que cheira muito bem.
 
 ## Writing Prompts
 

@@ -39,6 +39,8 @@ A Maria (produz) resultados consistentes em seu trabalho.
 Nós (produzimos) energia solar em nossa casa.
 Ele (produzirá) um novo álbum de música.
 Eu (produzo) conteúdo para o meu blog.
+A fábrica (produz) mais de mil unidades por dia.
+A nossa equipa (produziu) um relatório detalhado.
 
 Connect the sentences
 
@@ -48,6 +50,8 @@ Quanto tempo precisa para produzir? -> três meses.
 Qual é o nome de último álbum que produziu? -> Quinta Aberta.
 Quantos livros produziste? -> Até agora só dois.
 Como produz novas ideas? -> Preciso de tempo para pensar.
+O escritor produziu -> uma série de romances.
+Esta empresa produz filmes -> de qualidade há décadas.
 
 ## Writing Prompts
 

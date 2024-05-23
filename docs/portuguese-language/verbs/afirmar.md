@@ -39,11 +39,9 @@ Nós afirmámos que -> não sabíamos da situação.
 Elas afirmaram que -> não viriam ao evento.
 Eu afirmarei que -> tudo correrá bem.
 
-EXTRAS
+Fill in the missing words
 
-- Ele afirmará que trará novas ideias para o projeto.
-- Nós afirmaremos que participaremos da reunião.
-- Vocês afirmarão que estarão presentes na cerimonia.
+A psicóloga afirmou que a (autoconfiança) é fundamental para o bem-estar emocional. Ela (afirmou) que, ao reconhecermos nossas próprias (habilidades) e qualidades, podemos enfrentar os desafios da vida com mais (resiliência). Afirmou também que o autocuidado e a prática da gratidão são ferramentas poderosas para cultivar a (autoestima).
 
 ## Writing Prompts
 

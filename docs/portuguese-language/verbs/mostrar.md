@@ -28,7 +28,7 @@ The Portuguese verb "mostrar" means "to show" or "to display."
 
 Fill in missing word
 
-Na pequena vila de (pescadores), o Manuel (mostrava) todos os dias a sua destreza com as redes. Ele era conhecido por mostrar o melhor (ponto) de pesca a qualquer pessoa que precisasse de ajuda. Um dia, durante uma (tempestade) feroz, o Manuel mostrou o seu heroísmo ao resgatar um pescador em apuros no mar revolto. O seu ato de (coragem) foi mostrado para toda a comunidade, que passou a admirá-lo ainda mais.
+Na pequena vila de (pescadores), o Manuel (mostrava) todos os dias a sua destreza com as redes. Ele era conhecido por mostrar o melhor (ponto) de pesca a qualquer pessoa que precisasse de ajuda. Um dia, durante uma (tempestade) feroz, o Manuel mostrou o seu heroísmo ao resgatar um pescador em apuros no mar revolto. O seu ato de (coragem) foi mostrado para toda a comunidade, que passou a admirá-lo ainda mais. Uma (estátua) de Manuel foi construída na sua aldeia como uma demonstração de gratidão dos seus concidadãos.
 
 Story with true / false
 
@@ -37,6 +37,7 @@ Durante uma tempestade, o Manuel teve problemas no mar revolto - False
 O Manuel mantém em segredo os seus locais de pesca - False
 O Manuel mostrou heroísmo durante a tempestade - True
 A comunidade não gostou do que o Manuel fez durante a tempestade - False
+Uma estátua foi construída em sua homenagem - True
 
 ## Writing Prompts
 
