@@ -55,6 +55,6 @@ Eu espero pela chegada -> do meu amigo.
 
 ## Writing Prompts
 
-1. Descreva uma situação em que você teve que esperar por algo importante. Describe a situation when you had to wait for something important.
-2. Escreva sobre algo que você espera alcançar no futuro. Describe a situation when you had to wait for something important.
-3. Quando encontra amigos você costuma chegar na hora ou atrasado? When meeting friends are you usually on time or late?
+1. Descreva uma situação em que teve que esperar por algo importante. Describe a situation when you had to wait for something important.
+2. Escreva sobre algo que espera alcançar no futuro. Describe a situation when you had to wait for something important.
+3. Quando encontra amigos costuma chegar a horas ou atrasado? When meeting friends are you usually on time or late?

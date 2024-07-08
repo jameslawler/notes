@@ -28,7 +28,7 @@ Eu e a Manuel (aparecemos) num evento de caridade.
 Eu (apareci) no encontro mais cedo que o esperado.
 Tu (apareceste) na festa depois do jantar.
 Eu (aparecerei) no concerto de música clássica.
-O Roberto e o Alexandre (aparecerão) na cerimonia de premiação.
+Amanhã o Pedro e a Maria (aparecerão) na cerimonia de premiação.
 
 Order the words in a sentence:
 
@@ -41,6 +41,6 @@ programa / nós / apareceremos / no / de / televisão
 
 ## Writing Prompts
 
-1. Descreva uma situação em que você apareceu em um lugar de surpresa. Describe a situation in which you appeared in a place by surprise.
+1. Descreva uma situação em que apareceu num lugar de surpresa. Describe a situation in which you appeared in a place by surprise.
 2. Escreva sobre alguém que sempre aparece nos momentos mais inesperados. Write about someone who always appears at the most unexpected times.
 3. Escreva sobre um evento futuro em que aparecerá como convidado especial. Write about an upcoming event where you will appear as a special guest.

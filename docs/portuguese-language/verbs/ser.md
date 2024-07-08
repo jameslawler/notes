@@ -8,13 +8,13 @@ The Portuguese verb "ser" means "to be" in English. It is one of the two main ve
 
 ## Conjugations
 
-|                 | Past    | Present | Future  |
-| --------------- | ------- | ------- | ------- |
-| eu              | _fui_   | _sou_   | serei   |
-| tu              | _foste_ | _és_    | serás   |
-| ele/ela/você    | _foi_   | _é_     | será    |
-| nós             | _fomos_ | _somos_ | seremos |
-| eles/elas/vocês | _foram_ | _são_   | serão   |
+|                 | Past  | Present | Future  |
+| --------------- | ----- | ------- | ------- |
+| eu              | fui   | sou     | serei   |
+| tu              | foste | és      | serás   |
+| ele/ela/você    | foi   | é       | será    |
+| nós             | fomos | somos   | seremos |
+| eles/elas/vocês | foram | são     | serão   |
 
 ## Daily Usages
 
@@ -37,19 +37,19 @@ The Portuguese verb "ser" means "to be" in English. It is one of the two main ve
 
 Fill in missing word
 
-O jogador de (futebol) Cristiano Ronaldo é uma lenda viva. Ele (foi) sempre conhecido por ser habilidoso e determinado. Desde jovem, ele sonhava em ser um dos melhores (jogadores) do mundo. Com trabalho árduo e dedicação, ele alcançou o seu (objetivo). No campo, ele é um líder inspirador para a sua equipa. Por seu turno, a tenista Serena Williams era conhecida por ser imparável. Ela enfrentava os (desafios) com coragem e força. Em cada competição, ela demonstrava o que era ser uma (verdadeira) campeã. No mundo dos desportos, ser um atleta significava superar os (limites) e inspirar outros a fazer o mesmo.
+O jogador de (futebol) Cristiano Ronaldo é uma lenda viva. Ele (foi) sempre conhecido por ser habilidoso e determinado. Desde jovem que ele sonhava em ser um dos melhores (jogadores) do mundo. Com trabalho árduo e dedicação, ele alcançou o seu (objetivo). No campo, ele é um líder inspirador para a sua equipa. Por seu turno, a tenista Serena Williams era conhecida por ser imparável. Ela enfrentava os (desafios) com coragem e força. Em cada competição, ela demonstrava o que era ser uma (verdadeira) campeã. No mundo dos desportos, ser um atleta significava superar os (limites) e inspirar outros a fazer o mesmo.
 
 Story with true / false
 
 Cristiano Ronaldo não é uma lenda viva - False
-Desde pequeno Cristiano Ronaldo quis ser o melhor jogador - True
-Foi bom jogador sem trabalhar muito - False
-Serena Williams enfrentou os desafios com coragem - True
+Desde pequeno que Cristiano Ronaldo quis ser o melhor jogador - True
+Foi um bom jogador sem trabalhar muito - False
+A Serena Williams enfrentou os desafios com coragem - True
 A tenista não tinha uma atitude de campeã - False
-Amobos os atletas inspiram outras pessoas - False
+Ambos inspiram outras pessoas - True
 
 ## Writing Prompts
 
 1. Descreva-se (nome, nacionalidade, profissão). Describe yourself (name, nationality, occupation).
 2. Quais foram as datas mais importantes da sua vida? Which were the most important dates in your life?
-3. Descreva sua casa. Describe your house.
+3. Descreva a sua casa. Describe your house.

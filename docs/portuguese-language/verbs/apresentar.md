@@ -34,20 +34,20 @@ Use correct verb conjugation
 
 Eu (apresento) o relatório aos meus colegas.
 Tu (apresentas) o convidado ao público.
-A Joana (apresenta) os resultados da pesquisa.
+A Joana (apresenta) os resultados da pesquisa. <-- fix!!!
 Eu e o Armando (apresentamos) as nossas ideias.
-Durante a entrevista, o Francisco e o Assis (apresentam) suas capacidades.
+Durante a entrevista, o Francisco e o Assis (apresentam) as suas capacidades.
 Eu (apresentei) o meu trabalho na conferência.
 
 Connect the sentences
 
-Tu apresentaste os teus amigos -> aos teus pais.
-Ele apresentou a sua proposta -> à diretoria.
-Nós apresentámos o plano de negócios -> ao investidor.
-Eu apresentarei a minha dissertação -> no próximo mês.
-Tu apresentarás o novo produto -> ao mercado.
-Ele apresentará sua pesquisa -> na conferência internacional.
-Nós apresentaremos nossa proposta -> ao cliente.
+Tu apresentaste os teus -> amigos aos teus pais.
+Ele apresentou a sua proposta à -> empresa.
+Nós apresentámos o plano de -> negócios ao investidor.
+Eu apresentarei a minha dissertação no -> próximo mês.
+Tu apresentarás o novo produto ao -> mercado.
+Ele apresentará a sua pesquisa no -> laboratório.
+Nós apresentaremos nossa proposta ao -> cliente.
 
 Fill in the missing words
 
@@ -55,6 +55,6 @@ O professor apresentou um novo (método) de ensino aos seus alunos. Ele (apresen
 
 ## Writing Prompts
 
-1. Descreva como você se sente ao apresentar um projeto. Describe how you feel when presenting a project.
+1. Descreva como se sente ao apresentar um projeto. Describe how you feel when presenting a project.
 2. Gosta de fazer apresentações para grandes grupos de pessoas? Do you like to present to large groups of people?
 3. Conhece alguma técnica para fazer boas apresentações? Do you have any techniques for making good presentations?

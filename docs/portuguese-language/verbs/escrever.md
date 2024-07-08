@@ -32,21 +32,15 @@ Vocês (escreveram) um poema juntos.
 
 Order the words in a sentence
 
-escrevemos / nós / um artigo / a revista / para -> Nós escrevemos a revista para um artigo.
-um roteiro / para / o filme / vocês / escrevem
-viagens / ele / escreverá / um blog / sobre
-escrevi um livro no / passado / ano / eu
-os avós / uma carta / tu / escreveste / para
-uma peça / vocês / escreverão / / de / teatro
-
-Extras
-
-Tu escreverás uma mensagem para o amigo.
-Nós escreveremos um livro de receitas.
-Eu escrevo no meu diário todos os dia
+escrevemos / nós / um artigo / a revista / para -> Nós escrevemos um artigo para a revista.
+um roteiro / para / o filme / vocês / escrevem -> Vocês escrevem um roteiro para o filme.
+viagens / ele / escreverá / um blog / sobre -> Ele escreverá um blog sobre viagens.
+escrevi/ um livro/ no / passado / ano / eu -> No ano passado, eu escrevi um livro.
+os avós / uma carta / tu / escreveste / para -> Tu escreveste uma carta para os avós.
+uma peça / vocês / escreverão / de / teatro -> Vocês escreverão uma peça de teatro.
 
 ## Writing Prompts
 
-1. Você escreve em um diário ou diário? Do you write in a diary or journal?
-2. Com que frequência você escreve com papel e caneta? How often do you write with pen and paper?
-3. Escreva uma carta para o seu futuro descrevendo seus sonhos e objetivos. Write a letter to your future self outlining your dreams and goals.
+1. Escreve num diário? Do you write in a diary?
+2. Com que frequência escreve com papel e caneta? How often do you write with pen and paper?
+3. Escreva uma carta para o seu futuro a descrever os seus sonhos e objetivos. Write a letter to your future self outlining your dreams and goals.

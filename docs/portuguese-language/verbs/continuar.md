@@ -46,10 +46,10 @@ Elas continuaram a estudar -> mesmo durante as férias.
 
 Fill in the missing word
 
-Durante a (semana) decidimos continuar com nossos planos de (viagem). Precisávamos interromper nossos planos de viagem por causa de uma (emergência) familiar, mas agora podemos continuar com eles novamente. (Continuamos) a fazer os preparativos (necessários), como reservas de voos e alojamento.
+Durante a (semana) decidimos continuar com nossos planos de (viagem). Precisávamos de interromper nossos planos de viagem por causa de uma (emergência) familiar, mas agora podemos continuar com eles novamente. (Continuamos) a fazer os preparativos (necessários), como reservas de voos e alojamento.
 
 ## Writing Prompts
 
-1. Descreva uma situação em que você teve que continuar com algo desafiador. Describe a situation in which you had to continue with something challenging.
-2. Escreva sobre uma atividade que você faz continuamente para melhorar. Write about an activity that you continually do to improve yourself.
+1. Descreva uma situação em que teve que continuar com algo desafiador. Describe a situation in which you had to continue with something challenging.
+2. Escreva sobre uma atividade que faz continuamente para melhorar. Write about an activity that you continually do to improve yourself.
 3. Escreva instruções para ir a uma loja local. Write directions to go to a local shop.

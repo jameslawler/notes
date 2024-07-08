@@ -33,27 +33,23 @@ The Portuguese verb "constituir" means "to constitute" or "to establish."
 
 Use correct verb conjugation
 
-De forma a promover a arte, (constituirá) uma nova organização.
+De forma a promover a arte, o governo (constituirá) uma nova organização.
 Nós (constituiremos) um grupo de estudos para o exame.
-Eu (constitui) uma associação no ano passado.
-Tu (constituis) a base do projeto com suas ideias.
-Ele (constituiu) uma família feliz com sua esposa.
+Eu (constituí) uma associação no ano passado.
+Tu (constituis) a base do projeto com as suas ideias.
+Ele (constituiu) uma família feliz com a sua esposa.
 Eu e a Vanessa (constituímos) uma comissão para investigar o problema.
 
 Order the words in a sentence
 
 para / tu / constituíste / nova / equipa / o projeto / uma -> Tu constituíste uma equipa nova para o projeto.
-constituo / eu / do / parte / conselho / de / administração
-a essência / ele / constitui / da / equipa / com / sua / liderança
-da / nós / constituímos / motriz por trás / mudança / a força
-empresa / eu / constituirei / uma / de / no / futuro / tecnologia
-valores / eu / sólida / constituirás / uma / família / com / seus
-
-Extras
-Elas constituirão uma nova filial da empresa no estrangeiro.
+constituo / eu / do / parte / conselho / de / administração -> eu constituo parte do conselho de administração.
+a essência / ele / constitui / da / equipa / com / a sua / liderança -> Ele constitui a essência da equipa com a sua liderança.
+da / nós / constituímos / motriz por trás / mudança / a força -> nós constituímos a força motriz por trás da mudança.
+empresa / eu / constituirei / uma / de / no / futuro / tecnologia -> eu constituirei uma empresa de tecnologia no futuro.
 
 ## Writing Prompts
 
-1. Descreva como você formaria uma equipe para um projeto importante. Describe how you would form a team for an important project.
+1. Descreva como formaria uma equipa para um projeto importante. Describe how you would form a team for an important project.
 2. Liste os elementos que compõem a sua identidade. List the elements that make up your identity.
 3. Você já fundou alguma empresa ou clube? Have you ever established any company or club?

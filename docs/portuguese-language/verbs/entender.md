@@ -50,6 +50,6 @@ Ao estudar uma nova (língua) é importante ter um bom entendimento do (vocabul�
 
 ## Writing Prompts
 
-1. Como você entende o significado das palavras em português? How do you understand the meanings of Portuguese words?
-2. Quanto você estudou na escola? How hard did you study in school?
-3. Quais sotaques você tem dificuldade para entender? Which accents do you struggle to understand?
+1. Como entende o significado das palavras em português? How do you understand the meanings of Portuguese words?
+2. Quais os tópicos que entendeu melhor na escola? Which topics did you lern better in school?
+3. Quais sotaques que tem dificuldade para entender? Which accents do you struggle to understand?

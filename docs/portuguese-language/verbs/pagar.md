@@ -32,14 +32,14 @@ Eu (pago) o autocarro todos os dias
 
 Order the words in a sentence
 
-de trabalho / uma / o patrão / grande / depois / conta / da festa / pagou -> Depois da festa de trabalho o patrão pagou uma conta grande.
+do trabalho / uma / o patrão / grande / depois / conta / da festa / pagou -> Depois da festa do trabalho o patrão pagou uma conta grande.
 pagamos / pela / entrega / de / sushi / uma / vez / por / mês -> Pagamos pela entrega de sushi uma vez por mês.
-menos / solares / que / eletricidade / pagamos / pela / significam / nossos / painéis -> Nossos painéis solares significam que pagamos menos pela eletricidade.
-grande / em / morar / uma / para / cidade /pagámos / muito -> Pagámos muito para morar em uma cidade grande.
+com / menos / solares / eletricidade / pagamos / os nossos / painéis -> Com os nossos painéis solares pagamos menos eletricidade.
+grande / morar / numa / para / cidade / pagamos / muito -> Pagamos muito para morar numa cidade grande.
 novo / um / carro / dinheiro / pagamos / por / muito -> Pagamos muito dinheiro por um carro novo.
 
 ## Writing Prompts
 
-1. Qual foi a coisa mais cara que você comprou? What is the most expensive thing you bought?
-2. Você paga gorjeta em restaurantes? Do you pay a tip in restaurants?
-3. Quanto você precisa pagar para consultar um médico? How much do you need to pay to see a doctor?
+1. Qual foi a coisa mais cara que comprou? What is the most expensive thing you bought?
+2. Você paga gorjetas em restaurantes? Do you pay a tip in restaurants?
+3. Quanto pagar por uma consulta no médico? How much do you need to pay to see a doctor?

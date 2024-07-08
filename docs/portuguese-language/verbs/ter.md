@@ -20,7 +20,7 @@ The Portuguese verb "ter" means "to have" in English.
 
 1. Possession:
 
-   - Portuguese: Possessão - ex: Eles têm muitos livros.
+   - Portuguese: Possuir algo - ex: Eles têm muitos livros.
    - English: Possession - e.g: They have many books.
 
 2. Relationships and Family:
@@ -51,14 +51,14 @@ Connect the sentences
 Tu tens um talento incrível -> para a música.
 Eu terei uma surpresa especial -> para o teu aniversário.
 Ela terá uma oportunidade única de viajar -> pelo mundo.
-Nós teremos um encontro importante -> com o cliente amanhã.
+Nós teremos um encontro importante -> com um cliente amanhã.
 Eles terão um desafio -> difícil pela frente.
 Ontem ele teve um dia -> longo.
-Você tem gatos -> não, temos um cão.
+Você tem gatos? -> não, temos um cão.
 Você tem alguma pergunta? -> não, está tudo claro.
 
 ## Writing Prompts
 
 1. Descreva sua árvore genealógica. Describe your family tree.
-2. Qual é a coisa mais cara que você possui? What is the most expensive thing you own?
-3. O que você sempre leva consigo? What do you always have with you?
+2. Qual é a coisa mais cara que possui? What is the most expensive thing you own?
+3. O que leva sempre consigo? What do you always have with you?

@@ -28,24 +28,24 @@ The Portuguese verb "ganhar" means "to win" or "to earn."
 
 Use correct verb conjugation
 
-Eu (ganho) um prêmio na competição.
+Eu (ganho) um prémio na competição.
 Tu (ganhas) um salário alto no teu trabalho.
 Eu (ganharei) uma bolsa de estudos no próximo ano.
 Tu (ganharás) uma promoção no trabalho.
 Eu (ganhei) um concurso de poesia no ano passado.
-Nós (ganharemos) um prêmio de equipe pelo nosso esforço conjunto.
+Nós (ganharemos) um prémio de equipa pelo nosso esforço conjunto.
 
 Order the words in a sentence
 
 ganhaste / tu / no / emprego / anterior / um bónus / teu -> Tu ganhaste um bónus no teu emprego.
-ele / um troféu / pelo / desempenho / seu / ganha
-no supermercado / nós / ganhamos / um desconto
-pelo / ganhará / reconhecimento / seu talento / ela
-um carro / ele / ganhou / no sorteio / da / loteria
-nós / uma viagem / na rifa / de férias / ganhámos
+ele / um troféu / pelo / desempenho / seu / ganha -> Ele ganha um troféu pelo seu desempenho.
+no supermercado / nós / ganhámos / um desconto -> Nós ganhámos um desconto no supermercado.
+pelo / ganhará / reconhecimento / seu talento / ela -> Ela ganhará reconhecimento pelo seu talento.
+um carro / ele / ganhou / no sorteio / da / loteria -> Ele ganhou um carro no sorteio da loteria.
+nós / uma viagem / na rifa / de férias / ganhámos -> Nós ganhámos na rifa uma viagem de férias.
 
 ## Writing Prompts
 
-1. Descreva uma situação em que você ganhou um prêmio ou concurso. Describe a situation when you won a prize or a competition.
-2. Escreva sobre uma época em que você ganhou dinheiro inesperadamente. Write about a time when you unexpectedly made money.
+1. Descreva uma situação em que ganhou um prémio ou concurso. Describe a situation when you won a prize or a competition.
+2. Escreva sobre uma época em que ganhou dinheiro inesperadamente. Write about a time when you unexpectedly made money.
 3. Quem ganhou o recente jogo de futebol? Who won the recent football game?

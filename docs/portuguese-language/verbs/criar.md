@@ -56,5 +56,5 @@ Nós criamos memórias -> durante as nossas viagens.
 ## Writing Prompts
 
 1. Você cria coisas (arte, música, software)? Do you create things (art, music, software)?
-2. De qual projeto escolar você mais se orgulha? What school project are you most proud of?
-3. O que você gostaria de criar no futuro? What would you like to create in the future?
+2. De qual projeto escolar mais se orgulha? What school project are you most proud of?
+3. O que gostaria de criar no futuro? What would you like to create in the future?

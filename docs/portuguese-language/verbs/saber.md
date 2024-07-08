@@ -8,13 +8,13 @@ The Portuguese verb "saber" translates to "to know" in English.
 
 ## Conjugations
 
-|                 | Past       | Present | Future    |
-| --------------- | ---------- | ------- | --------- |
-| eu              | _soube_    | _sei_   | saberei   |
-| tu              | _soubeste_ | sabes   | saberás   |
-| ele/ela/você    | _soube_    | sabe    | saberá    |
-| nós             | _soubemos_ | sabemos | saberemos |
-| eles/elas/vocês | _souberam_ | sabem   | saberão   |
+|                 | Past     | Present | Future    |
+| --------------- | -------- | ------- | --------- |
+| eu              | soube    | sei     | saberei   |
+| tu              | soubeste | sabes   | saberás   |
+| ele/ela/você    | soube    | sabe    | saberá    |
+| nós             | soubemos | sabemos | saberemos |
+| eles/elas/vocês | souberam | sabem   | saberão   |
 
 ## Daily Usages
 
@@ -54,6 +54,6 @@ líder / eu / seria / que / sempre / um / soube / grande / ele -> Eu sempre soub
 
 ## Writing Prompts
 
-1. Que competências especiais você possui? What special skills do you have?
-2. Que grandes novidades você descobriu recentemente? What big news did you find out recently?
-3. Você gostaria de conhecer o futuro? Would you want to know the future?
+1. Que competências especiais possui? What special skills do you have?
+2. Que grandes novidades descobriu recentemente? What big news did you find out recently?
+3. Gostaria de conhecer o futuro? Would you want to know the future?

@@ -10,17 +10,17 @@ The Portuguese verb "ver" translates to "to see" or "to watch" in English.
 
 |                 | Past  | Present | Future  |
 | --------------- | ----- | ------- | ------- |
-| eu              | vi    | _vejo_  | verei   |
-| tu              | viste | _vês_   | verás   |
-| ele/ela/você    | viu   | _vê_    | verá    |
-| nós             | vimos | _vemos_ | veremos |
-| eles/elas/vocês | viram | _veem_  | verão   |
+| eu              | vi    | vejo    | verei   |
+| tu              | viste | vês     | verás   |
+| ele/ela/você    | viu   | vê      | verá    |
+| nós             | vimos | vemos   | veremos |
+| eles/elas/vocês | viram | veem    | verão   |
 
 ## Daily Usages
 
 1. Watching Visual Content:
 
-   - Portuguese: Assistir a conteúdo visual - ex: Nós vamos ver um filme ao cinema.
+   - Portuguese: Assistir a conteúdo visual - ex: Nós vemos um filme no cinema.
    - English: Watching visual content - e.g: We're going to watch a movie at the cinema.
 
 2. Observing or Noticing:
@@ -52,11 +52,11 @@ O que é que adora ver? -> as fotografias antigas da família.
 Onde verá a peça de teatro? -> no teatro local.
 Quanto dinheiro vês na minha mão? -> vinte euros.
 O que é que vimos numa noite de céu limpo? -> as estrelas.
-Eu vejo o pôr do sol -> todas as noites.
+Eu vejo o pôr do sol -> ao fim de tarde.
 Nós vemos um arco-íris -> depois da chuva.
 
 ## Writing Prompts
 
 1. Qual é o seu programa de TV favorito? What is your favourite TV show?
-2. Você assiste a algum desporto? Do you watch any sports?
-3. Com que frequência você assiste a filmes no cinema? How often do you watch movies in the cinema?
+2. Assiste a algum desporto? Do you watch any sports?
+3. Com que frequência assiste a filmes no cinema? How often do you watch movies in the cinema?

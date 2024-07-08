@@ -38,13 +38,13 @@ Nós (iniciamos) a semana com energia e motivação.
 Order the words in a sentence
 
 com / eu / um / inicio / o / meu / café / dia -> Eu inicio o meu dia com um café.
-exercícios / regime / eu / as / meu / inicio / o / manhãs / de / todas -> Eu inicio o meu regime de exercícios todas as manhãs.
+exercícios / rotina / eu / as / meu / inicio / o / manhãs / de / todas -> Eu inicio o meu rotina de exercícios todas as manhãs.
 jantar / preparação / o chef / cozinha / de / inicia / a / do -> O chef de cozinha inicia a preparação do jantar.
 rigoroso / o cientista / variáveis / controle / o experimento / com / inicia / de -> O cientista inicia o experimento com rigoroso controle de variáveis.
 nós / com / entusiasmo / o projeto / determinação / iniciamos / e -> Nós iniciamos o projeto com entusiasmo e determinação.
 
 ## Writing Prompts
 
-1. Descreva como você inicia o seu dia de trabalho. Describe how you start your work day.
-2. Conte sobre uma atividade que você iniciou recentemente. Tell about an activity you started recently.
-3. Imagine o início de uma aventura a volta do mundo. Imagine you start an adventure around the world.
+1. Descreva como inicia o seu dia de trabalho. Describe how you start your work day.
+2. Conte sobre uma atividade que iniciou recentemente. Tell about an activity you started recently.
+3. Imagine o início de uma aventura à volta do mundo. Imagine you start an adventure around the world.

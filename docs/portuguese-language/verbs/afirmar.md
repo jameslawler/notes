@@ -26,25 +26,25 @@ Use correct verb conjugation
 Tu (afirmas) que ele é o melhor candidato.
 O Tiago (afirma) que o problema foi resolvido.
 Eu e a Josefina (afirmamos) a nossa posição sobre o assunto.
-Tu (afirmarás) que alcançarás teus objetivos.
+Tu (afirmas) que alcançarás os teus objetivos.
 Vocês (afirmam) que estão prontos para a competição.
 Eu (afirmei) que a informação era correta.
 
 Connect the sentences
 
-Ele afirmará que trará -> novas ideias para o projeto.
+Ele afirma que trará -> novas ideias para o projeto.
 Tu afirmaste que ele -> estava a mentir.
 Ele afirmou que já -> tinha terminado o trabalho.
 Nós afirmámos que -> não sabíamos da situação.
 Elas afirmaram que -> não viriam ao evento.
-Eu afirmarei que -> tudo correrá bem.
+Eu afirmo que -> tudo correrá bem.
 
 Fill in the missing words
 
-A psicóloga afirmou que a (autoconfiança) é fundamental para o bem-estar emocional. Ela (afirmou) que, ao reconhecermos nossas próprias (habilidades) e qualidades, podemos enfrentar os desafios da vida com mais (resiliência). Afirmou também que o autocuidado e a prática da gratidão são ferramentas poderosas para cultivar a (autoestima).
+A psicóloga afirmou que a (autoconfiança) é fundamental para o bem-estar emocional. Ela (afirmou) que, ao reconhecermos as nossas próprias (competências) e qualidades, podemos enfrentar os desafios da vida com mais (resiliência). Afirmou também que o autocuidado e a prática da gratidão são ferramentas poderosas para cultivar a (autoestima).
 
 ## Writing Prompts
 
-1. Descreva uma situação em que você erroneamente pensou que estava certo. Describe a situation in which you mistakenly thought you were right.
-2. Que técnicas você usa para convencer alguém de que está certo? What techniques do you use to convince someone you are correct?
+1. Descreva uma situação em que erroneamente pensou que estava certo. Describe a situation in which you mistakenly thought you were right.
+2. Que técnicas usa para convencer alguém de que está certo? What techniques do you use to convince someone you are correct?
 3. Como vai afirmar o seu compromisso com um projeto futuro? How will you affirm your commitment to a future project?

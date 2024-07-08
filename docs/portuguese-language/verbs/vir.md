@@ -8,13 +8,13 @@ The Portuguese verb "vir" means "to come" in English.
 
 ## Conjugations
 
-|                 | Past     | Present | Future  |
-| --------------- | -------- | ------- | ------- |
-| eu              | _vim_    | _venho_ | virei   |
-| tu              | _vieste_ | _vens_  | virás   |
-| ele/ela/você    | _veio_   | _vem_   | virá    |
-| nós             | _viemos_ | _vimos_ | viremos |
-| eles/elas/vocês | _vieram_ | _vêm_   | virão   |
+|                 | Past   | Present | Future  |
+| --------------- | ------ | ------- | ------- |
+| eu              | vim    | venho   | virei   |
+| tu              | vieste | vens    | virás   |
+| ele/ela/você    | veio   | vem     | virá    |
+| nós             | viemos | vimos   | viremos |
+| eles/elas/vocês | vieram | vêm     | virão   |
 
 # Daily Usages
 
@@ -54,6 +54,6 @@ eu / melhorar / venho / o projeto / uma / ideia / para / com -> Eu venho com uma
 
 ## Writing Prompts
 
-1. De onde você vem? Where do you come from?
-2. Aonde você vai amanhã? Where are you going tomorrow?
+1. De onde vem? Where do you come from?
+2. Aonde vai amanhã? Where are you going tomorrow?
 3. De onde vem a sua celebridade favorita? Where does your favourite celebrity come from?

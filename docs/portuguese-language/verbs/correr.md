@@ -32,24 +32,19 @@ Todos os dias, eu (corro) cinco quilómetros.
 Tu (corres) mais rápido do que eu.
 O Rui (corre) no parque aos domingos.
 Pela manhã, eu e o Filipe (corremos) juntos.
-Eu (correrei) uma ultramaratona no próximo mês.
+Eu (correrei) uma maratona no próximo mês.
 Tu (correrás) todos os dias para te preparares para a competição.
 
 Order the words in a sentence
 
 eu / numa / corri / maratona / no / ano / passado -> Eu corri numa maratona no ano passado.
-correste / tu / pela / durante / as férias / praia
-aos / ele / corre / no / parque / domingos
-um / ele / correrá / quilómetro / menos / quatro / minutos / em / de
-correremos / na / juntos / trilha / amanhã / nós
-ele / apanhar / para / o autocarro / ontem / correu
-
-Extra
-
-Nós corremos sob a chuva na semana passada.
+correste / tu / pela / durante / as férias / praia -> Tu correste pela praia durante as férias.
+aos / ele / corre / no / parque / domingos -> Ele corre no parque aos domingos.
+um / ele / correrá / quilómetro / menos / quatro / minutos / em / de -> Ele correrá um quilómetro em menos de quarto minutos.
+correremos / na / juntos / trilha / amanhã / nós -> Amanhã nós correremos na trilha juntos.
 
 ## Writing Prompts
 
-1. Descreva uma experiência em que você participou de uma corrida. Describe an experience in which you participated in a race.
+1. Descreva uma experiência em que participou de uma corrida. Describe an experience in which you participated in a race.
 2. Escreva sobre uma vez em que teve que correr para pegar um autocarro. Write about a time when you had to rush to catch a bus.
 3. Como correu o seu dia? How was your day?

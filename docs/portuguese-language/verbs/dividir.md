@@ -44,12 +44,12 @@ Order the words in a sentence
 
 essenciais / eu / salário / o / meu / poupança / em / despesas / divido / e -> Eu divido o meu salário em despesas essenciais e poupança.
 lucros / projeto / nós / dividimos / igualmente / os / do -> Nós dividimos os lucros do projeto igualmente.
-livre / o / hobbies / eu / tempo / e / meu / divido / entre / descanso -> Eu divido o meu tempo livre entre hobbies e descanso.
+livre / o / passatempos / eu / tempo / e / meu / divido / entre / descanso -> Eu divido o meu tempo livre entre passatempos e descanso.
 generosas / em / o bolo / convidados / fatias / ela / para / os / divide -> Ela divide o bolo em fatias generosas para os convidados.
 a Maria / filhos / a / entre / atenção / os / sua / divide -> A Maria divide a sua atenção entre os filhos.
 
 ## Writing Prompts
 
 1. Como divide as tarefas domésticas? How do you divide up household tasks?
-2. Gosta de compartilhar comida com os amigos? Do you like to share food with friends?
+2. Gosta de partilhar comida com os amigos? Do you like to share food with friends?
 3. Como gosta de dividir o seu dinheiro? How do you like to divide up your money?

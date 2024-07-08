@@ -34,28 +34,21 @@ Use correct verb conjugation
 
 Eu (encontro) sempre a minha irmã na escola.
 Ele (encontrou) uma moeda antiga enquanto limpava a casa.
-Eu e A Elsa (encontrámos) os nossos amigos no concerto.
+Eu e a Elsa (encontrámos) os nossos amigos no concerto.
 Tu (encontras) a solução para os problemas com facilidade.
 Eu (encontrarei) uma solução para este problema.
 O Filipe (encontra) sempre tempo para os amigos.
-Nós (encontramos) o restaurante perfeito para jantar.
-Elas (encontram-se) todos os dias depois do trabalho.
 
 Order the words in a sentence
 
 encontrei / o / meu / livro / perdido / na / biblioteca / eu -> Eu encontrei o meu livro perdido na biblioteca.
-passado / tu / encontraste / um / emprego / no / mês / novo
-abandonado / elas / encontraram / um gato / na / rua
-a paz / ele / encontrará / interior / através / meditação / da
-lugar / nós / encontraremos / um / novo / para / morar
-eles / uma / maneira de / se / entenderem / encontrarão
-
-Extra
-
-Tu encontrarás a resposta nas páginas finais do livro.
+passado / tu / encontraste / um / emprego / no / mês / novo -> Tu encontraste um emprego novo no mês passado.
+abandonado / elas / encontraram / um gato / na / rua -> Elas encontraram um gato abandonado na rua.
+a paz / ele / encontrará / interior / através / meditação / da -> Ele encontrará a paz interior através da meditação.
+lugar / nós / encontraremos / um / novo / para / morar -> Nós encontraremos um novo lugar para morar.
 
 ## Writing Prompts
 
-1. Que item valioso você perdeu antes? What valuable item have you lost before?
-2. Onde você costuma encontrar os seus amigos? Where do you typically meet your friends?
+1. Que item valioso perdeu antes? What valuable item have you lost before?
+2. Onde costuma encontrar os seus amigos? Where do you typically meet your friends?
 3. Como encontrar o presente perfeito para o aniversário de um amigo? How do you find the perfect gift for a friend's birthday?

@@ -40,11 +40,11 @@ Order words
 parte / família / ela / seu / considera / o / cão / como / da -> Ela considera o seu cão como parte da família.
 tu / fonte / o livro / inspiração / como / uma / de / consideras -> Tu consideras o livro como uma fonte de inspiração.
 ambiente / preservar / meio / importante / ela / o / considera -> Ela considera importante preservar o meio ambiente.
-clientes / o feedback / nós / dos / consideramos -> Nós consideramos o feedback dos clientes.
+clientes / os comentários / nós / dos / consideramos -> Nós consideramos os comentários dos clientes.
 negócio / para / novos / o empresário / seu / mercados considera / expandir / o -> O empresário considera expandir o seu negócio para novos mercados.
 
 ## Writing Prompts
 
-1. O que você leva em consideração na hora de escolher o que assistir? What do you consider when choosing what to watch?
-2. Quem você considera um modelo? Who do you consider a role-model?
-3. Você possui técnicas para decidir entre duas escolhas? Do you have techniques to decide between two choices?
+1. O que considerar quando escolher algo para ver na televisão? What do you consider when choosing what to watch on TV?
+2. Quem considera um modelo de inspiração? Who do you consider a role-model?
+3. Possui técnicas para decidir entre duas escolhas? Do you have techniques to decide between two choices?

@@ -33,14 +33,14 @@ Nós (caímos) durante a tempestade.
 Order the words in a sentence
 
 eu / da / caí / bicicleta / ontem -> Eu caí da bicicleta ontem.
-caíste / da / cama / manhã / esta / tu
-enquanto / esquiava / na / montanha / ele / caiu
-nós / caímos / rua / molhada / na
-cairei / se / não / cuidado / eu / tomar
-o piso / cairemos / se / estiver / escorregadio / nós
+caíste / da / cama / manhã / esta / tu -> Tu caíste da cama esta manhã.
+enquanto / esquiava / na / montanha / ele / caiu -> Ele caiu na montanha enquanto esquiava.
+nós / caímos / rua / molhada / na -> Nós caímos na rua molhada.
+cairei / se / não / cuidado / eu / tiver -> Se eu não tiver cuidado cairei.
+o piso / cairemos / se / estiver / escorregadio / nós -> Nós cairemos se o piso estiver escorregadio.
 
 ## Writing Prompts
 
-1. Descreva uma situação em que você caiu. Describe a situation in which you fell down.
-2. O que você deixou cair e partiu? What have you dropped and broken?
+1. Descreva uma situação em que caiu. Describe a situation in which you fell down.
+2. O que deixou cair e partiu? What have you dropped and broken?
 3. Como protege o seu telefone? How do you protect your phone?

@@ -40,7 +40,7 @@ Connect the sentences
 Ele forma uma equipa -> para o evento.
 Nós formamos uma fila -> na entrada.
 Ele formou uma associação -> para ajudar os necessitados.
-Nós formámos um comitcomité -> para organizar o evento.
+Nós formámos um comité -> para organizar o evento.
 Eu formarei uma escultura -> de argila.
 Nós formaremos uma aliança -> estratégica.
 
@@ -50,6 +50,6 @@ Formar uma equipa coesa é (essencial) para alcançar os objetivos organizaciona
 
 ## Writing Prompts
 
-1. Descreva um momento em que você precisou formar uma opinião rápida. Describe a time when you needed to form a fast opinion.
-2. Escreva sobre como você formou um grupo para resolver um problema. Write us about how you formed a group to solve a problem.
-3. Escreva sobre um projeto futuro que você formará com outras pessoas. Write about an upcoming project you will form with others.
+1. Descreva um momento em que precisou de formar uma opinião rápida. Describe a time when you needed to form a fast opinion.
+2. Escreva sobre como formou um grupo para resolver um problema. Write us about how you formed a group to solve a problem.
+3. Escreva sobre um projeto futuro que formará com outras pessoas. Write about an upcoming project you will form with others.
