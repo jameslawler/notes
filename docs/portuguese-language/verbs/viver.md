@@ -20,7 +20,7 @@ The Portuguese verb "viver" means "to live" in English.
 
 1. Residing in a Place:
 
-   - Portuguese: Residir em um lugar - ex: Ela vive em Lisboa há muitos anos.
+   - Portuguese: Residir num lugar - ex: Ela vive em Lisboa há muitos anos.
    - English: Reside in a place - e.g: She lives in Lisbon for many years.
 
 2. Living Life:
@@ -38,8 +38,8 @@ The Portuguese verb "viver" means "to live" in English.
 Use correct verb conjugation
 
 Eu e a Joana (vivemos) numa vila tranquila.
-Durante um ano, Tu (viveste) no estrangeiro.
-Ele e Elas (viveram) muitas aventuras na juventude.
+Durante um ano, tu (viveste) no estrangeiro.
+Ele e elas (viveram) muitas aventuras na juventude.
 Quando se reformar, ele (viverá) numa vivenda.
 Eu (vivo) numa casa pequena.
 Tu (vives) perto do centro da cidade.
@@ -47,14 +47,13 @@ Tu (vives) perto do centro da cidade.
 Order the words in a sentence
 
 vive / os pais / com / ele -> Ele vive com os pais.
-crescer / nós / viveremos / casa / maior / quando / a família / numa
-vivi / eu / noutra / era / criança / cidade / quando
-comprar / nós / num / apartamento / antes de / a casa / vivemos
-viverei / casa / numa / na praia / quando / me reformar / eu
-diferente / tu / viverás / cidade / para / estudar / numa
+crescer / nós / viveremos / casa / maior / quando / a família / numa -> Nós viveremos numa casa maior quando a família crescer.
+vivi / eu / noutra / era / criança / cidade / quando -> Eu vivi noutra cidade quando era criança.
+comprar / nós / num / apartamento / antes de / a casa / vivemos -> Nós vivemos num apartamento antes de comprar a casa.
+viverei / casa / numa / na praia / quando / me reformar / eu -> Eu viverei numa casa na praia quando me reformar.
 
 ## Writing Prompts
 
-1. Liste todos os lugares onde você morou. List all the places you have lived.
-2. Onde você gostaria de morar no futuro? Where would you like to live in the future?
-3. Que atividades você faz para se sentir vivo? What activities do you do to feel alive?
+1. Liste todos os lugares onde morou. List all the places you have lived.
+2. Onde gostaria de morar no futuro? Where would you like to live in the future?
+3. Que atividades faz para se sentir vivo? What activities do you do to feel alive?

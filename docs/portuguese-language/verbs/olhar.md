@@ -48,6 +48,6 @@ o horizonte / tu / olharás / para / à procura / respostas/ de
 
 ## Writing Prompts
 
-1. O que você gosta de ver para relaxar? What is something you like to look at to relax?
-2. Com que frequência você olha para as estrelas à noite? How often do you look at the stars at night?
-3. Descreva como são suas férias favoritas. Describe how your favourite holiday looks.
+1. O que gosta de ver para relaxar? What is something you like to look at to relax?
+2. Com que frequência olha para as estrelas à noite? How often do you look at the stars at night?
+3. Descreva como são as suas férias favoritas. Describe how your favourite holiday looks.

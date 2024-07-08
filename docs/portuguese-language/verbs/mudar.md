@@ -51,7 +51,7 @@ Connect the sentences
 Ele muda de emprego a cada -> dois anos.
 Nós mudamos de canal quando -> não gostamos do programa.
 Ele mudou de carro -> recentemente.
-Nós mudámos de planos -> de última hora.
+Nós mudámos de planos -> à última hora.
 Eu mudarei de emprego -> no próximo ano.
 Tu mudarás de país -> para estudar no futuro.
 O que posso fazer para -> mudar esta situação?
@@ -59,6 +59,6 @@ O tempo está a mudar, -> acho que vem aí chuva.
 
 ## Writing Prompts
 
-1. Descreva um hábito que você deseja mudar. Describe a habit that you want to change on yourself.
-2. O que você mudou em sua casa? What is something you changed in your house?
+1. Descreva um hábito que deseja mudar. Describe a habit that you want to change on yourself.
+2. O que mudou na sua casa? What is something you changed in your house?
 3. Como foi a experiência de mudar de escola no passado? How was the experience of moving schools in the past?

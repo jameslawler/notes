@@ -41,7 +41,7 @@ Nós (abrimos) a porta do carro e saímos.
 Tu (abres) a janela de manhã.
 Eu (abrirei) a loja amanhã cedo.
 Ela (abre) o livro para estudar.
-Eles (abriram) a janela para arejar o quarto.
+Ontem eles (abriram) a janela para arejar o quarto.
 
 Order the words
 
@@ -53,6 +53,6 @@ e. estranhos / para / nós / abrimos / não / a porta -> nós não abrimos a por
 
 ## Writing Prompts
 
-1. Quais os alimentos que abriu hoje? What food items did you open today?
-2. Abriu algum e-mail ou arquivo ontem? Did you open any emails or files today?
+1. _Quais os alimentos que abriu hoje?_ What food items did you open today?
+2. Abriu algum e-mail ou ficheiro ontem? Did you open any emails or files today?
 3. Descreva um momento em que você se abriu emocionalmente. Describe a time when you opened up emotionally.

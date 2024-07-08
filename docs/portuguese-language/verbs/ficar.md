@@ -42,7 +42,7 @@ Tu (ficaste) doente na semana passada.
 Nós (ficaremos) emocionados ao ver o pôr do sol na praia.
 O Pedro (ficou) em casa durante as férias de inverno.
 Nós (ficamos) felizes quando recebemos boas notícias.
-Tu (ficarás) feliz com o presente que irei te dar.
+Tu (ficarás) feliz com o presente que te irei dar.
 
 Order the sentences
 
@@ -50,10 +50,10 @@ notícias / recebemos / nós / quando / felizes / boas / ficamos -> Nós ficamos
 preocupados / do / atraso / ontem / voo / o / com / nós / ficámos -> Ontem nós ficámos preocupados com o atraso do voo.
 trabalho / cansados / eles / longo / ficam / de / dia / de / um / depois -> Eles ficam cansados depois de um longo dia de trabalho.
 fugiu / tristes / eles / o cão / ficaram / deles / quando -> Eles ficaram tristes quando o cão deles fugiu.
-amanhã / eu / aeroporto / esperando / ficarei / você / por / no -> Eu ficarei esperando por você no aeroporto amanhã.
+espera / eu / à / tua / ficarei / no / amanhã / aeroporto -> Eu ficarei à tua espera no aeroporto amanhã.
 
 ## Writing Prompts
 
 1. Onde ficam os seus talheres? Where do you keep your cutlery?
-2. Que presente você recebeu de surpresa? What gift did you receive as a surprise?
-3. Onde você ficará nas próximas férias? Where will you stay in a future holiday?
+2. Que presente recebeu de surpresa? What gift did you receive as a surprise?
+3. Onde ficará nas próximas férias? Where will you stay in a future holiday?

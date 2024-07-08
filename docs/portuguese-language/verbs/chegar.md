@@ -20,7 +20,7 @@ The Portuguese verb "chegar" translates to "to arrive" or "to come" in English.
 
 1. Arriving at a location:
 
-   - Portuguese: Chegue em um local - ex: Eu cheguei ao aeroporto às 10h horas.
+   - Portuguese: Chegar a um local - ex: Eu cheguei ao aeroporto às 10 horas.
    - English: Arrive at a location - e.g: I arrived at the airport at 10 o'clock.
 
 2. Reaching a Goal:

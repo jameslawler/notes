@@ -25,7 +25,7 @@ The Portuguese verb "andar" translates to "to walk" or "to go" in English.
 
 2. Going or Traveling:
 
-   - Portuguese: Viagar - ex: Tu andas muito de carro.
+   - Portuguese: Viajar - ex: Tu andas muito de carro.
    - English: Traveling - e.g: You travel a lot by car.
 
 ## Exercises
@@ -42,16 +42,16 @@ Order the words in a sentence
 
 1. eu / no / parque / ando / aos fins de / de bicicleta / semana -> eu ando de bicicleta no parque aos fins de semana.
 2. nós / pela / cidade / para / os monumentos / conhecer / andamos -> nós andamos pela cidade para conhecer os monumentos.
-3. tu / de carro / até / na / semana / passada / ao supermercado / andaste -> tu andaste de carro até ao supermercado na semana passada.
+3. tu / passada / de carro / na / semana / andaste -> tu andaste de carro na semana passada.
 4. ela / andou / floresta / o acampamento / pela / durante -> ela andou pela floresta durante o acampamento.
 5. último / vizinha / nós / de / comboio / até / no / fim / de / semana / andámos / à cidade -> nós andámos de comboio até à cidade vizinha no último fim de semana.
 
 Connect the sentences
 
-1. Tu andas de bicicleta --------------- aos fins de semana.
-2. Ele anda com a cadela --------------- no parque todas as tardes.
-3. Nós andamos à volta da cidade --------------- a pé.
-4. Elas andam pela floresta --------------- para apreciar a natureza.
+1. Tu andas de bicicleta -> aos fins de semana.
+2. Ele anda com a cadela -> no parque todas as tardes.
+3. Nós andamos à volta da cidade -> a pé.
+4. Elas andam pela floresta -> para apreciar a natureza.
 
 ## Writing Prompts
 

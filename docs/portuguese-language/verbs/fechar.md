@@ -34,7 +34,7 @@ Use correct verb conjugation
 
 Eu (fechei) a mala antes de viajar.
 Tu (fechas) a porta quando sais do quarto.
-Ele (fechará) a conta no restaurante antes de ir embora.
+A Maria (fecha) o computador quando termina o trabalho.
 Nós (fecharemos) a porta da garagem quando chegarmos a casa.
 Eles (fecham) o livro e desliga a luz antes de dormir.
 O Pedro (fecha) a janela.
@@ -49,6 +49,6 @@ tu / a janela / à noite / evitar / o frio / para / fecharás -> Tu fecharás a 
 
 ## Writing Prompts
 
-1. O que você fecha antes de sair de casa? What do you close before leaving the house?
+1. O que fecha antes de sair de casa? What do you close before leaving the house?
 2. Quando o supermercado fecha hoje? When does the supermarket close today?
 3. Que empresa fecha muito cedo? Which business closes too early?

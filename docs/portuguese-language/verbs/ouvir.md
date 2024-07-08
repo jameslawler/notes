@@ -10,7 +10,7 @@ The Portuguese verb "ouvir" translates to "to hear" or "to listen" in English.
 
 |                 | Past    | Present | Future    |
 | --------------- | ------- | ------- | --------- |
-| eu              | ouvi    | _ouço_  | ouvirei   |
+| eu              | ouvi    | ouço    | ouvirei   |
 | tu              | ouviste | ouves   | ouvirás   |
 | ele/ela/você    | ouviu   | ouve    | ouvirá    |
 | nós             | ouvimos | ouvimos | ouviremos |
@@ -32,18 +32,18 @@ The Portuguese verb "ouvir" translates to "to hear" or "to listen" in English.
 
 Fill in missing word
 
-A Ana sentou-se na varanda para (ouvir) os sons da (natureza). De repente, ouviu o som familiar do (telefone) a tocar dentro de casa. Levantou-se e dirigiu-se ao (interior), onde ouviu a voz da sua melhor (amiga) do outro lado da linha. Passaram horas a (conversar), ouvindo-se mutuamente, partilhando risos e segredos, solidificando ainda mais a sua amizade.
+A Ana sentou-se na varanda para (ouvir) os sons da (natureza). De repente, ouviu o som do (telefone) a tocar dentro de casa. Levantou-se e dirigiu-se ao (interior), onde ouviu a voz da sua melhor (amiga) do outro lado da linha. Passaram horas a (conversar), ouvindo-se mutuamente, partilhando risos e segredos, solidificando ainda mais a sua amizade.
 
 Story with true / false
 
-A Ana estava relaxando em sua varanda - True
-Ela estava ouvindo sons da natureza - True
-A sua amiga bateu em sua porta - False
-Eles conversaram e ouviram um ao outro por horas - True
+A Ana estava a relaxar na sua varanda - True
+Ela estava a ouvir sons da natureza - True
+A sua amiga bateu à porta - False
+Elas conversaram e ouviram uma à outra durante horas - True
 A Ana ficou irritada com a amiga - False
 A amiga da Ana trouxe uma garrafa de vinho - False
 Eles falaram sobre assuntos tristes - False
-No final da conversa eles não são mais amigos - False
+No final da conversa elas ainda são amigas - True
 
 ## Writing Prompts
 

@@ -36,16 +36,16 @@ No sabádo, o Pedro e a Sofia partiram para uma (aventura) na montanha. Equipado
 
 Story with true / false:
 
-O Pedro e a Sofia foram para a praia - V ou F
-Eles conseguiram alcançar o cume - V ou F
-Deram um mergulho - V ou F
-A água não estava fresca - V ou F
+O Pedro e a Sofia foram para a praia - False
+Eles conseguiram alcançar o cume - True
+Deram um mergulho - True
+A água não estava fresca - False
 Não foi um dia memorável - False
 Eles encontraram um rio na base da montanha - True
 Eles desceram a montanha com rapel - True
 
 ## Writing Prompts
 
-1. Descreva uma meta difícil que você alcançou. Describe a difficult goal you achieved.
+1. Descreva uma meta difícil que alcançou. Describe a difficult goal you achieved.
 2. O que fez hoje antes do almoço? What things did you do today before lunch?
-3. O que você tentará fazer amanhã? What will you try do tomorrow?
+3. O que tentará fazer amanhã? What will you try do tomorrow?

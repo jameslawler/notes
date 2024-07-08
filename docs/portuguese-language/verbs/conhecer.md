@@ -20,12 +20,12 @@ The Portuguese verb "conhecer" means "to know" or "to meet" in English.
 
 1. Meeting Someone:
 
-   - Portuguese: Encontrar alguem - ex: Eu conheci a Maria ontem.
+   - Portuguese: Encontrar alguém - ex: Eu conheci a Maria ontem.
    - English: Meet someone - e.g: I met Maria yesterday.
 
 2. Knowing a Place:
 
-   - Portuguese: Conheça um lugar - ex: Tu conheces este restaurante?
+   - Portuguese: Conhecer um lugar - ex: Tu conheces este restaurante?
    - English: Know a place - e.g: Do you know this restaurant?
 
 3. Familiarity with a Subject:
@@ -46,8 +46,8 @@ Eu (conhecerei) Paris no próximo verão.
 Order the words:
 
 conheço / bem / cidade / esta / eu -> eu conheço bem esta cidade
-tu / novo / o projeto / de / arquitetura / breve / conhecerás / em -> Eu breve tu conhecerás o novo porojeto de arquitetura.
-conheceremos / novo / o restaurante / italiano / nós -> nós conheceremos o novo restaurante italiano.
+tu / novo / o projeto / de / arquitetura / breve / conhecerás / em -> Em breve tu conhecerás o novo porojeto de arquitetura.
+conheceremos / novo / o restaurante / italiano / nós -> Nós conheceremos o novo restaurante italiano.
 ele / sua / a namorada / numa / festa / há / dois / anos / conheceu -> Ele conheceu a sua namorada numa festa há dois anos
 dela / elas / os pais / no / próximo / fim de semana / conhecerão -> Elas conhecerão os pais dela no próximo fim de semana
 
@@ -55,4 +55,4 @@ dela / elas / os pais / no / próximo / fim de semana / conhecerão -> Elas conh
 
 1. Com quem você se encontrou ontem? Who did you meet with yesterday?
 2. Como você conheceu o seu melhor amigo? How did you meet your best friend?
-3. Sobre quais assuntos você mais quer aprender? Which subjects do you want to learn more about?
+3. Que assuntos novos você quer aprender? Which new subjects do you want to learn?

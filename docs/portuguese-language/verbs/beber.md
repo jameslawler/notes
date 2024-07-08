@@ -28,7 +28,7 @@ The Portuguese verb "beber" translates to "to drink" in English.
 Use correct verb conjugation
 
 1. Eu (bebo) água todos os dias para me manter hidratado.
-2. Tu (bebeste) sumo de laranja ao pequeno-almoço.
+2. Ontem tu (bebeste) sumo de laranja ao pequeno-almoço.
 3. Ela (bebe) café todas as manhãs para despertar.
 4. Nós (bebemos) chá quente nos dias frios de inverno.
 5. Eles (bebem) água fresca quando estão com sede.

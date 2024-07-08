@@ -8,13 +8,13 @@ The Portuguese verb "ir" means "to go" in English.
 
 ## Conjugations
 
-|                 | Past    | Present | Future |
-| --------------- | ------- | ------- | ------ |
-| eu              | _fui_   | _vou_   | irei   |
-| tu              | _foste_ | _vais_  | irás   |
-| ele/ela/você    | _foi_   | _vai_   | irá    |
-| nós             | _fomos_ | _vamos_ | iremos |
-| eles/elas/vocês | _foram_ | _vão_   | irão   |
+|                 | Past  | Present | Future |
+| --------------- | ----- | ------- | ------ |
+| eu              | fui   | vou     | irei   |
+| tu              | foste | vais    | irás   |
+| ele/ela/você    | foi   | vai     | irá    |
+| nós             | fomos | vamos   | iremos |
+| eles/elas/vocês | foram | vão     | irão   |
 
 ## Daily Usages
 
@@ -35,9 +35,9 @@ Use correct verb conjugation
 Eu (vou) ao cinema com meus amigos hoje à noite.
 Eu e os meus amigos (vamos) à praia hoje.
 Tu (foste) ao concerto da tua banda favorita no mês passado.
-Nós (fomos) à montanha para fazer uma caminhada.
-A Maria (vai )ao supermercado.
-Os alunos (foram) ao teatro assistir a uma peça clássica.
+Ontem nós (fomos) à montanha para fazer uma caminhada.
+A Maria (vai) ao supermercado.
+Anteontem os alunos (foram) ao teatro assistir a uma peça clássica.
 
 Order the words in a sentence
 
@@ -50,5 +50,5 @@ fim / semana / nós / acampamento / vamos / fazer / um / de / no -> Nós vamos f
 ## Writing Prompts
 
 1. Descreva como ir de sua casa até aos correios. Describe how to get from your house to the post office.
-2. Quais são seus planos para o próximo ano? What are your plans for next year?
-3. Aonde você foi hoje? Where did you go today?
+2. Quais são os seus planos para o próximo ano? What are your plans for next year?
+3. Aonde foi hoje? Where did you go today?

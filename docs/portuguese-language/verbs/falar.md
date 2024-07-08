@@ -36,15 +36,15 @@ Na arena política, é fundamental que (os líderes) falem com clareza e convic�
 
 Story with true / false
 
-Os líderes falam com clareza - V ou F
-Os discursos políticos inspiram as massas - V ou F
-Nos debates parlamentares não se discutem questões importantes - V ou F
-A persuasão é essencial para ganhar apoio - V ou F
+Os líderes falam com clareza - True
+Os discursos políticos inspiram as massas - True
+Nos debates parlamentares não se discutem questões importantes - False
+A persuasão é essencial para ganhar apoio - True
 As conferências de imprensa permitem aos políticos comunicarem - True
 Os politicos mobilizam as massas por uma causa comun - True
 
 ## Writing Prompts
 
-1. Que línguas você já fala? Which languages can you already speak?
-2. Quais as línguas que você gostaria de falar no futuro? What languages would you like to speak in the future?
-3. Com quem você mais conversou durante a escola? Who did you talk with most during school?
+1. Que línguas já fala? Which languages can you already speak?
+2. Quais as línguas que gostaria de falar no futuro? What languages would you like to speak in the future?
+3. Com quem mais conversou durante a escola? Who did you talk with most during school?

@@ -27,7 +27,7 @@ The Portuguese verb "parar" means "to stop" in English.
 
 correct verb conjugation
 Tu (paraste) de chorar quando te consolei.
-A Cristina (parou) de chover depois do temporal
+(Parou) de chover depois do temporal
 O Manuel (parará) de se preocupar tanto com o futuro.
 Nós (pararemos) de viajar quando formos mais velhos.
 No sinal vermelho eu (paro) o carro.
@@ -44,10 +44,10 @@ Tu pararás de gastar dinheiro -> em coisas desnecessárias.
 
 Fill in the missing words
 
-Não é (fácil) parar de comer açúcar. (Parei) um pouco mas não resisti aos doces portugueses como (natas) e bolos de belém. No futuro vou (parar) novamente e ver até quando consigo (resistir).
+Não é (fácil) parar de comer açúcar. (Parei) um pouco mas não resisti aos doces portugueses como (natas) e bolas de Berlim. No futuro vou (parar) novamente e ver até quando consigo (resistir).
 
 ## Writing Prompts
 
-1. Descreva um hábito que você conseguiu parar de fazer. Describe a habit you were able to stop doing.
-2. O que você faz quando para de estudar português? What do you do when you stop studying Portuguese?
+1. Descreva um hábito que conseguiu parar de fazer. Describe a habit you were able to stop doing.
+2. O que faz quando para de estudar português? What do you do when you stop studying Portuguese?
 3. Como parar uma bicicleta? How do you stop a bicycle?

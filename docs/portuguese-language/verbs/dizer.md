@@ -8,13 +8,13 @@ The Portuguese verb "dizer" translates to "to say" or "to tell" in English.
 
 ## Conjugations
 
-|                 | Past       | Present | Future    |
-| --------------- | ---------- | ------- | --------- |
-| eu              | _disse_    | _digo_  | _direi_   |
-| tu              | _disseste_ | dizes   | _dirás_   |
-| ele/ela/você    | _disse_    | _diz_   | _dirá_    |
-| nós             | _dissemos_ | dizemos | _diremos_ |
-| eles/elas/vocês | _disseram_ | dizem   | _dirão_   |
+|                 | Past     | Present | Future  |
+| --------------- | -------- | ------- | ------- |
+| eu              | disse    | digo    | direi   |
+| tu              | disseste | dizes   | dirás   |
+| ele/ela/você    | disse    | diz     | dirá    |
+| nós             | dissemos | dizemos | diremos |
+| eles/elas/vocês | disseram | dizem   | dirão   |
 
 ## Daily Usages
 
@@ -36,8 +36,8 @@ Eu (digo) a verdade sempre que possível.
 Eles (dizem) que vão ao cinema esta noite.
 O Pedro (disse) que estava feliz com os resultados.
 Eu (disse) ao meu amigo que estava tudo bem.
-Eles (dirão) que vão estudar para os exames finais.
-A Maria (diz) que está cansado depois do trabalho.
+Eles (dizem) que vão estudar para os exames finais.
+A Maria (diz) que está cansada depois do trabalho.
 
 Order the words in a sentence
 
@@ -49,6 +49,6 @@ queria / a Maria / a / tocar / guitarra / aprender / disse / que -> A Maria diss
 
 ## Writing Prompts
 
-1. Escreva um diálogo de conto curto com duas pessoas a conversar. Write a short story dialog with two people talking to each other.
-2. O que você costuma dizer antes de fazer uma refeição? What do you typically say before eating a meal?
-3. O que você diria a alguém sobre seu livro favorito? What would you tell someone about your favourite book?
+1. Escreva um diálogo curto com duas pessoas a conversar. Write a short story dialog with two people talking to each other.
+2. O que costuma dizer antes de fazer uma refeição? What do you typically say before eating a meal?
+3. O que diria a alguém sobre seu livro favorito? What would you tell someone about your favourite book?

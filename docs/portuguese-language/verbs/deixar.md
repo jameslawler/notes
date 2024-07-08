@@ -49,6 +49,6 @@ tu / o livro / na / biblioteca na / passada / semana / deixaste -> Tu deixaste o
 
 ## Writing Prompts
 
-1. O que os seus pais não permitiram que você fizesse quando era criança? What did your parent not allow you to do when you were a child?
-2. O que você só pode fazer em adulto? What are you only allowed to do as an adult?
-3. Descreva uma situação em que você esqueceu algo. Describe a situation when you forgot something.
+1. O que os seus pais não permitiram que fizesse quando era criança? What did your parent not allow you to do when you were a child?
+2. O que só pôde fazer em adulto? What are you only allowed to do as an adult?
+3. Descreva uma situação em que se esqueceu de algo. Describe a situation when you forgot something.

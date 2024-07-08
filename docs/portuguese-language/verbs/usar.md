@@ -34,8 +34,8 @@ Use correct verb conjugation
 
 Ontem quando chovia, eu (usei) o guarda-chuva.
 Na semana passada, tu (usaste) o casaco azul.
-O Ricardo (usará) o carro para viajar.
-Nós (usaremos) o GPS para encontrar o caminho.
+O Ricardo (usará) o carro para viajar em breve.
+Amanhã nós (usaremos) o GPS para encontrar o caminho.
 Eu (uso) óculos para ler.
 Tu (usas) o computador para trabalhar.
 
@@ -43,17 +43,17 @@ Connect the sentences
 
 Ele usa o telemóvel -> para comunicar.
 Nós usamos o carro -> para ir ao supermercado.
-Ele usou os sapatos novos -> na festa.
+Ele usou os sapatos novos -> para dançar.
 Nós usámos o fogão -> para cozinhar o jantar.
 Eu usarei um vestido bonito -> na festa.
 Tu usarás o dinheiro -> para comprar presentes.
 
 Fill in the missing words
 
-Eu trabalho na construção e (uso) muitas ferramentas diferentes todos os dias. Eu uso (martelos) e furadeiras. No meu trabalho preciso (usar) roupas especiais que tenham boa (visibilidade). Também preciso usar (capacete) quando estiver trabalhando.
+Eu trabalho na construção e (uso) muitas ferramentas diferentes todos os dias. Eu uso (martelos) e berbequins. No meu trabalho preciso de (usar) roupas especiais que tenham boa (visibilidade). Também preciso de usar (capacete) quando estiver a trabalhar.
 
 ## Writing Prompts
 
-1. Que tecnologia você usa todos os dias? What technology do you use everyday?
-2. Quais os produtos para a pele você usa? What products do you use on your skin?
-3. Que roupa você usa num dia chuvoso? What clothes do you wear on a rainy day?
+1. Que tecnologia usa todos os dias? What technology do you use everyday?
+2. Quais os produtos para a pele que usa? What products do you use on your skin?
+3. Que roupa usa num dia chuvoso? What clothes do you wear on a rainy day?

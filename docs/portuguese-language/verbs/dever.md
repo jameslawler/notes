@@ -41,14 +41,14 @@ Nas horas de (lazer), as crianças deveriam participar em atividades lúdicas qu
 
 Story with true / false:
 
-As crianças devem brincar ao ar livre - V ou F
-O Monopólio é um jogo de tabuleiro - V ou F
-Não deveriam explorar a criatividade através da pintura - V ou F
-Todas as atividades mencionadas proporcionam diversão - V ou F
-Andar de bicicleta ajuda a desenvolver os os músculos - V ou F
+As crianças devem brincar ao ar livre - False
+O Monopólio é um jogo de tabuleiro - True
+Não deveriam explorar a criatividade através da pintura - False
+Todas as atividades mencionadas proporcionam diversão - True
+Andar de bicicleta ajuda a desenvolver os músculos - True
 
 ## Writing Prompts
 
 1. Tem alguma dívida? Do you have any debts?
-2. Descreva as regras de um jogo de tabuleiro. Describe the rules of a boardgame.
+2. Descreva as regras de um jogo de tabuleiro. Describe the rules of a board game.
 3. O que você deve fazer antes de dormir? What should you do before going to bed?

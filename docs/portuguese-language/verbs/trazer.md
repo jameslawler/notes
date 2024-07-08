@@ -27,7 +27,7 @@ The Portuguese verb "trazer" means "to bring" in English.
 
 Use correct verb conjugation
 
-Eu (trouxe) o presente para a festa de aniversário.
+Eu (trouxe) um presente para a festa de aniversário.
 Tu (trouxeste) os documentos para a reunião.
 Tu (trarás) as bebidas para a festa.
 O Pedro (trará) a câmara para tirar fotos.
@@ -45,10 +45,10 @@ Nós traremos os brinquedos -> para a viagem.
 
 Fill in the missing word
 
-Trouxe a minha (bolsa) para a escola e dentro dela guardo os meus livros e (canetas). Quando comecei minha primeira aula do (dia), percebi que esqueci de (trazer) minha caneta favorita. Quando cheguei em (casa) coloquei na bolsa para levar amanhã.
+Trouxe a minha (mochila) para a escola e dentro dela guardo os meus livros e (canetas). Quando comecei a minha primeira aula do (dia), percebi que me esqueci de (trazer) a minha caneta favorita. Quando cheguei a (casa) coloquei-a na mochila para levar amanhã.
 
 ## Writing Prompts
 
-1. O que você trazia todos os dias para a escola? What did you bring each day to school?
-2. Como você traz as suas compras para casa todas as semanas? How do you bring your shopping home each week?
+1. O que trazia todos os dias da escola? What did you bring each day from school?
+2. Como traz as suas compras para casa todas as semanas? How do you bring your shopping home each week?
 3. O que esqueceu de trazer consigo hoje? What is something you forgot to bring with you?

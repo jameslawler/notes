@@ -50,10 +50,10 @@ Haverá um grande concerto -> no estádio.
 
 Fill in the missing verb
 
-Há 2 anos que moro em (Portugal). Há muitas pessoas na cidade onde moro. Durante os (meses) de verão (há) sempre um festival diferente acontecendo. É muito (divertido) morar aqui.
+Há 2 anos que moro em (Portugal). Há muitas pessoas na cidade onde moro. Durante os (meses) de verão (há) sempre um festival diferente a acontecer. É muito (divertido) morar aqui.
 
 ## Writing Prompts
 
-1. Há quanto tempo você mora na sua casa atual? How long have you lived at your current house?
+1. Há quanto tempo mora na sua casa atual? How long have you lived at your current house?
 2. Quando será a sua próxima reunião importante? When is your next important meeting?
 3. O que aconteceu ontem? What happened yesterday?

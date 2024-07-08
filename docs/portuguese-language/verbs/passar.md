@@ -50,10 +50,10 @@ Tu passarás o Natal -> com a família.
 
 Fill in the missing words
 
-Na universidade (passei) muito tempo estudando. Com alguns (colegas) da universidade (passamos) a noite toda estudando antes das (provas). O tempo que passamos foi bem (investido), pois todos recebemos boas (notas).
+Na universidade (passei) muito tempo a estudar. Com alguns (colegas) da universidade (passamos) a noite toda a estudar antes dos (exames). O tempo que passamos foi bem (investido), pois todos tivemos boas (notas).
 
 ## Writing Prompts
 
-1. Dê instruções sobre como você vai de casa até uma loja perto de sua casa. Give directions for how you go from home to a local shop.
-2. O que você gosta de passar o seu tempo? What do you enjoy spending your time doing?
-3. Quando foi a última vez que você passou por um parque? When was the last time you went through a park?
+1. Dê instruções sobre como vai de casa até uma loja perto da sua casa. Give directions for how you go from home to a local shop.
+2. Como gosta de passar o seu tempo? What do you enjoy spending your time doing?
+3. Quando foi a última vez que passou por um parque? When was the last time you went through a park?

@@ -54,6 +54,6 @@ tu / um / café / depois / expresso / do / almoço / tomarás
 
 ## Writing Prompts
 
-1. Liste as bebidas que você normalmente ingere em cada refeição. List the drinks you typically have with each meal.
-2. Descreva como você toma remédio para dor de cabeça. Describe how you take medicine for a headache.
-3. Que decisão importante você tomou recentemente? What was an important decision you made recently?
+1. Liste as bebidas que normalmente ingere em cada refeição. List the drinks you typically have with each meal.
+2. Descreva como toma remédio para dor de cabeça. Describe how you take medicine for a headache.
+3. Que decisão importante tomou recentemente? What was an important decision you made recently?

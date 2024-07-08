@@ -41,7 +41,7 @@ Eu (entrarei) no escritório mais cedo amanhã.
 Elas (entram) na sala de aula todas as manhãs.
 Tu (entraste) no supermercado para fazer as compras.
 Nós (entrámos) na festa e cumprimentámos os amigos.
-Ele (entrará) no escritório às oito horas.
+Em breve ele (entrará) no escritório às oito horas.
 
 Order the words in a sentence:
 
@@ -53,6 +53,6 @@ eu / entrei / para / almoçar / ontem / no restaurante -> Eu entrei no restauran
 
 ## Writing Prompts
 
-1. A que associações você pertencia na escola? Which clubs did you belong to in school?
-2. Descreva como você participou num projeto. Describe how you participated in a project.
-3. Quais quartos que você usa todos os dias em casa? Which rooms do you use everyday at home?
+1. A que associações pertencia na escola? Which clubs did you belong to in school?
+2. Descreva como participou num projeto. Describe how you participated in a project.
+3. Que partes da casa usa todos os dias? Which rooms do you use everyday at home?

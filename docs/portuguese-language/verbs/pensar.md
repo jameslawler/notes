@@ -59,6 +59,6 @@ Nunca pensei que -> isso fosse possível!
 
 ## Writing Prompts
 
-1. Como você decide se vai comprar um objeto caro? How do you decide if you will buy an expensive item?
-2. Quais as opções que você considera para estudar português? Which options do you consider for studying Portuguese?
+1. Como decide se vai comprar um objeto caro? How do you decide if you will buy an expensive item?
+2. Quais as opções que considera para estudar português? Which options do you consider for studying Portuguese?
 3. Quais são os seus principais planos para o próximo ano? What are your major plans for next year?

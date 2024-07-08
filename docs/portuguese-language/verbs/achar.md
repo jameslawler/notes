@@ -37,15 +37,15 @@ The Portuguese verb "achar" translates to "to find" or "to think" in English.
 
 Fill in missing word
 
-Num dia ensolarado, Pedro achou que seria perfeito para um piquenique no (parque). Convidou a Joana e ambos acharam uma boa ideia. Saiu de casa, mas, de repente, o céu (escureceu) e as primeiras gotas de chuva começaram a (cair). O Pedro voltou para trás e para procurar um guarda-chuva e achou-o na garagem. Pensou cancelar o piquenique. Mas, surpreendentemente, a chuva (acabou) tão rapidamente quanto começou, e o sol voltou a brilhar. Pedro achou que (o tempo) era imprevisível, mas ainda assim, (achar) que era um dia perfeito para aproveitar ao ar (livre).
+Num dia ensolarado, o Pedro achou que seria perfeito para um piquenique no (parque). Convidou a Joana e ambos acharam uma boa ideia. Saiu de casa, mas, de repente, o céu (escureceu) e as primeiras gotas de chuva começaram a (cair). O Pedro voltou para trás para procurar um guarda-chuva e achou-o na garagem. Pensou cancelar o piquenique. Mas, surpreendentemente, a chuva (acabou) tão rapidamente quanto começou, e o sol voltou a brilhar. O Pedro achou que (o tempo) estava imprevisível, mas ainda assim, (achou) que era um dia perfeito para aproveitar ao ar (livre).
 
 Story with true / false
 
 O Pedro quis fazer um jantar com a Joana - False
 Esteve sempre sol ao longo do dia - False
 O Pedro encontrou o guarda-chuva na garagem - True
-Joana e Pedro cancelaram os planos - False
-O tempo era imprevisível - True
+A Joana e o Pedro cancelaram os planos - False
+O tempo estava imprevisível - True
 A chuva demorou muito para parar - False
 
 ## Writing Prompts

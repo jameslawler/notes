@@ -8,13 +8,13 @@ The Portuguese verb "poder" means "to be able to" or "can" in English.
 
 ## Conjugations
 
-|                 | Past      | Present | Future    |
-| --------------- | --------- | ------- | --------- |
-| eu              | _pude_    | _posso_ | poderei   |
-| tu              | _pudeste_ | podes   | poderás   |
-| ele/ela/você    | _pôde_    | pode    | poderá    |
-| nós             | _pudemos_ | podemos | poderemos |
-| eles/elas/vocês | _puderam_ | podem   | poderão   |
+|                 | Past    | Present | Future    |
+| --------------- | ------- | ------- | --------- |
+| eu              | pude    | posso   | poderei   |
+| tu              | pudeste | podes   | poderás   |
+| ele/ela/você    | pôde    | pode    | poderá    |
+| nós             | pudemos | podemos | poderemos |
+| eles/elas/vocês | puderam | podem   | poderão   |
 
 ## Daily Usages
 
@@ -54,6 +54,6 @@ o teste / novamente / fazer / que / você / pode / ter -> Você pode ter que faz
 
 ## Writing Prompts
 
-1. Quando você aprendeu a nadar? When did you learn to swim?
-2. O que você não podia fazer na escola? What were you not allowed to do at school?
-3. Você acha que vai chover amanhã? Do you think it will rain tomorrow?
+1. Quando aprendeu a nadar? When did you learn to swim?
+2. O que não podia fazer na escola? What were you not allowed to do at school?
+3. Acha que vai chover amanhã? Do you think it will rain tomorrow?

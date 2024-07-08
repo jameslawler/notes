@@ -56,6 +56,6 @@ Há muito (tempo) procuramos um apartamento novo para alugar. (Procuramos) muito
 
 ## Writing Prompts
 
-1. Descreva a ocasião em que você perdeu algo importante. Describe the time you lost something important.
-2. Que recursos você usa para resolver um problema difícil? What resources do you use to solve a hard problem?
-3. Como você conheceu este livro? How did you find out about this book?
+1. Descreva a ocasião em que perdeu algo importante. Describe the time you lost something important.
+2. Que recursos usa para resolver um problema difícil? What resources do you use to solve a hard problem?
+3. Como conheceu este livro? How did you find out about this book?
