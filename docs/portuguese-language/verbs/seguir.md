@@ -33,19 +33,19 @@ The Portuguese verb "seguir" translates to "to follow" or "to continue" in Engli
 
 Fill in missing word
 
-Na cidade movimentada, o Pedro decidiu seguir o seu coração e perseguir os seus sonhos de ser (músico). Apesar dos desafios, ele (seguiu) em frente com determinação, praticando (diariamente) e tocando em pequenos bares locais. Com o tempo, a sua música começou a atrair (atenção) e ele conseguiu uma oportunidade de gravar um (álbum). Finalmente, a sua persistência foi recompensada quando seu álbum foi lançado e bem (recebido) pelo público.
+Na cidade movimentada, o Pedro decidiu seguir o seu coração e perseguir os seus sonhos de ser (músico). Apesar dos desafios, ele (seguiu) em frente com determinação, praticando (diariamente) e tocando em pequenos bares locais. Com o tempo, a sua música começou a atrair (atenção) e ele conseguiu uma oportunidade de gravar um (álbum). Finalmente, a sua persistência foi recompensada quando o seu álbum foi lançado e bem (recebido) pelo público.
 
 Story with true / false
 
-O Pedro mora em uma cidade - True
+O Pedro mora numa cidade - True
 O Pedro quer ser estrela de televisão - False
-O Pedro está motivado para seguir seu sonho - True
-O Pedro tem oportunidade de fazer um álbum - True
-O álbum que dei críticas negativas - False
-O Pedro para de fazer música - False
+O Pedro está motivado para seguir o seu sonho - True
+O Pedro tem uma oportunidade de fazer um álbum - True
+O álbum teve críticas negativas - False
+O Pedro parou de fazer música - False
 
 ## Writing Prompts
 
-1. Você é bom em seguir instruções em uma nova cidade? Are you good with following directions in a new city?
-2. Você prefere liderar ou seguir? Do you prefer to lead or follow?
-3. Quem você segue nas redes sociais? Who do you follow on social media?
+1. Você é bom em seguir instruções numa nova cidade? Are you good with following directions in a new city?
+2. Segue as ideias de algum autor? Do you follow the ideas of any author?
+3. Quem segue nas redes sociais? Who do you follow on social media?

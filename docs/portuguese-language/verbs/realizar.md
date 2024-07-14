@@ -43,12 +43,12 @@ Order the words in a sentence
 
 excelente / apresentação / ela / na / trabalho / hoje / realizou / um / de -> Ela realizou um excelente trabalho na apresentação de hoje.
 sábado / uma / eles / realizarão / aniversário / festa / de / próximo / no -> Eles realizarão uma festa de aniversário no próximo sábado.
-dedicação / eu / minhas / diárias / realizo / empenho / tarefas / com / e -> Eu realizo minhas tarefas diárias com dedicação e empenho.
+dedicação / eu / as minhas / diárias / realizo / empenho / tarefas / com / e -> Eu realizo as minhas tarefas diárias com dedicação e empenho.
 ela / dedicação / com / realiza / seus / os / muita / estudos -> Ela realiza os seus estudos com muita dedicação.
-trabalho / incrível / vocês / como / um / realizam / equipe -> Vocês realizam um trabalho incrível como equipe.
+trabalho / incrível / vocês / como / um / realizam / equipa -> Vocês realizam um trabalho incrível como equipa.
 
 ## Writing Prompts
 
-1. Descreva um objetivo que você pretende realizar nos próximos anos. Describe a goal you want to accomplish in the next few years.
-2. Escreva sobre uma tarefa que você realizou recentemente com sucesso. Write about a task you recently completed successfully.
+1. Descreva um objetivo que pretende realizar nos próximos anos. Describe a goal you want to accomplish in the next few years.
+2. Escreva sobre uma tarefa que realizou recentemente com sucesso. Write about a task you recently completed successfully.
 3. Quais são alguns dos seus objetivos de vida? What are some of your life goals?

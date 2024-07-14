@@ -35,8 +35,8 @@ Use correct verb conjugation
 
 Eu (produzi) um documentário no ano passado.
 Tu (produzes) peças de arte incríveis.
-A Maria (produz) resultados consistentes em seu trabalho.
-Nós (produzimos) energia solar em nossa casa.
+A Maria (produz) resultados consistentes no seu trabalho.
+Nós (produzimos) energia solar na nossa casa.
 Ele (produzirá) um novo álbum de música.
 Eu (produzo) conteúdo para o meu blog.
 A fábrica (produz) mais de mil unidades por dia.
@@ -55,6 +55,6 @@ Esta empresa produz filmes -> de qualidade há décadas.
 
 ## Writing Prompts
 
-1. Você já tentou cultivar seus próprios vegetais? Have you tried growing your own vegetables?
-2. Quer produzir seu próprio conteúdo? Do you want to produce your own content?
+1. Você já tentou cultivar os seus próprios vegetais? Have you tried growing your own vegetables?
+2. Quer produzir o seu próprio conteúdo? Do you want to produce your own content?
 3. O que produz o seu país de origem? What does your home country produce?

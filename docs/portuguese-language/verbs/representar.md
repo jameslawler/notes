@@ -33,23 +33,23 @@ The Portuguese verb "representar" means "to represent."
 
 Use correct verb conjugation
 
-Ultima semana, nós (representámos) nossa empresa na conferência.
-Eu (represento) minha família em reuniões importantes.
-Se tiver sorte, ela (representará) nosso país nas Olimpíadas.
-Antigamente os meus pais (representei) me.
-Este dia (representa) liberdade.
-O seu preço (representa) seu valor.
+Na última semana, nós (representámos) a nossa empresa na conferência.
+Eu (represento) a minha família nas reuniões importantes.
+Se tiver sorte, ela (representará) o nosso país nas Olimpíadas.
+Os meus pais (representaram) o meo irmão no hospital.
+Este dia (representa) a liberdade.
+O seu preço (representa) o seu valor.
 
 Order the words in a sentence
 
-competição / eu / país / representei / internacional / meu / em / uma / competição -> Eu representei meu país em uma competição internacional.
-negociações / ele / comerciais / representa / em / a empresa -> Ele representa a empresa em negociações comerciais.
-concurso / escola / representarás / nossa / debates / no / tu / de -> Tu representarás nossa escola no concurso de debates.
-comunidade / eventos / nossa / nós / em / culturais / representamos -> Nós representamos nossa comunidade em eventos culturais.
-a / esse / flor / liberdade / representa -> Esse flor representa a liberdade.
+competição / eu / país / representei / internacional / o meu / numa / competição -> Eu representei o meu país numa competição internacional.
+negociações / ele / comerciais / representa / nas / a empresa -> Ele representa a empresa nas negociações comerciais.
+concurso / escola / representarás / a nossa / debates / no / tu / de -> Tu representarás a nossa escola no concurso de debates.
+comunidade / eventos / a nossa / nós / nos / culturais / representamos -> Nós representamos a nossa comunidade nos eventos culturais.
+a / essa / flor / liberdade / representa -> Essa flor representa a liberdade.
 
 ## Writing Prompts
 
 1. Você já atuou em alguma peça? Have you ever acted in a play?
-2. Qual personagem histórico representa suas ideologias? Which historical person represents your ideologies?
-3. Quais atletas famosos representam o seu país? Which famous athletes represent your country?
+2. Que personagem histórico representa as suas ideologias? Which historical person represents your ideologies?
+3. Quais os atletas famosos que representam o seu país? Which famous athletes represent your country?

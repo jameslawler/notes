@@ -16,7 +16,7 @@ The Portuguese verb "responder" means "to answer" or "to reply" in English.
 
 1. Answering a question:
 
-   - Portuguese: Responder a uma pergunta - ex: Eu respondo sempre as perguntas.
+   - Portuguese: Responder a uma pergunta - ex: Eu respondo sempre ás perguntas.
    - English: Answer a question - e.g: I always answer questions.
 
 2. Reacting to a situation:
@@ -30,7 +30,7 @@ Use correct verb conjugation
 
 Tu (respondeste) à carta que recebeste?
 Nós (respondemos) às críticas com respeito.
-O meu chef (responderá) à proposta de negócio na próxima semana.
+O meu chefe (responderá) à proposta de negócio na próxima semana.
 A Ana (responde) à pergunta do professor com confiança.
 Eu (respondi) às questões do exame com cuidado.
 Eles (responderam) às críticas com calma.
@@ -50,6 +50,6 @@ Ela respondeu ao convite -> para o evento.
 
 ## Writing Prompts
 
-1. Como você responde a perguntas difíceis? How do you respond to difficult questions?
-2. Você responde rapidamente aos e-mails? Are you quick to respond to E-Mails?
-3. Você teve que responder a uma emergência? Have you had to respond to an emergency?
+1. Como responde a perguntas difíceis? How do you respond to difficult questions?
+2. Tesponde rapidamente aos e-mails? Are you quick to respond to E-Mails?
+3. Teve que responder a uma emergência? Have you had to respond to an emergency?

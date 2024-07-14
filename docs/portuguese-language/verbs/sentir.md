@@ -26,7 +26,7 @@ The Portuguese verb "sentir" means "to feel" or "to sense" in English, referring
 
 3. Perceiving:
 
-   - Portuguese: Sentir a presença - ex: Eu sinto que alguém está me observando.
+   - Portuguese: Sentir a presença - ex: Eu sinto que alguém me está a observar.
    - English: Sense the presence - e.g: I feel like someone is watching me.
 
 ## Exercises
@@ -34,9 +34,9 @@ The Portuguese verb "sentir" means "to feel" or "to sense" in English, referring
 Use correct verb conjugation
 
 Está quente hoje e (sinto) isso na minha pele.
-Ele (sente) a felicidade ao ver seu filho.
+Ele (sente) a felicidade ao ver o seu filho.
 Ontem, nós (sentimos) o cheiro das flores no jardim.
-Ultima semana, elas (sentiram) a brisa fresca do mar.
+Na última semana, elas (sentiram) a brisa fresca do mar.
 Eu (sentirei) paz quando estiver na natureza.
 Eles (sentem) a presença de algo estranho no quarto.
 Nós (sentimos) o calor do sol durante o verão.
@@ -45,9 +45,9 @@ Eu (sinto) a serenidade ao meditar pela manhã.
 Connect the sentences
 
 Como você se sente hoje? -> um pouco melhor.
-A minha comida cheira bem? -> sim, sinto cheiro de especiarias.
-Esta casa velha é assustadora e -> eu me sinto estranho.
-Como tu te sentes por estar em casa? -> eu me sinto muito feliz.
+A comida cheira bem? -> sim, sinto cheiro de especiarias.
+Esta casa velha é assustadora e -> eu sinto-me estranho.
+Como tu te sentes por estar em casa? -> eu sinto-me muito feliz.
 Nós sentimos o aroma do café fresco -> pela manhã.
 Tu sentes a tristeza -> no olhar dela.
 Você sente o cheiro das flores -> no jardim?
@@ -56,5 +56,5 @@ Nós sentimos a gratidão -> pelos momentos felizes.
 ## Writing Prompts
 
 1. O que te faz feliz? What makes you happy?
-2. Quais alimentos cheiram melhor para você? Which foods smell the best to you?
-3. Qual foi o momento emocionante que você viveu? What is an emotional moment you experienced?
+2. Quais os alimentos cheiram melhor para si? Which foods smell the best to you?
+3. Qual foi o momento emocionante que viveu? What is an emotional moment you experienced?

@@ -26,21 +26,21 @@ Use correct verb conjugation
 Os alunos (perguntam) muito todos os dias.
 A Maria (perguntou) primeiro.
 Eles (perguntarão) ao professor amanhã.
-Eu (perguntei) como chegar em casa.
+Eu (perguntei) como chegar a casa.
 Ele (pergunta) muito.
-A professora nos (perguntou).
+Quando é que a professora nos (perguntou) isso?
 
 Order the words in a sentence
 
-tipo / casa / nos / a imobiliária / de / que / perguntou / queremos -> A imobiliária nos perguntou que tipo de casa queremos.
+tipo / casa / a imobiliária / de / que / perguntou-nos / queremos -> A imobiliária perguntou-nos que tipo de casa queremos.
 na / professor / escola / perguntamos / vezes / ao / muitas -> Na escola perguntamos muitas vezes ao professor.
-entender / continue / até / perguntando -> Continue perguntando até entender.
+entender / continue / até / a perguntar -> Continue a perguntar até entender.
 pergunta / eu / uma / tenho / difícil / muito -> Eu tenho uma pergunta muito difícil.
 com / o exame / fáceis / começa / as perguntas -> O exame começa com as perguntas fáceis.
 pessoais / com / a entrevista / vamos / algumas / começar / perguntas -> Vamos começar a entrevista com algumas perguntas pessoais.
 
 ## Writing Prompts
 
-1. Você fez muitas perguntas na escola? Did you ask a lot of questions in school?
-2. Você recebe muitas perguntas? Do you get asked a lot of questions?
-3. Qual é a sua área de habilidade especial? What is your special skill area?
+1. Fez muitas perguntas na escola? Did you ask a lot of questions in school?
+2. Fazem-lhe muitas perguntas? Do you get asked a lot of questions?
+3. Tem alguma capacidade especial? Do you have a special skill?

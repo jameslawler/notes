@@ -28,28 +28,28 @@ The Portuguese verb "permitir" means "to permit" or "to allow."
 
 Use correct verb conjugation
 
-O professor (permitiu) aos alunos irem ao banheiro.
+O professor (permitiu) aos alunos irem à casa de banho.
 Os meus pais (permitiram) ficar fora até tarde.
 Eu não (permito) isso.
-O governo (permite) e-scooters nas estradas.
+O governo (permite) trotinentes nas estradas.
 Os meus amigos não me (permitem) jogar.
 Quem te (permitiu)?
 
 Connect the sentences
 
-Posso fumar aqui? -> não é permitido em restaurantes.
-A piscina está aberta? -> não permitido por causa de uma aula.
+Posso fumar aqui? -> não é permitido nos restaurantes.
+A piscina está aberta? -> não é permitido por causa de uma aula.
 Você tem mais de 18 anos? -> somente adultos são permitidos.
-Posso falar com você, por favor? -> agora não, mas depois está tudo bem.
-Quando você vai nadar? -> nas manhãs.
-Você está tentando parar de fumar? -> estou tentando há 1 ano.
+Posso falar consigo, por favor? -> agora não, mas depois pode.
+Quando você vai nadar? -> de manhã.
+Você está a tentar parar de fumar? -> estou a tentar há 1 ano.
 
 Fill in the missing words
 
-Na minha (escola) existe uma área na entrada onde é (permitido) guardar bicicletas. Esta área é para os alunos guardarem suas bicicletas com (segurança) enquanto estão em aula. No verão há alguma (construção) nesta área e os alunos não estão autorizados a guardar as suas (bicicletas) lá.
+Na minha (escola) existe uma área na entrada onde é (permitido) guardar bicicletas. Esta área é para os alunos guardarem as suas bicicletas com (segurança) enquanto estão nas aulas. No verão há alguma (construção) nesta área e os alunos não estão autorizados a guardar as suas (bicicletas) lá.
 
 ## Writing Prompts
 
-1. O que você não tinha permissão de fazer quando criança? What were you not allowed to do as a child?
-2. Ao completar 18 anos, o que você pode fazer? When you turn 18 years old, what can you do?
-3. Você tem alguma regra própria? Do you have any rules of your own?
+1. O que não tinha permissão de fazer quando era criança? What were you not allowed to do as a child?
+2. Ao completar 18 anos, o que pode fazer? When you turn 18 years old, what can you do?
+3. Tem alguma regra própria? Do you have any rules of your own?

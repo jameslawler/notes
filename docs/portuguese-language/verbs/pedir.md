@@ -34,9 +34,9 @@ The Portuguese verb "pedir" translates to "to ask" or "to request" in English, i
 Use correct verb conjugation
 
 Ontem o meu amigo não (pediu) comida no restaurante.
-Eu sempre (peço) a mesma refeição para o almoço.
+Eu (peço) sempre a mesma refeição para o almoço.
 Nós (pedimos) ajuda ao visitar uma nova cidade.
-Alguns visitantes me (pediram) conselhos de viagem.
+Porque alguns visitantes me (pediram) conselhos de viagem?
 A próxima semana (pedirei) peixe.
 Nós (pedimos) água para a mesa.
 Ela (pediu) desculpa pelo atraso.
@@ -47,8 +47,8 @@ Connect the sentences
 Quando estamos perdidos -> pedimos informações.
 Eles não conseguiam decidir o que comer -> então pediram tudo.
 Tu estás perdido? -> pedes direções.
-O que vocês gostaria? -> já pedimos obrigado.
-O que vocês pediram? -> só bebidas no momento.
+O que vocês gostariam? -> já pedimos, obrigado.
+O que vocês pediram? -> só bebidas, de momento.
 Podes pedir orientação? -> eu sei onde é.
 O professor pediu silêncio -> durante o exame.
 Eu pedi um favor -> ao colega de trabalho.
@@ -56,5 +56,5 @@ Eu pedi um favor -> ao colega de trabalho.
 ## Writing Prompts
 
 1. Escreva o diálogo sobre como pedir o cardápio e uma refeição. Write the dialog about asking for the menu and a meal.
-2. Como você pede ajuda aos seus amigos? How do you ask your friends for help?
-3. Descreva um momento em que você teve que pedir informações. Describe a time you had to ask for directions.
+2. Como pede ajuda aos seus amigos? How do you ask your friends for help?
+3. Descreva um momento em que teve que pedir informações. Describe a time you had to ask for directions.
