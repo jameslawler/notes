@@ -27,7 +27,7 @@ The Portuguese verb "tornar" can mean "to become" or "to turn" in English, indic
 
 Fill in missing word
 
-O Miguel decidiu que era hora de se tornar um (corredor). Embora nunca tivesse sido atlético, ele quer a mudar o seu estilo de vida (sedentário). Começou com pequenas corridas ao redor do quarteirão, lutando contra a falta de fôlego e as (dores) musculares. Com o tempo, a sua resistência (aumentou) e ele se inscreveu para uma corrida de 5 km. Naquele dia, ao cruzar a linha de (chegada), uma sensação de realização o envolveu. O Miguel finalmente se (tornara) o corredor que sempre desejara ser. Ele continuou a correr em corridas todos os anos após a primeira corrida.
+O Miguel decidiu que era hora de se tornar um (atleta). Embora nunca tivesse sido atlético, ele quis mudar o seu estilo de vida (sedentário). Começou com pequenas corridas ao redor do quarteirão, lutando contra a falta de fôlego e as (dores) musculares. Com o tempo, a sua resistência (aumentou) e ele inscreveu-se para uma corrida de 5 km. Naquele dia, ao cruzar a linha de (chegada), uma sensação de realização envolveu-lo. O Miguel finalmente (tornou-se) o atleta que sempre desejou ser. Ele continuou a correr em corridas todos os anos após a primeira.
 
 Story with true / false
 
@@ -40,6 +40,6 @@ Ele parou de correr depois da corrida - False
 
 ## Writing Prompts
 
-1. Descreva como você se tornou quem você é hoje. Describe how you became who you are today.
-2. Quem você gostaria de ser à medida que envelhece? Who would you like to become as you grow older?
-3. Como você se torna milionário? How do you become a millionaire?
+1. Descreva como se tornou quem você é hoje. Describe how you became who you are today.
+2. Quem gostaria de ser à medida que envelhece? Who would you like to become as you grow older?
+3. Como se pode tornar milionário? How do you become a millionaire?

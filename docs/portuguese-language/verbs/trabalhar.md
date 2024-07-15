@@ -34,10 +34,10 @@ The Portuguese verb "trabalhar" translates to "to work" in English, indicating t
 Use correct verb conjugation
 
 Eu (trabalho) de segunda a sexta-feira.
-A Maria (trabalha) como médico num hospital.
+A Maria (trabalha) como médica num hospital.
 Vocês (trabalham) muito para sustentar a família.
 Eu (trabalhei) até tarde ontem.
-Ele (trabalhará) como freelancer no futuro.
+Ele (trabalhará) como trabalhador independente no futuro.
 Eu (trabalharei) no novo projeto a partir da próxima semana.
 O artista (trabalha) numa nova pintura na sua galeria.
 Eles (trabalham) como programadores numa empresa de tecnologia.
@@ -49,12 +49,12 @@ Nós trabalhámos duro para -> concluir o projeto.
 Nós trabalhamos juntos -> há muitos anos.
 Eles trabalharão menos quando -> as férias começarem.
 Tu trabalharás na empresa -> dos teus sonhos em breve.
-Eu não trabalho -> nos finais de semana.
+Eu não trabalho -> aos fins de semana.
 Tu trabalhas no turno -> da noite numa fábrica.
 Eu trabalho como guia -> turístico na cidade.
 
 ## Writing Prompts
 
-1. Escreva sobre as tarefas que você realiza no seu trabalho diário. Write about the tasks you do at your day job.
+1. Escreva sobre as tarefas que realiza no seu trabalho diariamente. Write about the tasks you do at your day job.
 2. Você gosta de trabalhar? Do you enjoy working?
 3. Qual é o seu trabalho ideal? What is your ideal job?

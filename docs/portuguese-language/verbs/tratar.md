@@ -33,19 +33,19 @@ The Portuguese verb "tratar" can mean "to treat," "to handle," or "to deal with"
 
 Fill in missing word
 
-O médico local, Dr. Paulo, dedicava-se a tratar os (doentes) com carinho e dedicação. Todos na aldeia confiavam nele para cuidar de suas famílias com (competência) e compaixão. Cada paciente recebia atenção (individualizada), e o Dr. Paulo fazia questão de (tratar) não apenas os sintomas, mas também as preocupações (emocionais) de cada pessoa. Mesmo nos momentos mais difíceis, Dr. Paulo nunca perdeu sua determinação em tratar cada (paciente) com dignidade e respeito.
+O Dr. Paulo dedicava-se a tratar os (doentes) com carinho e dedicação. Todos na aldeia confiavam nele para cuidar das suas famílias com (competência) e compaixão. Cada paciente recebia atenção (individualizada), e o Dr. Paulo fazia questão de (tratar) não apenas os sintomas, mas também as preocupações (emocionais) de cada pessoa. Mesmo nos momentos mais difíceis, o Dr. Paulo nunca perdeu a sua determinação em tratar cada (paciente) com dignidade e respeito.
 
 Story with true / false
 
-O Dr. Paulo é médico em uma cidade grande - False
+O Dr. Paulo é médico numa cidade grande - False
 Os pacientes do Dr. Paulo estão felizes com ele - True
-O Dr. Paulo cuida dos sintomas e estado emocional de seus pacientes - True
+O Dr. Paulo cuida dos sintomas e do estado emocional dos seus pacientes - True
 O Dr. Paulo trata apenas pacientes com seguro privado - False
-O Dr. Paulo fechará seu consultório em breve - False
+O Dr. Paulo fechará o seu consultório em breve - False
 O Dr. Paulo é veterinário - False
 
 ## Writing Prompts
 
-1. Descreva como você trata seus amigos. Describe how you treat your friends.
-2. Como você trata dores de estômago? How do you treat an upset stomach?
-3. Você se trata bem? Do you treat yourself well?
+1. Descreva como trata os seus amigos. Describe how you treat your friends.
+2. Como trata dores de estômago? How do you treat an upset stomach?
+3. Trata-se bem? Do you treat yourself well?

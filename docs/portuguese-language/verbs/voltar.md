@@ -37,14 +37,14 @@ Tu (voltas) para o escritório depois do almoço.
 Order the words in a sentence
 
 para / crescemos / a cidade / nós / para / onde / uma / voltámos / visita -> Nós voltámos para a cidade onde crescemos para uma visita.
-buscar / eu / para / telemóvel / o / meu / que / voltei / esqueci -> Eu voltei para buscar o meu telemóvel que esqueci.
+buscar / eu / para / telemóvel / o / meu / que / voltei / me esqueci -> Eu voltei para buscar o meu telemóvel que me esqueci.
 recentemente / vocês / praticar / a / piano / voltaram -> Vocês voltaram a praticar piano recentemente.
 uma / passagem / de / preciso / volta / de -> Preciso de uma passagem de volta.
 volta? / quanto / uma / viagem / custa / de -> Quanto custa uma viagem de volta?
-voltar / casa? / está / feliz / em / você / para -> Você está feliz em voltar para casa?
+voltar / casa? / está / feliz / por / você / para -> Você está feliz por voltar para casa?
 
 ## Writing Prompts
 
 1. Você já devolveu uma compra online? Have you ever returned an online purchase?
-2. Como você se sente quando volta para casa à noite? How do you feel when you return home in the evening?
-3. Você já esqueceu de devolver alguma coisa antes? Have you forgotten to return something before?
+2. Como se sente quando volta para casa à noite? How do you feel when you return home in the evening?
+3. Você já se esqueceu de devolver alguma coisa antes? Have you forgotten to return something before?
