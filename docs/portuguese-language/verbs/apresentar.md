@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Apresentar
 
 The Portuguese verb "apresentar" translates to "to present" or "to introduce" in English, indicating the action of showcasing or introducing something or someone.

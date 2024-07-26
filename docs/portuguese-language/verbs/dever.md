@@ -37,7 +37,7 @@ The Portuguese verb "dever" means "to owe" or "to must" in English.
 
 Fill in missing word:
 
-Nas horas de (lazer), as crianças deveriam participar em atividades lúdicas que promovam o desenvolvimento físico e mental. Brincar ao ar (livre), como jogar à apanhada ou andar de bicicleta, ajuda a fortalecer (os músculos) e a melhorar a coordenação motora. Além disso, jogos de (tabuleiro), como o Monopólio ou o Scrabble, incentivam o pensamento (estratégico) e a resolução de problemas. (Deveriam) também explorar a criatividade através da pintura, modelagem de argila ou construção com blocos. Estas atividades não só proporcionam diversão, mas também ajudam no desenvolvimento integral das (crianças).
+Nas horas de (lazer), as crianças deveriam participar em atividades lúdicas que promovam o desenvolvimento físico e mental. Brincar ao ar (livre), como jogar à apanhada ou andar de bicicleta, ajuda a fortalecer (os músculos) e a melhorar a coordenação motora. Além disso, os jogos de (tabuleiro), como o Monopólio ou o Scrabble, incentivam o pensamento (estratégico) e a resolução de problemas. (Deveriam) também explorar a criatividade através da pintura, modelagem de argila ou construção com blocos. Estas atividades não só proporcionam diversão, mas também ajudam no desenvolvimento integral das (crianças).
 
 Story with true / false:
 

@@ -32,12 +32,12 @@ The Portuguese verb "começar" translates to "to start" or "to begin" in English
 
 Fill in missing word:
 
-Numa pequena tasca à (beira-mar), a Joana começou o dia com um aroma tentador de café fresco e pão acabado de fazer. Os clientes (começaram) a chegar, ansiosos por saborear os pratos típicos da região. O chef começou a preparar os (ingredientes) frescos para o almoço. Os aromas de peixe grelhado e marisco (espalharam-se) pelo espaço. À medida que o sol foi aquecendo, os turistas começaram a ocupar as mesas, ansiosos por (experimentar) as maravilhosas iguarias do chef. O ambiente ficou animada, com risos e conversas alegres (à volta) da mesa.
+Numa pequena tasca à (beira-mar), a Joana começou o dia com um aroma fresco de café e pão acabado de fazer. Os clientes (começaram) a chegar, ansiosos por saborear os pratos típicos da região. O chef começou a preparar os (ingredientes) frescos para o almoço. Os aromas de peixe grelhado e marisco (espalharam-se) pelo espaço. À medida que o sol foi aquecendo, os turistas começaram a ocupar as mesas, ansiosos por (experimentar) as maravilhosas iguarias do chefe. O ambiente ficou animada, com risos e conversas alegres (à volta) da mesa.
 
 Story with true / false:
 
 A tasca era pequena - True
-Os Ingredientes do chef estavam moles - False
+Os Ingredientes do chefe estavam moles - False
 Os aromas a peixe invadiram o espaço - True
 As conversas eram alegres - True
 O peixe frito tinha um mau aroma - False

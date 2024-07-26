@@ -28,7 +28,7 @@ The Portuguese verb "surgir" means "to appear" or "to emerge."
 
 Fill in missing word
 
-Numa tarde de primavera, uma ideia brilhante (surgiu) na mente da Sofia enquanto caminhava pelo parque. Inspirada pela beleza da (natureza) ao seu redor, ela teve uma ideia: criar um jardim (comunitário) para todos desfrutarem. Rapidamente, ela partilhou a sua ideia com os amigos e os (vizinhos), e logo se formou uma equipa dedicada. Juntos, eles transformaram um terreno (abandonado) num lugar cheio de flores coloridas e hortaliças frescas. A (ideia) simples da Sofia surgiu e todos ficaram feliz.
+Numa tarde de primavera, uma ideia brilhante (surgiu) na mente da Sofia enquanto caminhava pelo parque. Inspirada pela beleza da (natureza), ela teve uma ideia: criar um jardim (comunitário) para todos desfrutarem. Rapidamente, ela partilhou a sua ideia com os amigos e os (vizinhos), e logo se formou uma equipa dedicada. Juntos, eles transformaram um terreno (abandonado) num lugar cheio de flores coloridas e hortaliças frescas. A (ideia) simples da Sofia surgiu e todos ficaram feliz.
 
 Story with true / false
 

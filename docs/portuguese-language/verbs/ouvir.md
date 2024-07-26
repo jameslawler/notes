@@ -32,7 +32,7 @@ The Portuguese verb "ouvir" translates to "to hear" or "to listen" in English.
 
 Fill in missing word
 
-A Ana sentou-se na varanda para (ouvir) os sons da (natureza). De repente, ouviu o som do (telefone) a tocar dentro de casa. Levantou-se e dirigiu-se ao (interior), onde ouviu a voz da sua melhor (amiga) do outro lado da linha. Passaram horas a (conversar), ouvindo-se mutuamente, partilhando risos e segredos, solidificando ainda mais a sua amizade.
+A Ana sentou-se na varanda para (ouvir) os sons da (natureza). De repente, ouviu o som do (telefone) a tocar dentro de casa. Levantou-se e dirigiu-se ao (interior), onde ouviu a voz da sua melhor (amiga) do outro lado da linha. Passaram horas a (conversar), ouvindo-se mutuamente e partilharam risos e segredos, solidificando ainda mais a sua amizade.
 
 Story with true / false
 
