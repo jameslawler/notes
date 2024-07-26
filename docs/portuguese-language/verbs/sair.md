@@ -41,12 +41,12 @@ Ele e ela (saem) da escola para ir trabalhar.
 
 Order the words in a sentence
 
-as manhãs / eu / de sair / todas / correr / para / gosto -> Eu gosto de sair para correr todas as manhãs.
-o aniversário / saiu / os amigos / com / ela / para comemorar -> Ela saiu com os amigos para comemorar o aniversário.
-nos / o filme / de sair / acabou / cinemas / novo -> O filme novo acabou de sair nos cinemas.
-para / nós / restaurante / jantar / saímos / num / na cidade / novo -> Nós saímos para jantar num restaurante novo na cidade.
-para / saíram / ir / de / casa / à praia / eles -> Eles saíram de casa para ir à praia.
-mais / eu / cedo / trabalho / do / hoje / saí -> Eu saí mais cedo do trabalho hoje.
+as manhãs / eu / de sair / todas / correr / para / gosto -> eu gosto de sair para correr todas as manhãs.
+o aniversário / saiu / os amigos / com / ela / para comemorar -> ela saiu com os amigos para comemorar o aniversário.
+nos / o filme / de sair / acabou / cinemas / novo -> o filme novo acabou de sair nos cinemas.
+para / nós / restaurante / jantar / saímos / num / na cidade / novo -> nós saímos para jantar num restaurante novo na cidade.
+para / saíram / ir / de / casa / à praia / eles -> eles saíram de casa para ir à praia.
+mais / eu / cedo / trabalho / do / hoje / saí -> eu saí mais cedo do trabalho hoje.
 
 ## Writing Prompts
 

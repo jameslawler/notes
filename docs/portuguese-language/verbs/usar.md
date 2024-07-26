@@ -39,6 +39,10 @@ Amanhã nós (usaremos) o GPS para encontrar o caminho.
 Eu (uso) óculos para ler.
 Tu (usas) o computador para trabalhar.
 
+Fill in the missing words
+
+Eu trabalho na construção e (uso) muitas ferramentas diferentes todos os dias. Eu uso (martelos) e berbequins. No meu trabalho preciso de (usar) roupas especiais que tenham boa (visibilidade). Também preciso de usar (capacete) quando estiver a trabalhar.
+
 Connect the sentences
 
 Ele usa o telemóvel -> para comunicar.
@@ -47,10 +51,6 @@ Ele usou os sapatos novos -> para dançar.
 Nós usámos o fogão -> para cozinhar o jantar.
 Eu usarei um vestido bonito -> na festa.
 Tu usarás o dinheiro -> para comprar presentes.
-
-Fill in the missing words
-
-Eu trabalho na construção e (uso) muitas ferramentas diferentes todos os dias. Eu uso (martelos) e berbequins. No meu trabalho preciso de (usar) roupas especiais que tenham boa (visibilidade). Também preciso de usar (capacete) quando estiver a trabalhar.
 
 ## Writing Prompts
 

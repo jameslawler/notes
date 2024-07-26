@@ -32,11 +32,11 @@ Eu (pago) o autocarro todos os dias
 
 Order the words in a sentence
 
-do trabalho / uma / o patrão / grande / depois / conta / da festa / pagou -> Depois da festa do trabalho o patrão pagou uma conta grande.
-pagamos / pela / entrega / de / sushi / uma / vez / por / mês -> Pagamos pela entrega de sushi uma vez por mês.
-com / menos / solares / eletricidade / pagamos / os nossos / painéis -> Com os nossos painéis solares pagamos menos eletricidade.
-grande / morar / numa / para / cidade / pagamos / muito -> Pagamos muito para morar numa cidade grande.
-novo / um / carro / dinheiro / pagamos / por / muito -> Pagamos muito dinheiro por um carro novo.
+do trabalho / uma / o patrão / grande / depois / conta / da festa / pagou -> depois da festa do trabalho o patrão pagou uma conta grande.
+pagamos / pela / entrega / de / sushi / uma / vez / por / mês -> pagamos pela entrega de sushi uma vez por mês.
+com / menos / solares / eletricidade / pagamos / os nossos / painéis -> com os nossos painéis solares pagamos menos eletricidade.
+grande / morar / numa / para / cidade / pagamos / muito -> pagamos muito para morar numa cidade grande.
+novo / um / carro / dinheiro / pagamos / por / muito -> pagamos muito dinheiro por um carro novo.
 
 ## Writing Prompts
 

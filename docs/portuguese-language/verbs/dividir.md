@@ -42,11 +42,11 @@ O cientista (divide) o experimento em diferentes fases.
 
 Order the words in a sentence
 
-essenciais / eu / salário / o / meu / poupança / em / despesas / divido / e -> Eu divido o meu salário em despesas essenciais e poupança.
-lucros / projeto / nós / dividimos / igualmente / os / do -> Nós dividimos os lucros do projeto igualmente.
-livre / o / passatempos / eu / tempo / e / meu / divido / entre / descanso -> Eu divido o meu tempo livre entre passatempos e descanso.
-generosas / em / o bolo / convidados / fatias / ela / para / os / divide -> Ela divide o bolo em fatias generosas para os convidados.
-a Maria / filhos / a / entre / atenção / os / sua / divide -> A Maria divide a sua atenção entre os filhos.
+essenciais / eu / salário / o / meu / poupança / em / despesas / divido / e -> eu divido o meu salário em despesas essenciais e poupança.
+lucros / projeto / nós / dividimos / igualmente / os / do -> nós dividimos os lucros do projeto igualmente.
+livre / o / passatempos / eu / tempo / e / meu / divido / entre / descanso -> eu divido o meu tempo livre entre passatempos e descanso.
+generosas / em / o bolo / convidados / fatias / ela / para / os / divide -> ela divide o bolo em fatias generosas para os convidados.
+a Maria / filhos / a / entre / atenção / os / sua / divide -> a Maria divide a sua atenção entre os filhos.
 
 ## Writing Prompts
 

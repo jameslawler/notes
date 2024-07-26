@@ -39,6 +39,10 @@ Nós (pusemos) as malas no carro antes da viagem.
 Eu (porei) a roupa no armário quando chegar em casa.
 O Pedro (pôs) o presente em cima da mesa de manhã.
 
+Fill the missing words
+
+A Ana põe os (pratos) na mesa antes da chegada dos (convidados) e gosta de ter tudo no lugar certo e organizado. Assim que a comida fique pronta, ela (põe) os pratos e convida os convidados para (começar). Eles desfrutam de uma refeição (juntos).
+
 Connect the sentences
 
 Quem põe a mesa? -> a Maria põe hoje.
@@ -47,10 +51,6 @@ Eu gosto de pôr música -> enquanto cozinho.
 Ela adora pôr flores frescas -> na mesa da sala.
 Quando vai pôr a roupa -> na máquina.
 Quando pôs as chaves aqui? -> há uma hora.
-
-Fill the missing words
-
-A Ana põe os (pratos) na mesa antes da chegada dos (convidados) e gosta de ter tudo no lugar certo e organizado. Assim que a comida fique pronta, ela (põe) os pratos e convida os convidados para (começar). Eles desfrutam de uma refeição (juntos).
 
 ## Writing Prompts
 

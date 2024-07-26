@@ -39,6 +39,10 @@ Aos fins de semana, tu (passas) tempo com a família.
 Ele (passará) o dia a trabalhar no escritório.
 Eu e o Tiago (passaremos) o fim de semana na montanha.
 
+Fill in the missing words
+
+Na universidade (passei) muito tempo a estudar. Com alguns (colegas) da universidade (passamos) a noite toda a estudar antes dos (exames). O tempo que passamos foi bem (investido), pois todos tivemos boas (notas).
+
 Connect the sentences
 
 Ele passa a tarde a estudar -> na biblioteca.
@@ -47,10 +51,6 @@ Ele passou um ano a viajar -> pelo mundo.
 Nós passámos a noite a dançar -> na festa.
 Eu passarei as próximas férias -> em Portugal.
 Tu passarás o Natal -> com a família.
-
-Fill in the missing words
-
-Na universidade (passei) muito tempo a estudar. Com alguns (colegas) da universidade (passamos) a noite toda a estudar antes dos (exames). O tempo que passamos foi bem (investido), pois todos tivemos boas (notas).
 
 ## Writing Prompts
 

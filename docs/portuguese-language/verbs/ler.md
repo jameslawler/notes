@@ -34,6 +34,10 @@ Tu (lês) o manual antes de montar o móvel.
 A Sofia (lê) romances de mistério para relaxar.
 Você consegue (ler) um livro inteiro?
 
+Fill in the missing words
+
+Ler para as (crianças) é importante para que elas aprendam as letras, as (palavras). Eu (leio) para a minha filha todas as (noites) e ela lê para mim para aprender a ler. No próximo (ano) ela poderá ler sozinha.
+
 Connect the sentences
 
 Que tipo de livro você lê? -> Eu gosto de fantasia.
@@ -42,10 +46,6 @@ Quantos livros você lê por ano? -> Só alguns.
 Você consegue ler outros idiomas? -> Sim, outros dois.
 Você pode ler isso? -> Não, as letras são pequenas.
 Já leste as notícias de hoje? -> Sim, que terrível.
-
-Fill in the missing words
-
-Ler para as (crianças) é importante para que elas aprendam as letras, as (palavras). Eu (leio) para a minha filha todas as (noites) e ela lê para mim para aprender a ler. No próximo (ano) ela poderá ler sozinha.
 
 ## Writing Prompts
 

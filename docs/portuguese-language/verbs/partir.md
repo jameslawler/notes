@@ -45,11 +45,11 @@ No verão passado tu (partiste) para o estrangeiro.
 Tu (partes) para as férias amanhã.
 
 Order the words in a sentence
-parte / ele / do aeroporto / às / 15h -> Ele parte do aeroporto às 15h.
-nós / de / casa / 8h / às / partimos
-no / ele / partiu / para / Portugal / ano / passado
-partimos / de / Lisboa / nós / dois / anos / há
-para / Paris / no / eu / próximo / mês / partirei
+parte / ele / do aeroporto / às / 15h -> ele parte do aeroporto às 15h.
+nós / de / casa / 8h / às / partimos -> nós partimos de casa às 8h.
+no / ele / partiu / para / Portugal / ano / passado -> ele partiu para Portugal no ano passado.
+partimos / de / Lisboa / nós / dois / anos / há -> nós partimos de Lisboa há dois anos.
+para / Paris / no / eu / próximo / mês / partirei -> eu partirei para Paris no próximo mês.
 
 ## Writing Prompts
 

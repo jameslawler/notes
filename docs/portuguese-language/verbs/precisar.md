@@ -32,11 +32,11 @@ Nós (precisaremos) de ir às Finanças.
 
 Order the words in a sentence
 
-beber / calor / nos / água / de / mais / nós / dias / precisamos de -> Nos dias de calor nós precisamos de beber mais água.
-de / eu / para / contas / as / precisei / pagar / dinheiro -> Eu precisei de dinheiro para pagar as contas.
-cansativo / após / tu / descanso / um / de / precisas / dia -> Tu precisas de descanso após um dia cansativo.
-para / precisámos / nós / tempo / o projeto / terminar / de / mais -> Nós precisámos de mais tempo para terminar o projeto.
-emprego / sustentar / novo / a família / precisará / de / um / para / ele -> Ele precisará de um novo emprego para sustentar a família.
+beber / calor / nos / água / de / mais / nós / dias / precisamos de -> nos dias de calor nós precisamos de beber mais água.
+de / eu / para / contas / as / precisei / pagar / dinheiro -> eu precisei de dinheiro para pagar as contas.
+cansativo / após / tu / descanso / um / de / precisas / dia -> tu precisas de descanso após um dia cansativo.
+para / precisámos / nós / tempo / o projeto / terminar / de / mais -> nós precisámos de mais tempo para terminar o projeto.
+emprego / sustentar / novo / a família / precisará / de / um / para / ele -> ele precisará de um novo emprego para sustentar a família.
 
 ## Writing Prompts
 

@@ -37,11 +37,11 @@ Eles (consideraram) a proposta do cliente antes de apresentar uma contraproposta
 
 Order words
 
-parte / família / ela / seu / considera / o / cão / como / da -> Ela considera o seu cão como parte da família.
-tu / fonte / o livro / inspiração / como / uma / de / consideras -> Tu consideras o livro como uma fonte de inspiração.
-ambiente / preservar / meio / importante / ela / o / considera -> Ela considera importante preservar o meio ambiente.
-clientes / os comentários / nós / dos / consideramos -> Nós consideramos os comentários dos clientes.
-negócio / para / novos / o empresário / seu / mercados considera / expandir / o -> O empresário considera expandir o seu negócio para novos mercados.
+parte / família / ela / seu / considera / o / cão / como / da -> ela considera o seu cão como parte da família.
+tu / fonte / o livro / inspiração / como / uma / de / consideras -> tu consideras o livro como uma fonte de inspiração.
+ambiente / preservar / meio / importante / ela / o / considera -> ela considera importante preservar o meio ambiente.
+clientes / os comentários / nós / dos / consideramos -> nós consideramos os comentários dos clientes.
+negócio / para / novos / o empresário / seu / mercados considera / expandir / o -> o empresário considera expandir o seu negócio para novos mercados.
 
 ## Writing Prompts
 

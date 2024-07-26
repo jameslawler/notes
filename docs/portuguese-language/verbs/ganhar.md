@@ -37,12 +37,12 @@ Nós (ganharemos) um prémio de equipa pelo nosso esforço conjunto.
 
 Order the words in a sentence
 
-ganhaste / tu / no / emprego / anterior / um bónus / teu -> Tu ganhaste um bónus no teu emprego.
-ele / um troféu / pelo / desempenho / seu / ganha -> Ele ganha um troféu pelo seu desempenho.
-no supermercado / nós / ganhámos / um desconto -> Nós ganhámos um desconto no supermercado.
-pelo / ganhará / reconhecimento / seu talento / ela -> Ela ganhará reconhecimento pelo seu talento.
-um carro / ele / ganhou / no sorteio / da / loteria -> Ele ganhou um carro no sorteio da loteria.
-nós / uma viagem / na rifa / de férias / ganhámos -> Nós ganhámos na rifa uma viagem de férias.
+ganhaste / tu / no / emprego / anterior / um bónus / teu -> tu ganhaste um bónus no teu emprego.
+ele / um troféu / pelo / desempenho / seu / ganha -> ele ganha um troféu pelo seu desempenho.
+no supermercado / nós / ganhámos / um desconto -> nós ganhámos um desconto no supermercado.
+pelo / ganhará / reconhecimento / seu talento / ela -> ela ganhará reconhecimento pelo seu talento.
+um carro / ele / ganhou / no sorteio / da / loteria -> ele ganhou um carro no sorteio da loteria.
+nós / uma viagem / na rifa / de férias / ganhámos -> nós ganhámos na rifa uma viagem de férias.
 
 ## Writing Prompts
 

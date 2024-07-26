@@ -30,6 +30,10 @@ Tu (afirmas) que alcançarás os teus objetivos.
 Vocês (afirmam) que estão prontos para a competição.
 Eu (afirmei) que a informação era correta.
 
+Fill in the missing words
+
+A psicóloga afirmou que a (autoconfiança) é fundamental para o bem-estar emocional. Ela (afirmou) que, ao reconhecermos as nossas próprias (competências) e qualidades, podemos enfrentar os desafios da vida com mais (resiliência). Afirmou também que o autocuidado e a prática da gratidão são ferramentas poderosas para cultivar a (autoestima).
+
 Connect the sentences
 
 Ele afirma que trará -> novas ideias para o projeto.
@@ -38,10 +42,6 @@ Ele afirmou que já -> tinha terminado o trabalho.
 Nós afirmámos que -> não sabíamos da situação.
 Elas afirmaram que -> não viriam ao evento.
 Eu afirmo que -> tudo correrá bem.
-
-Fill in the missing words
-
-A psicóloga afirmou que a (autoconfiança) é fundamental para o bem-estar emocional. Ela (afirmou) que, ao reconhecermos as nossas próprias (competências) e qualidades, podemos enfrentar os desafios da vida com mais (resiliência). Afirmou também que o autocuidado e a prática da gratidão são ferramentas poderosas para cultivar a (autoestima).
 
 ## Writing Prompts
 

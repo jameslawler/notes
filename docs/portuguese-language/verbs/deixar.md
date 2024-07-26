@@ -41,11 +41,11 @@ A Maria (deixou) a filha ir ao parque.
 
 Order the words in a sentence
 
-trabalho / empresa / ele / na / o / deixou -> Ele deixou o trabalho na empresa.
-o dia / nós / deixamos / as janelas / durante / abertas -> Nós deixamos as janelas abertas durante o dia.
-do tapete / eles / deixarão / as chaves / debaixo -> Eles deixarão as chaves debaixo do tapete.
-deixei / eu / no / o guarda-chuva / restaurante / ontem -> Eu deixei o guarda-chuva no restaurante ontem.
-tu / o livro / na / biblioteca na / passada / semana / deixaste -> Tu deixaste o livro na biblioteca na semana passada.
+trabalho / empresa / ele / na / o / deixou -> ele deixou o trabalho na empresa.
+o dia / nós / deixamos / as janelas / durante / abertas -> nós deixamos as janelas abertas durante o dia.
+do tapete / eles / deixarão / as chaves / debaixo -> eles deixarão as chaves debaixo do tapete.
+deixei / eu / no / o guarda-chuva / restaurante / ontem -> eu deixei o guarda-chuva no restaurante ontem.
+tu / o livro / na / biblioteca na / passada / semana / deixaste -> tu deixaste o livro na biblioteca na semana passada.
 
 ## Writing Prompts
 

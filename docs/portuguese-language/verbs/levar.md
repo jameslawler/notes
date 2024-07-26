@@ -42,11 +42,11 @@ Eles (levaram) o carro para o mecânico.
 
 Order the words in a sentence
 
-susto / levou / um / ela / o barulho / com -> Ela levou um susto com o barulho.
-computador / para / todos / a escola / eu / levo / os dias / o meu -> Eu levo o meu computador para a escola todos os dias.
-para / os estudantes / o aeroporto / as malas / levaram -> Os estudantes levaram as malas para o aeroporto.
-leva / a Maria / ao correio / a carta -> A Maria leva a carta ao correio.
-o gato / veterinário / o Pedro / ao / levou -> O Pedro levou o gato ao veterinário.
+susto / levou / um / ela / o barulho / com -> ela levou um susto com o barulho.
+computador / para / todos / a escola / eu / levo / os dias / o meu -> eu levo o meu computador para a escola todos os dias.
+para / os estudantes / o aeroporto / as malas / levaram -> os estudantes levaram as malas para o aeroporto.
+leva / a Maria / ao correio / a carta -> a Maria leva a carta ao correio.
+o gato / veterinário / o Pedro / ao / levou -> o Pedro levou o gato ao veterinário.
 
 ## Writing Prompts
 

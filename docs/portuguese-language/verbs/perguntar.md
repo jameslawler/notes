@@ -32,12 +32,12 @@ Quando é que a professora nos (perguntou) isso?
 
 Order the words in a sentence
 
-tipo / casa / a imobiliária / de / que / perguntou-nos / queremos -> A imobiliária perguntou-nos que tipo de casa queremos.
-na / professor / escola / perguntamos / vezes / ao / muitas -> Na escola perguntamos muitas vezes ao professor.
-entender / continue / até / a perguntar -> Continue a perguntar até entender.
-pergunta / eu / uma / tenho / difícil / muito -> Eu tenho uma pergunta muito difícil.
-com / o exame / fáceis / começa / as perguntas -> O exame começa com as perguntas fáceis.
-pessoais / com / a entrevista / vamos / algumas / começar / perguntas -> Vamos começar a entrevista com algumas perguntas pessoais.
+tipo / casa / a imobiliária / de / que / perguntou-nos / queremos -> a imobiliária perguntou-nos que tipo de casa queremos.
+na / professor / escola / perguntamos / vezes / ao / muitas -> na escola perguntamos muitas vezes ao professor.
+entender / continue / até / a perguntar -> continue a perguntar até entender.
+pergunta / eu / uma / tenho / difícil / muito -> eu tenho uma pergunta muito difícil.
+com / o exame / fáceis / começa / as perguntas -> o exame começa com as perguntas fáceis.
+pessoais / com / a entrevista / vamos / algumas / começar / perguntas -> vamos começar a entrevista com algumas perguntas pessoais.
 
 ## Writing Prompts
 

@@ -33,11 +33,11 @@ Ele (morreu) inesperadamente.
 
 Order the words in a sentence
 
-morreram / as / seca / durante / da quinta / colheitas / uma -> As colheitas da quinta morreram durante uma seca.
-ontem / o cão / à noite / velhice / morreu / de -> O cão morreu de velhice ontem à noite.
-a flor / choveu / morreu / quando / muito -> A flor morreu quando choveu muito.
-enterrados / os mortos / um / são / onde / cemitério / é -> Um cemitério é onde os mortos são enterrados.
-o meu / chão / morreu / telefone / caiu / quando / ao -> O meu telefone morreu quando caiu ao chão.
+morreram / as / seca / durante / da quinta / colheitas / uma -> as colheitas da quinta morreram durante uma seca.
+ontem / o cão / à noite / velhice / morreu / de -> o cão morreu de velhice ontem à noite.
+a flor / choveu / morreu / quando / muito -> a flor morreu quando choveu muito.
+enterrados / os mortos / um / são / onde / cemitério / é -> um cemitério é onde os mortos são enterrados.
+o meu / chão / morreu / telefone / caiu / quando / ao -> o meu telefone morreu quando caiu ao chão.
 
 ## Writing Prompts
 

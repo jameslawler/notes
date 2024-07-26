@@ -41,11 +41,11 @@ O Pedro (fecha) a janela.
 
 Order the words in a sentence
 
-fechamos / ao / final / do / a loja / dia / nós -> Nós fechamos a loja ao final do dia.
-a porta / tu / fechaste / com / força / saíste / quando -> Tu fechaste a porta com força quando saíste.
-atividade / ele / a empresa / depois / fechou / de / anos / de -> Ele fechou a empresa depois de anos de atividade.
-fecharei / a porta / de / sair / antes / eu -> Eu fecharei a porta antes de sair.
-tu / a janela / à noite / evitar / o frio / para / fecharás -> Tu fecharás a janela à noite para evitar o frio.
+fechamos / ao / final / do / a loja / dia / nós -> nós fechamos a loja ao final do dia.
+a porta / tu / fechaste / com / força / saíste / quando -> tu fechaste a porta com força quando saíste.
+atividade / ele / a empresa / depois / fechou / de / anos / de -> ele fechou a empresa depois de anos de atividade.
+fecharei / a porta / de / sair / antes / eu -> eu fecharei a porta antes de sair.
+tu / a janela / à noite / evitar / o frio / para / fecharás -> tu fecharás a janela à noite para evitar o frio.
 
 ## Writing Prompts
 

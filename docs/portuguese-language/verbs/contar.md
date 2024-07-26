@@ -45,11 +45,11 @@ Nós (contámos) os dias até as férias começarem.
 
 Order the words in a sentence:
 
-conta / até / ao / do / trabalho / fim / os minutos / ele -> Ele conta os minutos até ao fim do trabalho.
-nós / as estrelas / contamos / noite / no céu / à -> Nós contamos as estrelas no céu à noite.
-a verdade / tu / contaste / que / sobre / o / aconteceu / na / festa -> Tu contaste a verdade sobre o que aconteceu na festa.
-contarei / aos meus / amigos / que / souber / eu / assim / as novidades -> Eu contarei as novidades aos meus amigos assim que souber.
-nós / as estrelas / no céu / o acampamento / durante / contaremos -> Nós contaremos as estrelas no céu durante o acampamento.
+conta / até / ao / do / trabalho / fim / os minutos / ele -> ele conta os minutos até ao fim do trabalho.
+nós / as estrelas / contamos / noite / no céu / à -> nós contamos as estrelas no céu à noite.
+a verdade / tu / contaste / que / sobre / o / aconteceu / na / festa -> tu contaste a verdade sobre o que aconteceu na festa.
+contarei / aos meus / amigos / que / souber / eu / assim / as novidades -> eu contarei as novidades aos meus amigos assim que souber.
+nós / as estrelas / no céu / o acampamento / durante / contaremos -> nós contaremos as estrelas no céu durante o acampamento.
 
 ## Writing Prompts
 

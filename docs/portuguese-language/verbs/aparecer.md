@@ -32,12 +32,12 @@ Amanhã o Pedro e a Maria (aparecerão) na cerimonia de premiação.
 
 Order the words in a sentence:
 
-apareço / no / escritório / 9 horas / às / eu -> Eu apareço às 9 horas no escritório.
-tu / nas / apareces / reuniões / pontualmente
-ele / no / filme / figurante / como / apareceu
-aparecemos / na / durante / televisão / a entrevista / nós
-no / evento / ele / aparecerá / desportivo / como / convidado / especial
-programa / nós / apareceremos / no / de / televisão
+apareço / no / escritório / 9 horas / às / eu -> eu apareço às 9 horas no escritório.
+tu / nas / apareces / reuniões / pontualmente -> tu apareces pontualmente nas reuniões.
+ele / no / filme / figurante / como / apareceu -> ele apareceu no filme como figurante.
+aparecemos / na / durante / televisão / a entrevista / nós -> nós aparecemos na televisão durante a entrevista.
+no / evento / ele / aparecerá / desportivo / como / convidado / especial -> ele aparecerá no evento desportivo como convidado especial.
+programa / nós / apareceremos / no / de / televisão -> nós apareceremos no programa de televisão.
 
 ## Writing Prompts
 

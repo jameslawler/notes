@@ -32,12 +32,12 @@ Vocês (escreveram) um poema juntos.
 
 Order the words in a sentence
 
-escrevemos / nós / um artigo / a revista / para -> Nós escrevemos um artigo para a revista.
-um roteiro / para / o filme / vocês / escrevem -> Vocês escrevem um roteiro para o filme.
-viagens / ele / escreverá / um blog / sobre -> Ele escreverá um blog sobre viagens.
-escrevi/ um livro/ no / passado / ano / eu -> No ano passado, eu escrevi um livro.
-os avós / uma carta / tu / escreveste / para -> Tu escreveste uma carta para os avós.
-uma peça / vocês / escreverão / de / teatro -> Vocês escreverão uma peça de teatro.
+escrevemos / nós / um artigo / a revista / para -> nós escrevemos um artigo para a revista.
+um roteiro / para / o filme / vocês / escrevem -> vocês escrevem um roteiro para o filme.
+viagens / ele / escreverá / um blog / sobre -> ele escreverá um blog sobre viagens.
+escrevi/ um livro/ no / passado / ano / eu -> no ano passado, eu escrevi um livro.
+os avós / uma carta / tu / escreveste / para -> tu escreveste uma carta para os avós.
+uma peça / vocês / escreverão / de / teatro -> vocês escreverão uma peça de teatro.
 
 ## Writing Prompts
 

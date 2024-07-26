@@ -37,11 +37,11 @@ Depois de chegar a casa, ele e ela (colocam) os sapatos no armário.
 
 Order the words in a sentence
 
-cabide / ele / coloca / o casaco / no / ao / entrar -> Ele coloca o casaco no cabide ao entrar.
-nós / colocamos / as fotos / parede / da / sala / na -> Nós colocamos as fotos na parede da sala.
-coloquei / na gaveta / as chaves / eu -> Eu coloquei as chaves na gaveta.
-o livro / tu / colocaste / na / estante -> Tu colocaste o lvro na estante.
-antes / ele / colocará / no / porta-bagagem / de / viajar / as malas -> Ele colocará as malas no porta-bagagem antes de viajar.
+cabide / ele / coloca / o casaco / no / ao / entrar -> ele coloca o casaco no cabide ao entrar.
+nós / colocamos / as fotos / parede / da / sala / na -> nós colocamos as fotos na parede da sala.
+coloquei / na gaveta / as chaves / eu -> eu coloquei as chaves na gaveta.
+o livro / tu / colocaste / na / estante -> tu colocaste o lvro na estante.
+antes / ele / colocará / no / porta-bagagem / de / viajar / as malas -> ele colocará as malas no porta-bagagem antes de viajar.
 
 ## Writing Prompts
 

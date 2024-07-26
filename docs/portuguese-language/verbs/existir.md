@@ -36,12 +36,12 @@ Eles (existem) para contribuir para um mundo melhor.
 
 Order the words in a sentence
 
-para / ele / existe / ajudar / sempre / os outros / que / pode -> Ele existe para ajudar os outros sempre que pode.
-antes / avanço / existimos / tecnológico / deste / nós -> Nós existimos antes deste avanço tecnológico.
-exististe / na história / nossa / da / família / tu -> Tu exististe na história da nossa família.
-alcançar / tu / existirás / para / os teus / sonhos -> Tu existirás para alcançar os teus sonhos.
-do futuro / ele / existirá / para / os desafios / enfrentar -> Ele existirá para enfrentar os desafios do futuro.
-para / nós / existiremos / fazer / positiva / no / uma diferença / mundo -> Nós existiremos para fazer uma diferença positiva no mundo.
+para / ele / existe / ajudar / sempre / os outros / que / pode -> ele existe para ajudar os outros sempre que pode.
+antes / avanço / existimos / tecnológico / deste / nós -> nós existimos antes deste avanço tecnológico.
+exististe / na história / nossa / da / família / tu -> tu exististe na história da nossa família.
+alcançar / tu / existirás / para / os teus / sonhos -> tu existirás para alcançar os teus sonhos.
+do futuro / ele / existirá / para / os desafios / enfrentar -> ele existirá para enfrentar os desafios do futuro.
+para / nós / existiremos / fazer / positiva / no / uma diferença / mundo -> nós existiremos para fazer uma diferença positiva no mundo.
 
 ## Writing Prompts
 

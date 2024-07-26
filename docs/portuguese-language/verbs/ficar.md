@@ -46,11 +46,11 @@ Tu (ficarás) feliz com o presente que te irei dar.
 
 Order the sentences
 
-notícias / recebemos / nós / quando / felizes / boas / ficamos -> Nós ficamos felizes quando recebemos boas notícias.
-preocupados / do / atraso / ontem / voo / o / com / nós / ficámos -> Ontem nós ficámos preocupados com o atraso do voo.
-trabalho / cansados / eles / longo / ficam / de / dia / de / um / depois -> Eles ficam cansados depois de um longo dia de trabalho.
-fugiu / tristes / eles / o cão / ficaram / deles / quando -> Eles ficaram tristes quando o cão deles fugiu.
-espera / eu / à / tua / ficarei / no / amanhã / aeroporto -> Eu ficarei à tua espera no aeroporto amanhã.
+notícias / recebemos / nós / quando / felizes / boas / ficamos -> nós ficamos felizes quando recebemos boas notícias.
+preocupados / do / atraso / ontem / voo / o / com / nós / ficámos -> ontem nós ficámos preocupados com o atraso do voo.
+trabalho / cansados / eles / longo / ficam / de / dia / de / um / depois -> eles ficam cansados depois de um longo dia de trabalho.
+fugiu / tristes / eles / o cão / ficaram / deles / quando -> eles ficaram tristes quando o cão deles fugiu.
+espera / eu / à / tua / ficarei / no / amanhã / aeroporto -> eu ficarei à tua espera no aeroporto amanhã.
 
 ## Writing Prompts
 

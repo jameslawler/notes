@@ -45,11 +45,11 @@ Em breve ele (entrará) no escritório às oito horas.
 
 Order the words in a sentence:
 
-elas / no carro / e / partiram para / entraram / a viagem -> Elas entraram no carro e partiram para a viagem.
-entramos / para / ver / um filme / nós / no cinema -> Nós entramos no cinema para ver um filme.
-entrarás / na universidade / tu / ano / no próximo -> Tu entrarás na universidade no próximo ano.
-no concurso / ele / entrará / ganhar / o prémio / para -> Ele entrará no concurso para ganhar o prémio.
-eu / entrei / para / almoçar / ontem / no restaurante -> Eu entrei no restaurante para almoçar ontem.
+elas / no carro / e / partiram para / entraram / a viagem -> elas entraram no carro e partiram para a viagem.
+entramos / para / ver / um filme / nós / no cinema -> nós entramos no cinema para ver um filme.
+entrarás / na universidade / tu / ano / no próximo -> tu entrarás na universidade no próximo ano.
+no concurso / ele / entrará / ganhar / o prémio / para -> ele entrará no concurso para ganhar o prémio.
+eu / entrei / para / almoçar / ontem / no restaurante -> eu entrei no restaurante para almoçar ontem.
 
 ## Writing Prompts
 

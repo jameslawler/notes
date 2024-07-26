@@ -35,6 +35,10 @@ Quando souber toda a verdade, o Hugo (entenderá) a situação.
 A Alexandra (entende) o que está a acontecer.
 Nós (entendemos) a necessidade de mudança.
 
+Fill in the missing words
+
+Ao estudar uma nova (língua) é importante ter um bom entendimento do (vocabulário) e da gramática. Ao (entender) esses tópicos você será (capaz) de entender conversas simples e ler (textos) simples.
+
 Connect the sentences
 
 Eu entenderei melhor depois de -> estudar mais.
@@ -43,10 +47,6 @@ Eu entendi a piada -> que ele contou.
 Eu entendo as instruções -> do professor.
 Tu entendes as regras -> do jogo.
 Nós entenderemos as consequências -> das decisões.
-
-Fill in the missing words
-
-Ao estudar uma nova (língua) é importante ter um bom entendimento do (vocabulário) e da gramática. Ao (entender) esses tópicos você será (capaz) de entender conversas simples e ler (textos) simples.
 
 ## Writing Prompts
 

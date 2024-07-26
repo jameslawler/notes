@@ -46,11 +46,11 @@ Tu (tomas) um banho antes de sair.
 
 Order the words in a sentence
 
-ir / ele / toma / antes / de / trabalho / o / banho/ para -> Ele toma banho antes de ir para o trabalho.
-tomamos / água / ao / do dia / longo / nós
-na / semana / ele / tomou / uma / importante / passada / decisão
-nós / tomámos / ao / jantar / ao / refrigerante / um
-tu / um / café / depois / expresso / do / almoço / tomarás
+ir / ele / toma / antes / de / trabalho / o / banho/ para -> ele toma banho antes de ir para o trabalho.
+tomamos / água / ao / do dia / longo / nós -> nós tomamos água ao longo do dia.
+na / semana / ele / tomou / uma / importante / passada / decisão -> ele tomou uma importante decisão na semana passada.
+nós / tomámos / jantar / ao / refrigerante / um -> nós tomámos um refrigerante ao jantar.
+tu / um / café / depois / expresso / do / almoço / tomarás -> tu tomarás um café expresso depois do almoço.
 
 ## Writing Prompts
 

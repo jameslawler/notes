@@ -30,6 +30,10 @@ Tu (mantiveste) a serenidade diante de uma situação difícil.
 Vocês (mantêm) o compromisso de praticar desporto regularmente.
 Nós (manteremos) a confiança mesmo diante dos desafios.
 
+Fill in the missing words
+
+Manter um estilo de (vida) saudável requer um equilíbrio entre (alimentação) adequada, exercício físico regular e cuidado com a saúde mental. É importante cultivar (hábitos) que promovam o bem-estar físico e (emocional), como dormir o suficiente, praticar (atividades) relaxantes e procurar ajuda quando necessário.
+
 Connect the sentences
 
 Ele manteve o controle -> da situação.
@@ -40,10 +44,6 @@ Tu manterás a determinação -> até alcançar os teus objetivos.
 Ele manterá a promessa -> de fazer o jantar.
 Eu mantive a esperança -> de ganhar a competição.
 Tu manténs a calma -> em situações stressantes.
-
-Fill in the missing words
-
-Manter um estilo de (vida) saudável requer um equilíbrio entre (alimentação) adequada, exercício físico regular e cuidado com a saúde mental. É importante cultivar (hábitos) que promovam o bem-estar físico e (emocional), como dormir o suficiente, praticar (atividades) relaxantes e procurar ajuda quando necessário.
 
 ## Writing Prompts
 

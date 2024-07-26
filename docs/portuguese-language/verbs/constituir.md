@@ -42,9 +42,9 @@ Eu e a Vanessa (constituímos) uma comissão para investigar o problema.
 
 Order the words in a sentence
 
-para / tu / constituíste / nova / equipa / o projeto / uma -> Tu constituíste uma equipa nova para o projeto.
+para / tu / constituíste / nova / equipa / o projeto / uma -> tu constituíste uma equipa nova para o projeto.
 constituo / eu / do / parte / conselho / de / administração -> eu constituo parte do conselho de administração.
-a essência / ele / constitui / da / equipa / com / a sua / liderança -> Ele constitui a essência da equipa com a sua liderança.
+a essência / ele / constitui / da / equipa / com / a sua / liderança -> ele constitui a essência da equipa com a sua liderança.
 da / nós / constituímos / motriz por trás / mudança / a força -> nós constituímos a força motriz por trás da mudança.
 empresa / eu / constituirei / uma / de / no / futuro / tecnologia -> eu constituirei uma empresa de tecnologia no futuro.
 

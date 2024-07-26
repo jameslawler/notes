@@ -37,11 +37,11 @@ Tu (correrás) todos os dias para te preparares para a competição.
 
 Order the words in a sentence
 
-eu / numa / corri / maratona / no / ano / passado -> Eu corri numa maratona no ano passado.
-correste / tu / pela / durante / as férias / praia -> Tu correste pela praia durante as férias.
-aos / ele / corre / no / parque / domingos -> Ele corre no parque aos domingos.
-um / ele / correrá / quilómetro / menos / quatro / minutos / em / de -> Ele correrá um quilómetro em menos de quarto minutos.
-correremos / na / juntos / trilha / amanhã / nós -> Amanhã nós correremos na trilha juntos.
+eu / numa / corri / maratona / no / ano / passado -> eu corri numa maratona no ano passado.
+correste / tu / pela / durante / as férias / praia -> tu correste pela praia durante as férias.
+aos / ele / corre / no / parque / domingos -> ele corre no parque aos domingos.
+um / ele / correrá / quilómetro / menos / quatro / minutos / em / de -> ele correrá um quilómetro em menos de quarto minutos.
+correremos / na / juntos / trilha / amanhã / nós -> amanhã nós correremos na trilha juntos.
 
 ## Writing Prompts
 

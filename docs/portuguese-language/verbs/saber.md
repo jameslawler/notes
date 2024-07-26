@@ -46,11 +46,11 @@ Nós (sabemos) onde fica a livraria.
 
 Order the words in a sentence
 
-anos / desde / os / ela / seis / violão / sabe / tocar -> Ela sabe tocar violão desde os seis anos.
-antiga / história / sobre / eles / muito / sabem -> Eles sabem muito sobre história antiga.
-pratos / deliciosos / ele / cozinhar / sabe -> Ele sabe cozinhar pratos deliciosos.
-cidade / estão / eles / turísticos / onde / da / os / melhores / sabem / pontos -> Eles sabem onde estão os melhores pontos turísticos da cidade.
-líder / eu / seria / que / sempre / um / soube / grande / ele -> Eu sempre soube que ele seria um grande líder.
+anos / desde / os / ela / seis / violão / sabe / tocar -> ela sabe tocar violão desde os seis anos.
+antiga / história / sobre / eles / muito / sabem -> eles sabem muito sobre história antiga.
+pratos / deliciosos / ele / cozinhar / sabe -> ele sabe cozinhar pratos deliciosos.
+cidade / estão / eles / turísticos / onde / da / os / melhores / sabem / pontos -> eles sabem onde estão os melhores pontos turísticos da cidade.
+líder / eu / seria / que / sempre / um / soube / grande / ele -> eu sempre soube que ele seria um grande líder.
 
 ## Writing Prompts
 

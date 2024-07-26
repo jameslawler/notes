@@ -46,11 +46,11 @@ Eu (vim) de férias à praia no verão passado.
 
 Order the words in a sentence
 
-biblioteca / eu / para / estudar / venho / sempre / à -> Eu venho sempre à biblioteca para estudar.
-na / o concerto / semana / vem / a / próxima / Lisboa -> O concerto vem a Lisboa na próxima semana.
-chuva / o sol / da / veio / depois / intensa -> O sol veio depois da chuva intensa.
-casamento / minha / amiga / vim / à / festa / de / eu / da -> Eu vim à festa de casamento da minha amiga.
-eu / melhorar / venho / o projeto / uma / ideia / para / com -> Eu venho com uma ideia para melhorar o projeto.
+biblioteca / eu / para / estudar / venho / sempre / à -> eu venho sempre à biblioteca para estudar.
+na / o concerto / semana / vem / a / próxima / Lisboa -> o concerto vem a Lisboa na próxima semana.
+chuva / o sol / da / veio / depois / intensa -> o sol veio depois da chuva intensa.
+casamento / minha / amiga / vim / à / festa / de / eu / da -> eu vim à festa de casamento da minha amiga.
+eu / melhorar / venho / o projeto / uma / ideia / para / com -> eu venho com uma ideia para melhorar o projeto.
 
 ## Writing Prompts
 

@@ -34,10 +34,14 @@ Use correct verb conjugation
 
 Eu (apresento) o relatório aos meus colegas.
 Tu (apresentas) o convidado ao público.
-A Joana (apresenta) os resultados da pesquisa. <-- fix!!!
+A Joana (apresenta) os resultados da pesquisa.
 Eu e o Armando (apresentamos) as nossas ideias.
 Durante a entrevista, o Francisco e o Assis (apresentam) as suas capacidades.
 Eu (apresentei) o meu trabalho na conferência.
+
+Fill in the missing words
+
+O professor apresentou um novo (método) de ensino aos seus alunos. Ele (apresentou) os conceitos de forma clara e concisa, tornando o conteúdo acessível a (todos). Os alunos (apresentaram) os seus projetos finais com (entusiasmo) durante a apresentação na sala de aula.
 
 Connect the sentences
 
@@ -48,10 +52,6 @@ Eu apresentarei a minha dissertação no -> próximo mês.
 Tu apresentarás o novo produto ao -> mercado.
 Ele apresentará a sua pesquisa no -> laboratório.
 Nós apresentaremos nossa proposta ao -> cliente.
-
-Fill in the missing words
-
-O professor apresentou um novo (método) de ensino aos seus alunos. Ele (apresentou) os conceitos de forma clara e concisa, tornando o conteúdo acessível a (todos). Os alunos (apresentaram) os seus projetos finais com (entusiasmo) durante a apresentação na sala de aula.
 
 ## Writing Prompts
 

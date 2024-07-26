@@ -46,11 +46,11 @@ Eles (dão) comida aos animais abandonados no abrigo.
 
 Order the words in a sentence
 
-encantador / deu / ela / sorriso / um / viu / o presente / quando -> Ela deu um sorriso encantador quando viu o presente.
-de / toda / ele / para / a equipe / dá / liderança / o exemplo -> Ele dá o exemplo de liderança para toda a equipe.
-vida / à / a música / festa / dá -> A música dá vida à festa.
-pode / vidas / dar / mudar / oportunidade / uma / alguém / a -> Dar uma oportunidade a alguém pode mudar vidas.
-abraço / eles / de / um / conforto / como / dão / forma -> Eles dão um abraço como forma de conforto.
+encantador / deu / ela / sorriso / um / viu / o presente / quando -> ela deu um sorriso encantador quando viu o presente.
+de / toda / ele / para / a equipe / dá / liderança / o exemplo -> ele dá o exemplo de liderança para toda a equipe.
+vida / à / a música / festa / dá -> a música dá vida à festa.
+pode / vidas / dar / mudar / oportunidade / uma / alguém / a -> dar uma oportunidade a alguém pode mudar vidas.
+abraço / eles / de / um / conforto / como / dão / forma -> eles dão um abraço como forma de conforto.
 
 ## Writing Prompts
 

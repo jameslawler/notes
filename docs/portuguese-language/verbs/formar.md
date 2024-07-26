@@ -35,6 +35,10 @@ O Bruno (formará) uma equipa de trabalho.
 Nós (formamos) as letras com o lápis.
 Tu (formas) um plano para o projeto.
 
+Fill in the missing words
+
+Formar uma equipa coesa é (essencial) para alcançar os objetivos organizacionais. Durante o (processo) de formação da equipa, é (importante) estabelecer metas claras e promover uma (cultura) de colaboração e respeito mútuo.
+
 Connect the sentences
 
 Ele forma uma equipa -> para o evento.
@@ -43,10 +47,6 @@ Ele formou uma associação -> para ajudar os necessitados.
 Nós formámos um comité -> para organizar o evento.
 Eu formarei uma escultura -> de argila.
 Nós formaremos uma aliança -> estratégica.
-
-Fill in the missing words
-
-Formar uma equipa coesa é (essencial) para alcançar os objetivos organizacionais. Durante o (processo) de formação da equipa, é (importante) estabelecer metas claras e promover uma (cultura) de colaboração e respeito mútuo.
 
 ## Writing Prompts
 

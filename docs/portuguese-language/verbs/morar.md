@@ -34,6 +34,10 @@ Tu (moras) num apartamento no quinto andar.
 A Isabel (mora) com os pais na cidade.
 Eu e a minha esposa (moramos) numa vila tranquila.
 
+Fill in the missing words
+
+Gostaria de (morar) em Portugal para aprender a (língua) portuguesa. Atualmente (moro) na Inglaterra com minha família. (Moramos) em muitos países da Europa e gostamos de (viver) em diferentes (culturas).
+
 Connect the words
 
 Eu morei numa cidade diferente -> quando era criança.
@@ -42,10 +46,6 @@ Ele morou numa casa antiga -> antes de se mudar.
 Nós morámos no estrangeiro -> por alguns anos.
 Eu morarei numa casa maior-> no futuro.
 Tu morarás numa cidade com muitas empresas -> por motivos de trabalho.
-
-Fill in the missing words
-
-Gostaria de (morar) em Portugal para aprender a (língua) portuguesa. Atualmente (moro) na Inglaterra com minha família. (Moramos) em muitos países da Europa e gostamos de (viver) em diferentes (culturas).
 
 ## Writing Prompts
 

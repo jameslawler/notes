@@ -41,11 +41,11 @@ O Filipe (encontra) sempre tempo para os amigos.
 
 Order the words in a sentence
 
-encontrei / o / meu / livro / perdido / na / biblioteca / eu -> Eu encontrei o meu livro perdido na biblioteca.
-passado / tu / encontraste / um / emprego / no / mês / novo -> Tu encontraste um emprego novo no mês passado.
-abandonado / elas / encontraram / um gato / na / rua -> Elas encontraram um gato abandonado na rua.
-a paz / ele / encontrará / interior / através / meditação / da -> Ele encontrará a paz interior através da meditação.
-lugar / nós / encontraremos / um / novo / para / morar -> Nós encontraremos um novo lugar para morar.
+encontrei / o / meu / livro / perdido / na / biblioteca / eu -> eu encontrei o meu livro perdido na biblioteca.
+passado / tu / encontraste / um / emprego / no / mês / novo -> tu encontraste um emprego novo no mês passado.
+abandonado / elas / encontraram / um gato / na / rua -> elas encontraram um gato abandonado na rua.
+a paz / ele / encontrará / interior / através / meditação / da -> ele encontrará a paz interior através da meditação.
+lugar / nós / encontraremos / um / novo / para / morar -> nós encontraremos um novo lugar para morar.
 
 ## Writing Prompts
 

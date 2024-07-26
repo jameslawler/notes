@@ -41,11 +41,11 @@ Eles (realizam) atividades de voluntariado regularmente.
 
 Order the words in a sentence
 
-excelente / apresentação / ela / na / trabalho / hoje / realizou / um / de -> Ela realizou um excelente trabalho na apresentação de hoje.
-sábado / uma / eles / realizarão / aniversário / festa / de / próximo / no -> Eles realizarão uma festa de aniversário no próximo sábado.
-dedicação / eu / as minhas / diárias / realizo / empenho / tarefas / com / e -> Eu realizo as minhas tarefas diárias com dedicação e empenho.
-ela / dedicação / com / realiza / seus / os / muita / estudos -> Ela realiza os seus estudos com muita dedicação.
-trabalho / incrível / vocês / como / um / realizam / equipa -> Vocês realizam um trabalho incrível como equipa.
+excelente / apresentação / ela / na / trabalho / hoje / realizou / um / de -> ela realizou um excelente trabalho na apresentação de hoje.
+sábado / uma / eles / realizarão / aniversário / festa / de / próximo / no -> eles realizarão uma festa de aniversário no próximo sábado.
+dedicação / eu / as minhas / diárias / realizo / empenho / tarefas / com / e -> eu realizo as minhas tarefas diárias com dedicação e empenho.
+ela / dedicação / com / realiza / seus / os / muita / estudos -> ela realiza os seus estudos com muita dedicação.
+trabalho / incrível / vocês / como / um / realizam / equipa -> vocês realizam um trabalho incrível como equipa.
 
 ## Writing Prompts
 

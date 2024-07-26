@@ -39,6 +39,10 @@ No ano passado, (houveram) diversas manifestações na cidade.
 (Há) muitas pessoas na praia neste momento.
 (Há) uma festa no jardim esta noite.
 
+Fill in the missing verb
+
+Há 2 anos que moro em (Portugal). Há muitas pessoas na cidade onde moro. Durante os (meses) de verão (há) sempre um festival diferente a acontecer. É muito (divertido) morar aqui.
+
 Connect the sentences
 
 Haverá uma reunião importante-> amanhã de manhã.
@@ -47,10 +51,6 @@ Há um bom filme em exibição-> no cinema.
 Há livros interessantes-> na biblioteca.
 Há música suave a tocar -> no café.
 Haverá um grande concerto -> no estádio.
-
-Fill in the missing verb
-
-Há 2 anos que moro em (Portugal). Há muitas pessoas na cidade onde moro. Durante os (meses) de verão (há) sempre um festival diferente a acontecer. É muito (divertido) morar aqui.
 
 ## Writing Prompts
 

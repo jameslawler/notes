@@ -32,12 +32,12 @@ Eles (tentarão) melhorar as suas habilidades todos os dias.
 
 Order the words in a sentence
 
-situações / tu / calma / tentas / difíceis / a / em / manter -> Tu tentas manter a calma em situações difíceis.
-consertar / onten / o computador / tu / tentaste -> Onten tu tentaste consertar o computador.
-amigo / o / meu / me / tentou / exame / ajudar / no -> O meu amigo tentou me ajudar no exame.
-aquele / ensinar / às / professor / crianças / tenta / ideias / novas -> Aquele professor tenta ensinar novas ideias às crianças.
-a Espanha / tentamos / voar / para -> Tentamos voar para a Espanha.
-compreender / o aluno / difícil / o texto / tenta -> O aluno tenta compreender o texto difícil.
+situações / tu / calma / tentas / difíceis / a / em / manter -> tu tentas manter a calma em situações difíceis.
+consertar / ontem / o computador / tu / tentaste -> ontem tu tentaste consertar o computador.
+amigo / o / meu / me / tentou / exame / ajudar / no -> o meu amigo tentou me ajudar no exame.
+aquele / ensinar / às / professor / crianças / tenta / ideias / novas -> aquele professor tenta ensinar novas ideias às crianças.
+a Espanha / tentamos / voar / para -> tentamos voar para a Espanha.
+compreender / o aluno / difícil / o texto / tenta -> o aluno tenta compreender o texto difícil.
 
 ## Writing Prompts
 

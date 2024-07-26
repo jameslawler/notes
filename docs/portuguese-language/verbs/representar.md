@@ -42,11 +42,11 @@ O seu preço (representa) o seu valor.
 
 Order the words in a sentence
 
-competição / eu / país / representei / internacional / o meu / numa / competição -> Eu representei o meu país numa competição internacional.
-negociações / ele / comerciais / representa / nas / a empresa -> Ele representa a empresa nas negociações comerciais.
-concurso / escola / representarás / a nossa / debates / no / tu / de -> Tu representarás a nossa escola no concurso de debates.
-comunidade / eventos / a nossa / nós / nos / culturais / representamos -> Nós representamos a nossa comunidade nos eventos culturais.
-a / essa / flor / liberdade / representa -> Essa flor representa a liberdade.
+competição / eu / país / representei / internacional / o meu / numa / competição -> eu representei o meu país numa competição internacional.
+negociações / ele / comerciais / representa / nas / a empresa -> ele representa a empresa nas negociações comerciais.
+concurso / escola / representarás / a nossa / debates / no / tu / de -> tu representarás a nossa escola no concurso de debates.
+comunidade / eventos / a nossa / nós / nos / culturais / representamos -> nós representamos a nossa comunidade nos eventos culturais.
+a / essa / flor / liberdade / representa -> essa flor representa a liberdade.
 
 ## Writing Prompts
 

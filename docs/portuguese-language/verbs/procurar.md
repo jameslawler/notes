@@ -41,6 +41,10 @@ Na semana passada, tu (procuraste) os documentos no escritório.
 Eu (procuro) as chaves pela casa.
 Tu (procuras) o teu telemóvel na mochila.
 
+Fill in the missing word
+
+Há muito (tempo) procuramos um apartamento novo para alugar. (Procuramos) muito, mas tudo era muito (caro). Finalmente, depois de muita procura, encontramos um belo (apartamento) perto da cidade por um preço (razoável).
+
 Connect the sentences
 
 Ele procura um novo -> emprego há meses.
@@ -49,10 +53,6 @@ Ele procurou a carteira -> por toda a casa.
 Nós procurámos o restaurante -> naquela rua.
 Eu procurarei o presente -> perfeito para ela.
 Tu procurarás a verdade -> sobre o assunto.
-
-Fill in the missing word
-
-Há muito (tempo) procuramos um apartamento novo para alugar. (Procuramos) muito, mas tudo era muito (caro). Finalmente, depois de muita procura, encontramos um belo (apartamento) perto da cidade por um preço (razoável).
 
 ## Writing Prompts
 

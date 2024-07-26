@@ -41,11 +41,11 @@ A Maria (diz) que está cansada depois do trabalho.
 
 Order the words in a sentence
 
-preparada / tinha / ela / nós / para / surpresa / disse / que / uma -> Ela disse que tinha uma surpresa preparada para nós.
-forma / expressar / uma / gratidão / dizer / "obrigado" / de / simples / é -> Dizer "obrigado" é uma forma simples de expressar gratidão.
-universal / linguagem / eles / uma / a música / é / dizem / que -> Eles dizem que a música é uma linguagem universal.
-queria / a Maria / a / tocar / guitarra / aprender / disse / que -> A Maria disse que queria aprender a tocar guitarra.
-à / vem / eles / tona / que / a / verdade / dizem / sempre -> Eles dizem que a verdade sempre vem à tona.
+preparada / tinha / ela / nós / para / surpresa / disse / que / uma -> ela disse que tinha uma surpresa preparada para nós.
+forma / expressar / uma / gratidão / dizer / "obrigado" / de / simples / é -> dizer "obrigado" é uma forma simples de expressar gratidão.
+universal / linguagem / eles / uma / a música / é / dizem / que -> eles dizem que a música é uma linguagem universal.
+queria / a Maria / a / tocar / guitarra / aprender / disse / que -> a Maria disse que queria aprender a tocar guitarra.
+à / vem / eles / tona / que / a / verdade / dizem / sempre -> eles dizem que a verdade sempre vem à tona.
 
 ## Writing Prompts
 

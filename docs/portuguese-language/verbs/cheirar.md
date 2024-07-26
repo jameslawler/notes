@@ -37,11 +37,11 @@ A nossa casa (cheira) a mofo.
 Order the words in a sentence:
 
 ele / o café / acabado / fazer / de / cheira -> ele cheira o café acabado de fazer.
-eu / as rosas / no jardim / cheirarei / amanhã -> Eu cheirarei as rosas no jardim amanhã.
-durante / ele / cheirou / o ar / da montanha / as férias / fresco -> Ele cheirou o ar fresco da montanha durante as férias
-cheirarás / que / farei / o teu / aniversário / para / o bolo / tu -> Tu cheirarás o bolo que farei para o teu aniversário
-cheiraremos / a comida / estará / a cozinhar / no restaurante / nós / que -> Nós cheiraremos a comida que estará a cozinhar no restaurante
-recebeu / ontem / o Pedro / bem / perfume / cheira / um / muito / que -> Ontem o Pedro recebeu um perfume que cheira muito bem.
+eu / as rosas / no jardim / cheirarei / amanhã -> eu cheirarei as rosas no jardim amanhã.
+durante / ele / cheirou / o ar / da montanha / as férias / fresco -> ele cheirou o ar fresco da montanha durante as férias
+cheirarás / que / farei / o teu / aniversário / para / o bolo / tu -> tu cheirarás o bolo que farei para o teu aniversário
+cheiraremos / a comida / estará / a cozinhar / no restaurante / nós / que -> nós cheiraremos a comida que estará a cozinhar no restaurante
+recebeu / ontem / o Pedro / bem / perfume / cheira / um / muito / que -> ontem o Pedro recebeu um perfume que cheira muito bem.
 
 ## Writing Prompts
 

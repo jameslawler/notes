@@ -46,11 +46,11 @@ Eles (puderam) concluir o projeto com sucesso.
 
 Order the words in a sentence
 
-te / o / pode / ajudar / amigo / meu -> O meu amigo pode te ajudar.
-português / falar / a minha / e / pode / mãe / inglês -> A minha mãe pode falar inglês e português.
-prédio / entrar / eles / não / no / podem -> Eles não podem entrar no prédio.
-cedo / o autocarro / chegar / pode -> O autocarro pode chegar cedo.
-o teste / novamente / fazer / que / você / pode / ter -> Você pode ter que fazer o teste novamente.
+te / o / pode / ajudar / amigo / meu -> o meu amigo pode te ajudar.
+português / falar / a minha / e / pode / mãe / inglês -> a minha mãe pode falar inglês e português.
+prédio / entrar / eles / não / no / podem -> eles não podem entrar no prédio.
+cedo / o autocarro / chegar / pode -> o autocarro pode chegar cedo.
+o teste / novamente / fazer / que / você / pode / ter -> você pode ter que fazer o teste novamente.
 
 ## Writing Prompts
 

@@ -46,11 +46,11 @@ Tu (vives) perto do centro da cidade.
 
 Order the words in a sentence
 
-vive / os pais / com / ele -> Ele vive com os pais.
-crescer / nós / viveremos / casa / maior / quando / a família / numa -> Nós viveremos numa casa maior quando a família crescer.
-vivi / eu / noutra / era / criança / cidade / quando -> Eu vivi noutra cidade quando era criança.
-comprar / nós / num / apartamento / antes de / a casa / vivemos -> Nós vivemos num apartamento antes de comprar a casa.
-viverei / casa / numa / na praia / quando / me reformar / eu -> Eu viverei numa casa na praia quando me reformar.
+vive / os pais / com / ele -> ele vive com os pais.
+crescer / nós / viveremos / casa / maior / quando / a família / numa -> nós viveremos numa casa maior quando a família crescer.
+vivi / eu / noutra / era / criança / cidade / quando -> eu vivi noutra cidade quando era criança.
+comprar / nós / num / apartamento / antes de / a casa / vivemos -> nós vivemos num apartamento antes de comprar a casa.
+viverei / casa / numa / na praia / quando / me reformar / eu -> eu viverei numa casa na praia quando me reformar.
 
 ## Writing Prompts
 

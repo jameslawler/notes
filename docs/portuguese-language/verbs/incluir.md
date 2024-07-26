@@ -30,6 +30,10 @@ Eu e o Rafael (incluímos) todas as opções no relatório.
 A Melissa (incluiu) um bónus no salário do funcionário.
 Nós (incluímos) uma cláusula adicional, no contrato.
 
+Fill in the missing words
+
+O futebol é um desporto popular na (Europa) e cada equipa inclui 11 (jogadores). Essas equipas (incluem) um guarda-redes, atacantes e defesas. A Europa tem muitos (equipas) e ligas de futebol.
+
 Connect the sentences
 
 Eu incluo todos os ingredientes -> na receita.
@@ -38,10 +42,6 @@ Eu incluí uma sobremesa extra -> no jantar de ontem.
 Tu incluíste um comentário especial -> no presente.
 Ele incluirá uma nova secção -> no documento.
 Nós incluiremos uma opção -> de entrega expressa.
-
-Fill in the missing words
-
-O futebol é um desporto popular na (Europa) e cada equipa inclui 11 (jogadores). Essas equipas (incluem) um guarda-redes, atacantes e defesas. A Europa tem muitos (equipas) e ligas de futebol.
 
 ## Writing Prompts
 

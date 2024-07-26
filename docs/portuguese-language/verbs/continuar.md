@@ -35,6 +35,10 @@ A Bendita (continuará) a buscar novas oportunidades de trabalho
 Nós (continuamos) a explorar novas ideias para o projeto.
 O Marcelo e o Paulo (continuam) a estudar para o exame final.
 
+Fill in the missing word
+
+Durante a (semana) decidimos continuar com nossos planos de (viagem). Precisávamos de interromper nossos planos de viagem por causa de uma (emergência) familiar, mas agora podemos continuar com eles novamente. (Continuamos) a fazer os preparativos (necessários), como reservas de voos e alojamento.
+
 Connect the sentences
 
 Eu continuei a ler -> o livro.
@@ -43,10 +47,6 @@ Eu continuarei a praticar -> desporto regularmente.
 Tu continuaste a fazer -> exercício físico.
 Nós continuámos a assistir -> ao filme.
 Elas continuaram a estudar -> mesmo durante as férias.
-
-Fill in the missing word
-
-Durante a (semana) decidimos continuar com nossos planos de (viagem). Precisávamos de interromper nossos planos de viagem por causa de uma (emergência) familiar, mas agora podemos continuar com eles novamente. (Continuamos) a fazer os preparativos (necessários), como reservas de voos e alojamento.
 
 ## Writing Prompts
 

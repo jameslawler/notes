@@ -35,6 +35,10 @@ O governo (permite) trotinentes nas estradas.
 Os meus amigos não me (permitem) jogar.
 Quem te (permitiu)?
 
+Fill in the missing words
+
+Na minha (escola) existe uma área na entrada onde é (permitido) guardar bicicletas. Esta área é para os alunos guardarem as suas bicicletas com (segurança) enquanto estão nas aulas. No verão há alguma (construção) nesta área e os alunos não estão autorizados a guardar as suas (bicicletas) lá.
+
 Connect the sentences
 
 Posso fumar aqui? -> não é permitido nos restaurantes.
@@ -43,10 +47,6 @@ Você tem mais de 18 anos? -> somente adultos são permitidos.
 Posso falar consigo, por favor? -> agora não, mas depois pode.
 Quando você vai nadar? -> de manhã.
 Você está a tentar parar de fumar? -> estou a tentar há 1 ano.
-
-Fill in the missing words
-
-Na minha (escola) existe uma área na entrada onde é (permitido) guardar bicicletas. Esta área é para os alunos guardarem as suas bicicletas com (segurança) enquanto estão nas aulas. No verão há alguma (construção) nesta área e os alunos não estão autorizados a guardar as suas (bicicletas) lá.
 
 ## Writing Prompts
 
