@@ -81,6 +81,28 @@ Objects are the only mutable values in JavaScript. Objects are a collection of p
 
 Objects can be used as a hash map to store and look up values with O(1) speed. As long as the key is calculatable, you can access the value instantly.
 
+Object can be created three ways;
+
+1. Just create it manually
+
+```js
+const myObject = { name: "James" };
+```
+
+2. Using a constructor function
+
+```js
+function Person(name) {
+  this.name = name;
+}
+
+const myObject = new Person("James");
+```
+
+3. Using the Object.create() function
+
+This allows you to pass a prototype that you want to use for the new instances.
+
 ## Dates
 
 Use the Date object to store date and time values.
@@ -110,65 +132,17 @@ const two = myArray[2];
 console.log(two); // outputs 'two'
 ```
 
-## Keyed collections
-
-### Maps
-
-There is a Map type which represents key value stored data.
-
-```js
-const map1 = new Map();
-
-map1.set("a", 1);
-map1.set("b", 2);
-map1.set("c", 3);
-
-console.log(map1.get("a"));
-```
-
-Historically Objects were used as a Map, but there are some differences;
-
-- Map has no keys by default whereas Object has prototype keys which could collide.
-- Map keys are safe for using user provided keys, whereas Object is vulnerable to prototype override injections
-- Map keys can be any primative value whereas Object keys can only be String or Symbol types.
-- Map keys are ordered by the insertion order whereas Object keys are not guaranteed to have the same order.
-- Size of the map can be retrieved from the Size property whereas Object size needs to first get the Object.keys() and then call length.
-- Maps are iteratable whereas Objects are not as you must use for..of or Object.entries() to be able to iterate.
-- Maps are more performant as they are optimized key value stores.
-- Maps are not serializable by default whereas Objects can be by using JSON.stringify().
-
-### Sets
-
-Sets are collections of data that keep unique values. You can not have the same value in a set more than once.
-
-Sets are;
-
-- Iteratable
-- Ordered by insertion order
-- Lookup complexity is always less than O(N)
-- Set .has method is more performant than Array.includes
-
-Sets can be composed together to find unions, differences, intersections etc.
-
-- A.difference(B) will return values that are in A but not B.
-- A.intersection(B) will return values that are in A and B.
-- A.symmetricDifference(B) will return values that are not in A and B.
-- A.union(B) will return a new Set with unique values in A and B.
-- A.isDisjointFrom(B) will return a Boolean true or false if any of the values in A intersect with values from B. True mean no values intersect, false means some intersect.
-- A.isSubsetOf(B) will return true if all values of A exists in B.
-- A.isSupersetOf(B) will return true if all values of B exist in A.
-
-These functions can also be used with Set like types (eg Map)
-
-## Structured data - JSON
-
-JSON is a data format in JavaScript which is object and array based. Think of it as an alternative to XML.
-
-Used for data storage and data transfer.
-
 ## Type coercison
 
 Rules for converting one type to another;
 
 - with `+`, if one is a String then both are converted to Strings and added together otherwise numeric addition is performed.
 - with `==`, if one is a primative type while the other is an object, then the object is coverted to a primative before doing equality comparison.
+
+## Typeof operator
+
+The `typeof` operator returns a string representation indicating the type of the parameter.
+
+```js
+console.log(typeof 42); // outputs "number"
+```
