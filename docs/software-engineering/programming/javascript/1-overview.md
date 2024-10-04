@@ -2,6 +2,8 @@
 
 JavaScript is a lightweight interpreted programming language. The most common usage of JavaScript is wihin web browsers to provide client side scripting for static HTML web pages.
 
+These notes follow the structure from the [JavaScript roadmap](https://roadmap.sh/javascript)
+
 The language has the following features
 
 - just in time compiled
