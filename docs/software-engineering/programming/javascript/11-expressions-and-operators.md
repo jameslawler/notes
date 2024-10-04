@@ -67,14 +67,14 @@ There are more for bitwise operations and other edge case usages
 
 Returns a Boolean based on the comparison of the operands.
 
-- ==
-- !=
-- === (strict)
-- !== (strict)
-- >
-- > =
-- <
-- <=
+- {'=='}
+- {'!='}
+- {'==='} (strict)
+- {'!=='} (strict)
+- {'>'}
+- {'>='}
+- {'<'}
+- {'<='}
 
 ## Arithmetic operators
 
@@ -95,9 +95,9 @@ Used for manipulating binary values
 - a | b
 - a ^ b
 - ~ a
-- a << b
-- a >> b
-- a >>> b
+- a {'<<'} b
+- a {'>>'} b
+- a {'>>>'} b
 
 ## Logical operators
 
