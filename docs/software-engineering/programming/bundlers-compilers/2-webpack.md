@@ -174,7 +174,7 @@ import "./style.css";
 
 The loader is only used when Webpack adds the file to its dependency graph. So just having a css file in the project is not enough, it needs to be imported somewhere in the project, like with the line above.
 
-These css loaders will take the css from the files and inject them into the <style> tag of the html page.
+These css loaders will take the css from the files and inject them into the <style></style> tag of the html page.
 
 ### SASS / LESS
 
