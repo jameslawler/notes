@@ -4,7 +4,7 @@
 
 Rollup.js aims to bundle to ES6 modules whereas Webpack aims to bundle to CommonJS.
 
-Features
+Features:
 
 - tree-shaking to remove unused code.
 - code-splitting

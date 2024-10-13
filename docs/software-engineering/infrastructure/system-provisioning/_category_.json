@@ -1,0 +1,8 @@
+{
+  "label": "System Provisioning",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Infrastructure management with system provisioning"
+  }
+}
