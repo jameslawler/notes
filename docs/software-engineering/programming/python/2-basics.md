@@ -1,5 +1,7 @@
 # Basics
 
+In Python, everything is an object, including functions.
+
 ## Variable declarations
 
 Assignment is done using the `=` operator.
