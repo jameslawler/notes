@@ -46,7 +46,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "My Notes",
+        title: "James Lawler's Notes",
         items: [
           {
             href: "https://github.com/jameslawler/notes",
