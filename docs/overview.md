@@ -16,3 +16,5 @@ A collection of my notes on various topics.
 These notes are based on my experiences and not intended as advice or recommendations.
 
 :::
+
+Back to [jameslawler.com](https://www.jameslawler.com)

@@ -49,6 +49,12 @@ const config = {
         title: "James Lawler's Notes",
         items: [
           {
+            href: "https://www.jameslawler.com",
+            label: "jameslawler.com",
+            target: "_self",
+            position: "right",
+          },
+          {
             href: "https://github.com/jameslawler/notes",
             label: "GitHub",
             position: "right",
